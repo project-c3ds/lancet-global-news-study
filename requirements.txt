@@ -1,0 +1,6 @@
+pandas
+ollama
+openai
+eventregistry
+boto3
+python-dotenv
