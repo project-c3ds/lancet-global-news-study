@@ -1,0 +1,17 @@
+language,category,threshold,window,score,passes_threshold,climate_sim,health_sim,best_keyword,climate_best_keyword,health_best_keyword,source,title,url,total_scanned,total_in_window
+Swedish,climate,0.6000,0.0400,0.5996,no,0.5996,0.5590,climate crisis,climate crisis,casualties,aftonbladet_se,Greenpeace,https://www.aftonbladet.se/tagg/greenpeace,9402,3132
+Swedish,climate,0.6000,0.0400,0.5996,no,0.5996,0.6281,heatwave,heatwave,casualties,aftonbladet_se,Daniel Cormier,https://www.aftonbladet.se/tagg/daniel-cormier,9402,3132
+Swedish,climate,0.6000,0.0400,0.5996,no,0.5996,0.6025,heatwave,heatwave,hunger,aftonbladet_se,The Hives,https://www.aftonbladet.se/tagg/the-hives,9402,3132
+Swedish,climate,0.6000,0.0400,0.5997,no,0.5997,0.5980,heatwave,heatwave,casualties,aftonbladet_se,Weezer,https://www.aftonbladet.se/tagg/weezer,9402,3132
+Swedish,climate,0.6000,0.0400,0.5997,no,0.5997,0.6111,heatwave,heatwave,casualties,aftonbladet_se,Shaun Weiss,https://www.aftonbladet.se/tagg/shaun-weiss,9402,3132
+Swedish,climate,0.6000,0.0400,0.5998,no,0.5998,0.6264,heatwave,heatwave,west nile virus,aftonbladet_se,Matteo Salvini,https://www.aftonbladet.se/tagg/matteo-salvini,9402,3132
+Swedish,climate,0.6000,0.0400,0.5999,no,0.5999,0.6257,heatwave,heatwave,casualties,aftonbladet_se,Resa | Kenya,https://www.aftonbladet.se/tagg/resa-kenya,9402,3132
+Swedish,climate,0.6000,0.0400,0.5999,no,0.5999,0.6201,heatwave,heatwave,casualties,aftonbladet_se,Resa | Tunisien,https://www.aftonbladet.se/tagg/resa-tunisien,9402,3132
+Swedish,climate,0.6000,0.0400,0.6002,YES,0.6002,0.5914,heatwave,heatwave,hunger,aftonbladet_se,Alanya,https://www.aftonbladet.se/tagg/alanya,9402,3132
+Swedish,climate,0.6000,0.0400,0.6002,YES,0.6002,0.6071,heatwave,heatwave,casualties,aftonbladet_se,Mike Waltz,https://www.aftonbladet.se/tagg/mike-waltz,9402,3132
+Swedish,climate,0.6000,0.0400,0.6004,YES,0.6004,0.6244,heatwave,heatwave,diseases,aftonbladet_se,Reumatism,https://www.aftonbladet.se/tagg/reumatism,9402,3132
+Swedish,climate,0.6000,0.0400,0.6004,YES,0.6004,0.6075,heatwave,heatwave,casualties,aftonbladet_se,Backhoppning,https://www.aftonbladet.se/tagg/backhoppning,9402,3132
+Swedish,climate,0.6000,0.0400,0.6007,YES,0.6007,0.6155,heatwave,heatwave,hunger,aftonbladet_se,Nick Cave,https://www.aftonbladet.se/tagg/nick-cave,9402,3132
+Swedish,climate,0.6000,0.0400,0.6007,YES,0.6007,0.6094,heatwave,heatwave,casualties,aftonbladet_se,Franco Colapinto,https://www.aftonbladet.se/tagg/franco-colapinto,9402,3132
+Swedish,climate,0.6000,0.0400,0.6008,YES,0.6008,0.5912,heatwave,heatwave,hunger,aftonbladet_se,Heated rivalry (tv-serie),https://www.aftonbladet.se/tagg/heated-rivalry-tv-serie,9402,3132
+Swedish,climate,0.6000,0.0400,0.6008,YES,0.6008,0.6185,heatwave,heatwave,deaths,aftonbladet_se,Felix Rosenqvist,https://www.aftonbladet.se/tagg/felix-rosenqvist,9402,3132

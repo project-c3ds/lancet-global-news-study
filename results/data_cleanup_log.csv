@@ -1,0 +1,11 @@
+date,action,articles_affected,details
+2026-03-28,Remove broken sources (no NewsAPI replacement),608,"lesoftonline.net (17), 5plus.mu (10), trib.com (581) — broken scrapers with no alternative"
+2026-03-28,Replace scrapai with newsapi (11 sources),20532,"ilsole24ore.com, dailyinqilab.com, alwafd.news, indianexpress.com, arabnews.com, newvision.co.ug, jawapos.com, lesoir.be, slobodnadalmacija.hr, laprensa.hn, pluska.sk — scrapai deleted, newsapi already in DB"
+2026-03-28,Ingest newsapi_bad_low_sources (64 files),318303,"First batch of newsapi replacements ingested into SQLite with country mapping, ltn.com.tw subdomains merged"
+2026-03-28,Ingest extra_sites from S3,405792,"11 new scrapai sources: dailynews.co.tz, dailysun.co.za, dsnews.ua, elpais.hn, elperuano.pe, liberte-algerie.com, monitor.co.ug, mzamin.com, nieuwsblad.be, sggp.org.vn, vneconomy.vn — filtered pre-2020 (3931) and no-date (3425)"
+2026-03-28,Fix chinadaily.com.cn dates from URLs,22581,"Extracted dates from URL patterns (/YYYYMM/DD/). Deleted 1308 pre-2020 and 178 unresolvable no-date articles"
+2026-03-28,Replace scrapai with newsapi (50 sources),1566486 scrapai deleted / 214997 newsapi inserted,"Sources with >50% missing dates or quality issues replaced with NewsAPI data. See results/date_extraction_test.csv for per-source details"
+2026-03-28,Global cleanup: pre-2020 articles,1048585,"Removed all articles with published_date before 2020-01-01. Articles with NULL dates kept (cannot verify)"
+2026-03-28,Global cleanup: duplicate content,248550,"Removed exact duplicate content within same source_uri + collection_method. Kept lowest id per group"
+2026-03-28,Global cleanup: short content,45859,"Removed articles with content < 200 characters or NULL content. Threshold chosen after sampling — sub-200 chars are login pages, boilerplate, navigation text"
+2026-03-28,Global cleanup: index pages,35,"Removed articles where title matches source_uri (e.g. title='DailyGuide Network' for source dailyguidenetwork.com)"

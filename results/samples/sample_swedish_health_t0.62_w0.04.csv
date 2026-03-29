@@ -1,0 +1,17 @@
+language,category,threshold,window,score,passes_threshold,climate_sim,health_sim,best_keyword,climate_best_keyword,health_best_keyword,source,title,url,total_scanned,total_in_window
+Swedish,health,0.6200,0.0400,0.6191,no,0.6045,0.6191,undernourishment,heatwave,undernourishment,aftonbladet_se,Discovery,https://www.aftonbladet.se/tagg/discovery,9402,2812
+Swedish,health,0.6200,0.0400,0.6192,no,0.6236,0.6192,undernourishment,heatwave,undernourishment,aftonbladet_se,Daniel Svensson,https://www.aftonbladet.se/tagg/daniel-svensson,9402,2812
+Swedish,health,0.6200,0.0400,0.6195,no,0.6016,0.6195,casualties,heatwave,casualties,aftonbladet_se,Berga,https://www.aftonbladet.se/tagg/berga,9402,2812
+Swedish,health,0.6200,0.0400,0.6199,no,0.5713,0.6199,casualties,heatwave,casualties,aftonbladet_se,Quebec,https://www.aftonbladet.se/tagg/quebec,9402,2812
+Swedish,health,0.6200,0.0400,0.6199,no,0.5948,0.6199,casualties,heatwave,casualties,aftonbladet_se,Kinna,https://www.aftonbladet.se/tagg/kinna,9402,2812
+Swedish,health,0.6200,0.0400,0.6199,no,0.6249,0.6199,casualties,heatwave,casualties,aftonbladet_se,Arbetsplatsolyckor,https://www.aftonbladet.se/tagg/arbetsplatsolyckor,9402,2812
+Swedish,health,0.6200,0.0400,0.6199,no,0.5921,0.6199,casualties,heatwave,casualties,aftonbladet_se,Resa | Trinidad och Tobago,https://www.aftonbladet.se/tagg/resa-trinidad-och-tobago,9402,2812
+Swedish,health,0.6200,0.0400,0.6200,no,0.5947,0.6200,deaths,heatwave,deaths,aftonbladet_se,Frida Wallberg,https://www.aftonbladet.se/tagg/frida-wallberg,9402,2812
+Swedish,health,0.6200,0.0400,0.6201,YES,0.5999,0.6201,casualties,heatwave,casualties,aftonbladet_se,Resa | Tunisien,https://www.aftonbladet.se/tagg/resa-tunisien,9402,2812
+Swedish,health,0.6200,0.0400,0.6201,YES,0.6089,0.6201,deaths,heatwave,deaths,aftonbladet_se,Martin Marmgren,https://www.aftonbladet.se/tagg/martin-marmgren,9402,2812
+Swedish,health,0.6200,0.0400,0.6202,YES,0.5872,0.6202,hunger,heatwave,hunger,aftonbladet_se,Middag med Dante Zia,https://www.aftonbladet.se/tagg/middag-med-dante-zia,9402,2812
+Swedish,health,0.6200,0.0400,0.6202,YES,0.5914,0.6202,casualties,heatwave,casualties,aftonbladet_se,Jenny Berggren,https://www.aftonbladet.se/tagg/jenny-berggren,9402,2812
+Swedish,health,0.6200,0.0400,0.6202,YES,0.6244,0.6202,casualties,heatwave,casualties,aftonbladet_se,Kristina Lugn,https://www.aftonbladet.se/tagg/kristina-lugn,9402,2812
+Swedish,health,0.6200,0.0400,0.6203,YES,0.5966,0.6203,casualties,heatwave,casualties,aftonbladet_se,Maryland,https://www.aftonbladet.se/tagg/maryland,9402,2812
+Swedish,health,0.6200,0.0400,0.6203,YES,0.6197,0.6203,hunger,heatwave,hunger,aftonbladet_se,Vilgot (serie),https://www.aftonbladet.se/tagg/vilgot-serie,9402,2812
+Swedish,health,0.6200,0.0400,0.6203,YES,0.5598,0.6203,casualties,extreme event,casualties,aftonbladet_se,"JO, Justitieombudsmannen",https://www.aftonbladet.se/tagg/jo-justitieombudsmannen,9402,2812

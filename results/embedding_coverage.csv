@@ -1,0 +1,5 @@
+source_uri,collection_method,sqlite_count,embedded_count,missing_count,coverage_pct,status
+blick.ch,scrapai,338374,311747,26627,92.1,partial
+independent.ie,scrapai,28947,22793,6154,78.7,partial
+dnevnik.bg,scrapai,42,9,33,21.4,partial
+fijitimes.com.fj,scrapai,4061,4049,12,99.7,partial

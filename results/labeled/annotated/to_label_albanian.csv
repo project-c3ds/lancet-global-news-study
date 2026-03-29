@@ -1,0 +1,1595 @@
+language,country,source,collection_method,article_id,url,title,content,climate_max_sim,health_max_sim,climate_best_keyword,health_best_keyword,sample_bucket,climate,health,health_climate_impact,climate_justification,health_justification,impact_justification
+Albanian,Israel,panorama.com.al,newsapi,1241,https://www.panorama.com.al/lufta-ne-lindjen-e-mesme-sekretari-amerikan-i-energjise-kriza-e-cmimeve-ne-tregje-do-te-zgjase-vetem-disa-jave/,"Lufta në Lindjen e Mesme, Sekretari Amerikan i Energjisë: Kriza e çmimeve në tregje do të zgjasë vetëm disa javë!","Presidenti i SHBA-ve, Donald Trump, duket i shqetësuar për ndikimin që rritja e çmimeve të energjisë mund të ketë tek konsumatorët amerikanë, sipas Sekretarit të Energjisë të vendit, Chris Wright.
+
+Duke folur për rrjetin 'Fox News', ai vlerësoi se trazirat në tregjet e energjisë (hidrokarburet) do të jenë të kufizuara në kohë, duke theksuar se priten ""vetëm disa javë"" paqëndrueshmërie.
+
+Sekretari iu referua gjithashtu një postimi të bërë në llogarinë e tij në mediat sociale, i cili deklaroi - gabimisht - se Marina Amerikane shoqëroi një tanker që kaloi nëpër Ngushticën e Hormuzit.
+
+Ai vetë mori përgjegjësinë për incidentin, duke shpjeguar se postimi ishte rezultat i një ""keqkuptimi"".
+
+Në një intervistë me emisionin ""America's Newsroom"", Wright u zotua se në të ardhmen do të shqyrtonte personalisht postimet e publikuara në llogaritë e tij në mënyrë që të shmangte gabime të ngjashme.
+
+Ndërhyrja e ministrit vjen në një kohë nervozizmi në rritje në tregjet e energjisë, pasi zhvillimet në Lindjen e Mesme ndikojnë në lëvizjen e naftës përmes rrugëve kritike detare.",0.5372,0.5391,climate crisis,west nile virus,high_climate,no,no,no,"Energy prices from Middle East conflict, not climate",,
+Albanian,Serbia,koha.net,newsapi,1241,https://www.koha.net/arberi/temperatura-pranverore-edhe-gjate-javes-se-ardhshme-ne-kosove,Temperatura pranverore edhe gjatë javës së ardhshme në Kosovë - KOHA.net,"Java e ardhshme parashihet të vazhdojë me mot të mirë, intervale të gjata me diell dhe me riga të pakta shiu gjatë së hënës dhe të premtes.
+
+Sipas Institutit Hidrometeorologjik të Kosovës, temperaturat minimale gjatë javës pritet të lëvizin ndërmjet -1 dhe 3 gradë celsius, ndërsa maksimalet e ditës do të sillen nga 13 deri në 17 gradë celsius.
+
+Të hënën, moti parashihet të jetë i vranët dhe me intervale me diell. Vranësirat vende-vende mund të sjellin riga të dobëta shiu.
+
+Temperaturat minimale do të lëvizin ndërmjet 0 dhe 2 gradë celsius, ndërsa minimalet nga 13 deri në 15 gradë celsius.
+
+Të martën do të ketë mot kryesisht me diell. Temperaturat minimale pritet të mbajnë nga -1 deri në 2 gradë celsius, ndërsa maksimalet 13-17.
+
+Edhe të mërkurën do të mbajë mot i njëjtë si i një dite më parë, teksa temperaturat maksimale do të rriten vetëm për 15-18 gradë celsius.
+
+Të enjten do të ketë mot të vranët dhe me intervale me diel. Temperaturat më të ulëta do të sillen rreth 0-3 gradë celsius, kurse maksimalet nga 15 deri në 17 gradë.
+
+Kurse të premten moti do të mbajë me intervale me diell dhe vranësira, e vende-vende parashihet të ketë riga shiu. Temperaturat më të ulëta do të sillen rreth 0-2 gradë celsius, ndërsa më të lartat nga 13 deri në 15 gradë celsius.",0.5716,0.5158,temperature rises,extreme poverty,high_climate,no,no,no,Routine weekly weather forecast for Kosovo,,
+Albanian,Serbia,koha.net,newsapi,1967,https://www.koha.net/bote/pica-ushqimi-qe-po-paralajmeron-sulmet-amerikane,"Pica, ushqimi që po paralajmëron sulmet amerikane - KOHA.net","Pica po del sërish të jetë ushqimi i cili paralajmëron i pari për sulmet ushtarake që mund t'i kryejnë Shtetet e Bashkuara të Amerikës.
+
+Në kohën e sulmeve të kryera në Iran, krahas Izraelit, përcjellësit e shitjeve treguan se rreth Pentagonit pati rritje të madhe të shitjes së picave.
+
+Zinxhiri i ""Domino's"" shënoi rritje të shitjes për 326 për qind, ""Pizzato"" për 208 për qind, e ""Extreme Pizza"" për 127 për qind, mbi nivelin normal.
+
+Kjo ndodh kur zyrtarët ushtarakë amerikanë qëndrojnë në ambientet e Pentagonit më gjatë në përgatitje të planeve ose përcjellje të tyre.
+
+Sinjali kishte ndodhur edhe në kohën e aktiviteteve të tjera të forcave amerikane. Ngjashëm kishte ndodhur edhe kur SHBA-ja kreu aksionin në Venezuelë për kapjen e Nicolas Maduros në janar.",0.5196,0.5738,rising temperatures,west nile virus,high_climate,no,no,no,Pizza sales spike near Pentagon during military operations,,
+Albanian,Israel,panorama.com.al,newsapi,422,https://www.panorama.com.al/kaosi-me-karburantet-kreu-i-konfindustrise-rama-po-ben-show-politik-shqiperia-e-carmatosur-perballe-krizes-ja-s-ana-rrezikon-nafta/,"Kaosi me karburantet, kreu i Konfindustrisë: Rama po bën show politik, Shqipëria e çarmatosur përballë krizës! Ja s ana rrezikon nafta","Shqipëria është e çarmatosur përballë krizës së karburanteve, kurse qeveria bën shou me situatën duke mos i dalë përballë me qasjen e saj dhe zgjidhjet.
+
+Kështu u shpreh sot në një lidhje me ""News 24"" kreu i ""Konfindustrisë"", Gjergj Buxhuku, ku analizoi konfliktin në Lindjen e mesme dhe pasojat që i sjell Shqipërisë kriza e karburanteve.
+
+Ai e cilësoi absurde edhe deklaratën e fundit të kryeministrit Edi Rama që u tha bizneseve që të mos fitonin, por pa ofruar një zgjidhje në rast të rritjes së çmimit të karburanteve në arenën ndërkombëtare.
+
+Buxhuku theksoi se fitimi është thelbësor në funksionimin e tregut dhe se nuk mund t'u kërkohet bizneseve të heqin dorë nga ai. Sipas tij, qeveria duhet të ndërhyjë si rregullatorë e tregut për të gjitha palët e prekura.
+
+""Një qeveri duhet të ndërhyjë përmes politikave dhe mekanizmave rregullatorë për të shmangur fitimet e tepërta në kohë krize, dhe jo përmes thirrjeve publike ndaj operatorëve privatë. Nuk mund të kërkohet nga bizneset që të mos fitojnë, kjo bie ndesh me vetë parimet e ekonomisë së tregut.
+
+Buxhuku ngriti gjithashtu shqetësimin se Shqipëria është e papërgatitur për përballimin e krizave të tilla, duke shtuar se vendi duhej të kishte nxjerrë mësime nga pasojat ekonomike të lufta Rusi-Ukrainë dhe duhet të ishin marrë masa prej kohësh. Ai shtoi se të ardhurat shtesë të krijuara nga kriza duhet t'u kthehen qytetarëve, veçanërisht shtresave më të prekura si pensionistët, duke e konsideruar këtë si një detyrim ekonomik dhe moral të qeverisë.
+
+""Shqipëria është e çarmatosur në përballjen e pasojave të një krize të rëndë që po ndodh në botë. Shqipëria nuk duhet të ishte krejtësisht e çarmatosur, por situata është kjo që është. Edhe ekonomikisht është e pranueshme që të lehtësohet pesha e krizës së karburanteve, por dhe e moralshme që ato para që janë grumbulluar si pasojë e krizës, t'i kthehet qytetarëve. Kryeministri bëri shou politik. Deklarata e Ramës ishte pranim në formën e tij të kërkesës tonë. Dhe ai e ka të qartë që këto janë para të krijuara nga kriza dhe ai thotë; do t'i shpërndaj për pensionistët. Ai tha që pranonte në mënyrën e tij se ka të ardhura shtesë që duhen shpërndarë për atë pjesë që është më e goditur, pensionistët"", u shpreh Buxhuku.
+
+Dhe më tej komentoi mbi problematikën e situatës dhe se si duhet zgjidhur ajo. Ai kritikoi qasjen e qeverisë që i thotë bizneseve ""mos fitoni"".
+
+""Por kush është problemi? Problemi është; shtylla e parë; tallje e madhe për një vendimmarrje politike të përgjegjshme. Ulesh me tregtarët e karburanteve dhe t'u lutesh atyre që mos të fitojnë, ndërkohë që thelbi i ekonomisë së tregut është fitimi. Kryeministri me një mënyrë, që është tallje e madhe për inteligjencës, t'u kërkojë atyre që ata të heqin dorë nga ajo që çdo qenie që punon në ekonominë e tregut do të bënte; fitimin maksimal. Nuk mundet që qeveria e një vendi që t'u lutet bizneseve që; mos fitoni ju. Logjika për një qeveri normale është që nuk do të lejonte bizneset që mos të krijonin fitime të...",0.5219,0.4975,climate crisis,undernourishment,high_climate,no,no,no,Albanian fuel price crisis from Middle East conflict,,
+Albanian,Israel,panorama.com.al,newsapi,66,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2478/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport""","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+""Qeveri teknike dhe zgjedhje pa Ramën kryeministër"", përplasje me policinë gjatë protestës së opozitës, sulmi ndaj Berishës
+
+TAKIMI ME KINEZET/ ""Po ndryshojmë imazhin e Kinës në Perëndim"", Rama: Progresi i Pekinit, i jashtëzakonshëm
+
+Protesta e PD, ironizon Salianji: Lidershipi premtoi rrëzimin e Ramës, por pamë xhiro në bulevard
+
+Lista me trashëgimtarët që marrin këstin e parë
+
+Ndahet nga jeta ish-prokurori Mueller. Trump: Jam i lumtur që vdiq
+
+Nga Prenk Jakova te Tish Daia, gjurmët në muzikë
+
+Lexoi poezi në gjyq, si e sfidoi diktaturën Kudret Kokoshi, dosja
+
+OPINIONE
+
+""Flash""-i me provat e Ballukut, si dosja ""Epstein""/ VALENTINA MADANI
+
+Bektashinjtë, sa janë me origjinë familjare/ EDUARD ZALOSHNJA
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni:
+
+Sfida e së vërtetës. Silvinjo: E kemi një manual për Poloninë
+
+Tirana ""fluturon"" me Xhixhën, Trashi fundos Flamurtarin
+
+Vllaznia rikthehet në krye, Dinamo jep sinjale
+
+Martini: Donim fitoren, habitem nga ""nëndetësja""
+
+Daja: Jemi brenda objektivave, luftojmë në të dy frontet
+
+Teuta-Partizani, katër gola dhe vetëm nga 1 pikë
+
+Stopohet Laçi, buzëqeshin Skënderbeu dhe Pogradeci
+
+Interit i mbaron ""bateria"", rihapet loja për titullin
+
+Milani tripletë Torinos, Juvja gabon me Sasuolon
+
+Spektakël në derbi, Reali është ""mbret"" në Madrid
+
+Man. Siti i merr kupën Arsenalit, ja situata në Premier",0.5236,0.5652,extreme event,west nile virus,high_climate,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,788,https://www.panorama.com.al/greqia-goditet-nga-nje-tjeter-termet-panik-te-banoret-sa-ishte-forca-e-lekundjeve-epiqendra-dhe-raportimet-e-para/,"Greqia goditet nga një tjetër tërmet, panik te banorët! Sa ishte forca e lëkundjeve, epiqendra dhe raportimet e para!","Greqia është goditur sot (16 mars) nga një tjetër tërmet, duke shkaktuar panik dhe frikë te banorët.
+
+Lëkundjet e cilësuara prej ekspertëve si mesatarisht të forta, ndodhën në zonën e Chanias.
+
+Tërmeti kishte forcën 3.8 ballë të shkallës Rihter dhe me shtrirje në zonën e Kretës.
+
+Sipas Institutit Gjeodinamik të Athinës, tërmeti u regjistrua 16 km në jug-juglindje të Sougias, në një thellësi fokale prej 5 km.
+
+Prej 8 marsit, Greqia është goditur nga një valë e pandërprerë lëkundjesh sizmike në të gjithë territorin e saj, ku më i forti ishte ai i Janinës (po 8 mars), 5,3 ballë dhe që shkaktoi dëme të konsiderueshme dhe gjendje të jashtëzakonshme.
+
+Të fundit u regjistruan të shtunën, me forcë 4,8 ballë, po në zonën e Kretës, por nuk u raportuan dëme dhe të lënduar.",0.5329,0.5613,extreme event,west nile virus,high_climate,no,no,no,"Earthquake in Greece - seismic event, not climate",,
+Albanian,Israel,panorama.com.al,newsapi,787,https://www.panorama.com.al/nderprerje-masive-te-energjise-elektrike-ne-kube-mbi-10-milione-njerez-pa-energji-elektrike-prej-muajsh-pa-nafte-per-shkak-te-sanksioneve-nga-shba/,"Ndërprerje masive të energjisë elektrike në Kubë, mbi 10 milionë njerëz pa energji elektrike! Prej muajsh pa naftë për shkak të sanksioneve nga SHBA","Zyrtarët në Kubë raportuan sot (16 mars) se kishte një ndërprerje të përgjithshme të energjisë elektrike në të gjithë vendin, i cili ka rreth 11 milionë banorë.
+
+Ministria e Energjisë dhe Minierave i tha X se kishte pasur një ""shkëputje të plotë"" të rrjetit elektrik të vendit dhe tha se po kryente një hetim.
+
+Incidenti, i cili nuk është i pari, por duket të jetë një nga më të këqijtë, vjen ndërsa krizat e energjisë dhe ekonomike përkeqësohen.
+
+Associated Press kujton se Presidenti Kuban Miguel Diaz-Canel paralajmëroi të premten se ishulli nuk kishte marrë naftë për më shumë se tre muaj dhe po operonte me energji diellore, gaz natyror dhe termocentrale.
+
+Një ndërprerje masive e energjisë elektrike një javë më parë goditi anën perëndimore të ishullit, duke lënë miliona njerëz pa energji elektrike.
+
+Kuba ia ka fajësuar për problemet e saj embargon energjetike të SHBA-së, me Presidentin Donald Trump që paralajmëroi në janar për tarifa ndaj çdo vendi që shet ose furnizon naftë ishullit.",0.5392,0.5628,climate crises,undernourishment,high_climate,no,no,no,"Cuba power outage from oil embargo, not climate",,
+Albanian,Serbia,koha.net,newsapi,1253,https://www.koha.net/arberi/per-tre-vjet-pothuajse-asnje-megavat-nuk-iu-shtua-sistemit-nga-energjia-e-riperteritshme,"Për tre vjet, pothuajse asnjë megavat nuk iu shtua sistemit nga energjia e ripërtëritshme - KOHA.net","""Brenda tre vjetësh do të arrihet kapacitet deri në 500 megavatë i energjisë së ripërtëritshme, duke i shtuar kapacitetet e energjisë diellore"". Pothuajse asnjë megavat nuk i është shtuar sistemit energjetik që kur ministrja Artane Rizvanolli e ka dhënë këtë deklaratë më 7 qershor 2022.
+
+Sistemit nuk iu shtuan as dy projektet për ndërtimin e parqeve solare me kapacitete nga 100 megavatë që Qeveria Kurti 2 i proklamoi zëshëm.
+
+Sipas të dhënave të Zyrës së Rregullatorit për Energji, Kosova aktualisht prodhon vetëm 280 megavatë nga energjia e ripërtëritshme.
+
+E në Ministrinë e Ekonomisë thonë se në periudhën 2021 - 2025, kapacitetet e instaluara të Burimeve të Ripërtëritshme janë afër 134 megavatë. Aty përfshihet projekti i ndërtimit të parkut solar në Bajgorë me kapacitet prej 105 megavatësh, që i përket vitit 2021, e po ashtu edhe projekti prej 1.2 megavatësh nga biomasa.
+
+""Kapaciteti i instaluar i BRE-ve që kanë hyrë në operim gjatë periudhës 2021-2025 ka qenë 133.89 MW. Nga ky kapacitet, 103.41 MË kanë qenë turbina të erës, 4 MË sisteme fotovoltaike, 25.28 MW hidrocentrale dhe 1.2 MW nga biomasa. Po ashtu ka filluar projekti për 100 MW solare, 100 MW nga Era dhe 100 MW solare nga projekti solar i KEK-ut, Solar4Kosovo"", thuhet në përgjigjen e Ministrisë së Ekonomisë.
+
+Por, në këtë dikaster nuk janë përgjigjur pse nuk është përmbushur zotimi i ministres Rizvanolli, që kapacitetet nga burimet e ripërtritshme të arrijnë në 500 megavat brenda tre vjetëve.
+
+E me këtë ritëm, Kosova është larg përmbushjes së objektivave të Strategjisë për Energji 2022-2031, në të cilën parashihet që brenda 9 vjetësh kapaciteti i përgjithshëm i instaluar i energjisë së ripërtëritshme të arrijë në 1,600 megavatë.
+
+""Zhvillimi i kapaciteteve të reja nga BRE-të, 600 MW erë, 600 MW fotovoltaike, 20 MË biomasë dhe të paktën 100 MË kapacitet nga konsumatorët vetë-prodhues, për të arritur një kapacitet të përgjithshëm të instaluar të BRE-ve prej 1600 MW deri në vitin 2031"", thuhet në Strategjinë për Energji.
+
+Për të përmbushur këtë objektiv, sipas ekspertit të energjisë Adhurim Haxhimusa do të duhej që brenda vitit të shtoheshin rreth 250 megavatë energji nga burimet e ripërtëritshme.
+
+""Në bazë të së kaluarës vërejmë në letargji institucionale dhe se vështirë se do të arrihen këto qëllime. Mirëpo presim dhe shpresojmë që institucionet të reflektojnë dhe të marrin hapat e nevojshëm që t'i implementojnë reformat e nevojshme dhe për të dizajnuar tregun në atë formë që jep nxitjet e nevojshme për t'i sjellë këto investime dhe këto kapacitete deri në 2032-tën"", është shprehru Haxhimusa.
+
+Në maj 2023, Qeveria e pati hapur ankandin e parë për parkun me energji solare me kapacitet prej 100 megavatësh. Por, projekti që është paraparë të ndërtohet në Kramovik të Rahovecit, aktualisht është në fazën e kontraktimit të kompanisë për Inxhinieri, Prokurim dhe Ndërtim të centralit solar.
+
+E projekti solar i KEK-ut, ""Solar4Kosovo"" është ende në fazën e parakualifikimit në kuadër të procesit tend...",0.5079,0.5322,global heating,west nile virus,high_climate,yes,no,no,"Kosovo renewable energy targets unmet, solar/wind capacity",,
+Albanian,Israel,panorama.com.al,newsapi,1581,https://www.panorama.com.al/ishulli-kharg-pse-mund-te-shkaterroje-tregun-global-te-energjise/,"Ishulli Kharg, pse mund të shkatërrojë tregun global të energjisë!","Kriza e Gjirit tashmë është zhvendosur nga sfera e frikës në sferën e përçarjes reale.
+
+Nëse faza tjetër përfshin ishullin Kharg , atëherë sigurisht që nuk do të jetë një përshkallëzim rajonal, por një tronditje globale e energjisë.
+
+Kriza e energjisë që po zhvillohet aktualisht nuk është një tjetër trazirë gjeopolitike që thjesht rrit primet e rrezikut të naftës. Ajo është tashmë një krizë natyrore e furnizimit.
+
+Sulmet ndaj Teheranit, sulmet iraniane ndaj infrastrukturës energjetike dhe portuale në vendet e treta të Gjirit, keqfunksionimet në Ngushticën e Hormuzit, shkurtimet e prodhimit dhe pezullimi i dërgesave nga objektet kritike kanë ndryshuar natyrën e konfliktit, dhe kjo nuk është diçka që e kemi parë për herë të parë.
+
+Tregu nuk ka më frikë vetëm nga ajo që mund të ndodhë. Ai po reagon ndaj asaj që po ndodh tashmë.
+
+Elementi thelbësor është se pjesa energjetike e luftës ka thyer një tabu. Zjarret dhe dëmtimet në objektet e karburantit në Teheran kanë treguar se infrastruktura energjetike nuk shihet më si një strehë e sigurt pas luftërave të Gjirit - veçanërisht të parës.
+
+Nga ana tjetër, sulmet iraniane në infrastrukturën e Gjirit kanë dërguar mesazhin se Teherani është i përgatitur të eksportojë kostot te fqinjët e tij, duke u përpjekur ta shndërrojë luftën në një problem kolektiv për të gjithë arkitekturën energjetike arabe dhe vetë ekuilibrin global të energjisë.
+
+Këtu është vendi ku Ishulli Kharg merr rëndësi pothuajse ekzistenciale për Iranin. Kharg nuk është vetëm një pikë eksporti. Është arteria kryesore përmes së cilës nafta iraniane shndërrohet në valutë të fortë. Është pika ku prodhimi, ruajtja, ngarkimi dhe në fund të fundit mbijetesa ekonomike e regjimit bashkohen.
+
+Thënë thjesht, për sa kohë që Kharg mbetet funksional, Teherani ende mund të marrë frymë ekonomikisht. Nëse ndalon së funksionuari, problemi nuk do të jetë vetëm funksional. Do të jetë strategjik.
+
+Kjo është arsyeja pse Kharg tani konsiderohet ""butoni i kuq"" i fundit i madh. Deri më tani, kriza ka shkaktuar dëme serioze, ndërprerje dhe vonesa. Por një goditje e madhe për Kharg do të ndryshonte ekuacionin. Kjo do të hiqte një pjesë të rëndësishme të eksporteve iraniane nga tregu dhe në të njëjtën kohë do të ushtronte presion mbi udhëheqjen iraniane që të reagonte në një mënyrë edhe më të ashpër.
+
+Skenari më i mundshëm do të ishte një raund i ri sulmesh ndaj infrastrukturës në Arabinë Saudite, Emiratet e Bashkuara Arabe, Bahrein ose Katar, së bashku me një qëndrim edhe më agresiv kundër transportit detar në Ngushticën e Hormuzit. Këtu fillon makthi.
+
+Tregu mund të përballojë një goditje të vetme. Ka shumë më vështirësi kur goditja shndërrohet në zinxhir. Nëse ngarkesat iraniane, objektet saudite ose emirate, LNG-ja e Katarit dhe kalimi detar përmes Hormuzit dalin jashtë kontrollit në të njëjtën kohë, atëherë problemi nuk do të jenë vetëm vëllimet e humbura.
+
+Do të jetë humbja e parashikueshmërisë në të gjithë sistemin. Nafta, gazi natyror, primet e sigurimit, tarif...",0.5437,0.5339,climate crises,undernourishment,high_climate,no,no,no,"Kharg island oil infrastructure, energy geopolitics",,
+Albanian,Israel,panorama.com.al,newsapi,1304,https://www.panorama.com.al/ulsi-manja-ne-konflikt-interesi-me-dosjen-balluku-bardhi-reagon-nga-protesta-a-e-njeh-paulin-rajten-dhe-a-ke-nderhyre-te-ministrja-per-perfitimin-e-nje-hec-i-ne-qiber/,"""Ulsi Manja në konflikt interesi me dosjen ""Balluku""- Bardhi reagon nga protesta: A e njeh Paulin Rajtën dhe a ke ndërhyrë te ministrja për përfitimin e një HEC-i në Qibër?","Teksa deputeti socialist po lexonte në Parlament raportin e mazhorancës për mosdhënien e auzorizimit për heqjen e imunitetit të Belinda Ballukut dhe rrëzimit të kërkesës së SPAK, ka ardhur edhe reagimi nga protesta para Kuvendit nga kreu i grupit të PD, Gazment Bardhi, i cili ëhstë i përjashtuar nga Etika.
+
+Teksa iu bashkua protestuesve në shesh, ai ka reaguar me jë postim në Facebook, ku vë në dukje se ish-ministri Ulsi Manja ishte në konflikt interesi me dosjen ""Balluku"", pasi ishte edhe vetë pjesë e hetimeve.
+
+Madje ai i drejtoi edhe një pyetje publike deputetit socialist, që e lidhte me një person konkret në Dibër, për përfitimin e një HEC-i.",0.5063,0.5255,climate crisis,undernourishment,high_climate,no,no,no,Albanian politics - hydropower conflict of interest,,
+Albanian,Serbia,koha.net,newsapi,1521,https://www.koha.net/arberi/autoriteti-i-konkurrences-nis-monitorimin-e-cmimit-te-naftes,Autoriteti i Konkurrencës nis monitorimin e çmimit të naftës - KOHA.net,"Autoriteti i Konkurrencës i Kosovës të enjten ka njoftuar se ka nisur monitorimin e tregut të karburanteve në vend, duke përfshirë tregtimin me shumicë dhe me pakicë, me fokus të veçantë te çmimet e naftës dhe benzinës në pikat e shitjes.
+
+Sipas njoftimit, të gjitha ndërmarrjet që ushtrojnë veprimtari në tregtimin e karburanteve në Kosovë janë aktualisht nën monitorim.
+
+Autoriteti thekson se përmes këtij procesi synon të sigurojë mbrojtje nga marrëveshjet e ndaluara, abuzimi me pozitën dominuese dhe praktikat e bashkërenduara ndërmjet kompanive që operojnë në këtë treg.
+
+""Çdo marrëveshje, bashkërendim apo veprim i njëanshëm ndërmjet bizneseve që ka për qëllim ose efekt rritjen artificiale të çmimeve, ndarjen e tregut apo kufizimin e konkurrencës përbën shkelje të rëndë të ligjit dhe është subjekt i sanksioneve ligjore"", thuhet në njoftim.
+
+Sipas Autoritetit, çmimet e karburanteve në tregjet ndërkombëtare përditësohen vazhdimisht, duke reflektuar faktorë të ndryshëm si oferta dhe kërkesa, kostot e përpunimit dhe zhvillimet ekonomike e gjeopolitike. Për këtë arsye, pritet që edhe luhatjet e çmimeve në tregun vendor të pasqyrojnë ndryshimet në tregjet ndërkombëtare.
+
+Institucioni u ka bërë thirrje bizneseve që të veprojnë në përputhje me parimet e konkurrencës së lirë dhe të ndershme, të shmangin çdo formë të bashkërendimit të çmimeve me operatorë të tjerë dhe të tregojnë përgjegjësi sociale ndaj qytetarëve dhe konsumatorëve.
+
+Autoriteti i Konkurrencës ka bërë të ditur gjithashtu se procesi i monitorimit po zhvillohet në koordinim me Ministrinë e Industrisë, Ndërmarrësisë dhe Tregtisë, Administratën Tatimore e Kosovës dhe Doganën e Kosovës, me qëllim të sigurimit të respektimit të legjislacionit në fuqi dhe të rregullave të tregut në vend.",0.5123,0.4903,carbon emission,undernourishment,high_climate,no,no,no,"Kosovo fuel price monitoring, competition authority",,
+Albanian,Serbia,koha.net,newsapi,2440,https://www.koha.net/bote/shba-ja-perfshihet-nga-nje-stuhi-bore,SHBA-ja përfshihet nga një stuhi bore - KOHA.net,"Një stuhi dimërore ka nisur të godasë verilindjen e Shteteve të Bashkuara të Amerikës, duke vënë rreth 59 milionë banorë nën paralajmërime për mot të rrezikshëm, si dhe duke shkaktuar ndërprerje të energjisë elektrike dhe ndalim të qarkullimit në New York.
+
+Gjendje e jashtëzakonshme është shpallur në disa shtete amerikane, përfshirë Massachusetts, Connecticut, Delaware, New Jersey dhe Rhode Island. Disa prej tyre kanë vendosur kufizime ose ndalesa të plota të udhëtimit për shkak të stuhisë së dëborës, ndërsa mijëra fluturime janë anuluar.
+
+Parashikuesit e motit thonë se pjesa më e madhe e verilindjes së SHBA-së dhe provincat bregdetare do të preken nga stuhia.
+
+Stuhia pritet të jetë e fuqishme duke sjellë reshje të dendura bore, erëra të forta dhe përmbytje bregdetare.
+
+National Weather Service ka paralajmëruar se gjatë stuhisë mund të bien 5-7 centimetra borë në orë, ndërsa trashësia totale mund të arrijë 30-60 centimetra, duke krijuar kushte udhëtimi ""pothuajse të pamundura"" dhe ""jashtëzakonisht të rrezikshme"".
+
+Ndërprerjet e energjisë kanë prekur mbi 150 mijë persona në shtetet verilindore deri më tani, përfshirë 60 mijë vetëm në New Jersey. Dhjetëra mijëra të tjerë kanë mbetur pa energji në Virginia, Delaware dhe Maryland, sipas platformës monitoruese PowerOutage.us.",0.5636,0.5944,heatwaves,west nile virus,high_climate,yes,no,no,"Major winter storm in US northeast, 59M under warnings",,
+Albanian,Serbia,koha.net,newsapi,429,https://www.koha.net/bote/shtrenjtimi-i-karburantit-anulon-mijera-fluturime-ne-evrope,Shtrenjtimi i karburantit anulon mijëra fluturime në Evropë - KOHA.net,"Kompania ajrore skandinave SAS ka njoftuar se do të anulojë të paktën 1,000 fluturime në muajin prill, pas rritjes së çmimeve të karburantit për aeroplanë si pasojë e konfliktit të fundit në Lindjen e Mesme.
+
+Kjo kompani ka paralajmëruar shumë anulime pas Pashkëve, raportoi ""Euronews"".
+
+""Çmimi i karburantit për aeroplanë është dyfishuar brenda dhjetë ditëve. Edhe pse përpiqemi të përballojmë sa më shumë rritjen e kostove, kjo është goditje e drejtpërdrejtë për industrinë e aviacionit"", ka thënë drejtori ekzekutiv i SAS-it, Anko van der Werff, për gazetën suedeze ""Dagens Industri"".
+
+SAS-i ishte një nga kompanitë e para që rritën çmimet e biletave për të kompensuar rritjen e shpejtë të karburantit.
+
+Deri tani, disa qindra fluturime janë anuluar gjatë marsit, kryesisht në linjat brenda Norvegjisë, ndërsa vetëm pak kanë ndikuar në Suedi dhe Danimarkë.
+
+Rritja e çmimeve të karburantit lidhet me tensionet në Lindjen e Mesme, ku sulmet e SHBA-së dhe Izraelit ndaj Iranit dhe hakmarrja iraniane ndaj instalimeve të naftës në disa shtete të Gjirit kanë rritur ndjeshëm çmimin e naftës. Gjithashtu, Ngushtica e Hormuzit, përmes së cilës kalon një e pesta e kërkesës globale për karburante, është praktikisht e mbyllur.
+
+Shumë linja ajrore, përfshirë Air France-KLM Cathay Pacific, Air India dhe Qantas, kanë rritur çmimet e biletave dhe disa kanë ndaluar fluturimet drejt Lindjes së Mesme për arsye sigurie.",0.5649,0.5455,carbon emission,west nile virus,high_climate,no,no,no,Flight cancellations from fuel price rise due to war,,
+Albanian,Israel,panorama.com.al,newsapi,3531,https://www.panorama.com.al/nju-jorku-nen-pushtetin-e-stuhive-te-debores-anulohen-5-mije-fluturime-avionesh-200-mije-shtepi-e-biznese-pa-energji/,"Nju Jorku nën pushtetin e stuhive të dëborës, anulohen 5 mijë fluturime avionësh, 200 mijë shtëpi e biznese pa energji!","Qyteti i Nju Jorkut ka ndaluar udhëtimet me avion, ndërsa një stuhi e madhe sjell reshje të dendura dëbore në pjesë të mëdha të SHBA-së lindore.
+
+Ndalimi i udhëtimit filloi në orën 21:00 sipas orës lokale të dielën dhe do të vazhdojë deri në orën 12:00 ditën e sotme.
+
+Është hera e parë në nëntë vjet që qyteti i Nju Jorkut është nën paralajmërim për stuhi dëbore.
+
+Më shumë se 5,000 fluturime brenda, për në ose nga SHBA-të janë anuluar tashmë për të hënën.
+
+Paralajmërimet për stuhi dimërore shtrihen nga Karolina e Veriut deri në Maine veriore, me paralajmërime edhe në pjesë të Kanadasë lindore.
+
+Në të gjithë SHBA-në, më shumë se 200,000 shtëpi dhe biznese janë pa energji elektrike.
+
+Stuhitë e borës janë stuhi dimërore ku reshjet e dendura të dëborës ose bora që e fryn kombinohen me erëra mbi 56 km/orë për të krijuar dukshmëri më pak se një e katërta e një miljeje (402 m) për tre orë ose më shumë, sipas Shërbimit Kombëtar të Motit, informon BBC.
+
+Në SHBA, stuhitë e borës janë më të zakonshme në Rrafshnaltat e Mëdha dhe në Midwest, veçanërisht në një zonë të njohur si ""Blizzard Alley"", e cila përfshin pjesë të Dakotës së Veriut, Dakotës së Jugut, Minesotës, Ajovës, Nebraskës, Uajomingut juglindor dhe Kolorados lindore.
+
+Kjo për shkak se këto zona janë relativisht të sheshta me pak pemë ose pengesa për të frenuar erën dhe borën që fryn.
+
+Herën e fundit që Qyteti i Nju Jorkut u përball me një paralajmërim për stuhi bore ishte gati një dekadë më parë, në mars të vitit 2017. Në Filadelfia, i fundit u lëshua në janar të vitit 2016. Herën e fundit që i gjithë shteti i Nju Xhersit ishte nën një paralajmërim për stuhi bore ishte në vitin 1996.
+
+Stuhia e së dielës vjen menjëherë pas një stuhie tjetër të madhe dëbore, e cila goditi rajonin në janar dhe mbuloi qytetin e Nju Jorkut me pothuajse 30 cm dëborë. Megjithatë, ajo stuhi nuk pati erëra të shoqëruara për t'u konsideruar si stuhi dëbore.",0.5429,0.5877,heatwave,west nile virus,high_climate,yes,no,no,"Blizzard in New York, record snowfall, state of emergency",,
+Albanian,Israel,panorama.com.al,newsapi,2850,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2459/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport""","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+PORTO ROMANO/ SPAK sekuestron dosjen e tenderit 400 milionë euro
+
+SOT PROTESTA E PD, BARDHI: RAMA ZBATON URDHRAT E TE PANDEHURES
+
+SPAK kërkon arrestimin, ""Reuters"": Si e mbrojti Edi Rama, Ballukun nga akuzat për korrupsion
+
+Sula: Inspektimi jo presion, por barazi para ligjit
+
+Si bëhet rivlerësimi i pronave pa tituj pronësie
+
+Takimi që bashkoi brezat, Tirana mblidhet rreth sofrës së saj/ NGA RAMAZAN KËLLEZI
+
+PANORAMA PLUS
+
+UDHETIME ME AVION PRIVAT DHE BISEDA INTIME, ZBARDHEN KOMUNIKIMET E MISSE BEQIRI ME EPSTEIN
+
+Sherri fizik e libri për ""ish""-in, flet Enxhi Nasufi. Pas ndarjes nga Elhaida Dani, Ledian Agallijaj rikthehet në ekran
+
+Ministri i Mjedisit, shëtitje në këmbë nga liqeni
+
+OPINION
+
+Mosdorëheqja e Ramës: ""Shembje e urave"" të integrimit evropian/ NGA PROF. DR. ARBEN MALAJ
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni
+
+Jupi: Dinamo më zhgënjeu, Jupi: Dinamo më zhgënjeu, Jupi: Dinamo më zhgënjeu, Superiorja ka dështuar Superiorja ka dështuar
+
+""KLASIKJA"" Triumf për manual i Vllaznisë, Tirana mbetet në ""errësirë""
+
+Kuqeblutë fitojnë me përmbysje për 7000 tifozët
+
+Kampionët heshtin, Kërnaja: Të kuqtë janë basti im
+
+Verdheblutë, Gvozdenoviç: Duam tri pikët
+
+Vlonjatët pa trajner, Kotobelli: Pikët në Durrës
+
+Reali në rrugën e ""ferrit"", PSG ""peshkon"" Çelsin
+
+Juve dhe plani i Spaletit, Gasperini kurth për ""Zonjën""
+
+Bajerni, me epërsi ndaj Dortmundit ""të plagosur""",0.5239,0.5789,extreme event,west nile virus,high_climate,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,2483,https://www.panorama.com.al/te-shmanget-korrupsioni-apo-influencat-kriminale-konsultimet-per-financimin-e-partive-bylykbashi-partite-opozitare-me-te-ekspozuara-karshi-instrumenteve-kontrollues-te-nje-shteti/,"""Të shmanget korrupsioni apo influencat kriminale""- Konsultimet për financimin e partive, Bylykbashi: Partitë opozitare më të ekspozuara karshi instrumenteve kontrollues të një shteti të kapur","Deputeti i PD dhe bashkëkryetari i Reformës Zgjedhore, Oerd Bylykbashi, duke folur për rolin e partive politike në sistemin demokratik, theksoi rëndësinë e transparencës dhe të financimit të partive për ruajtjen e pluralizmit politik.
+
+Në tryezën e zhvilluar mbi konsultimet për reformën zgjedhore, Bylykbashi deklaroi se është e domosdoshme krijimi i një ""barriere"" që mban pluralizmin politik të shëndetshëm.
+
+""Transparenca nuk funksionon pa ujë në burim. Financimi duhet të jetë i mjaftueshëm dhe i shëndoshë, që partitë të funksionojnë brenda sistemit parlamentar,"" u shpreh ai.
+
+Bylykbashi theksoi nevojën për të gjetur një ekuilibër midis transparencës dhe pluralizmit.
+
+""Partitë politike janë organizma që kanë rol themelor në formimin e pluralizmit. Është e rëndësishme që gjatë këtyre viteve është vënë theksi tek transparenca. Duke shmangur korrupsionin apo influencat kriminale apo faktorëve të tretë. Duhet të krijojmë një barrierë për të mbajtur të shëndetshëm pluralizmin politik.
+
+Transparenca nuk funksionin pa patur ujë në burim. Ne duhet të kujdesemi që financimi të jetë i mjaftueshëm dhe i shëndoshë që partitë të funksionojnë në sistemin parlamentar. Duhet të bëjmë një balanca mes transparencës dhe pluralizmit.
+
+Tema sot është si të ndërtojmë një sistem financimi dhe transparencë të financimit që prodhon pluralizëm dhe jo një regjim financiar që do të ekspozonte partitë politike, kryesisht atyre të opozitës, karshi instrumenteve kontrollues të një shteti të kapur, apo një shteti që ka hyrë dhe ka pushtuar zgjedhjet"", deklaroi deputeti i PD.",0.5232,0.5156,environmental change,undernourishment,high_climate,no,no,no,"Albanian party financing transparency, politics",,
+Albanian,Serbia,koha.net,newsapi,795,https://www.koha.net/sporte-te-tjera/lufta-ne-iran-anulon-dy-gara-te-formula-1,Lufta në Iran anulon dy gara të Formula 1 - KOHA.net,"Dy gara të Formula 1, ato në Bahrejn dhe në Arabinë Saudite, do të anulohen për shkak të luftës në Lindjen e Mesme, ka shkruar BBC të premten mbrëma.
+
+Zyrtarizimi nga Formula 1 ende nuk është bërë, por pritet që lajmi të bëhet i ditur në ditët në vijim.
+
+Lufta e SHBA-së dhe Izraelit me Iranin nuk pritet të përfundojë shpejt, dhe kjo ka bërë që dy garat e Çmimit të Madh të anulohen pasi shihen si rrezik.
+
+Asnjëra prej këtyre garave nuk do të zëvendësohet dhe sezoni në Formula 1 do t'i ketë 22 gara në total.
+
+Çmimi i Madh në Bahrejn ishte e paraparë të zhvillohet më 12 prill, ndërsa ajo në Jeddah një javë më pas.",0.5095,0.5356,ozone depletion,west nile virus,high_climate,no,no,no,F1 races cancelled due to Middle East war,,
+Albanian,Serbia,koha.net,newsapi,2565,https://www.koha.net/bote/ushtria-amerikane-godet-nje-tjeter-anije-te-dyshuar-ne-paqesorin-lindor-vret-3-persona,"Ushtria amerikane godet një tjetër anije të dyshuar në Paqësorin lindor, vret 3 persona - KOHA.net","Ushtria amerikane ka njoftuar se ka kryer një tjetër sulm vdekjeprurës ndaj një anijeje të dyshuar për trafikim droge në lindje të Oqeanit Paqësor. Nga sulmi u vranë tre persona.
+
+Komanda Jugore e SHBA-së njoftoi se anija ""po kalonte përgjatë rrugëve të njohura të trafikimit të drogës në Paqësorin Lindor dhe ishte e përfshirë në operacione të trafikimit të drogës"". Në një video të publikuar shihet një anije që lundron në ujë përpara se të shpërthejë në flakë.
+
+Sulmi i së premtes e rrit numrin e të vdekurve nga sulmet e administratës Trump ndaj anijeve të dyshuara të drogës në të paktën 148 persona nga të paktën 43 sulme të kryera që nga fillimi i shtatorit në Detin e Karaibeve dhe në lindje të Oqeanit Paqësor.
+
+Presidenti amerikan, Donald Trump, ka thënë se SHBA-ja është në ""konflikt të armatosur"" me kartelet në Amerikën Latine dhe i ka justifikuar sulmet si të nevojshëm për të ndaluar rrjedhën e drogës.",0.5060,0.5994,climate crisis,west nile virus,high_climate,no,yes,no,,US military kills 3 in drug trafficking ship attack,
+Albanian,Serbia,koha.net,newsapi,635,https://www.koha.net/arberi/ndryshim-i-motit-gjate-javes-se-ardhshme-priten-reshje-shiu-e-bore,"Ndryshim i motit gjatë javës së ardhshme, priten reshje shiu e bore - KOHA.net","Ndryshime në kushtet atmosferike pritet të ketë gjatë javës së ardhshme, ka njoftuar të dielën Instituti Hidrometeorologjik i Kosovës.
+
+Nga dita e martë parashihen reshje, ku në viset malore dhe në lartësi më të mëdha do të ketë reshje bore, ndërsa në viset e ulëta priten kryesisht reshje shiu, të cilat herë-herë mund të përzihen edhe me borë.
+
+Temperaturat minimale do të zbresin në vlera të lehta, ndërsa ato maksimale pritet të arrijnë deri rreth 16 gradë celsius.
+
+Sa i përket kushteve agrometeorologjike, sipas IHMK-së, ato në përgjithësi do të jenë të favorshme për aktivitetet bujqësore.
+
+Të hënën moti do të jetë i vranët dhe me intervale me diell. Temperaturat më të ulëta do të lëvizin ndërmjet -2 dhe 1 gradë celsius, ndërsa ato minimalet nga 13 deri në 16 gradë celsius.
+
+Të martën, me mot të vranët dhe reshje shiu e bore, temperaturat minimale do të lëvizin nga 0 deri 3 gradë celsius, ndërsa maksimalet nga 9 deri në 12 gradë celsius.
+
+Të mërkurën, me mot kryesisht të vranët, temperaturat më të ulëta do të sillen nga 1 deri në 3 gradë celsius, ndërsa ato më të larta nga 10 deri në 13 gradë.
+
+Kurse të enjten, moti do të jetë kryesisht i vranët dhe me intervale me diell. Temperaturat minimale nga 1 deri 3 gradë celsius, ndërsa maksimale nga 10 deri 13 gradë celsius.
+
+Mot i ngjashëm do të mbajë edhe të premten. Teksa temperaturat më të ulëta do të sillen nga -1 deri në 1 gradë celsius, kurse maksimalet nga 9 deri në 12.",0.5669,0.5238,temperature rises,extreme poverty,high_climate,no,no,no,Routine weather forecast for Kosovo next week,,
+Albanian,Israel,panorama.com.al,newsapi,2113,https://www.panorama.com.al/rusia-po-shqyrton-mundesine-e-nderprerjes-se-eksporteve-te-gazit-ne-evrope-per-shkak-te-luftes-ne-iran-putin-do-mbledhe-se-shpejti-qeverine-per-vendimin/,Rusia po shqyrton mundësinë e ndërprerjes së eksporteve të gazit në Evropë për shkak të luftës në Iran! Putin do mbledhë së shpejti qeverinë për vendimin,"Qeveria ruse do të mblidhet së shpejti për të diskutuar pezullimin e eksporteve të gazit natyror në Evropë, tha të enjten zëvendëskryeministri Alexander Novak.
+
+Presidenti rus Vladimir Putin tha se Rusia tani mund të ndalojë furnizimet për shkak të një rritjeje të ndjeshme të çmimeve të shkaktuar nga kriza e Iranit.
+
+Ai e lidhi vendimin e mundshëm - të cilin tha se nuk ishte marrë ende - me dëshirën e Bashkimit Evropian për të ndaluar blerjet e gazit natyror rus dhe gazit natyror të lëngshëm.
+
+""Do të takohemi së shpejti, sipas udhëzimeve të Presidentit, për të diskutuar situatën aktuale me kompanitë e energjisë dhe rrugët e mundshme të transportit për furnizimet tona me energji"", u tha gazetarëve Novak, i cili është njeriu i energjisë i Putinit.
+
+""Do ta diskutojmë këtë çështje së shpejti me kompanitë tona të energjisë dhe do të shohim se si t'i përdorim burimet tona në mënyrë më fitimprurëse"", shtoi Novak.
+
+Shitjet e gazit rus në Evropë kanë rënë ndjeshëm që nga viti 2022 për shkak të sanksioneve që lidhen me luftën në Ukrainë.
+
+Megjithatë, Rusia është furnizuesi i dytë më i madh i gazit natyror të lëngshëm (LNG) në Bashkimin Evropian dhe gjithashtu shet gaz përmes tubacionit nënujor TurkStream në Detin e Zi, në vende si Hungaria, Sllovakia dhe Serbia.
+
+Novak tha se gazi natyror rus tani mbulon 12% të furnizimeve të Evropës.",0.5072,0.5388,climate crisis,west nile virus,high_climate,no,no,no,Russia considering gas export halt to Europe amid war,,
+Albanian,Israel,panorama.com.al,newsapi,3430,https://www.panorama.com.al/stuhia-e-debores-paralizon-verilindjen-e-shba-se-qindra-mijera-familje-pa-energji-elektrike/,"Stuhia e dëborës paralizon verilindjen e SHBA-së, qindra mijëra familje pa energji elektrike","Mbi 40 milionë banorë në verilindje të Shteteve të Bashkuara, nga Maryland deri në Maine, po përballen me një stuhi dëbore me intensitet të rrallë, e cila ka paralizuar metropolin e New York City.
+
+Sipas raportimeve, në qytetin Freehold të shtetit New Jersey, rreth 50 kilometra nga Manhattan, trashësia e dëborës arriti në të paktën 60 centimetra. Në Central Park niveli i dëborës shkoi në 40 centimetra, një rekord që nuk ishte regjistruar që nga viti 2021. Reshjet pritet të intensifikohen gjatë pasdites, sipas orës lokale.
+
+Gjendje e jashtëzakonshme në 7 shtete
+
+Guvernatorët e shteteve Connecticut, Delaware, Massachusetts, New Jersey, New York, Pennsylvania dhe Rhode Island shpallën gjendjen e jashtëzakonshme dhe ndaluan qarkullimin e automjeteve. Shkollat, shërbimet publike dhe shumë biznese qëndruan të mbyllura në Nju Jork dhe Boston, ndërsa edhe selia e United Nations në Manhattan nuk funksionoi.
+
+Deri në orën 11:00 paradite ishin anuluar mbi 5.800 fluturime, me problemet më të mëdha në aeroportet e Nju Jorkut, Bostonit dhe Filadelfias. Janë pezulluar gjithashtu shumë linja të transportit publik dhe hekurudhor, veçanërisht në New Jersey.
+
+660 mijë familje pa energji
+
+Sipas të dhënave zyrtare, rreth 660 mijë familje kanë mbetur pa energji elektrike, mes tyre 265 mijë në Massachusetts dhe 130 mijë në New Jersey.
+
+Në Manhattan, rrokaqiejt e Wall Street mezi dukeshin nga Brooklyn për shkak të reshjeve të dendura. Megjithatë, një pjesë e banorëve vijuan të lëviznin drejt punës, edhe pse me vonesa të konsiderueshme në metro.
+
+Kryetari i bashkisë së Nju Jorkut, Zohran Mamdani, paralajmëroi se kjo mund të jetë stuhia më e fortë që qyteti ka përjetuar në dekadën e fundit, duke u bërë thirrje qytetarëve të qëndrojnë në shtëpi. Ndërkohë, kryetarja e bashkisë së Bostonit, Michelle Wu, e cilësoi situatën si ""me përmasa historike"".
+
+Qendra pritjeje me ngrohje janë hapur në Nju Jork, Filadelfia dhe Boston për të strehuar personat në nevojë, ndërsa autoritetet paralajmërojnë se kushtet ekstreme do të vazhdojnë edhe në orët në vijim.",0.5184,0.5550,climate crises,west nile virus,high_health,yes,no,no,"Severe snowstorm paralysing US northeast, 660k without power",,
+Albanian,Israel,panorama.com.al,newsapi,1969,https://www.panorama.com.al/rusia-po-pergatit-sulmin-pranveror-ndaj-ukraines-zelensky-viziton-ushtaret-ne-frontin-e-luftes-ne-donbas-e-keqja-duhet-te-ndalet/,"Rusia po përgatit sulmin pranveror ndaj Ukrainës, Zelensky viziton ushtarët në frontin e luftës në Donbas: E keqja duhet të ndalet!","Presidenti ukrainas, Volodymyr Zelensky, tha se kishte vizituar vijën e frontit në rajonin e Donetskut, duke shtuar se Rusia po përgatitej për ofensivën e saj pranverore në rajon.
+
+""Sot po vizitojmë rajonin e Donetskut, tokën tonë dhe luftëtarët tanë"", tha Zelensky në një postim në aplikacionin e mesazheve Telegram.
+
+Ai gjithashtu postoi edhe një video të tij nga qyteti Druzhkivka.
+
+""Është e rëndësishme që pozicionet tona të jenë të forta. E keqja duhet të ndalet. Kjo është pikërisht ajo që ukrainasit po bëjnë këtu në Donbas"", u shpreh ai.
+
+Paqja mes dy vendeve duket ende shumë larg, teksa ka raportime se Rusia po përgatitet për sulmin pranveror ndaj Ukrainës.",0.4833,0.5741,climate crisis,west nile virus,high_health,no,no,no,"Russia-Ukraine war, Zelensky visits front line",,
+Albanian,Serbia,koha.net,newsapi,538,https://www.koha.net/bote/irani-godet-ambasaden-amerikane-ne-bagdad,Irani godet ambasadën amerikane në Bagdad - KOHA.net,"Ambasada e Shteteve të Bashkuara të Amerikës në Bagdad është sulmuar gjatë natës me dronë dhe raketa, ndërsa burime të sigurisë në Irak kanë deklaruar se ky ishte sulmi më intensiv që nga fillimi i sulmeve, shkruan AFP.
+
+Përveç kësaj, një zjarr u shkaktua nga një dron në një hotel në Bagdad, pikërisht në pjesën ku ndodhet ambasada e SHBA-së.
+
+Ndërsa Izraeli vazhdon sulmet në Liban, Kanadaja, Franca, Gjermania, Italia dhe Mbretëria e Bashkuar po u bëjnë thirrje të dy vendeve të nisin negociata, pas asaj që ata e quajnë ""situatë humanitare thellësisht shqetësuese"".",0.4770,0.5594,climate crisis,west nile virus,high_health,no,yes,no,,"Iran embassy attack, humanitarian crisis mentioned",
+Albanian,Israel,panorama.com.al,newsapi,2815,https://www.panorama.com.al/fotolajm-ishte-ne-shenjester-te-sulmit-amerikano-izraelit-publikohen-pamje-nga-kompleksi-i-shkaterruar-i-ali-khamenei-t/,"FOTOLAJM/ Ishte në shënjestër të sulmit amerikano-izraelit, publikohen pamje nga kompleksi i shkatërruar i Ali Khamenei-t","Christiaan Triebert nga The New York Times, i specializuar në verifikimin me burime të hapura dhe analizën e gjeolokacionit, ka publikuar në ""X"" një imazh satelitor të rezidencës zyrtare të Udhëheqësit Suprem të Iranit, Ajatollah Ali Khamenei, në Teheran, ku shihen disa ndërtesa të rrafshuara me tokën.
+
+Më herët u raportua se vala e parë e sulmeve amerikane dhe izraelite më 28 shkurt kishte në shënjestër disa zyrtarë të lartë të Republikës Islamike, përfshirë Khamenein dhe presidentin Masud Pezeshkian.
+
+Megjithatë, agjencitë iraniane të lajmeve kanë raportuar se Pezeshkian, shefi i gjyqësorit Gholamhossein Mohseni Ejei, dhe ministri i Jashtëm i Iranit, Abbas Araghchi ""gëzojnë shëndet të mirë"".
+
+Presidenti amerikan, Donald Trump i ka konfirmuar sulmet dhe është zotuar se do të eliminohet ""kërcënimi nga regjimi iranian"". Ai i është drejtuar popullit iranian, duke i thënë se ""pas sulmeve, merreni ju në duar Qeverinë"".",0.5056,0.5789,heatwave,west nile virus,high_health,no,no,no,Satellite images of bombed Iranian compound,,
+Albanian,Serbia,koha.net,newsapi,204,https://www.koha.net/futboll/goli-i-hershem-i-mctominayt-vendosi-fitoren-e-napolit,Goli i hershëm i McTominayt vendosi fitoren e Napolit - KOHA.net,"Gazetaria profesionale është interes publik. Mbështetja juaj ndihmon që ajo të mbetet e pavarur dhe e besueshme. Kontribuoni edhe ju. 1 euro e bën dallimin.
+
+Skocezi Scott McTominay shënoi që në minutën e dytë për Napolin.
+
+Dhe rezultati prej asaj minute nuk ndryshoi.
+
+Fitorja 1:0 i takoi Napolit në udhëtim te Cagliari, në ndeshjen e xhiros së 30-të të Serie A, që u zhvillua të premten mbrëma.
+
+Te Napoli, që e regjistroi fitoren e katërt rresht, për 55 minuta luajti mesfushori Stanislav Lobotka. Lobotka pritet të paraqitet edhe për Sllovakinë ndaj Kosovës, në ndeshjen e rëndësishme më 26 mars në Bratislavë.
+
+Portieri Alen Sherri ishte në bankën rezervë te Cagliari, ndërsa kapiteni i Kosovës, Amir Rrahmani, vazhdon të jetë i lënduar te Napoli.
+
+Me këtë fitore, Napoli tani i ka 62 pikë në pozitën e dytë, gjashtë më pak se Interi lider, që e ka një ndeshje më pak të luajtur.",0.4814,0.5543,extreme event,west nile virus,high_health,no,no,no,Football - Napoli wins Serie A match,,
+Albanian,Israel,panorama.com.al,newsapi,1831,https://www.panorama.com.al/video-juventusi-i-fut-shkelmin-krizes-ne-kampionat-bardhezinjte-e-spaletit-shperthejne-me-4-gola-ne-pjesen-e-dyte/,"VIDEO/ Juventusi i fut ""shkelmin"" krizës në kampionat, bardhezinjtë e Spaletit shpërthejnë me 4 gola në pjesën e dytë","Juventusi duket se i ka dhënë fund krizës në kampionat, teksa mbrëmjen e sotme mposhti Pizën me rezultatin 4 me 0, duke u rikthyer kështu te fitorja pas 5 javësh.
+
+Interesant është fakti se të gjitha golat skuadra e Spaletit i shënoi në pjesën e dytë.
+
+Fillimisht ishte Kambiaso, i cili në minutën e 54-t zhbllokoi sfidën, ndërkohë që Turam në minutën e 65-të, Jilldiz në 75-tën dhe Boga në 90+3, kompletuan ""pokerin"".
+
+Ky ishte triumfi i 14-të në 28 javë për Juventusin që e sheh veten në vendin e gjashtë me 50 pikë, vetëm 1 më pak se Roma e vendit të katërt. /Panorama Sport/
+
+FT: JUVENTUS-PIZA 4-0
+
+GOLI I BOGA: VIDEO
+
+GOLI I JILLDIZ: VIDEO
+
+GOLI I TURAM: VIDEO
+
+GOLI I KAMBIASOS: VIDEO
+
+FORMACIONET ZYRTARE:
+
+JUVENTUS (4-2-3-1); Perin; Kalulu, Bremer, Gati, Kambiaso; Turam, Lokatelli; Konseisao, MekKeni, Jilldiz; Dejvid.
+
+Trajner: Luçiano Spaleti
+
+PIZA (3-5-2): Nikolas; Kopola, Karaçolo, Kalabrezi; Leris, Hojholt, Aebisher, Marin, Angori; Moreo, Durosinmi.
+
+Trajner: Oskar Hiljemark",0.5127,0.5629,heatwave,west nile virus,high_health,no,no,no,Football - Juventus 4-0 victory,,
+Albanian,Serbia,koha.net,newsapi,2013,https://www.koha.net/kronike/arratiset-i-burgosuri-qe-po-trajtohej-ne-onkologji,Arratiset i burgosuri që po trajtohej në Onkologji - KOHA.net,"Është arratisur një i burgosur që po trajtohej në Repartin e Onkologjisë në QKUK.
+
+Shërbimi Korrektuar ka informuar Policinë lidhur me rastin.
+
+Lidhur me rastin, me vendim të prokurorit është iniciuar rasti ""mundësim i arratisjes së personit të privuar nga liria"" ndaj tre të dyshuarve, zyrtarë korrektues. Pas intervistimit të dyshuarit janë liruar dhe rasti vazhdon të trajtohet në procedurë të rregullt.
+
+""Nga Shërbimi Korrektues është pranuar informata se është arratisur nga Reparti i Onkologjisë i dyshuari mashkull kosovar i cili ishte hospitalizuar. Në vendin e ngjarjes kanë dalë njësitet përkatëse. Lidhur me rastin është njoftuar prokurori"", thuhet në raportin e PK-së.",0.4835,0.5602,extreme event,casualties,high_health,no,no,no,Prisoner escapes from hospital oncology ward,,
+Albanian,Israel,panorama.com.al,newsapi,3063,https://www.panorama.com.al/kapet-ne-arrati-22-vjecari-i-denuar-me-nje-dekade-burgim-bashke-me-dy-shoke-i-armatosur-dhe-i-maskuar-hyri-ne-banke-dhe/,"Kapet në arrati 22-vjeçari i dënuar me një dekadë burgim! Bashkë me dy shokë, i armatosur dhe i maskuar hyri në bankë dhe...","Një 22-vjeçar është arrestuar pas katër vitesh kërkimi, si i akuzuar për grabitjen e një banke dhe i dënuar në mungesë me një dekadë burgim.
+
+Aksioni është kryer nga Policia e Shkodrës ditën e sotme (26 shkurt).
+
+I riu, dhe 2 bashkëpunëtorë të tij, në vitin 2022, hynë të armatosur dhe të maskuar në një bankë në Koplik dhe vodhën një shumë të konsiderueshme parash.
+
+22-vjeçari është dënuar nga Gjykata e Shkodrës me 10 vjet burg.
+
+Njoftimi i Policisë:
+
+""Si rezultat i kontrolleve intensive të krehra nga shërbimet e Forcës së Posaçme ""Shqiponja"", në bashkëpunim me shërbimet e Forcës së Posaçme ""Operacionale"", bazuar në informacionet e siguruara në rrugë operative, u kap dhe u vu në pranga shtetasi:
+
+-A. Sh., 22 vjeç, banues në fshatin Aliaj, Malësi e Madhe.
+
+Gjykata e Shkodrës e ka dënuar këtë shtetas, me 10 vjet burgim, për veprat penale ""Vjedhja e bankave dhe e arkave të kursimit"" dhe ""Vjedhja me armë"", të kryera në bashkëpunim, dhe ""Mbajtja pa leje dhe prodhimi i armëve, armëve shpërthyese dhe i municionit"".",0.4903,0.5538,climate crisis,casualties,high_health,no,no,no,Crime - fugitive arrested for bank robbery,,
+Albanian,Serbia,koha.net,newsapi,444,https://www.koha.net/bote/rreth-200-te-lenduar-ne-izrael-nga-sulmet-e-iranit,Rreth 200 të lënduar në Izrael nga sulmet e Iranit - KOHA.net,"Rreth 200 persona janë plagosur dhe dërguar në spital në 24 orët e fundit në Tel Aviv, si pasojë e sulmeve iraniane ndaj Izraelit.
+
+Ministria e Shëndetësisë e Izraelit thotë se katër nga të plagosurit janë në gjendje më të rëndë, ndërsa 177 po trajtohen për lëndime të lehta.
+
+Nuk është e qartë se në çfarë gjendjeje janë 11 personat e tjerë.
+
+Sipas ministrisë, 3,727 persona janë shtruar në spital që nga fillimi i konfliktit.
+
+SHBA-ja dhe Izraeli kanë nisur sulme ndaj Iranit më 28 shkurt, për shkak të programit bërthamor të
+
+Teheranit. Sulmet kanë nisur pas rundit të tretë të bisedimeve indirekte mes SHBA-së dhe Iranit, për të gjetur një zgjidhje në këtë drejtim.",0.4938,0.5680,heatwaves,west nile virus,high_health,no,yes,no,,200 injured in Israeli hospitals from Iranian attacks,
+Albanian,Israel,panorama.com.al,newsapi,2561,https://www.panorama.com.al/udhetonin-drejt-greqise-me-rreth-21-mije-euro-cash-te-padeklaruara-kapen-ne-kakavije-nje-burre-dhe-nje-grua/,"Udhëtonin drejt Greqisë me rreth 21 mijë euro cash të padeklaruara, kapen në Kakavijë një burrë dhe një grua!","Dy tentativa të kalimit të parave të padeklaruara nga Pika Kufitare e Kakavijës janë zbuluar nga oficerët dhe nën procedim u morën dy personat e dyshuar.
+
+Policia e Gjirokastrës njoftoi sot (2 mars) se sekuestroi 25950 euro cash.
+
+""U referuan materialet në Prokurori, ku nisi procedimi në gjendje të lirë për veprën penale ""mosdeklarimi në kufi i të hollave dhe i sendeve me vlerë"", për shtetasit F. V., 60 vjeç, banues në Berat dhe M. J., 54 vjeçe, banuese në Tiranë"" bëri me dije Policia e Gjirokastrës.
+
+Valuta e kapur u sekuestrua si provë materiale. Kurse dosja i kaloi prokurorisë për hetime të mëtejshme.
+
+Njoftimi i Policisë së Gjirokastrës:
+
+""Si rezultat i angazhimit maksimal të shërbimeve të Policisë Kufitare të PKK Kakavije, për parandalimin dhe goditjen e krimeve kufitare, krahas punës për ofrimin e një shërbimi cilësor dhe etik, qytetarëve në hyrje/dalje, janë goditur 2 raste të mosdeklarimit të të hollave. Konkretisht, në dalje të RSh-së, u kaluan për kontroll në vijë të dytë, shtetasit:
+
+-F. V., të cilit gjatë kontrollit fizik, iu gjetën 10 950 euro që ai nuk i kishte deklaruar;
+
+-M. J., të cilës iu gjetën në çantë, 15 000 euro që ajo nuk i kishte deklaruar.
+
+Në vijim të veprimeve procedurale për rastin, specialistët për Hetimin e Krimeve të DVKM Gjirokastër referuan materialet në Prokurori, ku nisi procedimi në gjendje të lirë për veprën penale ""Mosdeklarimi në kufi i të hollave dhe i sendeve me vlerë"", për shtetasit F. V., 60 vjeç, banues në Berat dhe M. J., 54 vjeçe, banuese në Tiranë. Gjithashtu, u sekuestruan në cilësinë e provës materiale, shumat e parave.",0.4993,0.5801,climate crises,casualties,high_health,no,no,no,Undeclared cash seized at border crossing,,
+Albanian,Serbia,koha.net,newsapi,938,https://www.koha.net/bote/iraku-mbyll-terminalet-e-naftes-pas-sulmit-vdekjeprures,Iraku mbyll terminalet e naftës pas sulmit vdekjeprurës - KOHA.net,"Një sulm në portin e Basrës në Irak herët të enjten ka lënë të vdekur të paktën një person dhe i ka detyruar autoritetet të ndalojnë operacionet në të gjitha terminalet e naftës në vend.
+
+Drejtori i përgjithshëm i Kompanisë së Përgjithshme për Portet e Irakut, Farhan al-Fartousi, ka bërë njoftimin në një deklaratë të transmetuar nga Agjencia Shtetërore e Lajmeve Irakiane të enjten.
+
+Al-Fartousi ka thënë se sulmi kishte në shënjestër një anije të angazhuar në një transferim nafte nga një anije në tjetrën në portin e Basrës në Gjirin Persik.
+
+Ai ka shtuar se mbetet e paqartë nëse anija ishte goditur nga një dronë fluturues, ujor apo një raketë.
+
+Ekipet e shpëtimit nxorën një trup të vdekur dhe ndihmuan 38 të tjerë pas sulmit. Ai ka thënë se portet tregtare në Irak mbeten të hapura, ndërkaq terminalet e naftës janë mbyllur.",0.4999,0.5835,climate crisis,west nile virus,high_health,no,yes,no,,"Oil port attack kills 1, injures 38 in Basra",
+Albanian,Serbia,koha.net,newsapi,612,https://www.koha.net/bote/be-ja-do-te-diskutoje-mundesite-per-te-mbajtur-hapur-ngushticen-e-hormuzit,BE-ja do të diskutojë mundësitë për të mbajtur hapur Ngushticën e Hormuzit - KOHA.net,"Shtetet anëtare të Bashkimit Evropian do ta diskutojnë se çfarë mund të bëhet nga ana evropiane për të mbajtur të hapur Ngushticën e Hormuzit, ka thënë shefja e politikës së jashtme të BE-së.
+
+""Është në interesin tonë që Ngushtica e Hormuzit të mbetet e hapur"", ka deklaruar Kaja Kallas përpara një takimi të ministrave të Jashtëm të BE-së në Bruksel, raporton Reuters.
+
+Disa anije thuhet se janë sulmuar që nga fillimi i konfliktit, ndërsa përpiqeshin të kalonin nëpër këtë ngushticë, përmes së cilës kalon zakonisht rreth 20 për qind e naftës botërore.
+
+Presidenti i SHBA-së, Donald Trump ka thënë se ""do të ishte shumë keq për të ardhmen e NATO-s nëse aleatët e SHBA-së nuk e ndihmojnë në hapjen e dhe mbajtjen hapur të kësaj ngushtice"".",0.5210,0.5657,climate crisis,west nile virus,high_health,no,no,no,EU discusses keeping Strait of Hormuz open,,
+Albanian,Israel,panorama.com.al,newsapi,1308,https://www.panorama.com.al/ishte-arratisur-nga-burgu-31-vjecari-kapet-ne-arrati-dhe-rikthehet-ne-qelite-e-shkodres/,"Ishte arratisur nga burgu, 31-vjeçari kapet në arrati dhe rikthehet në qelitë e Shkodrës!","Një 31-vjeçar që akuzohej për largim të të burgosurit nga vendi i qëndrimit është arrestuar nga Policia e Shkodrës në arrati dhe u rikthye në qelitë e paraburgimit.
+
+Për të dyshuarin S.Gj., banues në fshatin Gur i Zi, gjykata kishte dhënë masën e sigurisë ""arrest me burg"" në mungesë dhe uniformat blu e kanë ekzekutuar.
+
+""U vu në pranga shtetasi S. Gj., 31 vjeç, banues në fshatin Gur i Zi, pasi Gjykata e Shkodrës i ka caktuar masën e sigurisë ""Arrest në burg"", për veprën penale ""Largimi i të burgosurit nga vendi i qëndrimit"", thuhet në njoftimin e policisë lokale, por nuk jepen detaje të tjera për veprën penale dhe dinamikën se si i riu ishte larguar.
+
+Po kështu u mor nën procedim penal dhe u dërgua për hetim në Prokurori në gjendje të lirë edhe A. Gj., 24 vjeç, banues në Shkodër, pasi në lokalin që administronte, u gjet 1 armë sportive që posedohej pa leje, dhe 2 celularë me të cilët dyshohet se viheshin baste sportive.
+
+Arma sportive dhe celularët u sekuestruan me cilësinë e provës materiale.",0.4728,0.5629,extreme event,casualties,high_health,no,no,no,Crime - fugitive recaptured,,
+Albanian,Israel,panorama.com.al,newsapi,38,https://www.panorama.com.al/i-zhdukur-qe-ku-u-shpall-udheheqes-i-ri-suprem-i-iranit-washington-post-mojtaba-khamenei-eshte-i-plagosur-dhe-i-izoluar-nuk-reagon/,"I zhdukur që ku u shpall udhëheqës i ri suprem i Iranit, Washington Post: Mojtaba Khamenei është i plagosur dhe i izoluar, nuk reagon","Udhëheqësi i ri Suprem i Iranit, Mojtaba Khamenei , është "" i plagosur, i izoluar dhe nuk reagon ndaj mesazheve që i përcillen"", thanë për Washington Post zyrtarë të sigurisë amerikane dhe izraelite.
+
+Sipas zyrtarëve izraelitë, Trupat e Gardës Revolucionare dhe disa klerikë kanë forcuar kontrollin e tyre mbi Iranin.
+
+Ndwrkohw media amerikane e lajmeve Axios raportoi të shtunën (21 mars) se Agjencia Qendrore e Inteligjencës e SHBA-së, Mossadi izraelit dhe agjenci të tjera të inteligjencës po punojnë për të gjetur Khamenein, i cili është zhdukur që kur u shpall udhëheqësi i ri suprem pas vrasjes së babait të tij.",0.4860,0.5654,ozone depletion,west nile virus,high_health,no,yes,no,,Iranian leader wounded and isolated after attacks,
+Albanian,Serbia,koha.net,newsapi,1114,https://www.koha.net/auto/disa-prej-veturave-qe-shpenzojne-me-se-paku-nafte,Disa prej veturave që shpenzojnë më së paku naftë - KOHA.net,"Lufta e nisur në Lindjen e Mesme, nga sulmet e Shteteve të Bashkuara të Amerikës dhe të Izraelit ndaj Iranit, dhe të Iranit ndaj bazave amerikane në rajon, ka ndikuar në ngritjen e çmimit të naftës. Kjo kryesisht për shkak se Irani ka nën kontroll Ngushticën e Hormuzit, nga e cila kalon 20 për qind e naftës që shkon në nivel bote.
+
+Kur çmimi i naftës ngrihet dhe tregjet tronditen, njerëzit mendojnë të gjejnë alternativa për të shmangur shpenzimet e udhëtimeve.
+
+E një prej opsioneve të mira në këto raste është të pasurit e një veture që është ""kursimtare"".
+
+""EncyCarpedia"" është databazë e madhe e veturave dhe më 2020 kishte bërë një listë prej 20 veturave që shpenzojnë më së paku naftë.
+
+Veturat tjera në top-20 veturat që kursenin më së shumti naftë:
+
+E të martën, në bursën ndërkombëtare çmimi i naftës pësoi rënie të dukshme. Mbetet të shihet ndikimi i kësaj zbritjeje në Kosovë, kur çmimi ka mbërritur në 1.5 euro për litër.",0.5254,0.5763,carbon emission,west nile virus,high_health,no,no,no,Fuel-efficient cars list due to rising oil prices,,
+Albanian,Serbia,koha.net,newsapi,214,https://www.koha.net/futboll/lendimi-e-le-ronaldon-jashte-miqesoreve-me-portugaline,Lëndimi e lë Ronaldon jashtë miqësoreve me Portugalinë - KOHA.net,"Gazetaria profesionale është interes publik. Mbështetja juaj ndihmon që ajo të mbetet e pavarur dhe e besueshme. Kontribuoni edhe ju. 1 euro e bën dallimin.
+
+Lëndimi muskulor ka bërë që Cristiano Ronaldo të mbetet jashtë listës së Portugalisë për miqësoret ndaj Shteteve të Bashkuara të Amerikës dhe Meksikës, para Kupës së Botës që organizohet në verë.
+
+41-vjeçari nuk ka luajtur prej 28 shkurtit kur e la fushën në fitoren 3:1 të Al Nassrit ndaj Al FAyhas në elitën e futbollit të Arabisë Saudite.
+
+Ashtu si pritej, përzgjedhësi Roberto Martinez nuk e përfshiu pesë herë fituesin e ""Topit të Artë"", në listën që u publikua të premten.
+
+Portugalia ndaj Meksikës luan në Mexico City më 28 mars, ndërsa ndaj SHBA-së luan në Atlanta më 1 prill.",0.4908,0.5594,extreme event,west nile virus,high_health,no,yes,no,,"Ronaldo injured, misses national team matches",
+Albanian,Israel,panorama.com.al,newsapi,859,https://www.panorama.com.al/analiza-si-njesia-detare-911-e-trump-mund-te-marre-kontrollin-e-ngushtices-se-hormuzit/,Analiza/ Si njësia detare '911' e Trump mund të marrë kontrollin e Ngushticës së Hormuzit,"SHBA-të kanë urdhëruar që një ""forcë 911"" prej 2,500 marinsash të ridislokohet nga Japonia në Lindjen e Mesme, duke sinjalizuar mundësinë e vendosjes së trupave amerikane në terren.
+
+Taskforca është pjesë e Njësisë së 31-të Ekspedicionare Detare (MEU), një forcë me reagim të shpejtë e trajnuar për luftime amfibe tokësore dhe ajrore, si dhe mbështetje logjistike.
+
+Zakonisht e bazuar në ishullin jugor të Japonisë, Okinawa, njësia është në gjendje të operojë tërësisht nga një bazë lundruese, duke i lejuar asaj të qëndrojë në det të hapur ndërsa është afër konfliktit.
+
+MEU-të, të njohura në gjuhën e folur si forca 911 e Amerikës për shkak të niveleve të larta të gatishmërisë luftarake, ishin ndër forcat e para tokësore konvencionale të vendosura nga Uashingtoni në konflikte të tilla si pushtimi i Afganistanit në vitin 2001.
+
+SHBA-të nuk e kanë zbuluar natyrën e misionit të tyre, por forca elitare ndoshta do të ngarkohet me rifitimin e kontrollit të Ngushticës së Hormuzit, pika e vetme e hyrjes në Gjirin Persik.
+
+Arteria jetësore, përmes së cilës kalon një e pesta e naftës botërore, është sulmuar nga Irani që nga fillimi i luftës më 28 shkurt, duke e ndaluar transportin detar dhe duke shkaktuar trazira ekonomike globale.
+
+Pentagoni tani po përballet me problemin se si ta parandalojë ushtrinë e Teheranit nga minimi i ngushticës. Po shtyn dërgimin e anijeve luftarake në ngushticën e ngushtë, nga frika e droneve iraniane dhe raketave anti-anije.
+
+Por mbërritja e MEU-së në ngushticë mund të sinjalizojë një fazë të re të luftës që po hapet: operacionet tokësore të SHBA-së.
+
+Zyrtarët e mbrojtjes amerikane thanë për The New York Times se vendosja e MEU-së së 31-të duhet t'i lejojë SHBA-së të nisë bastisje në ishujt pranë Ngushticës së Hormuzit, ku Irani ka kërcënuar të vendosë anije të shpejta që transportojnë mina.
+
+Uashingtoni ka thënë se po i mban të gjitha opsionet në tryezë, duke përfshirë operacionet tokësore, të cilat gjithashtu mund të shohin forcat amerikane të pushtojnë territorin përreth ngushticës - një mision i rrezikshëm dhe i vështirë.
+
+Çdo MEU përbëhet nga një njësi luftimi tokësore me këmbësori, automjete të blinduara dhe artileri, një grup aviacioni me helikopterë dhe avionë luftarakë si F-35B, së bashku me ekipet e logjistikës dhe komandës.
+
+Njësia e 31-të MEU ka gjithashtu përvojë në aktivitetin kundër dronëve me anijet dhe anijet e saj cisterna shoqëruese të pajisura me automjete bllokuese.
+
+Njësia po operonte në Detin Filipinez në fillim të kësaj jave dhe nuk pritet të arrijë në Ngushticën e Hormuzit për 10 deri në 15 ditë, sipas vlerësimeve të Naval News.
+
+Megjithatë, parametrat e konfliktit mund të ndryshojnë përpara se të mbërrijë forca detare.
+
+Irani e ka mbyllur Ngushticën e Hormuzit për ""armiqtë"" e tij, të cilët përfshijnë SHBA-në dhe Izraelin, duke kërcënuar se do të bombardojë çdo anije që përpiqet të kalojë pa leje.
+
+Që nga shpërthimi i luftës, Teherani ka sulmuar të paktën 18 anije që veprojnë rreth Gjirit dhe ngushticës.
+
+Ndë...",0.4894,0.5631,climate emergency,west nile virus,high_health,no,no,no,US Marines deployed to Middle East for Hormuz strait,,
+Albanian,Serbia,koha.net,newsapi,1544,https://www.koha.net/bote/irani-godet-nje-cisterne-nafte-amerikane-ne-gjirin-persik,Irani godet një cisternë nafte amerikane në Gjirin Persik - KOHA.net,"Teksa bombardimet e Izraelit ndaj Teheranit kanë vazhduar mëngjesin e së enjtes, Irani gjithashtu ka nisur valën e vet të sulmeve gjatë natës kundër Izraelit dhe objektivave amerikane.
+
+Ushtria iraniane ka thënë se kishte lëshuar disa dronë sulmues me rreze të gjatë veprimi Arash gjatë natës, duke synuar rezervuarët e karburantit në Bazën Ajrore Ramat David në Izrael.
+
+Një cisternë amerikane nafte është goditur nga Trupat e Gardës Revolucionare Islamike (IRGC) në Gjirin Persik verior dhe është në flakë, ka raportuar agjencia shtetërore iraniane e lajmeve Fars.
+
+IRGC ka thënë në një deklaratë se gjatë luftës, kalimi nëpër Ngushticën e Hormuzit do të jetë nën kontrollin e Iranit.
+
+IRGC ka thnë gjithashtu mëngjesin e së enjtes se vala e 19-të e operacionit ""Premtimi i Vërtetë 4"" ka filluar me një operacion të kombinuar me raketa dhe dronë kundër pozicioneve amerikane dhe izraelite në rajon, sipas transmetuesit shtetëror iranian Press TV.",0.4882,0.5570,ozone depletion,west nile virus,high_health,no,no,no,Iran attacks American oil tanker in Persian Gulf,,
+Albanian,Serbia,koha.net,newsapi,867,https://www.koha.net/bote/aeroplani-ushtarak-amerikan-rrezohet-ne-irak,Aeroplani ushtarak amerikan rrëzohet në Irak - KOHA.net,"Një aeroplan ushtarak amerikan është rrëzuar në Irak, ka njoftuar Komanda Qendrore e SHBA-së (Centcom).
+
+Ushtria amerikane ka konfirmuar se një aeroplan ushtarak KC-135 për furnizim me karburant u rrëzua pas një incidenti ku u përfshinë dy aeroplanë. Rrëzimi nuk erdhi nga ""zjarri armiqësor apo miqësor"".
+
+Komanda Qendrore e SHBA-së tha se po bëhen përpjekjet e shpëtimit në perëndim të Irakut.
+
+Aeroplani i dytë i përfshirë në këtë incident, u ul në mënyrë të sigurt, u tha në deklaratë.
+
+""Incidenti ndodhi në një hapësirë ajrore miqësore gjatë operacionit 'Epic Fury', dhe përpjekjet e shpëtimit po vazhdojnë. Dy aeroplanë u përfshinë në incident. Një nga aeroplanët u rrëzua në perëndim të Irakut, dhe i dyti u ul sigurt. Nuk ndodhi shkaku i zjarrit armiqësor apo miqësor"", tha Centcom.",0.4885,0.5601,ozone depletion,west nile virus,high_health,no,yes,no,,"US military plane crashes in Iraq, rescue underway",
+Albanian,Israel,panorama.com.al,newsapi,1606,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2467/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+KTHESA E KRYEMINISTRIT/ ""Njëherë diell, njëherë shi"", a besohet Rama në qëndrimet e tij për Presidentin Trump?
+
+PS kundër arrestimit, Berisha: Nuk është çështja e Ballukut por e Ramës, vjedhjet e tij tejkalojnë miliarda si në portin e Durrësit
+
+""Porto Romanon do ta ndërtojnë rusët?"", SHBA-të refuzojnë portin e ri të Ramës, përplasja e fortë
+
+Kirurgu me ""duar të arta"", 106 vjet nga lindja e dr. Maksut Drasës
+
+Tri mijë legalizime në një muaj, lista e përfituesve
+
+Sekretet e Kaninës mesjetare në një dekret bizantin/ ILIR CENOLLARI
+
+Shqipëria në Botërorin e Moskës, urdhri i Enverit dhe armiqësia me Hrushovin/ BESNIK DIZDARI
+
+OPINIONE
+
+Fjalimi i trazuar i z. BelEdi/ ARDIAN BUSHI
+
+Edhe kundër Ramës, edhe kundër (pa)drejtësisë së tij/ ARTAN HOXHA
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni:
+
+""Show"" për ""Final 4"", Partizani fik Dinamon
+
+Champions, akti i parë për çerekfinalet
+
+Biletat dalin në shitje, shqiptarët në pritje
+
+Përmbysje dhe penallti, Egnatia ""trullos"" Teutën
+
+Vlonjatët, ""makthi"" i Vllaznisë në këtë sezon
+
+Gomesh: Tifozët e meritojnë këtë moment
+
+Zyrtarizohet largimi i Morieros, ja tre opsionet për stolin
+
+Katër ekipe me sytë nga goglat, sot hidhet shorti
+
+Kreu ""i blinduar"", gara e mbijetesës merr ""zjarr""
+
+7 arsyet për të besuar në rikthimin drejt titullit
+
+Ja pse Interi merr ""skudeton"" 2025-2026
+
+Çavi: Mesi donte të kthehej, nuk e la Laporta
+
+I famshmi i Çelsit, Abramoviç padit qeverinë britanike
+
+Në tapet 55 vjeç, Muçogllava kërkon rikthimin në mundje",0.5107,0.5694,extreme event,west nile virus,high_health,no,no,no,Junk - newspaper front page listing,,
+Albanian,Serbia,koha.net,newsapi,954,https://www.koha.net/bote/13-anije-te-sulmuara-qe-kur-ka-nisur-lufta-ndaj-iranit,13 anije të sulmuara që kur ka nisur lufta ndaj Iranit - KOHA.net,"Një total prej 13 anijesh janë sulmuar në dhe përreth Gjirit Arabik, Ngushticës së Hormuzit dhe Gjirit të Omanit midis 28 shkurtit dhe 11 marsit, kanë raportuar të mërkurën Operacionet e Tregtisë Detare të Mbretërisë së Bashkuar (UKMTO).
+
+Natën e së mërkurës, në brigjet e Irakut, dy anije të tjera janë goditur pranë portit të Umm Qasr, pranë qytetit të Basrës.
+
+Sulmi ka vrarë një person dhe ka plagosur 38 të tjerë, ka thënë kreu i Kompanisë së Përgjithshme për portet irakiane.
+
+Ndërkohë të enjten, UKMTO ka njoftuar një incident tjetër në veri të Jebel Ali, Emiratet e Bashkuara Arabe, duke shkruar se ""Kapiteni ka raportuar se një anije kontejnerësh është goditur nga një predhë e panjohur duke shkaktuar një zjarr të vogël në bord"".",0.5169,0.5887,heatwave,west nile virus,high_both,no,yes,no,,"13 ships attacked, 1 killed, 38 injured in Gulf shipping",
+Albanian,Israel,panorama.com.al,newsapi,2504,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2461/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport""","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+""Hiqjani imunitetin"", PD publikon raportin për Ballukun, protestë para Kuvendit më 12 mars. Rama mbledh sot kryesinë e partisë
+
+DOSJA E LLOGARASE/ SPAK të hetojë tatimorët për rimbursimin e TVSH së tunelit!
+
+""Birra Korça"" nis eksportin drejt SHBA, rriten kërkesat nga kompanitë amerikane, shija shqiptare hyn në treg
+
+""Po e masakrojmë Iranin"",Trump: Së shpejti nis vala e madhe e sulmeve
+
+Miratohet lista e re, përfituesit e këstit të dytë
+
+Si i përdori Venediku shqiptarët në betejat e Mesdheut/ ILIR CENOLLARI
+
+""Shqipëria si kamp përqendrimi"", çfarë paralajmëronte CIA më 1976 për regjimin e Hoxhës/ PROF. DR. ELMAS LECI
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni:
+
+Llupa zbret në fushë: Kupa objektiv. të përmbysim ""Demat""
+
+Mbrojtja, pika e dobët e Tiranës që po gropos bardheblutë
+
+Daci: Teuta do kualifikimin ndaj Egnatias
+
+Rotacioni i Martinit, kuqeblutë synojnë gjysmëfinalen
+
+Bylisi kundër gjyqtarëve: Ja 3 gafat në Elbasan
+
+Rustemi: Flamurtari ka probleme në prapavijë dhe mungesë kohezioni
+
+Kategoria e Parë e ndarë në blloqe, kreu marshon
+
+Nga derbi në derbi, ecuria fantastike e Kristian Kivusë
+
+Porta çështje te Juvja, Alegri ka ""armë të fshehtë""
+
+Reali bën bllofin ndaj Gedafes, Barça do përmbysjen
+
+F1 në ankth, lufta në Lindjen e Mesme rrezikon kalendarin",0.5145,0.5660,extreme event,west nile virus,high_both,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,1922,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2465/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport""","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+E PANDEHUR NGA SPAK/ Balluku sfidon drejtësinë: Do të vazhdoj rrugën time politike
+
+REAGIMI, BERISHA: RIFORMATIMI I QEVERISE, KLONIM I LUBI BALLUKUT
+
+Me dorën mbi Kushtetutë, ministrat e rinj bëjnë betimin, Rama mbledh qeverinë, akuzat e PD
+
+PD kërkon përjashtimin e Ballës nga Kuvendi, PS të Bardhit e Balliut
+
+Kosova drejt zgjedhjeve të reja, Osmani shpërndan parlamentin
+
+Nafta nuk ndal rritjen, arrin 184 lekë për litër
+
+""PANORAMA PLUS""/ E VERTETA E LIDHJES SE EVA MURATIT ME FRANÇISKO KONSEISAO
+
+VIP-at shqiptarë që kanë 'ngecur' në Dubai. Sherr mes Olta Gixharit dhe Leonora Jakupit, shkaku
+
+Lufta në Iran, bursat, nafta dhe ari me Bitcoin-in/ NGA AKADEMIK. PROF.DR. ANASTAS ANGJELI
+
+Për mësuesit e mi të parë dhe të përjetshëm/ NGA ARBEN PANDI CICI
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni:
+
+Tirana ""all in"", dita e së irana ""all in"", dita e së vërtetës për mbijetesën vërtetës për mbijetesën
+
+Zjarr në ""San Siro"", derbi ngre temperaturat
+
+Sfida e ""Madoninës"", dy skuadrat për dominimin e qytetit
+
+Kuqezinjtë duan të hapin garën për titull, zikaltrit për hipotekimin
+
+Nga Tomori te Lautaro dhe ata që ndryshuan kah, gjithçka për përballjen
+
+Derbi me blutë, ""Demat"" për hakmarrje dhe ringjallje
+
+Daja gjen skemën e suksesit, ""tradhton"" të preferuarën
+
+Javë presioni për kreun, mbijetesa në duel direkt
+
+Pogradeci dhe Tirana fitojnë Kupën
+
+Juventus me tre sulmues, Spaleti: Kam folur me klubin",0.5108,0.5580,climate crisis,west nile virus,high_both,no,no,no,Junk - newspaper front page listing,,
+Albanian,Serbia,koha.net,newsapi,1943,https://www.koha.net/betimi-per-drejtesi-ktv/pronaret-e-qehaja-group-dyshohet-se-moren-para-nga-tregtaret-per-shfrytezim-te-prones-pa-vendim-kembimi,Pronarët e Qehaja Group dyshohet se morën para nga tregtarët për shfrytëzim të pronës pa vendim këmbimi - KOHA.net,"Emisioni hulumtues me titull ""Nga Ujë në Beton: Dyshime për kurdisje të këmbimit të pronës milionëshe nga Komuna e Pejës"", zbuloi një skemë të dyshimtë të këmbimit të një prone afër 2 milionëshe në Komunën e Pejës.
+
+Një vendim që në thelb e orienton këtë pasuri publike drejt kompanisë Qehaja Group sh.p.k, e njohur për ndërtim banesash shumëkatëshe.
+
+Betimi për Drejtësi, duke u bazuar në të dhënat identifikuese të ngastrave kadastrale, kupton se shumica e pronave figurojnë në posedim të Qehaja Group Sh.P.K.
+
+Nga tetë ngastrat kadastrale, kjo kompani vetëm në njërën ka qenë posedues që nga viti 2021, ndërsa tek të tjerat kryesisht figuron si posedues që nga viti 2023 dhe 2024.
+
+Betimi për Drejtësi ka arritur të sigurojë disa videoincizime, në të cilat dyshohet se pronarët e Qehaja Group, kanë shfrytëzuar këtë pronë edhe para se të miratohej për këmbim në Kuvendin Komunal në Pejë.
+
+Parcela afër dy milionëshe gjatë të shtunave shërben si treg dhe sipas video incizimeve dhe bisedave të tregtarëve, ata detyrohen të paguajnë nga 10 deri në 20 euro për shfrytëzim të hapësirës.
+
+Biseda parë mes tregatërve:
+
+Tregtari 1: Koka kanë ka han që thonë në *** të huaj.
+
+Tregtari 2: Sa para po paguan ti?
+
+Tregtari 1: Varet sa je i hapur. (nuk kuptohet) i paguan prej atje deri qetu, 5,7, 8, 10...
+
+Tregtari 2: A vjen Valoni, a vjen Bajrami?
+
+Tregtari 1: Jo, jo vjen ai Valoni mashume ai. Herë njo, herë njo tjetër. Nuk i njoh unë, nuk vi shpesh, vi rrallë shumë. Qa me bo shoku jem.
+
+Bazuar në këtë videoincizim që ka siguruar Betimi për Drejtësi shihet Valon Sadiku, pronar i Qehaja Group, i cili shkon tek tregtarët në radhë, e që dyshohet se nga ta merr paratë për shfrytëzim të pronës së tregut. Ndërkaq, në një bisedë tjetër të tregtarëve, tregohet se si ka funksionuar mënyra e pagesës.
+
+Biseda dytë mes tregatërve:
+
+Tregtari 3: Qetash po i thirri, mos të lashtë tani pa parë e me të thonë mos fol te të tjerët kishe të kam jaran qe (nuk kuptohet). E jo me t'i fshi 14-15 euro në javë.
+
+Kur Valon Sadiku pyetet për këtë çështje gjatë bisedës përmes telefonit, ai ndal telefonatën.
+
+Betimi për Drejtësi, ka siguruar një foto që ishte publikuar nga pronari i Qehaja Group, Valon Sadiku, më 17 tetor 2021 bashkë me kryetarin Gazmend Muhaxheri me mbishkrimin ""Deri 2054 ktu jem"".
+
+Por, në bisedë me ""Betimi për Drejtësi"", Sadiku mohon të jetë mbështetës i kryetarit.
+
+""Jo, veç si krejt qytetarët (nuk kuptohet)"", thotë Sadiku për raportin me kryetarin Muhaxheri.
+
+Gjatë bisedës me Valon Sadikun, ai thotë se nuk është pronar i kompanisë, porse është vëllai i tij, ndonëse sipas të dhënave në Agjencinë e Regjistrimit të Bizneseve, ai figuron si pronar i autorizuar. Ai tha që për të gjitha çështjet rreth shkëmbimit të pronës milionshe të komunës, të flasim me vëllain e tij.
+
+Sadiku, ndonëse tha se do i dërgoj ekipit të Betimit për Drejtësi kontaktin e vëllait, nuk ka dërguar dhe pas kësaj telefonate nuk është përgjigjur më në thirrjet e BpD-së.
+
+Po ashtu, Betimi për Drejtësi, ka dërguar pyet...",0.4995,0.5500,heatwave,casualties,high_both,no,no,no,Property exchange corruption investigation in Kosovo,,
+Albanian,Israel,panorama.com.al,newsapi,714,https://www.panorama.com.al/grabitja-me-dhune-e-argjendarit-lirak-bajraktari-ilirian-feci-zbulon-si-e-organizuan-planin-me-talo-celen-dhe-dashnor-dumanin-e-fejuara-ime-i-shiste-bizhute-dhe-diamantet-qe-i-jepja-te-ai/,"Grabitja me dhunë e argjendarit Lirak Bajraktari, Ilirian Feçi zbulon si e organizuan planin me Talo Çelën dhe Dashnor Dumanin: E fejuara ime i shiste bizhutë dhe diamantet që i jepja te ai","Ilirian Feçi ka dëshmuar këtë të martë në Gjykatën e Posaçme kundër Krimit të Organizuar dhe Korrupsionit (GJKKO) për vjedhjen e kryer me dhunë të argjendarit Lirak Bajraktari në shkurt të vitit 2011 në Elbasan.
+
+Feçi zbuloi se grabitja ishte bërë nga ai, Talo Çela dhe Dashnor Dumani, por përjashtoi që të kishte marrë pjesë Gentian Sharra.
+
+I pyetur nga avokati Sokol Hazizaj, ai ka rrëfyer se nuk kanë qenë të armatosur, ndërsa vetëm Dashnor Dumani ka pasur një levë.
+
+""U nisa nga shtëpia ime, mora Dashnorin tek Nish-Tulla dhe më pas shkuam në Elbasan, ku morëm Talon. Shkuam tek shtëpia e Lirak Bajraktarit dhe vodhëm një çantë me bizhuteri e flori. E gjithë ngjarja duket në kamerat e shtëpisë"", u shpreh ai.
+
+I pyetur se si i dinin lëvizjet e argjendarit, të cilit arritën t'i merrnin një çantë me bizhuteri e flori, ai tregoi se vajza me të cilën kishte qenë i fejuar shiste shpesh bixhuteri apo diamante që ai i blinte.
+
+""Është shumë e vjetër historia. Unë kam qenë i fejuar me një vajzë nga Belshi. Unë i kam dërguar shpesh bizhuteri dhe diamante. Ajo shpesh i ka shitur tek Liraku. Por ai, shpesh here as peshën nuk ia llogariste mire dhe as vlerën e gurëve. Ka pamje nga tre kamera sigurie, ato të një banke, ato të një shtëpie private dhe ato të shtëpisë së Lirak Bajraktarit."", ka theksuar ai.
+
+Ilirian Feçi: Po. Kemi qenë 3 persona, Talo Çela, Dashnor Dumani dhe unë. Talo ka pasur makinën. Na ka kapur një pamje kamere e një banke dhe një shtëpie private.
+
+Hazizaj: Keni qenë të armatosur?
+
+Ilirian Feçi: Unë jo. As Talo. Dashnori ka pasur një levë. Talon e njoh herët, që në Itali. Me Dashnor Dumanin jam njohur në 2010-2011.
+
+Hazizaj: Çfarë ndodhi atë ditë?
+
+Ilirian Feçi: U nisa nga shtëpia ime. Shkova mora Dashnorin tek Nish-Tulla. Shkuam drejt Elbasanit, mora Talon dhe shkuam tek shtëpia e Lirak Bajraktarit. Kemi vjedhur një çantë me bizhuteri e flori. Duket nga kamerat e shtëpisë e gjithë ngjarja.
+
+Hazizaj: Nga e morët vesh lëvizjet e Lirak Bajraktarit?
+
+Ilirian Feçi: Është shumë e vjetër historia. Unë kam qenë i fejuar me një vajzë nga Belshi. Unë i kam dërguar shpesh bizhuteri dhe diamante. Ajo shpesh i ka shitur tek Liraku. Por ai, shpesh here as peshën nuk ia llogariste mire dhe as vlerën e gurëve. Ka pamje nga tre kamera sigurie, ato të një banke, ato të një shtëpie private dhe ato të shtëpisë së Lirak Bajraktarit.
+
+Hazizaj: E nderuar gjykatë, ne në dosje kemi vetëm pamjet e një kamere sigurie. Lutem, që të administrohen edhe pamjet e 2 kamerave të tjera. Ne i kemi në USB, por janë prova në një procedim penal tjetër të ish-prokurorisë për Krimet e Rënda.",0.4987,0.5600,heatwave,casualties,high_both,no,no,no,Crime - jewellery robbery court testimony,,
+Albanian,Serbia,koha.net,newsapi,677,https://www.koha.net/bote/shba-ja-dhe-kina-zhvillojne-takim-ne-paris-para-samitit-trump-putin,SHBA-ja dhe Kina zhvillojnë takim në Paris para samitit Trump-Putin - KOHA.net,"Zyrtarët kryesorë ekonomikë të SHBA-së dhe Kinës kanë nisur një rund të ri bisedimesh në Paris të dielën, për të zgjidhur problemet në armëpushimin tregtar dhe për të krijuar një atmosferë më të qetë për udhëtimin e presidentit amerikan Donald Trump në Pekin, për t'u takuar me presidentin kinez Xi Jinping në fund të marsit.
+
+Diskutimet, të udhëhequra nga sekretari amerikan i Thesarit, Scott Bessent dhe zëvendëskryeministri kinez, He Lifeng, pritet të fokusohen në ndryshimin e tarifave amerikane, rrjedhën e mineraleve të rralla dhe magnetëve të prodhuar në Kinë drejt blerësve amerikanë, kontrollet amerikane mbi eksportet e teknologjisë së lartë dhe blerjet kineze të produkteve bujqësore nga SHBA.
+
+Të dyja palët filluan bisedimet të dielën në mëngjes në selinë e Organizatës për Bashkëpunim Ekonomik dhe Zhvillim në Paris, ka thënë një zyrtar i Departamentit të Thesarit të SHBA-së. Kina nuk është anëtare e këtij grupi prej 38 demokracish kryesisht të pasura dhe e konsideron veten një vend në zhvillim.
+
+Përfaqësuesi amerikan për tregtinë, Jamieson Greer, gjithashtu do t'u bashkohet bisedimeve, të cilat vazhdojnë pas një serie takimesh në qytete evropiane vitin e kaluar që synonin uljen e tensioneve që kërcënonin me kolaps të tregtisë mes dy ekonomive më të mëdha në botë.
+
+Analistët e tregtisë SHBA-Kinë thonë se, për shkak të kohës së kufizuar për përgatitje dhe përqendrimit të Uashingtonit në luftën SHBA-Izrael kundër Iranit, mundësitë për një përparim të madh tregtar janë të kufizuara, qoftë në Paris apo në samitin e Pekinit.
+
+Trump dhe Xi mund të takohen edhe tri herë të tjera këtë vit, përfshirë një samit të Bashkëpunimit Ekonomik Azi-Paqësor të organizuar nga Kina në nëntor, dhe një samit të G20-s të organizuar nga SHBA-ja në dhjetor, të cilat mund të sjellin përparim më konkret.",0.5045,0.5494,climate crisis,west nile virus,high_both,no,no,no,US-China trade talks in Paris,,
+Albanian,Serbia,koha.net,newsapi,1095,https://www.koha.net/ekonomi/inflacioni-ne-shkurt-arriti-ne-6percent,"""Fluturojnë"" çmimet. Publikohen të dhënat e inflacionit për shkurt - KOHA.net","Çmimet e konsumit janë rritur për 6% në shkurt të këtij vitit krahasuar me shkurtin e vitit të kaluar.
+
+Sipas Indeksit të Harmonizuar të Çmimeve të Konsumit (IHÇK), të publikuar nga Agjencia e Statistikave të Kosovës (ASK) inflacioni mujor ka qenë 0.6 për qind.
+
+""Indeksi i tërësishëm i harmonizuar i çmimeve të konsumit është më i lartë në një mesatare prej 6,0 % në muajin shkurt 2026, krahasuar me muajin shkurt 2025. Inflacioni mujor ishte 0,6 % në muajin shkurt 2026"", thuhet në njoftimin e ASK-së.
+
+Inflacioni vjetor sipas ASK-së kryesisht është shpjeguar me ngritjen e çmimeve të konsumit në këtë periudhë te shërbime të tjera në lidhje me pajisjet personale të transportit (42,5 %); bileta të fluturimeve (39,0 %); furnizim me ujë dhe shërbime të ndryshme që kanë të bëjnë me vendbanimin (33,4 %); lëndë djegëse të ngurta, dru zjarri, pelet etj. (16,8 %); pemë (16,4 %); mirëmbajtje dhe riparim të pajisjeve personale të transportit (15,1 %); mish (14,7 %); pushime të organizuara (13,2 %); shërbime ambulantore (9,6 %); shërbime hoteliere (9,5 %); kafe, çaj dhe kakao (9,3 %); peshq (8,0 %); sheqer, reçel, mjaltë, çokollatë dhe ëmbëlsira (7,4 %); vegla dhe pajisje për shtëpi dhe kopsht (6,7 %); kujdes personal (6,6 %); perime (6,4 %); pije alkoolike (6,4 %); mallra dhe shërbime për mirëmbajtjen e zakonshme të ekonomisë shtëpiake (6,1 %),; qumësht, djathë dhe vezë (5,6 %); mirëmbajtje dhe rregullim të vendbanimit (5,5 %); prodhime ushqimore (5,4 %); gjëra personale (5,2 %); bukë dhe drithëra (5,2 %); duhan (4,2 %); produkte mjekësore, aparaturë dhe pajisje (3,9 %); mobile dhe orendi, qilima dhe mbulesa të tjera dyshemeje (3,9 %); veshje (3,3 %); vajra dhe yndyra (3,1 %); ujë mineral, pije joalkoolike, lëngje nga pemët dhe perimet (2,7 %); me një ndikim të përbashkët të këtyre nëngrupeve prej 6,4 për qind në IHÇK.
+
+Ndërsa, rënie e çmimeve sipas ASK-së vërehet te karburante dhe lubrifikantë për pajisjet e transportit personal (-7,6 %) me një ndikim prej -0,4 për qind në IHÇK.
+
+Ndërsa inflacioni mujor prej 0.6% është shpjeguar me ngritjen e çmimeve të konsumit në këtë periudhë te kategoritë shërbime të tjera në lidhje me pajisjet personale të transportit (24,4 %); perime (5,8 %); pemë (4,0 %); pajisje audio-vizuele, fotografike për përpunimin e informatave (3,8 %); shërbime ambulantore (2,4 %); mish (2,4 %); shërbime hoteliere (1,9 %); sheqer, reçel, mjaltë, çokollatë dhe ëmbëlsira (1,9 %); vegla dhe pajisje për shtëpi dhe kopsht (1,7 %); karburante dhe lubrifikantë për pajisjet e transportit personal (1,5 %); pajisje shtëpiake (1,4 %); kafe, çaj dhe kakao (1,3 %); kujdes personal (1,3 %); lëndë djegëse të ngurta, dru zjarri, pelet etj. (1,2 %); bukë dhe drithëra (0,6 %) me një ndikim të përbashkët të këtyre nëngrupeve prej 1,1 për qind në IHÇK.
+
+Ndërsa, rënie e çmimeve thuhet se vërehet te kategoritë: bileta të fluturimeve (-18,2 %); energji elektrike (-4,3 %) dhe qumësht, djathë dhe vezë (-2,8 %) me një ndikim prej -0,5 për qind në IHÇK.",0.5141,0.5775,carbon emission,undernourishment,high_both,no,no,no,Kosovo inflation data - consumer prices,,
+Albanian,Israel,panorama.com.al,newsapi,3337,https://www.panorama.com.al/operacioni-kunder-mashtrimit-me-call-center-at-gjkko-ndryshon-masen-e-sigurise-per-4-prej-te-akuzuarve/,"Operacioni kundër mashtrimit me ""Call Center-at"", GJKKO ndryshon masën e sigurisë për 4 prej të akuzuarve","Gjykata e Posaçme e Apelit për Korrupsionin dhe Krimin e Organizuar ka shpallur sot vendimin lidhur me çështjen penale për mashtrimin me Call Center""-a, të zbuluar së fundmi.
+
+-Miratimin e vendimit të shkallës së parë për të hetuarit K.K dhe H.Xh, duke lënë në fuqi masën e sigurimit personal me karakter shtrëngues ""arrest në burg"".
+
+-Miratimin e vendimit edhe për të hetuarit E.M, E.Gj, R.Gj dhe D.Q sa i takon vlerësimit si të ligjshëm të arrestimit në flagrancë të kryer më 17.01.2026, respektivisht në orët 04:50 dhe 05:00.
+
+-Ndryshimin e masës së sigurimit për katër të hetuarit E.M, E.Gj, R.Gj dhe D.Q, duke caktuar ndaj tyre masën ""arrest në shtëpi"".
+
+Gjykata urdhëroi që secili prej tyre të mos largohet nga banesa e deklaruar, ndërsa vendosi lirimin e menjëhershëm nga ambientet e paraburgimit, nëse nuk mbahen për ndonjë shkak tjetër ligjor.",0.5086,0.5662,climate crises,casualties,high_both,no,no,no,Crime - call center fraud court ruling,,
+Albanian,Serbia,koha.net,newsapi,797,https://www.koha.net/bote/shba-ja-synon-ta-rihape-ngushticen-e-hormuzit-me-5000-marinsa,SHBA-ja synon ta rihapë Ngushticën e Hormuzit me 5000 marinsa - KOHA.net,"Presidenti amerikan, Donald Trump, do t'i dislokojë 5000 marinsa në Lindjen e Mesme për të rihapur Ngushticën e Hormuzit.
+
+Pete Hegseth, sekretar i mbrojtjes, ka miratuar kërkesën nga Komanda Qendrore e SHBA-së për të dislokuar Njësinë e 31-të Detare, sipas ""Wall Street Journal"".
+
+Irani pati thënë se po e mbyll Ngushticën e Hormuzit menjëherë pasi SHBA-ja dhe Izraeli nisën sulmet ndaj tij më 28 shkurt. Irani ka goditur disa anije në zonë, përfshirë tankerë të naftës.
+
+Dje zyrtarët amerikanë raportuan se Irani ka nisur të pozicionojë mina në kanalin e Gjirit, që shërben si rrugë për rreth 20 për qind të derivateve botërore.",0.4989,0.5936,ozone depletion,west nile virus,high_both,no,no,no,US deploys 5000 marines for Hormuz strait,,
+Albanian,Serbia,koha.net,newsapi,1211,https://www.koha.net/bote/rritet-serish-cmimi-i-naftes-g7-a-mban-takim-urgjent,"Rritet sërish çmimi i naftës, G7-a thërret takim urgjent - KOHA.net","Çmimi referencë i naftës ka kaluar 100 dollarë për fuçi për herë të parë që nga viti 2022, ndërsa lufta në Lindjen e Mesme ka hyrë në ditën e saj të dhjetë.
+
+Rritja ka të ngjarë të çojë në një rritje të mëtejshme të çmimeve të karburantit, dhe kjo rritje mund të mos ndalet këtu, thonë njohësit e ekonomisë, shkruan BBC.
+
+Çmimi referencë i naftës ka kaluar 100 dollarë për fuçi për herë të parë që nga viti 2022, edhe pse më pas ka rënë paksa nën këtë nivel.
+
+Presidenti i SHBA-së, Donald Trump, ka thënë se rritja e çmimeve në ""afat të shkurtër"" është ""një çmim shumë i vogël për t'u paguar për paqen në botë.""
+
+Financial Times raporton se ministrat e financave të G7-s do të mbajnë një takim emergjent të hënën për të diskutuar lirimin e mundshëm të përbashkët të rezervave të naftës për të përballuar rritjen e çmimeve.
+
+Rezervat e naftës koordinohen nga Agjencia Ndërkombëtare e Energjisë (IEA), ku 32 vende anëtare mbajnë rezerva strategjike si pjesë e një sistemi të përbashkët emergjent të krijuar për krizat e çmimeve të naftës.
+
+Tri vende të G7-s, përfshirë SHBA-në, deri tani kanë shprehur mbështetje për një lirimin të përbashkët të rezervave, sipas personave të njohur me bisedimet, raporton Financial Times.",0.5154,0.5613,climate crises,west nile virus,high_both,no,no,no,"Oil prices rising, G7 emergency meeting",,
+Albanian,Israel,panorama.com.al,newsapi,3206,https://www.panorama.com.al/plumbin-e-gjeta-te-koka-e-krevatit-vrasja-e-biznesmenit-cajup-selimi-me-urdher-te-laert-haxhiut-zbardhet-deshmia-e-te-afermit-te-tij-kishte-sherr-me-disa-cuna-nga-tepelena/,"Plumbin e gjeta te koka e krevatit!""- Vrasja e biznesmenit Çajup Selimi me urdhër të Laert Haxhiut, zbardhet dëshmia e të afërmit të tij: Kishte sherr me disa çuna nga Tepelena!","Në seancën e radhës në Gjykatën e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar (GJKKO), ka dëshmuar Leonard Selimi, i afërm i biznesmenit Çajup Selimi, i cili u vra më 1 qershor 2021.
+
+Për këtë ngjarje ka rrëfyer më herët i penduari i drejtësisë, Artan Tafani, i cili ka deklaruar se është paguar 25 mijë euro nga Laert Haxhiu për ekzekutimin e Selimit.
+
+Sipas dëshmisë së Tafanit, në momentin e vrasjes, viktima e kishte parë në sy teksa qëllohej, pa e kuptuar se ku po e kapnin plumbat.
+
+Ndërkohë, Leonard Selimi ka dëshmuar se autorin nuk e ka parë dhe nuk ka dëgjuar të shtëna, por në banesën e tij ka gjetur një plumb, në kokën krevatit.
+
+""Nuk dëgjova krisma armësh. Gjeta plumbin brenda në shtëpi, te koka e krevatit. Ia dhashë të nesërmen policisë. Atë natë nuk kisha parë asgjë. Pashë vetëm vrimën në derë"", ka dëshmuar ai.
+
+Selimi ka treguar se Çajup Selimin e njihte si djalë punëtor dhe se para se të vritej, nuk dinte asgjë për të.
+
+""Pasi u vra, morëm vesh që kishte probleme. Kishte sherre me disa çuna nga fshati Veliqot i Tepelenës, emrat nuk i di, por si fytyra i njoh. Janë tre çuna, kanë bërë një ose dy sherre. Ishin rregulluar pastaj dhe erdhën te varrimi. Ishte mbyllur sherri. Për ndonjë sherr tjetër të hapur nuk di gjë. Nuk i jap dot shpjegim vrasjes"", ka dëshmuar ai në GJKKO.
+
+Dëshmia e Leonard Selimit:
+
+""Kur ndodhi vrasja, unë isha në shtëpi. Poshtë katit tim, ishte data 1 qershor, rreth orës 21:00. Nuk dëgjova zhurmë dhe as nuk e pashë autorin. Hapa derën sepse më ra plumbi te dera. Nuk dëgjova krisma armësh. Gjeta plumbin brenda në shtëpi, te koka e krevatit. Ia dhashë të nesërmen policisë. Atë natë nuk kisha parë asgjë. Pashë vetëm vrimën në derë.
+
+Kur dola te dera pashë gjak. U mundova t'i jap ndihmën e parë. I dilte gjak nga goja, nuk kishte reagim nga ana e tij. Doli nusja e tij, pastaj dikush nga kati i parë dhe të gjithë të tjerët. E mora vesh nga televizioni.
+
+E njihja si djalë punëtor, djalë të qetë. Po të doje një numër telefoni, ta gjente. Shiste çimento, kishte magazinë. Në kafe ai nuk ulej kurrë me ne, por bisedonim gjëra të rinjsh.
+
+Para se të vritej, nuk dinim asgjë për të. Pasi u vra, morëm vesh që kishte probleme. Kishte sherre me disa çuna nga fshati Veliqot i Tepelenës, emrat nuk i di, por si fytyra i njoh. Janë tre çuna, kanë bërë një ose dy sherre. Ishin rregulluar pastaj dhe erdhën te varrimi. Ishte mbyllur sherri. Për ndonjë sherr tjetër të hapur nuk di gjë. Nuk i jap dot shpjegim vrasjes.""
+
+DËSHMIA E ARTAN TAFANIT PËR VRASJEN E SELIMIT
+
+Artan Tafani, i penduari i drejtësisë që ka rrëfyer 17 ngjarje kriminale, ka treguar një vit më parë arsyen e ekzekutimit të biznesmenit Çajup Selimi, krim i ndodhur 1 qershorit të vitit 2022 në qendër të Tepelenës.
+
+I pyetur nga prokurori i SPAK, Behar Dibra, rreth arsyes së ekzekutimit të biznesmenit, Artan Tafani u shpreh se: ""Mora vesh nga Laerti se u vra pasi Erisiano kishte pas probleme dhe konflikte me të"".
+
+I penduari i drejtësisë tregoi se viktima i kishte ngacmuar n...",0.4975,0.5460,climate crisis,west nile virus,high_both,no,no,no,Crime - murder court testimony,,
+Albanian,Serbia,koha.net,newsapi,238,https://www.koha.net/bote/guterres-per-luften-ne-iran-te-dyja-palet-mund-te-kene-kryer-krime-lufte,Guterres për luftën në Iran: Të dyja palët mund të kenë kryer krime lufte - KOHA.net,"Sekretari i përgjithshëm i Organizatës së Kombeve të Bashkuara, Antonio Guterres, ka thënë se ka arsye të mjaftueshme të besohet se në luftën e Shteteve të Bashkuara të Amerikës dhe Izraelit kundër Iranit, të dyja palët kanë kryer krime lufte.
+
+""Nëse ka sulme qoftë në Iran apo nga Irani në energjinë infrastrukturore, mendoj se ka bazë të arsyeshme për të menduar se ato mund të përbëjnë krime lufte"", ka thënë ai për ""Politico"".
+
+Më herët gjatë javës, Izraeli sulmoi fushat iraniane të gazit natyror, ndërsa Irani sulmoi kompleksin e gazit në Katar, duke përshkallëzuar edhe më tej luftën.
+
+""Nuk shoh asnjë dallim. Nuk ka rëndësi kush i ka cak civilët. Është krejt e papranueshme"", ka thënë Guterres.
+
+Izraeli dhe SHBA-ja më 28 shkurt sulmuan Iranin duke vrarë liderin suprem, Ali Khamenei. Irani në shenjë hakmarrje sulmoi Izraelin dhe bazat amerikane në rajon.",0.5215,0.5533,climate crisis,west nile virus,high_both,no,yes,no,,"UN says war crimes may have been committed, energy infrastructure attacks, civilian casualties",
+Albanian,Israel,panorama.com.al,newsapi,3851,https://www.panorama.com.al/lexoni-faqen-e-pare-te-gazetes-panorama-dhe-panorama-sport-2452/,"Lexoni faqen e parë të gazetës ""Panorama"" dhe ""Panorama Sport""","Në faqen e parë të gazetës ""Panorama"" do të lexoni:
+
+Bordi i Paqes, firmosin liderët e 50 shteteve, Shqipëria dhe Kosova premtojnë dërgimin e trupave në Gaza, Trump: Do e bëjmë të paqtë
+
+DRAFT-RAPORTI/ PE: Korrupsioni mbetet serioz, gjyqësori ende nën presion
+
+""Asnjë ndryshim s'e pengon pezullimin"", Halimi: Rama, presion mbi drejtësisë për çështjen ""Balluku""
+
+Sot protesta e opozitës, Berisha thirrje për kryengritje paqësore
+
+Fondi mbi 1 miliard lekë, pronarët që përfitojnë
+
+Impotenca, shenjë e heshtur e rrezikut për jetën
+
+""Po vjen një re e zezë ..."", rreziku që ndjeu Ndre Zadeja para vrasjes
+
+OPINIONE
+
+""Spontanitet sanksionesh penale""/ FLORJAN KALAJA
+
+""Shpërdorimi i detyrës"" në kërkim të identitetit/ GJON NDREJAJ
+
+Në faqen e parë të gazetës ""Panorama Sport"" do të lexoni:
+
+E papritura/ Drama e sulmuesit, Broja dëmtohet dhe rrezikon ""finalet e marsit""
+
+Egnatia-Dinamo, ""preludi"" për titullin kampion
+
+Flamurtari vuan nga xhelozia e papërgjegjësia
+
+Ismet Hoxha: Kjo Vllazni ka gjithçka për ""kurorën""
+
+Daiu: Partizani ka bosht, funksionon edhe mbrojtja
+
+Dënime ekzemplare për incidentet në Shkodër, afat për bardheblutë
+
+Alegri-Fabregas, sherri që ndezi Milan-Komo
+
+Bonuçi: Gatuzo është lider, por i fiksuar me djemtë
+
+Çilavert sulmon Vinin dhe Mbapenë, Kejn te Barça
+
+Bajern, Kimish dhe Tah mungojnë ndaj Dortmundit",0.5104,0.5463,climate crisis,west nile virus,high_both,no,no,no,Junk - newspaper front page listing,,
+Albanian,Serbia,koha.net,newsapi,604,https://www.koha.net/arberi/shtrenjtohet-serish-nafta-1,Shtrenjtohet sërish nafta - KOHA.net,"Deri në 1.60 euro për litër ka arritur çmimi i naftës në tregun me pakicë në Kosovë të hënën.
+
+Sipas kryetarit të Shoqatës së naftëtarëve, Fadil Berjani, çmimet e naftës varësisht nga kompanitë sillen nga 1.53 deri 1.60 euro për litër, ndërsa i benzinës nga 1.34 deri 1.38 euro për litër.
+
+Sipas tij çmimi i naftës me shumicë është 1.54 euro për litër.
+
+Rritja po vazhdon si pasojë e përshkallëzimit të konfliktit në Lindjen e Mesme.
+
+Më 5 mars ka hyrë në fuqi vendimi i Ministrisë së Tregtisë, Industrisë e Ndërmarrësisë (MINT) për caktimin e marzhës tregtare.
+
+Vendimi përcakton marzhë të fitimit prej 2 cent për shitjet me shumicë dhe 12 centë për shitjet me pakicë. Çmimet globale të naftës janë rritur ndjeshëm pas sulmeve të Iranit ndaj vendeve tjera në
+
+Lindjen e Mesme, si përgjigje ndaj sulmeve nga SHBA-ja dhe Izraeli.
+
+Çmimi i naftës në botë është rritur në nivelin më të lartë që nga korriku i vitit 2022 të dielën në mbrëmje, pasi administrata e presidentit amerikan Donald Trump sugjeroi se lufta me Iranin mund të zgjasë edhe disa javë, ndërkaq vetë presidenti i ka bërë thirrje komunitetit ndërkombëtar për ndihmë në rihapjen e Ngushticës së Hormuzit për cisternat e naftës.
+
+Nafta brent u shtrenjtua për 2.9% dhe arriti në rreth 106.12 dollarë për fuçi.",0.5010,0.5575,climate crisis,west nile virus,high_both,no,no,no,Kosovo fuel prices rising from Middle East conflict,,
+Albanian,Israel,panorama.com.al,newsapi,1430,https://www.panorama.com.al/kremlini-per-luften-ne-lindjen-e-mesme-jemi-ne-kontakt-te-vazhdueshem-me-teheranin-presidenti-putin-eshte-i-gatshme-te-kontribuoje-ne-kthimin-e-paqes/,"Kremlini për luftën në Lindjen e Mesme: Jemi në kontakt të vazhdueshëm me Teheranin, presidenti Putin është i gatshme të kontribuojë në kthimin e paqes!","Moska është në kontakt të vazhdueshëm me udhëheqjen iraniane dhe Moska është e gatshme të kontribuojë në kthimin e paqes dhe stabilitetit në rajon, njoftoi sot selia e Kremlinit.
+
+""E tëra çfarë mund të them këtu është se jemi në kontakt të vazhdueshëm me palën iraniane dhe me udhëheqjen iraniane"", u tha gazetarëve zëdhënësi i Kremlinit, Dmitry Peskov .
+
+""Siç ka thënë Presidenti Vladimir Putin, Rusia është gjithmonë e gatshme të bëjë gjithçka që mundet për të rivendosur paqen dhe stabilitetin në rajon"", shtoi ai.
+
+Putin dhe Ministri i Jashtëm Sergei Lavrov kanë folur me homologët e tyre iranianë ditët e fundit, ndërsa presidenti rus foli gjithashtu në telefon me Presidentin e SHBA-së Donald Trump të hënën.
+
+Lidhur me luftën në Ukrainë, Kremlini njoftoi se specialistë britanikë ishin të përfshirë në sulmin vdekjeprurës ukrainas në qytetin rus të Bryansk duke përdorur raketa britanike Storm Shadow (raketa kruiz me rreze të gjatë veprimi të prodhuara në Britani dhe Francë).
+
+Peskov shtoi se ""operacioni special ushtarak"", siç e quan Moska, do të vazhdojë të parandalojë sulme të tilla ""barbare"".
+
+Sulmi në Bryansk të martën vrau të paktën gjashtë persona dhe plagosi 37 të tjerë. Ukraina tha se goditi një fabrikë që prodhon pjesë për raketa, ndërsa Moska thotë se Kievi shënjestroi civilët.
+
+Ndërprerjet e mëdha dhe problemet me internetin që kanë ndodhur në Rusi ditët e fundit do të vazhdojnë ""për aq kohë sa të jetë e nevojshme"" për të siguruar ""sigurinë e qytetarëve"" kundër kërcënimeve ukrainase, shtoi Peskov.
+
+""Regjimi i Kievit po përdor metoda gjithnjë e më të sofistikuara për sulmet e tij dhe kundërmasat teknologjike janë të nevojshme për të siguruar sigurinë e qytetarëve"", tha ai.
+
+Sipas Peskov, raundi i ardhshëm i bisedimeve trepalëshe mbi Ukrainën ka të ngjarë të zhvillohet në Stamboll, por ende nuk ka detaje konkrete, përveç perceptimit se procesi i paqes do të vazhdojë.
+
+Rusia dhe Ukraina zhvilluan tre raunde bisedimesh në qytetin turk vitin e kaluar. Negociatat e ndërmjetësuara nga SHBA-të u mbajtën këtë vit në Abu Dhabi dhe Gjenevë.",0.5136,0.5489,climate crisis,west nile virus,high_both,no,yes,no,,"Bryansk attack kills 6, injures 37 - war casualties",
+Albanian,Israel,panorama.com.al,newsapi,194,https://www.panorama.com.al/lufta-ne-lindjen-e-mesme-mbi-20-vende-te-gatshme-te-kontribuojne-ne-perpjekjet-per-rihapjen-e-ngushtices-se-hormuzit-moratorium-global-i-menjehershem/,"Lufta në Lindjen e Mesme, mbi 20 vende të gatshme të kontribuojnë në përpjekjet për rihapjen e Ngushticës së Hormuzit: Moratorium global i menjëhershëm!","Njëzet vende, përfshirë Emiratet e Bashkuara Arabe, Britaninë, Francën, Kanadanë dhe Japoninë, njoftuan se janë ""të gatshme të kontribuonin në përpjekjet"" e nevojshme për të rihapur Ngushticën e Hormuzit, e cila është bllokuar në mënyrë efektive nga Irani që nga fillimi i luftës në Lindjen e Mesme.
+
+Në një deklaratë të përbashkët, vendet kryesisht evropiane, dënuan gjithashtu sulmet e fundit iraniane që synonin anijet dhe infrastrukturën e naftës dhe gazit.
+
+Ato kërkuan ""një moratorium të menjëhershëm dhe global për sulmet ndaj infrastrukturës civile"", njofton agjencia franceze e lajmeve AFP.",0.5307,0.5624,climate crisis,west nile virus,high_both,no,no,no,20 countries offer to help reopen Strait of Hormuz,,
+Albanian,Israel,panorama.com.al,newsapi,1117,https://www.panorama.com.al/bombardimet-nga-ukraina-putin-planifikon-masa-per-te-mbrojtur-infrastrukturen-energjetike/,"Bombardimet nga Ukraina, Putin planifikon masa për të mbrojtur infrastrukturën energjetike!","Presidenti rus, Vladimir Putin, diskutoi me anëtarët e Këshillit të Sigurisë të Rusisë masat e nevojshme për të mbrojtur infrastrukturën kritike, njoftoi sot Kremlini, pas sulmeve të përsëritura ukrainase që goditën një uzinë të madhe ushtarake ndër objektiva të tjerë.
+
+Putin i kërkoi zëvendëskryeministrit Alexander Novak, ministrit të Transportit Vitaly Savelyev dhe ministrit të Ndërtimit Irek Fayzulin në fjalën e tij hapëse të përshkruanin masat e propozuara, por pjesa tjetër e takimit nuk u transmetua publikisht.
+
+Ukraina njoftoi më 10 mars se kishte përdorur raketat britanike Storm Shadow për të goditur një fabrikë që prodhonte pajisje gjysmëpërçuese dhe mikroçipa të integruar në qytetin e Bryansk, vetëm 100 kilometra larg kufirit ukrainas.
+
+Pas sulmit, i cili vrau gjashtë persona, disa blogerë rusë të luftës shprehën habinë që një vendndodhje kaq kritike për nevojat e fushëbetejës së Rusisë nuk ishte evakuuar gjatë katër viteve të luftës dhe po vepronte brenda rrezes së raketave ukrainase.
+
+Më 25 shkurt, dronët ukrainas goditën një fabrikë kimike që i përkiste fabrikës së plehrave Akron në qytetin e Dorogobuzh, duke ulur prodhimin e plehrave të Rusisë me rreth 5 për qind, pak para një krize furnizimi të shkaktuar nga sulmet SHBA-Izrael ndaj Iranit.
+
+Ministria ruse e Mbrojtjes tha dje se Ukraina ishte përpjekur të sulmonte një stacion pompimi të operuar nga gjigandi i naftës Gazprom, i cili eksporton gaz natyror përmes tubacionit nënujor TurkStream për klientët evropianë, por sulmi u pengua.
+
+Më 2 mars, stacioni Cheskaris, një terminal i madh nafte në bregdetin rus të Detit të Zi, pezulloi ngarkimin pasi një sulm me dron ukrainas plagosi pesë persona, dëmtoi 20 ndërtesa dhe i vuri flakën një terminali karburanti.
+
+Mes sulmeve në rritje, Rusia po ngadalëson ose po mbyll internetin celular në Moskë dhe disa qytete të tjera të mëdha, si pjesë e asaj që Kremlini i quan masa sigurie.
+
+Ndërsa ndërprerje të tilla janë bërë të zakonshme në të gjithë Rusinë gjatë luftës në Ukrainë, Moska nuk i ka përjetuar ato në një shkallë të tillë që nga fillimi i luftës, me miliona njerëz që kanë humbur aksesin në shërbime të njohura si hartat ose aplikacionet e thirrjes së taksive.",0.4997,0.5480,climate crises,west nile virus,high_both,no,no,no,Russia protecting energy infrastructure from Ukrainian attacks,,
+Albanian,Serbia,koha.net,newsapi,673,https://www.koha.net/arberi/te-henen-nderpritet-perkohesisht-furnizimi-me-uje-ne-dardani-te-prishtines,Të hënën ndërpritet përkohësisht furnizimi me ujë në këtë lagje të Prishtinës - KOHA.net,"Furnizimi me ujë do të ndërpritet përkohësisht gjatë mëngjesit të së hënës në lagjen Dardania të kryeqytetit.
+
+Sipas njoftimit të Kompanisë Rajonale të Ujësjellësit ""Prishtina"", kjo ndërprerje do të ndodhë për shkak të punimeve dhe intervenimit në gypin e ujit.
+
+Nga kompania bëhet e ditur se furnizimi me ujë do të rikthehet menjëherë pas përfundimit të punimeve dhe rregullimit të defektit.
+
+""Ju njoftojmë se për shkak të punimeve dhe intervenimit në gypin e ujit në Rr. ""Idriz Gjilani"" në lagjen Dardania, nesër në mëngjes më 16 mars ndërpritet përkohësisht furnizimi me ujë. Furnizimi me ujë do të rikthehet menjëherë pas përfundimit të punimeve dhe sanimit të defektit"", thuhet në njoftim.",0.4961,0.5543,climate crises,undernourishment,high_both,no,no,no,Lebanese ceasefire efforts,,
+Albanian,Israel,panorama.com.al,newsapi,47,https://www.panorama.com.al/nga-subvencioni-per-naften-te-karta-dixhitale-e-karburantit-dhe-ndihma-per-fermeret-ja-masat-e-marra-nga-qeveria-greke-per-te-perballuar-rritjen-cmimeve/,Nga subvencioni për naftën te 'Karta Dixhitale e Karburantit' dhe ndihma për fermerët! Ja masat e marra nga qeveria greke për të përballuar rritjen çmimeve,"Një paketë prej katër masash të synuara me vlerë totale 300 milionë euro për periudhën prill-maj është shpallur nga kryeministri grek Kyriakos Mitsotakis, me qëllim përballimin e rritjes së çmimeve të energjisë dhe mbështetjen e qytetarëve dhe sektorëve kyç të ekonomisë.
+
+Sipas njoftimit zyrtar, masat përfshijnë zgjerimin e kritereve të përfitimit për subvencionin e karburantit, në mënyrë që të mbulojë rreth 3 nga 4 milionë pronarë automjetesh në vend, si dhe ndërhyrje të drejtpërdrejta në çmimet e naftës, bujqësisë dhe transportit detar.
+
+Qeveria do të subvencionojë naftën e përdorur për transport me 16 cent për litër në rrjetin e shpërndarjes, çka përkthehet në një ulje përfundimtare prej rreth 20 cent për litër, përfshirë TVSH-në.
+
+2-Karta Digjitale e Karburantit:
+
+Do të ofrohet një kartë digjitale për të përballuar rritjen e çmimeve të benzinës, e cila mund të përdoret në pika karburanti, transport publik dhe taksi. Mbështetja mesatare llogaritet në 36 cent për litër, duke përkthyer në rreth 50 euro për dy muaj në territorin kontinental dhe 60 euro për banorët e ishujve.
+
+3-Mbështetje për fermerët:
+
+Për të lehtësuar barrën nga rritja e çmimeve të plehrave kimike, shteti do të subvencionojë 15% të kostos së faturave të blerjes për fermerët.
+
+4-Kompensim për kompanitë e trageteve:
+
+Parashikohet një mekanizëm kompensimi për kompanitë e transportit detar, i lidhur me zbatimin e detyrueshëm të uljeve në çmimet e biletave, me synim mbajtjen e tyre pranë niveleve të vitit të kaluar.
+
+Financimi dhe deklaratat
+
+Qeveria bëri të ditur se kostoja e paketës do të mbulohet nga buxheti i shtetit, si dhe nga taksimi i fitimeve në platformat e lojërave të fatit online të tipit kazino, duke siguruar rreth 100 milionë euro.
+
+Në deklaratën e tij, Kyriakos Mitsotakis theksoi se këto masa janë rezultat i një menaxhimi të kujdesshëm fiskal dhe synojnë të forcojnë mbrojtjen sociale në një periudhë pasigurie ekonomike globale. Ai shtoi se qeveria ruan rezerva për ndërhyrje të mëtejshme në rast përkeqësimi të situatës ndërkombëtare.",0.5369,0.5645,carbon emission,undernourishment,high_both,no,no,no,Junk - newspaper front page listing,,
+Albanian,Serbia,koha.net,newsapi,509,https://www.koha.net/bote/lufta-ndaj-iranit-do-te-coje-45-milione-njerez-ne-uri-akute-deri-ne-qershor-thote-okb-ja,"Lufta ndaj Iranit do të çojë 45 milionë njerëz në uri akute deri në qershor, thotë OKB-ja - KOHA.net","Dhjetëra milionë njerëz do të përballen me uri akute nëse lufta në Iran vazhdon deri në qershor, sipas një analize të publikuar të martën nga Programi Botëror i Ushqimit, i cili vepron në kuadër të OKB-së.
+
+Sulmet SHBA-Izrael ndaj Iranit që filluan më 28 shkurt kanë bllokuar rrugët kryesore të ndihmës humanitare, duke vonuar dërgesat shpëtimtare për disa nga krizat më të këqija në botë.
+
+45 milionë të tjerë parashikohet të çohen në uri akute për shkak të rritjes së kostove të ushqimit, naftës dhe transportit, duke e çuar numrin global mbi nivelin aktual rekord prej 319 milionësh, u ka thënë gazetarëve në Gjenevë zëvendësdrejtori ekzekutiv i Programit Botëror të Ushqimit, Carl Skau.
+
+""Kjo do t'i çonte nivelet globale të urisë në një rekord të të gjitha kohërave dhe është një perspektivë e tmerrshme"", ka thënë ai.
+
+""Tashmë, para kësaj lufte, ishim në një stuhi të përsosur ku uria nuk ka qenë kurrë aq e rëndë sa tani, për sa i përket numrave dhe se sa e thellë është ajo"", ka shtuar ai.
+
+Skau ka thënë se kostot e transportit janë rritur me 18% që kur filluan sulmet SHBA-Izrael ndaj Iranit më 28 shkurt.",0.5438,0.5689,climate crisis,undernourishment,high_both,no,no,no,Albanian politics - opposition vs government,,
+Albanian,Israel,panorama.com.al,newsapi,1176,https://www.panorama.com.al/nicole-kidman-flet-per-here-te-pare-per-divorcin-nga-keith-urban-ne-vazhdojme-te-jemi-nje-familje/,Nicole Kidman flet për herë të parë për divorcin nga Keith Urban: Ne vazhdojmë të jemi një familje,"Nicole Kidman ka folur për herë të parë për ndarjen nga Keith Urban. Në një intervistë për ""Variety"", aktorja 58- vjeçare tha se ndihet mirë sepse gjithmonë përpiqet të ecë përpara në jetën e saj në mënyrën më të mirë.
+
+""Jam mirënjohëse për familjen time. Pjesën tjetër nuk e diskutoj, nga respekti"", tha ajo.
+
+Ajo dhe Urban kanë dy vajza, Sunday Rose, 17 vjeçe, dhe Faith Margaret, 14 vjeçe.
+
+""Ne do të vazhdojmë të jemi një familje. Me vajzat e mia të bukura, dashuritë e mia, të cilat papritmas u bënë gra.""
+
+Kidman ka dy fëmijë të tjerë, Isabella Cruise, 32 vjeç dhe Connor Cruise, 30 vjeç, të cilët i adoptoi me ish-bashkëshortin e saj, Tom Cruise. Por tani ajo e ka ndërtuar jetën e saj larg Hollyëood-it, në Tennessee, ku planifikon të vazhdojë.
+
+""Kam qenë pjesë e këtij qyteti dhe komuniteti për 20 vjet. Është shtëpia ime.""
+
+Në procedurat e divorcit, ish-çifti ranë dakord që Kidman të kishte kujdestarinë e fëmijëve 306 ditë në vit dhe Urban çdo fundjavë tjetër, për një total prej 59 ditësh. Në një intervistë të mëparshme me Harper's Bazaar, ylli kishte folur për kohërat e vështira në jetën e saj, por pa diskutuar divorcin e saj.
+
+Në atë kohë, ajo kishte thënë se gjëja më e mirë e rritjes janë ""të gjitha përvojat që ke pasur"" dhe të kuptosh se pavarësisht se çfarë ndodh""
+
+""E di që do t'ia dal mbanë. Është e rëndësishme të dish se pavarësisht sa e dhimbshme, pavarësisht sa e vështirë, pavarësisht sa e pashpresë është diçka, ka një rrugëdalje. Nuk mund të jesh i mpirë. Duhet ta ndjesh, dhe nganjëherë do të ndihet e padurueshme. Do të ndihesh e thyer. Por nëse e merr ngadalë dhe me kujdes - dhe kjo mund të zgjasë shumë - do të kalojë"", tha ajo.",0.4392,0.4644,climate crisis,quality of life,low_both,no,no,no,Election campaign regulations for Kosovo,,
+Albanian,Serbia,koha.net,newsapi,1351,https://www.koha.net/kulture/shteti-ne-tentimin-e-katert-per-restaurimin-e-monumentit-midis-prishtines,Shteti në tentimin e katërt për restaurimin e monumentit midis Prishtinës - KOHA.net,"Me statusin e monumentit nën mbrojtje të përhershme e njëkohësisht edhe objekt me rrezikshmëri, aseti i njohur si ""Shtëpi banimi - Musli Hoxha"" në qendër të Prishtinës, ka prapa dështimin e trefishtë të gjetjes së kompanisë që do ta restauronte. Ministria e Kulturës e ka hapur tenderin e katërt dhe ka ndryshuar taktikën, duke fajësuar ""çmimin"" prej 120 mijë eurosh si shkak për dështimet e tenderëve. Shtëpia e ndërtuar më 1927 ka edhe probleme të tjera dhe pronarët kaherë kanë kërkuar zgjidhja nga shteti
+
+Ministria e Kulturës i është kthyer nismës për të shpëtuar monumentin në qendër të Prishtinës, ""Shtëpi banimi - Musli Hoxha"". Pas dështimit të trefishtë që nëpërmjet thirrjes publike për rreth 120 mijë euro të restaurohet ndërtesa dykatëshe në rrugën ""Luan Haradinaj"", Ministria të enjten ka ndërruar ""taktikën"". E ka përfshirë monumentin në një tender tjetër bashkë me disa asete të tjera të trashëgimisë kulturore duke e rritur vlerën monetare të punëve që do të kryhen. Në MKRS është krijuar bindja se për 120 mijë euro s'ka kompani të interesuar për të marrë përsipër restaurimin e shtëpisë të cilën e mbajnë shtyllat.
+
+Ky monument që gjendet në rrugën ""Luan Haradinaj"", në Prishtinë, është nën mbrojtje të përhershme si aset i trashëgimisë kulturore. Përderisa qëndron në shtylla, tri herë radhazi Ministria e Kulturës ka dështuar të gjejë një kompani që do ta restauronte. Krahas kësaj, një projekt për një ndërtesë gjigante në atë zonë, ka të paktën një vit që qarkullon midis ndërtuesish e pronarëve të parcelave përreth.
+
+Tash, thirrja publike mban titullin ""Restaurimi dhe Konservimi i shtëpisë se banimit Musli Hoxha në Prishtinë, Mulliri i Zotnisë në Smrekonicë të Vushtrrisë dhe Kulla e Astrit Kryeziut - Tosun Beut në Gjakovë"" si vlerë monetare është parashikuar 260 mijë euro.
+
+Në disa komunikime të KOHËS me menaxhmentin e lartë të MKRS-së është thënë se vlera paraprake qe e vogël.
+
+""S'ka kompani të interesuara që ta bëjnë atë punë. Ju duket vlerë e vogël"", kanë thënë në MKRS. Kësaj radhe sikurse në tri herët tjera, thirrja është e hapur. Ndërkohë ka qarkulluar edhe një tjetër ide.
+
+""Ideja ka qenë që të zhvillojmë procedurë të negociuar. Por erdhëm në përfundim ta provojmë kësisoj duke e bashkuar në tender me disa monumente të tjera që të rritet vlera"", kanë thënë në MKRS.
+
+Menaxhmenti paraprak, bashkë me një pjesë të menaxhmentit të tanishëm janë në dijeni se për atë zonë është projektuar një shumëkatëshe. Për këtë KOHA ka raportuar qysh në verën e vjetme.
+
+Tri thirrje publike të Ministrisë së Kulturës prej vitit të kaluar e deri në shkurt të këtij viti kanë dështuar për ta restauruar monumentin. Në dy thirrje s'ka pasur fare të interesuar që për 120 mijë euro ta restaurojnë ndërtesën dykatëshe. Në një tjetër thirrje, ku ishin të përfshira edhe disa monumente të tjera, kompanitë që janë interesuar për ""lotin"" ku qe e përfshirë edhe ""Shtëpi banimi - Musli Hoxha"", janë shpallur të papërgjegjshme administrativisht.
+
+""Sipas Njoftimit mbi Vendimin e AK-MKR...",0.4543,0.4871,environmental change,casualties,low_both,no,no,no,EU-Turkey trade discussions,,
+Albanian,Serbia,koha.net,newsapi,120,https://www.koha.net/arberi/kerkohet-shpallja-urgjente-e-konkursit-per-kryeprokuror-te-ri-te-shtetit,Kërkohet shpallja urgjente e konkursit për Kryeprokuror të ri të Shtetit - KOHA.net,"Instituti i Kosovës për Drejtësi ka kërkuar nga Këshilli Prokurorial i Kosovës që të shpallë sa më parë konkursin për zgjedhjen e Kryeprokurorit të Shtetit, duke theksuar se Kosova funksionon tash e katër vite pa një kryeprokuror me mandat të rregullt.
+
+IKD vlerëson se vendi ka nevojë urgjente për një Kryeprokuror të zgjedhur në mënyrë meritorë dhe transparente, duke respektuar procesin ligjor dhe standardet e integritetit. Sipas institutit, mungesa e një kryeprokurori me mandat të plotë ka ndikuar në funksionimin e institucioneve dhe ka kufizuar zhvillimin e prokurorisë.
+
+Hulumtuesi i lartë në IKD, Gzim Shala, ka theksuar se, megjithëse reforma në Këshillin Prokurorial të Kosovës sipas përbërjes së re është jetësuar dhe ekziston kuorum i mjaftueshëm për funksionim, procesi për zgjedhjen e kryeprokurorit nuk është zhvilluar që nga tetori i vitit 2023, kur Vjosa Osmani e ka kthyer vendimin për këtë çështje.
+
+Shala ka kritikuar papërgjegjësinë e Këshillit Prokurorial, duke theksuar se nuk është zhvilluar konkursi i ri për zgjedhjen e kryeprokurorit. Ai ka vlerësuar se procesi duhet të jetë transparent, i barabartë dhe meritokratik, në mënyrë që emri i ri të dalë nga një proces i rregullt dhe i besueshëm.
+
+Sipas Shalës, ushtruesi i detyrës së kryeprokurorit ka kompetencat formale të një kryeprokurori, por nuk mund të zhvillojë vizion afatgjatë për institucionin. Ai ka shtuar se vetëm një person me mandat të rregullt mund të udhëheqë prokurorinë e shtetit sipas vizionit të tij dhe të zhvillojë institucionin në mënyrë të qëndrueshme.
+
+""Duhet të shpallet sa më parë një konkurs i ri dhe të zhvillohet një proces i rregullt, transparent dhe me integritet, në mënyrë që vendi të ketë një Kryeprokuror të zgjedhur me mandat të plotë,"" ka thënë Shala, duke mbështetur urgjencën e veprimeve të Këshillit Prokurorial.",0.3868,0.4308,climate crises,west nile virus,low_both,no,no,no,Football transfer news,,
+Albanian,Serbia,koha.net,newsapi,2248,https://www.koha.net/showbiz/russell-brand-deklarohet-i-pafajshm-per-akuzat-per-perdhunim-e-sulm-seksual,Russell Brand deklarohet i pafajshëm për akuzat për përdhunim e sulm seksual - KOHA.net,"Aktori dhe komediani britanik, Russell Brand, është deklaruar i pafajshëm ndaj akuzave për përdhunim dhe sulm seksual gjatë paraqitjes së tij në Gjykatën e Kurorës në Southwark, në Londër.
+
+50-vjeçari u paraqit në gjykatë të martën (24 shkurt 2026), ku konfirmoi identitetin e tij dhe u deklarua ""i pafajshëm"" për dy akuza që lidhen me ngjarje të dyshuara se kanë ndodhur në Londër në vitin 2009. Këto dy akuza kanë të bëjnë me dy gra, ka raportuar FemaleFirst.
+
+Më herët, Brand ishte akuzuar për dy raste përdhunimi, një sulm të pahijshëm dhe dy sulme seksuale, që përfshijnë katër gra të ndryshme, për ngjarje që dyshohet se kanë ndodhur mes viteve 1999 dhe 2005. Në muajin maj, ai u deklarua i pafajshëm edhe për këto akuza fillestare.
+
+Gjykimi për akuzat e para është caktuar të mbahet në muajin qershor, ndërsa një seancë tjetër do të vendosë nëse dy akuzat e reja do t'i bashkohen procesit gjyqësor.
+
+Pas paraqitjes në gjykatë, Brand u lirua me kusht dhe pritet të rikthehet në një datë të mëvonshme.
+
+Para seancës, ai ka folur shkurtimisht me gazetarët jashtë gjykatës. Kur u pyet si ndihej, ai iu përgjigj Sky News me një fjalë të vetme: ""I bekuar"".
+
+Brand, i cili është baba i tre fëmijëve me bashkëshorten e tij Laura Gallacher, i ka mohuar vazhdimisht akuzat që nga momenti kur u padit për herë të parë nga Policia Metropolitane vitin e kaluar.
+
+""Gjithmonë ju kam thënë se kur isha i ri dhe beqar, para se të kisha gruan dhe familjen time... isha njeri budalla. Isha budalla para se të jetoja në dritën e Zotit. Isha i varur nga droga, i varur nga seksi dhe një i marrë. Por një gjë që nuk kam qenë kurrë, ka qenë përdhunues. Asnjëherë nuk jam përfshirë në aktivitete pa pëlqim. Lutem që ta shihni këtë duke më parë në sy"", ka thënë ai në një video të publikuar në rrjetet sociale.
+
+Aktori ka shtuar se tani do të ketë mundësinë të mbrojë veten në gjykatë.
+
+""Sigurisht, tani do të kem mundësinë t'i mbroj këto akuza në gjykatë. Dhe jam jashtëzakonisht mirënjohës për këtë"", ka thënë ai.",0.4317,0.4882,climate crisis,casualties,low_both,no,no,no,Albanian political corruption case,,
+Albanian,Israel,panorama.com.al,newsapi,3274,https://www.panorama.com.al/video-me-sa-duket-nuk-e-kishte-fajin-bari-interi-turperohet-edhe-ne-san-siro-nga-bodoglimt-dhe-i-jep-lamtumiren-champions-it/,"VIDEO/ Me sa duket nuk e kishte fajin bari! Interi turpërohet edhe në ""San Siro"" nga Bodo/Glimt dhe i jep lamtumirën Champions-it","Interi katranos gjithçka në ndeshjen e kthimit ndaj Bodo Glimt në ""San Siro"", teksa u mposht me rezultatin 1 me 2, duke u eliminuar nga Champions-i. Mesa duket nuk e kishte fajin bari i fushës sintetike, në duelin e parë të zhvilluar në Norvegji, pasi skuadra modeste e Bodo Glimtit arriti një kualifikim historik mëse të merituar, duke i dhënë leksion futbolli zikaltërve të Kristin Kivusë, në mes të ""San Siros"".
+
+Ish-futbollisti i Milanit, Hauge dhe Evjen ishin autorët e golave për Bodo Glimt, ndërkohë që golin e vetëm për Interin e shënoi Bastoni. Me këtë kualifikim debutuesit norvegjezë e shohin veten mes 16 skuadrave më të mira të Champions-it në këtë edicion, ndërkohë që për Interin, fokusi do të jetë i gjithi në Serinë A.",0.4524,0.4952,extreme event,west nile virus,low_both,no,no,no,Crime - drug trafficking arrest,,
+Albanian,Serbia,koha.net,newsapi,1401,https://www.koha.net/arberi/elza-bajrami-kastrati-betohet-si-anetare-e-kpk-se,Elza Bajrami-Kastrati betohet si anëtare e KPK-së - KOHA.net,"Prokurorja Elza Bajrami-Kastrati është betuar si anëtare e re e Këshillit Prokurorial të Kosovës (KPK) pas miratimit të raportit të komisionit zgjedhor, ku ishte shpallur fituese në radhët e prokurorive themelore.
+
+Bajrami-Kastrati pati fituar zgjedhjet në konferencën e përgjithshme të prokurorëve në nëntor të vitit të kaluar, por certifikimi i saj u pamundësua vitin e kaluar nga disa anëtarë të Këshillit. Arsyetimi i KPK-së ishte që procesi nuk është zhvilluar konform standardeve.
+
+Pas kësaj Bajrami-Kastrati kishte ushtruar padi në Gjykatën Themelore në Prishtinë duke kërkuar anulimin e vendimit. Më 3 mars, Themelorja vendosi që të anulojë vendimin e KPK-së të 1 dhjetorit dhe e detyroi ta miratojë raportin për procesin zgjedhor.
+
+Për këtë ka reaguar edhe Donika Gërvalla, ministrja e Drejtësisë. Në një shkrim në Facebook, ajo ka thënë se me këtë po shkon drejt zbatimit të plotë reforma në KPK.
+
+""Sot është certifikuar anëtarja e re e KPK-së nga radhët e prokurorive themelore, për ta sjellë Këshillin në 6 nga gjithsej 7 anëtarë sa duhet të ketë KPK. Ky hap është rezultat i ndryshimeve reformuese ligjore, konkretisht Ligjit Nr. 08/L-249 për ndryshimin dhe plotësimin e Ligjit Nr. 06/L-056 për Këshillin Prokurorial të Kosovës, dhe pjesë e procesit të zbatimit të reformës në Këshillin Prokurorial të Kosovës. Ditë me parë Kuvendi i Kosovës ka nisur procedurat për ta zgjedhur edhe anëtarin/en e mbetur jo prokuror/e, në mënyrë që e tëra të kompletohet në përputhje me synimet e reformës. Ky veprim funksionalizon tutje punën në KPK. Padyshim se ky është një zhvillim pozitiv që tregon se reforma po zbatohet, me qëllim të forcimit të integritetit, llogaridhënies dhe profesionalizmit në tërë sistemin prokurorial"", ka shkruar ajo.",0.4325,0.4753,changing climates,west nile virus,low_both,no,no,no,Israeli strikes on Hezbollah,,
+Albanian,Israel,panorama.com.al,newsapi,3394,https://www.panorama.com.al/video-helikopteri-i-ushtrise-iraniane-rrezohet-ne-tregun-e-isfahanit-raportohet-per-disa-viktima/,"VIDEO/ Helikopteri i ushtrisë iraniane rrëzohet në tregun e Isfahanit, raportohet për disa viktima","Një helikopter i ushtrisë iraniane është rrëzuar në një treg frutash dhe perimesh në provincën qendrore Isfahan, në Iranin qendror, duke shkaktuar vdekjen e pilotit, bashkëpilotit dhe dy tregtarëve, sipas mediave shtetërore.
+
+Helikopteri u përplas në qytetin Dorcheh, duke shkaktuar një zjarr që u shua nga shërbimet e emergjencës.
+
+Ekspertët theksojnë se Irani ka një bilanc të dobët në sigurinë ajrore, me aksidente të përsëritura, shumë prej të cilave përfshijnë avionë të blerë para Revolucionit Islamik të vitit 1979 dhe që nuk disponojnë pjesë këmbimi origjinale për mirëmbajtje.
+
+Javën e kaluar, një avion luftarak McDonnell Douglas F-4 Phantom II, prodhim amerikan dhe pjesë e forcave ajrore iraniane, u rrëzua në provincën perëndimore Hamadan Province, duke shkaktuar vdekjen e një piloti gjatë një fluturimi stërvitor.",0.4509,0.4980,climate emergency,west nile virus,low_both,no,no,no,Albanian political debate,,
+Albanian,Israel,panorama.com.al,newsapi,796,https://www.panorama.com.al/pd-bojkoton-seancen-reagon-taulant-balla-keqardhje-per-demokratet-sipas-tyre-qendrimi-i-shqiperise-krah-shba-se-ndaj-veprimeve-terroriste-te-iranit-qenka-agjende-personale/,"PD bojkoton seancën, reagon Taulant Balla: Keqardhje për demokratët! Sipas tyre qëndrimi i Shqipërisë krah SHBA-së ndaj veprimeve terroriste të Iranit, qenka agjendë personale","Vendimi i Partisë Demokratike për të bojkotuar seancën plenare të së martës në Kuvendi i Shqipërisë ka sjellë reagimin e kreut të grupit parlamentar të Partia Socialiste e Shqipërisë, Taulant Balla.
+
+Përmes një reagimi publik, Balla shprehu keqardhje për vendimin e opozitës, duke theksuar se seanca është thirrur për të diskutuar një projekt-rezolutë që lidhet me qëndrimin e Shqipërisë ndaj Iran.
+
+Sipas tij, në seancë pritet të propozohet një projekt-rezolutë ""Për shpalljen e Republikës Islamike të Iranit si shtet sponsor të terrorizmit dhe si shtet që përdor mjete terroriste"", duke theksuar se ky është një qëndrim i domosdoshëm i Shqipërisë në krah të Shtetet e Bashkuara të Amerikës.
+
+Ai kundërshtoi gjithashtu pretendimin e opozitës se seanca është thirrur në kundërshtim me rregulloren, duke e cilësuar këtë një gënjeshtër. Sipas Ballës, seanca e 17 marsit është propozuar që më 18 shkurt në Konferencën e Kryetarëve dhe është miratuar me vendim të seancës plenare rreth një muaj më parë.",0.4341,0.4582,climate crisis,west nile virus,low_both,no,no,no,Albanian embassy dispute with US,,
+Albanian,Israel,panorama.com.al,newsapi,1352,https://www.panorama.com.al/rikthimi-i-basteve-qeveria-miraton-rregullat-e-reja-vendimi-standardet-teknike-dhe-monitorimi-ne-kohe-reale/,"Rikthimi i basteve, qeveria miraton rregullat e reja! Vendimi, standardet teknike dhe monitorimi në kohë reale","Qeveria ka miratuar një vendim të ri që vendos standarde teknike dhe rregulla minimale për rikthimin funksionimin e platformave të basteve sportive online në Shqipëri.
+
+Vendimi u miratua në mbledhjen e Këshillit të Ministrave të zhvilluar më 11 mars 2026 dhe synon të rrisë nivelin e kontrollit dhe transparencës në aktivitetin e basteve sportive online që ofrohen nga subjektet e licencuara.
+
+Vendimi përcakton kriteret teknike dhe kërkesat bazë që duhet të plotësojnë sistemet, faqet e internetit dhe aplikacionet për bastet sportive online.
+
+Ndër të tjera, ai parashikon standardet minimale që duhet të përmbushin sistemet përmes të cilave administrohen, menaxhohen dhe zhvillohen bastet sportive online, duke përfshirë si komponentët hardware ashtu edhe ata software.
+
+Po ashtu, janë vendosur rregulla të qarta për procesin e identifikimit dhe regjistrimit të lojtarëve, me qëllim garantimin e aksesit të ligjshëm në këto platforma, mbrojtjen e të dhënave personale dhe parandalimin e aktiviteteve të paligjshme në këtë fushë.
+
+Vendimi trajton edhe mënyrën e kryerjes së pagesave dhe të faturimit. Sipas rregullave të reja, çdo pagesë apo transaksion financiar që lidhet me bastet sportive online duhet të regjistrohet dhe të monitorohet në kohë reale nga institucionet shtetërore përgjegjëse.
+
+Qeveria njoftoi zyrtarisht:
+
+*Përcaktimin e standardeve,që kanë të bëjnë me kushtet teknike dhe standardet minimale, që duhet të plotësojnë sistemet/website-t/aplikacionet e basteve sportive on-line të subjekteve të licencuara, të cilat konsistojnë në:
+
+a) kërkesat teknike minimale, që duhet të plotësojnë sistemet, ku administrohen, menaxhohen dhe luhen bastet sportive on-line, duke përfshirë komponentët hardware dhe software;
+
+b) kërkesat për identifikimin e regjistrimin e lojtarëve, me qëllim sigurimin e aksesit të ligjshëm, mbrojtjen e të dhënave dhe parandalimin e lojës së paligjshme;",0.4489,0.4756,extreme event,quality of life,low_both,no,no,no,Crime - robbery court case,,
+Albanian,Israel,panorama.com.al,newsapi,1219,https://www.panorama.com.al/interi-ne-ankth-nderprerja-nga-play-off-mund-te-sjelle-demtime/,"Interi në ankth, ndërprerja nga ""play-off"" mund të sjellë dëmtime","Ankthi te Interi si pasojë e ndeshjeve ndërkombëtare. Është e vërtetë që pasi humbi derbin dhe i lejoi Milanit të rikthehej në shtatë pikë diferencë, ekipi i Kristian Kivut do të duhet të përballet me Atalantën (të shtunën në orën 15:00 në San Siro) dhe Fiorentinën (të dielën, më 22 në Firencei) gjatë dy javëve të ardhshme.
+
+Këto janë larg të qenit ndeshje ""relaksuese"", por tashmë ka një ndjesi emocionesh te Interi përpara pushimit të ardhshëm ndërkombëtar, të fundit të sezonit. Disa lojtarë do të largohen më 23 mars, disa me miqësore të thjeshta ( Turam dhe Susiç , për shembull, do të jenë me Francën dhe Kroacinë në Florida për t'u përballur me Brazilin dhe Kolumbinë), por shumë do të kenë ndeshje interit nuk i interesojnë fare. Disa do të luajnë për kualifikimin në Kupën e Botës, dhe disa madje do të luajnë për një trofe.
+
+Interi është i shqetësuar për ata që janë aktualisht të lënduar dhe do të bëjë gjithçka që mundet për t'u rikthyer në kohë për angazhimet e tyre me ekipin kombëtar përkatësisht, Lautaro Martinez dhe Hakan Çalhanoglu dhe ata që mund të kthehen me një zhgënjim të hidhur, përkatësisht dështimin e tyre për të marrë pjesë në Kupën e Botës.
+
+Para së gjithash, udhëheqësit teknikë dhe karizmatikë që aktualisht janë jashtë fushave. Lautaro pësoi një dëmtim më 18 shkurt kundër Bodo/Glimt, një tërheqje muskulore të pulpës së majtë nga e cila nuk është rikuperuar ende. Kapiteni do të humbasë ndeshjen e Atalantës, por pritet të kthehet për udhëtimin në Firence. Nëse nuk ka ndonjë rikthim të sëmundjes, ai me siguri do të thirret në skuadrën e Argjentinës për finalisiman. Një ngjarje që Lautaro, thellësisht i lidhur me ekipin e tij kombëtar, nuk dëshiron ta humbasë. Po kështu, Çalhanoglu, kapiteni i Turqisë, i cili do të përballet me Rumaninë në ndeshjen e tyre të parë eliminatore për Kupën e Botës më 26 mars në Stamboll.",0.4342,0.4769,extreme event,west nile virus,low_both,no,no,no,Sport - Formula 1 race report,,
+Albanian,Israel,panorama.com.al,newsapi,2005,https://www.panorama.com.al/padia-ndaj-kanye-west-bianca-censori-befason-me-paraqitjen-ne-gjykaten-e-los-angeles-fotot/,"Padia ndaj Kanye West, Bianca Censori befason me paraqitjen në gjykatën e Los Angeles (FOTOT)","Stilistja Bianca Censori ka bërë përshtypje me paraqitjen e saj serioze në gjykatën e Los Angeles gjatë seancës gjyqësore që lidhet me një padi civile kundër bashkëshortit të saj, Kanye West.
+
+Ajo u shfaq ndryshe krahasuar me daljet e saj të zakonshme publike ku zakonisht shihet mjaft eksravagante. Bianca kishte zgjedhur një fustan të thjeshtë dhe flokët i kishte mbledhur topuz, duke tërhequr vëmendjen e mediave për stilin e saj më të rezervuar.
+
+Seanca lidhet me një padi civile të ngritur nga Tony Saxon kundër Kanye West. Saxon pretendon se është punësuar nga reperi në vitin 2021 si menaxher projekti për rinovimin e rezidencës së tij në Malibu.
+
+Sipas padisë, West dyshohet se nuk i ka paguar pagat, ka krijuar kushte të pasigurta pune dhe më pas e ka pushuar nga puna në mënyrë të paligjshme. Në dokumentet e gjykatës thuhet gjithashtu se Saxon ka punuar deri në 16 orë në ditë gjatë rinovimit të shtëpisë, të cilën reperi e kishte blerë për rreth 57 milionë dollarë.
+
+Padia përmend edhe pretendimin e Saxon se ai e kishte paralajmëruar West për rrezikun e vendosjes së gjeneratorëve të mëdhenj brenda shtëpisë. Sipas tij, reperi i ishte përgjigjur:
+
+""Nëse nuk bën atë që them, nuk do të punosh për mua, nuk do të jem më miku yt dhe do të më shohësh vetëm në TV"".
+
+Nga ana tjetër, Kanye West i ka mohuar të gjitha akuzat dhe ka kërkuar që padia të rrëzohet.",0.4306,0.4721,changing climate,west nile virus,low_both,no,no,no,Albanian parliament debate,,
+Albanian,Serbia,koha.net,newsapi,1841,https://www.koha.net/arberi/zgjedhja-e-presidentit-kurti-sot-takohet-me-abdixhikun,"Zgjedhja e presidentit, Kurti sot takohet me Abdixhikun - KOHA.net","Kryeministri i Kosovës, Albin Kurti, sot do të takohet me kryetarin e LDK-së, Lumir Abdixhiku, për çështjen e zgjedhjes së presidentit në vend.
+
+Ende nuk dihet vendi dhe ora e mbajtjes së takimit. Takimet e fundit Kurti me liderë të partive politike janë mbajtur në ambientet e Kuvendit të Kosovës.
+
+Kurti në Këshillin e Përgjithshëm të kësaj partie të mbajtur të dielën, tha se duke pas kohën e shkurtër për zgjedhjen e presidentit, ka filluar menjëherë angazhimin për tejkalimin e kësaj sfide, duke nis takimin me subjektet politike parlamentare. Ai ndër të tjera përmendi Murat Jasharin për president, ""si zgjidhje e duhur në kohën e duhur"". Por Jashari, javën e kaluar ka bërë të ditur se nuk është i interesuar për çështjen e presidentit.
+
+Të shtunën, Kurti ka takuar kryetarin e PDK-së, Bedri Hamza për herë të dytë sa i për këtë çështjes së presidentit.",0.4457,0.4869,climate crisis,west nile virus,low_both,no,yes,no,,Explosion injures tourists in Egypt,
+Albanian,Serbia,koha.net,newsapi,544,https://www.koha.net/arberi/opozita-serbe-ne-kosove-me-nisme-te-re-bashkepunimi,Opozita serbe në Kosovë me nismë të re bashkëpunimi - KOHA.net,"Këto subjekte politike kanë këshilltarë në kuvendet komunale të Leposaviqit, Mitrovicës së Veriut, Zubin-Potokut dhe Ranillugut. Një nga nënshkruesit e kësaj marrëveshjeje, njëherësh udhëheqës i iniciativës qytetare ""Rrënjët"", Ivan Vuçkoviq, ka thënë se marrëveshja e bashkëpunimit nënkupton edhe mundësinë e veprimit të përbashkët të këtyre tri subjekteve politike në zgjedhjet e ardhshme
+
+Uniteti, lufta për një pozitë më të mirë të komunitetit serb në Kosovë dhe perceptimi ndryshe i rrethanave politike.
+
+Këto janë disa nga arsyet përse iniciativat qytetare serbe ""Rrënjët"" dhe ""Veriu për të gjithë"", si dhe partia politike Lëvizja Popullore Serbe nënshkruan një marrëveshje bashkëpunimi më 15 mars.
+
+Këto subjekte politike kanë këshilltarë në kuvendet komunale të Leposaviqit, Mitrovicës së Veriut, Zubin-Potokut dhe Ranillugut.
+
+Një nga nënshkruesit e kësaj marrëveshjeje, njëherësh udhëheqës i iniciativës qytetare ""Rrënjët"", Ivan Vuçkoviq, thotë për Radion Evropa e Lirë se marrëveshja e bashkëpunimit nënkupton edhe mundësinë e veprimit të përbashkët të këtyre tri subjekteve politike në zgjedhjet e ardhshme.
+
+Aktualisht, mbetet e paqartë nëse në Kosovë do të mbahen zgjedhjet e reja parlamentare, pasi Gjykata Kushtetuese e vendit vendosi një masë të përkohshme deri më 31 mars, duke pezulluar zbatimin e dekretit të presidentes Vjosa Osmani për shpërndarjen e Kuvendit, derisa ta shqyrtojë kushtetutshmërinë e këtij vendimi.
+
+A ka vend për veprime të reja politike?
+
+Zoran Saviq, nga organizata joqeveritare ""Aktiv"" në Mitrovicë të Veriut, thotë se çdo bashkëpunim midis partive opozitare serbe në Kosovë është i mirëpritur, me kusht që të ketë një qëllim dhe strategji të përbashkët.
+
+Por, sipas tij, mbetet të shihet nëse marrëveshja e fundit do të rezultojë në një alternativë më serioze politike në praktikë.
+
+""Ajo që është e sigurt, është se pluralizmi politik është shumë i nevojshëm në mesin e komunitetit serb në Kosovë. Vetëm një front më i gjerë politik mund të përfaqësojë një kundërpeshë më serioze ndaj opsioneve ekzistuese nga komuniteti serb - nga njëra anë, Lista Serbe, të cilën Beogradi e sheh si adresën e vetme legjitime politike për serbët në Kosovë, gjë që nuk është absolutisht e vërtetë, dhe nga ana tjetër, partia e Nenad Rashiqit, të cilën institucionet e Kosovës e shohin si partneren e vetme nga komuniteti serb"", thotë Saviq për Radion Evropa e Lirë.
+
+Politikologu nga Beogradi, Ognjen Gogiq, beson se një pjesë e opozitës serbe ka lidhur marrëveshje bashkëpunimi sepse llogarit në thirrjen e zgjedhjeve të reja. Por, ai është skeptik se në fund - nëse caktohen zgjedhje të reja - këto parti do të dalin me një listë të vetme të përbashkët.
+
+Ai kujton se në prag të zgjedhjeve të dhjetorit të vitit të kaluar, nuk kishte ndonjë paraqitje të përbashkët të partive opozitare serbe apo iniciativave qytetare, por shton se ka hapësirë për veprime të reja politike.
+
+""Zgjedhjet kanë treguar tashmë se ka hapësirë që një pjesë e votuesve të votojnë për një 'rrugë t...",0.4383,0.4659,climate crisis,west nile virus,low_both,no,no,no,Kosovo election debate,,
+Albanian,Israel,panorama.com.al,newsapi,1432,https://www.panorama.com.al/hakmarrje-e-tatimoreve-ndaj-medias-gjobat-e-paligjshme-e-erilinda-lales-ndaj-kompanive-te-hysenbelliu-group/,"Hakmarrje e tatimorëve ndaj medias! Gjobat e paligjshme e Erilinda Lalës ndaj kompanive të ""Hysenbelliu Group""","Prej më shumë se gjashtë muajsh, televizioni News24 dhe mediat e tjera të ""Hysenbelliu Group"" kanë zhvilluar një sërë investigimesh gazetareske, përmes të cilave janë ngritur dyshime dhe janë bërë publike informacione mbi skandale të mundshme dhe raste të dyshuara abuzimi që lidhen me Drejtoreshën e Tatimeve të Tiranës, znj. Erilinda Lala, si dhe me persona të lidhur me të (familjarë të saj).
+
+Në vend që ndaj këtyre denoncimeve të kishte transparencë institucionale dhe një reagim shpjegues për opinionin publik, është zgjedhur një rrugë tjetër: përdorimi i mekanizmave administrativë për të ushtruar presion dhe për të ndëshkuar mediat që kanë guxuar të raportojnë mbi këto çështje.
+
+Pas publikimit të këtyre investigimeve, janë dërguar dy grupe kontrolli tatimor në dy kompani të ndryshme të ""Hysenbelliu Group"".
+
+Në një prej rasteve, grupi i kontrollit ka kryer verifikimet përkatëse dhe nuk ka konstatuar shkelje që të justifikonin vendosjen e gjobave të rënda administrative. Sipas informacioneve e fakteve, të cilat do i bëjmë publike shumë shpejt, ky grup nuk ka pranuar të firmosë gjoba që konsiderohen të pajustifikuara. Pas kësaj ai është larguar dhe në vend të tij është dërguar një grup tjetër kontrolli.
+
+Në rastin e një kompanie tjetër të grupit, situata konsiderohet edhe më e rëndë, pasi vendimi për vendosjen e gjobës është urdhëruar drejtpërdrejt nga vetë Drejtoresha e Drejtorisë Rajonale të Tatimeve të Tiranës, znj. Erilinda Lala.
+
+Këto veprime ngjajnë më shumë me një akt ndëshkimi ndaj gazetarisë investigative, sesa me një proces normal administrativ të kontrollit tatimor. Vendosja e gjobave të konsideruara të pajustifikuara krijon gjithashtu pasiguri për bizneset, pasi çdo subjekt ekonomik mbështetet në interpretimin profesional të specialistëve të financës dhe të këshilltarëve fiskalë për zbatimin korrekt të legjislacionit tatimor.
+
+Nëse institucionet përdoren për të vendosur gjoba të pajustifikuara apo për të ushtruar presion ndaj subjekteve të caktuara, kjo krijon një klimë pasigurie juridike dhe ekonomike, që dëmton jo vetëm bizneset e përfshira, por edhe besimin e përgjithshëm në administratën publike.
+
+Mediat e ""Hysenbelliu Group"" theksojnë se do të vazhdojnë të kryejnë misionin e tyre për informimin e publikut, duke publikuar fakte të pandodhura më parë lidhur me këto 2 kontrolle që janë tepër shokuese për grupet e interesit (biznese tatimpaguese, kontabilistë dhe fiskalistë).
+
+Çdo përpjekje për të frikësuar median përmes presioneve administrative apo gjobave të konsideruara të fabrikuara, përbën një goditje ndaj lirisë së informimit dhe ndaj parimeve të shtetit të së drejtës.
+
+Liria e medias dhe e drejta e qytetarëve për t'u informuar nuk mund të kufizohen me presion apo me masa ndëshkuese administrative. Opinioni publik ka të drejtë të dijë se si veprojnë institucionet që duhet të garantojnë ligjshmërinë dhe drejtësinë.
+
+Pavarësisht çdo presioni apo tentative për intimidim, publikimi i fakteve dhe mbrojtja e interesit publik do të vaz...",0.4568,0.4971,climate crisis,undernourishment,low_both,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,1415,https://www.panorama.com.al/kur-mbahen-standarde-te-dyfishta-krahasimi-rasteve-te-alqi-bllakos-dhe-belinda-ballukut-si-i-ndryshoi-qendrimet-edi-rama/,"Kur mbahen standarde të dyfishta, krahasimi rasteve të Alqi Bllakos dhe Belinda Ballukut, si i ndryshoi qëndrimet Edi Rama","Alqi Bllako dhe Belinda Balluku ishin dy zyrtarë socialistë, për të cilët SPAK kërkoi heqjen e imunitetit, por ata nuk u përballën me të njëjtin qëndrim nga kryeministri i tyre. Këto dy raste tregojnë dy standardet me të cilat Edi Rama e interpreton dhe e aplikon ligjin, kur bëhet fjalë për imunitetin parlamentar.
+
+""Para ligjit nuk ka deputetë, nuk ka ministra, nuk ka forcë, nuk ka të privilegjuar, janë të gjithë të barabartë..."", deklaroi Rama në mars 2022, kur SPAK kërkoi heqjen e imunitetit të Bllakos për aferën e inceneratorëve.
+
+Situata u paraqit atëherë sipas parimit se përpara ligjit të gjithë janë të barabartë dhe askush nuk duhet të fshihet pas imunitetit. Në të njëjtën frymë, edhe më pas Rama deklaroi se për këdo ndaj të cilit drejtësia ngre një akuzë, Partia Socialiste nuk do të bëhet mburojë politike.
+
+""Ne nuk do të jemi avokati i askujt"", ishte mesazhi i tij, duke shtuar se çdo kërkesë e ardhur nga SPAK do të miratohej pa u vënë në diskutim.
+
+Sot qasja duket krejt tjetër. Rama dhe partia e tij deklarojnë se heqja e imunitetit të Ballukut nuk është e nevojshme, sepse deputetja ""as nuk do largohet dhe as nuk mund të prishë provat"".
+
+Në këtë rast, imuniteti nuk trajtohet më si një çështje proceduriale, por si një mburojë politike. Pra tjetër standard aplikohet për një deputet larg qendrës së pushtetit dhe tjetër standard kur ai ka qenë në zemër të tij.
+
+Mënyra se si po trajtohet rasti i Ballukut krijon dyshimin se standardi nuk përcaktohet nga parimi, por nga frika për pasojat që mund të ketë një hetim më i thellë.
+
+Duket se në politikën tonë mbrojtja nuk bëhet gjithmonë për parime. Ajo bëhet për të kontrolluar dëmin. Dhe kur një deputete që deri dje ishte figurë e rëndësishme e pushtetit mbrohet me kaq vendosmëri, problemi mund të mos jetë vetëm fati politik i saj politik, por frika se ajo mund të marrë me vete të tjerë, nëse drejtësia shkon deri në fund./News24",0.4589,0.4930,changing climate,quality of life,low_both,no,no,no,Crime - police anti-drug operation,,
+Albanian,Serbia,koha.net,newsapi,870,https://www.koha.net/futboll/valverde-barazoi-rekordin-e-messit,Valverde barazoi rekordin e Messit - KOHA.net,"Mesfushori uruguaian, Federico Valverde, shkroi një faqe të re të historisë së Ligës së Kampionëve.
+
+Valverde realizoi ""hat-trick"" në pjesën e parë ndaj Manchester Cityt të mërkurën mbrëma, një rekord shumë rrallë i arritur kur përballë janë ekipet angleze. Valverde realizoi në minutën e 20-të pas një topi shumë mirë të pranuar dhe më pas e kaloi edhe portierin Gianluigi Donnarumma. Më pas në minutën e 27-të realizoi gol të bukur me gjuajtje të fuqishme nga zona me të majtën. Tregolëshin e kompletoi në minutën e 42-të, me gjuajtje të saktë nga afërsia. Me këtë rezultat edhe u mbyll ndeshja e parë e një të tetës së finales së Ligës së Kampionëve.
+
+Ai u nda i kënaqur pas tregolëshit.
+
+""Po, patjetër, veçanërisht për sa u përket golave. Më pëlqeu shumë. Kishte kaluar shumë kohë që nuk jam kënaqur kështu. I lumtur, i gëzuar, për fitoren e ekipit"", ka thënë Valverde.
+
+Me paraqitjen e tij, futbollisti i Real Madridit u bë vetëm futbollisti i dytë në historinë e turneut që shënon ""hat-trick"" në pjesën e parë ndaj një kundërshtari anglez.
+
+Deri tani, i vetmi futbollist që e ka arritur një gjë të tillë ka qenë Lionel Messi. Superylli argjentinas i shënoi tre gola në pjesën e parë ndaj Arsenalit në vitin 2010, gjatë ndeshjes së jashtëzakonshme të Championsit, sa ishte pjesë e Barcelonës.
+
+Që nga ajo kohë, asnjë futbollist nuk ka arritur që ta përsëritë një paraqitje të tillë ndaj një klubi anglez, deri kur Valverde shpërtheu me paraqitje mbresëlënëse në pjesën e parë ndaj Manchester Cityt.
+
+Kjo arritje bëhet edhe më e veçantë marrë për bazë fuqinë e ekipeve të Premier Leagues në garat evropiane në këtë sezon.
+
+Të shënosh tri herë brenda 45 minutave ndaj një rivali anglez është arritje e vështirë, për shkak të nivelit të lartë fizik dhe taktik që këto skuadra kanë, sidomos në Ligën e Kampionëve.
+
+Rekordi i Valverdes tani vendoset në listën e veçantë, duke i ndarë statistikat me njërin prej lojtarëve më të mirë të të gjitha kohëve.
+
+Përtej rolit të zakonshëm si mesfushor ""box-to-box"", Valverde ka shfaqur në disa raste edhe aftësinë për të arritur në zonën e kundërshtarëve dhe për të vendosur ndeshje të rëndësishme.
+
+Paraqitja e tij kundër Manchester Cityt nuk do të jetë vetëm si natë e paharrueshme për Real Madridin, por edhe si njëra prej arritjeve më të mëdha në statistika, në historinë e Ligës së Kampionëve.",0.3860,0.4101,extreme event,west nile virus,low_both,no,no,no,Albanian politics - constitutional court,,
+Albanian,Serbia,koha.net,newsapi,454,https://www.koha.net/kolumne/habermasi-ne-leposaviq,Habermasi në Leposaviq - KOHA.net,"Në vend të talljeve me Oso Kukën e tërë përpjekja e Kosovës për vendosjen e një sistemi të përgjithshëm ligjor në territorin e vendit mund të kuptohet me shtetndërtimin evropian të filluar me një koncept të thjeshtë: nuk i shprehet besnikëria ""gjakut e dheut"", por sistemit të brendshëm të ligjeve, sistemit kushtetues. BE-ja këtë e harroi, evropianët e Ballkanit Perëndimor janë aty për ta përkujtuar
+
+Filozofi gjerman, Jurgen Habermas, i vdekur fundjavën e kaluar, kishte diçka të bënte me krizën e targave të KM, letërnjoftimet e Kosovës, mandatin e Lulzim Hetemit dhe së fundmi me zbatimin e Ligjit për të Huajt në Republikën e Kosovës.
+
+Mbase rrëfimi më i skajshëm i përzierjes së Jurgen Habermasit në punët e brendshme të Kosovës ishte ai i Lulzim Hetemit.
+
+Hetemi u zgjodh kryetar i Komunës së Leposaviqit më 2023 në zgjedhjet e organizuara pasi kryetari i deriatëhershëm i kësaj komune së bashku me tre kryetarët e komunave me shumicë serbe në veri të Kosovës dhanë dorëheqje (me ta edhe policët, gjyqtarët e të tjerët të nacionalitetit serb në këtë pjesë të Kosovës).
+
+Kryetari Hetemi u bë i tillë me njëqind vota, votuesit e tjerë të komunës bojkotuan zgjedhjet. Zgjedhja qe legale, por kur ai u nis për të hyrë në vendin e tij të punës, në zyrën e kryetarit u organizuan protesta nga disa qytetarë serbë, e më pas nga ana e përfaqësuesve të lartë diplomatikë të Bashkimit Evropian, në krye me shefin e diplomacisë dhe sigurisë J.Borrell u kërkua që ai të mos hyjë në zyrë. Apo, kur hyri, të zhvendoset diku tjetër, qoftë edhe disa qindra metra larg.
+
+Kryetari Hetemi mbeti në zyrë me vullnet të vetin. Nga disa, përfshirë kryeministrin e Shqipërisë Rama, u përqesh si Oso Kuka bashkëkohor dhe iu kërkua të lëshojë pe ndaj kërkesave të miqve ndërkombëtarë. Kur vazhdoi të qëndrojë në zyrën e tij Kosova u akuzua për përshkallëzim të gjendjes politike dhe të sigurisë nga J.Borrell dhe iu vendosën sanksionet.
+
+2.
+
+Përqeshja me Oso Kukën nuk ka pasur ndonjë fat për t'u mbajtur për të mirë në mend e aq më pak për ta shpjeguar gjendjen. Këtë mund ta bëjë më mirë Jurgen Habermas me konceptin e tij të ""patriotizmit kushtetues"". Ky koncept ka ndikuar thelbësisht në ndërtimin e shteteve evropiane pas Luftës së Dytë Botërore, duke filluar me ndryshimin radikal në Gjermani. Sipas Habermasit, relacioni i përkatësisë së qytetarit në shtetin gjerman nuk qëndron në ""blud und boden"" (gjak e dhe), pra nuk mbështetet në konceptin etno-nacionalist që e çoi Gjermaninë në fillim të Luftës Botërore e gjenocid, por në përkatësinë e rregullave, normave ligjore e kushtetuese që rregullojnë marrëdhëniet në shtet. Gjashtëdhjetë vjet pas avokimit të konceptit të ""patriotizmit kushtetues"" nuk përbën kurrfarë çudie që kryetar i Mordbachut ,një komune prej 11 mijë banorësh në Gjermani të jetë zgjedhur Arianit Besiri, me prejardhje nga Mitrovica.
+
+Nga këndvështrimi i konceptit të Habermasit, Lulzim Hetemi nuk përmbushi ndonjë obligim ndaj kombit e flamurit shqiptar që i ka për zemër, por përmbushi o...",0.4412,0.4863,climate crisis,west nile virus,low_both,no,no,no,Kosovo political news,,
+Albanian,Serbia,koha.net,newsapi,902,https://www.koha.net/futboll/sllovakia-publikon-te-enjten-e-ardhshme-listen-e-lojtareve,Sllovakia publikon të enjten e ardhshme listën e lojtarëve - KOHA.net,"Përzgjedhësi i Sllovakisë, Francesco Calzona, të enjten e ardhshme do ta bëjë publike listën e lojtarëve për ndeshjen kundër Kosovës.
+
+Ndeshja Sllovaki - Kosovë luhet më 26 mars në Bratislavë. Është ndeshja gjysmëfinale e plejofit kualifikues për Kupën e Botës 2026.
+
+Gjysmëfinalja tjetër luhet ndërmjet Turqisë dhe Rumanisë. Finalja luhet më 31 mars.
+
+""Federata Sllovake e Futbollit njofton se konferenca për shtyp e trajnerit të ekipit kombëtar të futbollit sllovak, Francesco Calzona, mbi nominimin për ndeshjet e marsit me Kosovën 26 mars në orën 20:45 në Bratislavë dhe me Turqinë/Rumaninë më 31 mars në orën 20:45 në Bratislavë do të zhvillohet të enjten, më 19 mars në orën 15:30 në selinë e Federatës në Bratislavë"", shkruan në njoftimin e Federatës së Futbollit të Sllovakisë.",0.4460,0.5000,extreme event,west nile virus,low_both,no,no,no,Trump executive orders,,
+Albanian,Israel,panorama.com.al,newsapi,1986,https://www.panorama.com.al/trump-mesazh-teheranit-asnje-marreveshje-me-iranin-vetem-dorezim-pa-kushte-dhe-pastaj-do-te-zgjedhim-udheheqesin-e-ri/,"Trump mesazh Teheranit: Asnjë marrëveshje me Iranin, vetëm dorëzim pa kushte dhe pastaj do të zgjedhim udhëheqësin e ri","Presidenti i SHBA-së, Donald Trump, ka dërguar një mesazh të ashpër ndaj regjimit të Teheranit përmes një postimi të ri në rrjetin social Truth Social.
+
+Trump theksoi se i vetmi skenar që Shtetet e Bashkuara mund të pranojnë është një ""dorëzim pa kushte"" nga ana e Iranit.
+
+Sipas tij, pas këtij hapi do të pasojë procesi për zgjedhjen e një lideri të ri ose një grupi drejtuesish, që do të mbushin boshllëkun e krijuar pas vdekjes së Ali Khamenei.
+
+Në deklaratën e tij, presidenti amerikan përfshiu edhe aleatët, duke nënvizuar se ata do të punojnë së bashku për të ndërtuar të ardhmen e Iranit pas ndryshimeve politike. Në të njëjtën kohë, Trump prezantoi edhe një slogan të ri: ""Bëjeni Iranin të Madhërishëm Përsëri (MIGA!)"", një parafrazim i sloganit të njohur ""Make America Great Again (MAGA)"".
+
+Në këtë mënyrë, Trump sinjalizoi se vizioni i tij për Iranin përfshin një transformim të thellë politik, me mbështetjen e partnerëve ndërkombëtarë.",0.4176,0.4393,climate crisis,west nile virus,low_both,no,no,no,Albanian politics,,
+Albanian,Israel,panorama.com.al,newsapi,1779,https://www.panorama.com.al/trump-udheheqesi-i-ardhshem-suprem-i-iranit-nuk-do-te-qendroje-gjate-pa-miratimin-tim/,Trump: Udhëheqësi i ardhshëm suprem i Iranit nuk do të qëndrojë gjatë pa miratimin tim,"Ndërsa Irani po afrohet në zgjedhjen e liderit të tij të ardhshëm, ish-presidenti amerikan, Donald Trump, deklaroi të dielën se udhëheqësi i ri ""nuk do të qëndrojë për shumë"" nëse iranianët nuk marrin më parë miratimin e tij.
+
+""Duhet të marrë miratimin tonë,"" tha Trump për ABC News. ""Nëse nuk e merr atë, nuk do të zgjasë shumë. Duam të sigurohemi që të mos duhet të kthehemi çdo 10 vjet, kur nuk do të ketë një president si unë.""
+
+Ai shtoi: ""Nuk dua që ta bëjmë këtë përsëri pas 5 vitesh, ose edhe më keq, t'i lejojmë të arrijnë armë bërthamore.""",0.4259,0.4677,climate crisis,undernourishment,low_both,no,no,no,Football match report,,
+Albanian,Israel,panorama.com.al,newsapi,933,https://www.panorama.com.al/ku-ndodhet-kasaforta-me-arme-ne-koke-cifti-i-sipermarresve-grabiten-nga-4-persona-te-maskuar-oret-e-tmerrit/,"""Ku ndodhet kasaforta?!""- Me armë në kokë, çifti i sipërmarrësve grabiten nga 4 persona të maskuar! Orët e tmerrit","Një çift sipërmarrësish u grabit në vilën e tyre në zonën e Capalbio, në provincën e Grosseto në Itali, pasi katër persona të maskuar hynë gjatë natës në banesë dhe i kërcënuan me armë për të zbuluar vendndodhjen e një kasaforte.
+
+Sipas raportimeve të mediave italiane, grabitja ndodhi të premten në mbrëmje në një vilë në zonën rurale të Maremma. Katër grabitës maskuar dhe të armatosur me pistoletë hynë në pronë nga kopshti dhe pritën kthimin e pronarit.
+
+Rreth orës 22:30 në banesë mbërriti fillimisht bashkëshortja e sipërmarrësit, e cila u detyrua të hapte derën. Autorët e kërcënuan dhe i kërkuan të tregonte se ku ndodhej kasaforta, por në shtëpi nuk kishte një të tillë.
+
+Rreth një orë më vonë mbërriti edhe bashkëshorti, 67 vjeç, i cili vuri re se diçka nuk shkonte nga dritaret e hapura të shtëpisë. Pak çaste më pas ai u përball me grabitësit, të cilët i drejtuan armën në kokë dhe i kërkuan sërish të tregonte vendndodhjen e kasafortës, duke menduar se ai sillte në shtëpi të ardhurat e ditës nga biznesi. Megjithatë, sipërmarrësi kishte shitur aktivitetin e tij dy vite më parë.
+
+Në mungesë të parave të shumta, grabitësit morën rreth 400 euro cash që ndodheshin në shtëpi. Përveç kësaj, ata grabitën edhe unazën e martesës së nënës së gruas, e cila kishte ndërruar jetë vetëm 20 ditë më parë.
+
+Pas largimit të autorëve, çifti njoftoi menjëherë autoritetet dhe sipërmarrësi bëri kallëzim në polici. Hetimet për identifikimin dhe kapjen e grabitësve kanë nisur nga karabinierët.",0.4665,0.5396,climate crisis,casualties,borderline,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,1896,https://www.panorama.com.al/tre-skenaret-e-mundshem-per-fundin-e-luftes-ne-iran-optimisti-realisti-dhe-i-erreti/,"Tre skenarët e mundshëm për fundin e luftës në Iran: Optimisti, realisti dhe ""i errëti""","Lufta që po zhvillohet në Iran ka ndryshuar tashmë ekuilibrin në Lindjen e Mesme, por pyetja kryesore mbetet e hapur: si do të përfundojë.
+
+Vrasja e Udhëheqësit Suprem, Ajatollah Ali Khamenei dhe sulmet e përhapura kundër aparatit ushtarak dhe politik iranian kanë shkaktuar një tronditje historike për regjimin e Republikës Islamike, por nuk është e qartë se çfarë forme do të marrë e nesërmja.
+
+Nga Uashingtoni në Teheran dhe nga Tel Avivi në kryeqytetet evropiane, analistët dhe zyrtarët po shqyrtojnë tre skenarë kryesorë për përfundimin e konfliktit: një përmbysje demokratike të regjimit, një marrëveshje midis Perëndimit dhe një regjimi të transformuar, por mbijetues, ose, në rastin më të keq, një shpërbërje të dhunshme të vendit me një luftë të re civile.
+
+Shtatë ditë pas fillimit të luftës në Iran, asnjë nga këto skenarë nuk mund të përjashtohet ende.
+
+Skenari i Parë: Përmbysja demokratike e regjimit iranian
+
+Për shumë iranianë, rezultati më i dëshirueshëm i luftës do të ishte rënia e Republikës Islamike dhe fillimi i një epoke të re politike. Vrasja e Khameneit shihet nga disa si hapi i parë drejt një ndryshimi më të gjerë politik që mund të çojë në një tranzicion demokratik.
+
+Gjatë dekadës së fundit, Irani ka përjetuar valë të njëpasnjëshme mobilizimesh sociale, me demonstrata që shpesh shtypen me dhunë nga forcat represive. Shumë qytetarë fajësojnë regjimin teokratik për çuarjen e vendit në krizë ekonomike, izolim ndërkombëtar dhe represion politik.
+
+Sipas disa analistëve iranianë, ekziston një klasë e mesme e madhe dhe e arsimuar që mund të formojë bazën për një tranzicion paqësor. Vendi ka shkencëtarë, inxhinierë, mjekë dhe profesionistë që nuk janë të lidhur ideologjikisht me regjimin e mullahëve dhe mund të kontribuojnë në rindërtimin e një sistemi të ri politik.
+
+Mbështetësit e këtij skenari argumentojnë se Irani është dukshëm i ndryshëm nga vende si Siria, Libia ose Iraku, ku rënia e regjimeve autoritare çoi në kaos të zgjatur. Argumenti i tyre është se shoqëria iraniane ka një identitet të fortë kombëtar dhe një traditë shtetërore relativisht homogjene.
+
+Në një zhvillim të tillë, rënia e regjimit mund të çojë në një tranzicion politik dhe ndoshta në një formë të re qeverisjeje me karakteristika demokratike. Disa qarqe në diasporën iraniane madje po promovojnë mundësinë e kthimit të Princit në mërgim Reza Pahlavi, djalit të Shahut të fundit, si një figurë simbolike që mund të udhëheqë një periudhë tranzicioni.
+
+Megjithatë, ky skenar përballet me pengesa të konsiderueshme. Regjimi ende ka një aparat të fortë represioni të brendshëm, me shtyllat kryesore që janë Garda Revolucionare, policia dhe milicitë Basij. Këto struktura kanë provuar të jenë veçanërisht efektive në shtypjen e protestave.
+
+Për më tepër, në kohë lufte, shumë iranianë ngurrojnë të dalin në rrugë, ndërsa regjimi ka paralajmëruar se çdo protestë do të konsiderohet bashkëpunim me armikun. Pavarësisht vështirësive, disa vëzhgues besojnë se një ndryshim politik në Iran mund t...",0.4741,0.4623,changing climate,west nile virus,borderline,no,no,no,Albanian politics - Balluku case,,
+Albanian,Israel,panorama.com.al,newsapi,2894,https://www.panorama.com.al/tramvaji-del-nga-shinat-ne-milano-dhe-perplaset-me-nje-ndertese-nje-i-vdekur-dhe-disa-te-plagosur/,"Tramvaji del nga shinat në Milano dhe përplaset me një ndërtesë, një i vdekur dhe disa të plagosur","Një aksident i rëndë është shënuar këtë të premte në Milano, ku një tramvaj ka dalë nga shinat dhe është përplasur me një ndërtesë. Për pasojë, një person ka humbur jetën ndërsa të paktën 25 të tjerë janë plagosur.
+
+Mediat italiane raportojnë se viktimë ka mbetur një burrë, i cili është përplasur nga tramvaji. Sipas raportimeve fillestare, tramvaji doli nga shinat, duke u përplasur në një ndërtesë dhe duke goditur disa persona.
+
+Aksidenti ndodhi pak pas orës 16:00 në Viale Vittorio Veneto. Një pasagjer tregoi se kishte menduar se përplasja ishte një tërmet.
+
+""Mendova se ishte tërmet. Isha ulur dhe rashë në tokë, së bashku me pasagjerët e tjerë. Ishte e tmerrshme"", tha për ANSA-n një nga pasagjerët në tramvaj.",0.4884,0.5333,climate crisis,casualties,borderline,no,no,no,Crime - court proceedings,,
+Albanian,Serbia,koha.net,newsapi,1248,https://www.koha.net/arberi/klasa-me-tre-nxenes,Klasa me tre nxënës - KOHA.net,"Paralelja e ndarë në fshatin Shashkoc të Prishtinës ka gjithsej 47 nxënës, ndërsa sipas Udhëzimit Administrativ të MASHTI-t, i vitit 2023, çdo institucion arsimor duhet të ketë të paktën 60 nxënës për të funksionuar. Kjo shkollë funksionon si paralele e shkollës amë ""Ditët e Minatorit"" në Kishnicë dhe në të nuk ka fare nxënës të klasave 1 dhe 9
+
+Në një klasë në fshatin Shashkoc të Prishtinës dëgjohen vetëm tre zëra nxënësish.
+
+Për Majlinda Bytyqin dhe dy shoqet e saj, kjo është përditshmëria që nga klasa e parë.
+
+Ato ndjekin mësimet në fshatin Shashkoc të Prishtinës, paralele e ndarë e shkollës amë ""Ditët e Minatorit"" në Kishnicë.
+
+Megjithëse, Majlinda është mësuar me klasën e vogël, dëshira e saj është që të jetë pjesë e klase më të madhe dhe me më shumë nxënës.
+
+""Unë kisha pas dëshirë me pas klasa jonë më shumë nxënës për me pas më shumë shoqëri ndërmjet njëri-tjetrit"", ka thënë nxënësja Bytyqi.
+
+Mësimdhënësi Naim Bytyqi thotë se struktura e orëve është e njëjtë si në shkollat e tjera.
+
+Megjithatë, sipas tij, në këto kushte me pak nxënës janë vetë fëmijët ata që dëmtohen më së shumti.
+
+Bytyqi është njëkohësisht edhe kryetar i fshatit Shashkoc. Ai tregon se prindërit nuk kanë pranuar të dërgojnë fëmijët në shkollën amë në Kishnicë, për shkak të infrastrukturës rrugore dhe largësisë nga fshati.
+
+""Na edhe me DKA e kemi pasur problem. Vendi jonë është një vend me mbi 800 m naltësi dhe sidomos kur është dimër, kur është më ftoftë është problem që shumë herë autobusi ose veturat mbesin në rrugë. Këtë edhe prindërit e kanë pasur si vërejtje pse nuk kanë pranuar me i dërgu në Kishnicë"", është shprehur ai.
+
+Për këto arsye, drejtori i shkollës në Kishnicë, Vezir Bytyqi, thotë se prindërit kundërshtuan dërgimin e nxënësve të Shashkocit për të ndjekur mësimin tërëditor në shkollën amë.
+
+""Në kuadër të mësimit tërëditor, DKA në Prishtinë ka paraparë që nxënësit e fshatit Shashkoc të vijnë këtu në shkollën amë në Kishnicë. Mirëpo kemi hasur në kundërshtim të komunitetit për t'i dërgu nxënësit këtu. Arsyet janë të shumta, pak është në pyetje edhe distanca, largësia"", ka deklaruar drejtori Vezir Bytyqi.
+
+Në këtë paralele të ndarë nuk ka nxënës të klasës së parë dhe të nëntë, ndërsa gjithsej janë 47 nxënës nga klasa 2 deri në të 8-n.
+
+Drejtori Bytyqi thotë se shpesh mësimdhënësit detyrohen ta zhvillojnë mësimin me vetëm një ose dy nxënës në klasë.
+
+""Zhvillimi i procesit mësimor me dy nxënës nuk është një tregues që dëshmon ngritje të cilësisë në mësim. Kjo krijon vështirësi edhe për vetë mësimdhënësin sepse ndodh që ndonjëri prej nxënësve me mungu atëherë ata janë të detyruar me zhvillu procesin mësimor me vetëm një nxënës"", ka thënë ai.
+
+Njohësi i çështjeve të arsimit, Xhavit Rexhaj, thekson se ikja e popullsisë nga zonat rurale nuk duhet të luftohet përmes fëmijëve.
+
+""E para, ikja e njerëzve nga fshatrat, zonat rurale nuk duhet të luftohet përmes fëmijëve. Fëmijët po e paguajnë çmimin e dëshirës që me i mbajt shkollat e hapura. Fëmijët në shkolla të vogla nuk ...",0.4763,0.5315,changing climates,undernourishment,borderline,no,no,no,Crime - prison escape,,
+Albanian,Israel,panorama.com.al,newsapi,1236,https://www.panorama.com.al/irani-akuzon-bashkimin-europian-per-bashkefajesi-ne-lufte-jane-treguar-indiferente-dhe-tolerante-ne-dhunen-e-shba-dhe-izraelit/,Irani akuzon Bashkimin Europian për bashkëfajësi në luftë: Janë treguar indiferentë dhe tolerantë në dhunën e SHBA dhe Izraelit,"Irani ka akuzuar Bashkimin Europian për ""bashkëfajësi"" në luftën që, sipas Teheranit, po zhvillojnë Shtetet e Bashkuara dhe Izraeli kundër tij.
+
+Deklarata u bë të enjten nga zëdhënësi i Ministrisë së Jashtme iraniane, Esmail Baghaei, i cili përmes një postimi në rrjetin social X akuzoi BE-në për qëndrim pasiv ndaj veprimeve ushtarake të SHBA-së dhe Izraelit.
+
+""Indiferenca dhe toleranca e Bashkimit Europian ndaj agresionit, dhunës dhe mizorive të SHBA-së dhe Izraelit nuk është asgjë më pak se bashkëfajësi. Bota po e shikon këtë"", shkroi ai.
+
+Për të mbështetur pretendimin e tij, Baghaei shpërndau edhe një video të eurodeputetit belg të majtë Marc Botenga, i cili gjatë një fjalimi në Parlamenti Europian në Strasbourg deklaroi se shumë politikanë europianë nuk po e dënojnë, por po mbështesin luftën kundër Iranit.
+
+Ndërkohë, brenda Bashkimit Europian janë shfaqur qëndrime të ndryshme për konfliktin në Lindjen e Mesme. Presidentja e Komisioni Europian, Ursula von der Leyen, është shprehur se ""nuk duhet derdhur lot për rënien e regjimit iranian"".
+
+Nga ana tjetër, presidenti i Këshilli Europian, Antonio Costa, paralajmëroi se goditjet e urdhëruara nga presidenti amerikan Donald Trump dhe kryeministri izraelit Benjamin Netanyahu mund të shkaktojnë destabilizim të mëtejshëm në të gjithë rajonin.
+
+Brenda Europës, Spanja është ndër vendet që ka kritikuar më ashpër veprimet ushtarake, duke u dalluar nga qëndrimet e Gjermanisë, Francës dhe Mbretërisë së Bashkuar.
+
+Deklaratat e Baghaeit erdhën vetëm pak orë pasi kryetari i parlamentit iranian, Mohammad Bagher Ghalibaf, paralajmëroi se çdo sulm ndaj ishujve iranianë do të ""thyejë çdo vetëpërmbajtje"" nga ana e Teheranit.",0.4736,0.5033,climate crisis,west nile virus,borderline,no,no,no,Celebrity news,,
+Albanian,Israel,panorama.com.al,newsapi,295,https://www.panorama.com.al/lista-e-kosoves-dardanet-me-mision-boterorin-ftohet-lojtari-i-superiores-mungon-mesfushori-qe-la-zvicren/,"LISTA E KOSOVËS/ ""Dardanët"" me mision Botërorin, ftohet lojtari i Superiores! Mungon mesfushori që la Zvicrën","Kosova ka publikuar listën e lojtarëve të zgjedhur për ndeshjet e ""play off"" të Botërorit.
+
+Ndër ta është edhe Visar Bekaj, portieri i Tiranës në Abissnet Superiore.
+
+Bie në sy mungesa e Leon Avdullahut, që nuk ia doli për shkak dëmtimi. Mesfushori që la Zvicrën për ""dardanët"" konsiderohet edhe humbja e madhe, ndërsa në prag është ndeshja me Sllovakinë.
+
+Po ashtu as kapiteni Amir Rrahmani nuk është i gatshëm. Mbrojtësi i Napolit është i dëmtuar dhe pritet të rikthehet në maj.
+
+Takimi në Sllovaki do të luhet më 26 mars. Fituesi shkon në finalen e ""play off"" për Botërorin.",0.4642,0.5400,extreme event,west nile virus,borderline,no,no,no,Junk - newspaper front page listing,,
+Albanian,Israel,panorama.com.al,newsapi,3767,https://www.panorama.com.al/nuk-do-lejojme-mbrojtjen-banditeske-ndaj-belinda-ballukut-kellici-u-kap-duke-vjedhur-50-mln-euro-rama-po-i-behet-mburoje/,"""Nuk do lejojmë mbrojtjen banditeske ndaj Belinda Ballukut""- Këlliçi: U kap duke vjedhur 50 mln euro, Rama po i bëhet mburojë!","Para nisjes së protestës së opozitës, Belind Këlliçi deklaroi se PD proteston edhe për mburojën që po i bën Rama zv.kryeministres belinda Balluku e kapur në flagrancë duke vjedhur 50 mln euro.
+
+Këlliçi thekson se data shkurt ka simbolikën e rënies së bustit të ish-diktatorit Enver Hoxha dhe sipas tij PD nuk do lejojë ngritjen e një tjetër busti diktatorial.
+
+Më tej ai shtoi se protesta nuk do jetë e dhunshme ashtu si ato më përpara, por dhuna është provokuar dhe ushtruar nga policia.
+
+Këlliçi: Do jem në rresht të parë të protestës. Është një datë simbolik. Ditë e rëndësishme për gjithë popullin, përkon me rrëzimin e bustit të diktatorit Hoxha dhe miteve dhe busteve. Nuk do lejojmë bllokun e dytë në mes të Tiranës me mbrojtjen banditeske ndaj Belinda Balluku, u kap në flagrancë duke vjedhur 50 mln euro. Mburojë personale ndaj ministrave të tij nuk do shkojë deri në fund. Ajo që ndodhi me rastin Balluku, megjithëse nuk i interesin Ballukut. Tentativa është të mos shkojë te Rama, i vetmi që mbetet në radhë është Edi Rama. Nuk ka ditë më të mirë se 20 shkurti për të thirrur qytetarët shqiptarë në protestë. Je apo nuk jen mbështetës vidhesh njëlloj nga kjo qeveri. Propaganda bën të vetën, sikur po bëjmë një protestë për pushtet. Është PD që e thërret protestën por janë të mirëpritur gjithë qytetarët shqiptarë. Për sa kohë nuk jemi në demokraci funksionale nuk do dalin qytetarët me pekule.
+
+Jemi vendi më i varfër në Europë, por kemi kryeministrin më të korruptuar në Europë.
+
+Nuk do jetë një protestë e dhunshme, siç nuk ka qenë asnjë protestë deri tani e dhunshme. Dhuna ka qenë e policisë. Nuk kemi dalë në një protestë të dhunshme. Ftohen qytetarët të vijnë me familjarët e tyre. Çdo provokimi çdo dhunimi të jenë të qartë që do i përgjigjemi në mënyrë proporcionale.",0.4770,0.4790,climate crisis,casualties,borderline,no,no,no,Albanian politics,,
+Albanian,Serbia,koha.net,newsapi,1370,https://www.koha.net/kulture/prekazi-i-jashareve-me-ngjyrat-e-tingujt-e-36-oreve-te-luftes-e-qendreses,Prekazi i Jasharëve me ngjyrat e tingujt e 36 orëve të luftës e qëndresës - KOHA.net,"Në përkujtim të 36-orëshit të Prekazit dhe bashkë me zjarrin që ndizet çdo vit në Prekaz, artistë të të gjitha trevave janë bashkuar në ekspozitën kolektive ""36 orë"" në galerinë ""Qahili"" që ndërthur pikturën, muzikën dhe forma të tjera arti. Ka sjellë një përjetim artistik të një prej ngjarjeve më të rëndësishme të historisë moderne shqiptare. Ekspozita që i kushtohet Epopesë së Ushtrisë Çlirimtare të Kosovës nuk është veç një prezantim artistik, por edhe udhëtim emocional nëpër kujtesën kolektive të popullit
+
+28 vjet më parë do të shënohej një nga momentet më të rëndësishme dhe dramatike të historisë së Kosovës. Qëndresa e familjes Jashari në Prekaz më 5, 6 e 7 mars të 1998-s u kthye në moment kulmor që frymëzoi kombin. Distanca kohore nuk ka rëndësi, ngase aroma e dhimbjes e krenarisë është prezente në çdo përvjetor. Edhe sivjet kur midis përkujtimesh, arti u bë mënyrë e fuqishme për ta përkujtuar historinë dhe për të reflektuar.
+
+Në përkujtim të 36-orëshit të Prekazit dhe bashkë me zjarrin që ndizet çdo vit në Prekaz, artistë të të gjitha trevave janë bashkuar në ekspozitën kolektive ""36 orë"" në galerinë ""Qahili"" që ndërthur pikturën, muzikën dhe forma të tjera arti. Ka sjellë një përjetim artistik të një prej ngjarjeve më të rëndësishme të historisë moderne shqiptare.
+
+Ekspozita që i kushtohet Epopesë së Ushtrisë Çlirimtare të Kosovës nuk është veç një prezantim artistik, por edhe udhëtim emocional nëpër kujtesën kolektive të popullit. E konceptuar si një udhëpërshkrim i sakrificës, krenarisë dhe dhimbjes, ekspozita fillon që jashtë pragut të galerisë me zjarret e ndezura jashtë hapësirës ekspozuese. Flakët, simbol i qëndresës dhe i thirrjes për liri, e përgatisin vizitorin për një përballje të thellë me historinë.
+
+Por edhe në hapësirën jashtë, veçse ndeshet me të. Aty janë projektuar imazhet lëvizëse të heronjve të kombit Adem e Hamëz Jashari sikurse edhe vepra e artistit Eshref Qahili - ""Kosovë, gjaku im që nuk falet"" e emërtuar sipas poezisë së Ali Podrimjes.
+
+Pjesët e veprës si mozaik skulpturash vijnë si komplet duarsh të deformuara dhe në gjendje të ndryshme.
+
+Artisti Qahili ka bërë me dije se vepra është pjesë e një cikli krijimesh të realizuara ndër vite në forma të ndryshme artistike si vizatim, pikturë, skulpturë , dhe jo vetëm, që trajtojnë të njëjtën temë.
+
+""Është një nga veprat e mia, është 'Kosovë, gjaku im që nuk falet'. Është e prezantuar përjashta dhe lidhet në kuadër të atmosferës së këtyre tri ditëve. Është një punë që e kam pasur në fondin tim dhe besoj se lidhet me ngjarjen e cila ka ndodhur. Fillojmë me këtë vepër dhe pastaj hyjmë brenda të njoftohemi me veprat e shumë artistëve, studentë e të vjetër dhe nga të gjitha trevat. Është ekspozitë gjithëkombëtare"", ka thënë ai.
+
+Për artistin Qahili, këto data mbeten ndër më të rëndësishmet në historinë kombëtare.
+
+""Ne kemi filluar më 5, 6 dhe 7 si koncept i yni është që për këto tri ditë, 36 orë të jetë atmosfera e një feste, një homazhi për të rënët, për dëshmorët dhe për lu...",0.4704,0.4938,changing climates,casualties,borderline,no,no,no,Crime - drug trafficking,,
+Albanian,Israel,panorama.com.al,newsapi,186,https://www.panorama.com.al/rama-mbrojti-ballukun-dhe-rrezikoi-integrimin-ne-be-lapaj-nese-fitojme-do-anuloj-te-gjitha-koncesionet-nese-pd-e-ka-seriozisht/,"""Rama mbrojti Ballukun dhe rrezikoi integrimin në BE""- Lapaj: Nëse fitojmë do anuloj të gjitha koncesionet! Nëse PD e ka seriozisht...","Adriatik Lapaj e cilësoi kryeministrin Edi Rama si humbësin më të madh në historinë shqiptare, sepse pati shumë pushtet dhe nuk arriti asnjë sukses.
+
+Madje edhe për të vetmen gjë që mburrej publikisht, rrugën e integrimit në BE, e rrëzoi të gjithën duke mbrojtur Belinda Ballukun, zv/kryeministren e shkarkuar, pezulluar dhe pandehur nga SPAK-GJKKO, duke mos ia hequr imunitetin. Me 70 mld euro të shpenzuara si qeveri, sipas tij, kryeministri nuk do mbahet mend për asnjë vepër të madhe.
+
+Por ai kritikoi edhe diskursin e Partisë Demokratike, e cila qëndron larg bashkimit opozitar, madje edhe në tryezat që mbahen, edhe pse Lapaj nënvizoi se ka qenë i gatshëm të bëjë vetë hapa pas vetëm me qëllimin e bashkimit opozitar për rrëzimin e qeverisë.
+
+""Rama ka ngritur një sistem monstruoz të grabitjes dhe vjedhjes qeveritare. Ka një kohë për partinë dhe një për Shqipërinë, e kjo është koha për Shqipërinë. Për partinë është në zgjedhje, tani të mblidhemi për Shqipërinë., Jam i habitur me Partinë Demokratike që nuk po vjen, as në tryezën e organizuar nuk u zgjidh, hajdeni pra të mblidhemi, të takohemi. Ne kemi qenë të parët që u kemi shtrirë dorën, u kemi thënë të vijnë. Hajde të bashkohemi, ua kemi shtrirë dorën. Nëse ka nga shoqëria civile që organizohen, le ta bëjmë, unë si Adriatik nuk ndaloj askënd. Unë thirrjen ua kam bërë, hajdeni, unë jam i gatshëm të bëjë hapin pas. Të mblidhemi të diskutojmë, Kodin Zgjedhor për shembull, a duhet rregulluar. Rama do kishte 74 mandate sot, por ka 9 më shumë si pasojë e këtij Kodi, pra nuk do kishte kaq pushtet"", u shpreh Lapaj për emisionin ""Kjo Javë"" në ""News 24"".
+
+Ai tha se nuk i pëlqen protagonizmi, por misionet politike për interesin qytetar dhe në shërbim të shqiptarëve.
+
+lapaj kujtoi se vetëm bashkimi i të gjithë opozitës mund të sjellë një ndryshim.
+
+""Nëse do bëja protagonizëm nuk do thosha se bëj dy hapa pas, apo që të mblidhen intelektualët, ose që të bashkohemi. A duan ata që të mos dal nga shtëpia? Po mirë, ja s'po dal. A do bëjnë këta namin në atë shesh? Unë nuk bëj protagonizëm por thirrje për të rrëzuar Ramën së bashku. Unë vetëm kur të jem i pamundur nuk do dal. Personalisht kam drejtuar shumë protesta, që nga kriza e çmimeve dhe të tjera. PS duhet të iki, qeveria duhet rrëzuar, është kapur gafil duke vjedhur dhe nëse nuk rrëzohet për 53 mln euro vjedhje, pse duhet të rrëzohet për 103 milionë?!"", komentoi kreu i ""Shqipëria Bëhet.
+
+Por a pati sukses qëndresa e lëvizjes së tij në 105 ditë? Ai mendon se po dhe shpjegon:
+
+""Protestën e nisëm më 8 dhjetor. Kishte muaj që nuk kishte protestë në vend në kuptimin politik. Pas saj pati angazhim të shumë subjekteve me protesta. Thirrëm ne në 20 dhjetor, doli dhe PD thirri protestë kombëtare. Mbi 6 të huaj, shtetësi shqiptare e të huaj, u arrestuan në protestën tonë dhe ka ndodhur disa herë. Drejtori i Policisë së Shtetit u shkarkua, i Tiranës u shkarkua, do thoni u bë nga ju? Jo! U bë nga klima dhe përballja? Po! Kush e mendonte se do shkarkohej gjysma e ministrave ...",0.4849,0.4961,climate crisis,west nile virus,borderline,no,no,no,Albanian education policy,,
+Albanian,Serbia,koha.net,newsapi,1043,https://www.koha.net/arberi/ish-kryeshefi-i-kek-ut-sot-para-gjykates,Ish-kryeshefi i KEK-ut sot para gjykatës - KOHA.net,"Ish-kryeshefi i Korporatës Energjetike të Kosovës, Nagip Krasniqi, i akuzuar për keqpërdorim të detyrës zyrtare, do paraqitet sot në sallën e gjyqit me fillim nga ora 09:30.
+
+Në Gjykatën Themelore të Prishtinës, Krasniqi do të përballet me akuzat e Prokurorisë Speciale të Kosovës. Vetë Krasniqi ka cilësuar aktakuzën si të montuar dhe ka theksuar se qëndrimi i tij pesëmujor në paraburgim është i padrejtë.
+
+Sipas aktakuzës, ai, së bashku me Ymer Dragushën dhe Isuf Zejnën, akuzohet për dëmtim të buxhetit të shtetit me rreth 37 milionë euro.
+
+Në seancën fillestare më 7 shkurt 2025, Krasniqi dhe Zejna janë deklaruar të pafajshëm. Ymer Dragusha, një tjetër i akuzuar, ka pranuar fajësinë pas marrëveshjes me Prokurorinë.
+
+Prokuroria Speciale e Republikës së Kosovës (PSRK) më 30 dhjetor 2024 ngriti aktakuzën e re ndaj ish-kryeshefit të Korporatës Energjetike të Kosovës (KEK), Nagip Krasniqi si dhe Ymer Dragushës dhe Isuf Zejnës.
+
+Nagip Krasniqi dhe Ymer Dragusha akuzohen për ""Keqpërdorim të detyrës zyrtare"".
+
+Krasniqi akuzohet edhe për ""Zbulim të fshehtësisë zyrtare"".
+
+Kurse, Isuf Zejna akuzohet për ""Ndihmë në kryerjen e veprës penale keqpërdrim i detyrës zyrtare""./EO",0.4730,0.5131,climate crises,west nile virus,borderline,no,no,no,Kosovo customs regulations,,
+Albanian,Israel,panorama.com.al,newsapi,3473,https://www.panorama.com.al/akuzohej-per-krime-lufte-ne-kosove-serbi-denohet-me-13-vite-burg-edhe-pas-rigjykimit/,"Akuzohej për krime luftë në Kosovë, serbi dënohet me 13 vite burg edhe pas rigjykimit!","Edhe në procesin e rigjykimit, Gjykata Themelore në Prishtinë e ka dënuar me 13 vjet burgim Dushko Arsiç, i akuzuar për krime lufte kundër popullatës civile në vitin 1999.
+
+Trupi gjykues tha se atij do t'i llogaritet koha që ka qëndruar në paraburgim, raporton Betimi për Drejtësi.
+
+Edhe në procesin e parë gjyqësor, Arsiç, më 2 shkurt të vitit 2024, u gjet fajtor dhe u dënua po me 13 vjet burgim, por Apeli e ktheu më pas rastin në rigjykim.
+
+Lista Serbe kundërshton aktgjykimin
+
+Lista Serbe, partia kryesore e serbëve në Kosovë që ka mbështetjen e Beogradit, tha se e ""dënon ashpër"" vendimin e Themelores.
+
+""Ky aktgjykim i trupit gjykues, i përbërë ekskluzivisht nga gjyqtarë të nacionalitetit shqiptar, përbën edhe një dëshmi tjetër të praktikës thellësisht të padrejtë dhe etnikisht të motivuar të sistemit të drejtësisë në institucionet në Prishtinë, që në mënyrë sistematike kanë problem me trajtimin objektiv dhe të drejtë të serbëve në Kosovë dhe Metohi, e veçanërisht ndaj serbëve si Arsiçi, i cili nuk pranoi ta shesë pronën e tij"", u tha në reagimin e kësaj partie.
+
+Avokati i Arsiçit, Nebojsha Vllaiç, më herët kishte pretenduar se klienti i tij ishte akuzuar dhe dënuar për krime lufte sepse ka tentuar ta rikthejë pronën e tij të uzurpuar në territorin e Prishtinës dhe të kthehet në Kosovë.
+
+Ndërkaq, Lista Serbe pretendoi po ashtu gjatë procesit gjyqësor ndaj Arsiçit nuk ka pasur prova ""që do të dëshmonin fajësinë e tij"".
+
+Çfarë thuhet në aktakuzë?
+
+Arsiç ishte arrestuar më 8 dhjetor 2021 nën dyshime për krime të kryera në periudhën janar-qershor 1999 në rajonin e Prishtinës.
+
+Aktakuza ndaj tij u ngrit në nëntor të vitit 2022. Në të thuhet se ai kishte marrë pjesë në vrasjen e B.Sh, më 20 prill të vitit 1999 në Butovc të Prishtinës dhe kishte keqtrajtuar fizikisht dhe psiqikisht A.K, atëbotë 15 vjeç.
+
+Arsiç, së bashku me pjesëtarë të tjerë të policisë serbe dhe grupeve paramilitare, në periudhën janar-qershor të vitit 1999, kishte marrë pjesë në dëbimin dhe shpërnguljen e qytetarëve nga Prishtina dhe rrethina, sipas aktakuzës. Aty po ashtu u tha se Arsiç së bashku me një grup tjetër kishin plaçkitur dhe më pas dëmtuar pronat e shqiptarëve, duke ua vënë zjarri.
+
+Arsiç është akuzuar për keqtrajtim të civilëve shqiptarë, plagosje dhe vrasje.
+
+Ai ishte arrestuar në veri të Kosovës dhjetorin e vitit 2022 dhe atëbotë, Zyra e Prokurorisë Speciale nuk kishte dhënë më shumë detaje, duke u thirrur ""në ndjeshmërinë e rastit"".
+
+Ai është me origjinë nga Matiqani, që gjendet në periferi të Prishtinës, dhe pas përfundimit të luftës në Kosovë, kishte jetuar në Kralevë të Serbisë, kanë më herët për Radion Evropa e Lirë nga ekipi i tij mbrojtës.
+
+Kohët e fundit, Prokuroria Speciale e Kosovës ka ngritur një sërë aktakuzash për krime lufte në Kosovë. Ndërkaq, që nga përfundimi i luftës, dhjetëra persona janë dënuar për këto krime para institucioneve vendore dhe ndërkombëtare.
+
+Fillimisht pas luftës, përkatësisht nga viti 2000 dhe 2008, krimet e luftës në Kosovë u hetuan ...",0.4620,0.5201,climate crisis,casualties,borderline,no,no,no,Albanian economy - FDI,,
+Albanian,Serbia,koha.net,newsapi,1804,https://www.koha.net/bote/kancelari-gjerman-niset-per-ne-washington-nen-hijen-e-konfliktit-ne-lindjen-e-mesme,Kancelari gjerman niset për në Washington nën hijen e konfliktit në Lindjen e Mesme - KOHA.net,"Kancelari gjerman, Friedrich Merz, përballet me një detyrë delikate të martën, kur të vizitojë Washingtonin për një takim me presidentin Donald Trump, një takim tashmë i mbuluar nga hija e sulmeve amerikano - izraelite, që kanë lënë të vdekur udhëheqësin Suprem të Iranit, Ali Khamenei, gjatë fundjavës.
+
+Merzi do të jetë lideri i parë evropian që takohet me Trumpin që nga fillimi i operacionit, i cili ka bllokuar një nga rrugët kryesore botërore të transportit të naftës dhe ka zhytur transportin ajror global në kaos.
+
+Të dielën, Merzi, i cili është kthyer nga Kina javën e kaluar, nuk ka shprehur kritika, por nuk gjithashtu nuk e ka mbështetur plotësisht operacionin, për të cilin kritikët e Trumpit kanë thënë se u ndërmor pa shpjegim të mjaftueshëm dhe pa bazën e nevojshme ligjore sipas së drejtës ndërkombëtare.
+
+""Ne e kuptojmë dilemën"", ka thënë ai, duke shpjeguar se përpjekjet e përsëritura gjatë dekadave të fundit nuk e kanë penguar Iranin të përpiqet të sigurojë armë bërthamore apo të shtypë popullin e vet.
+
+""Prandaj, nuk do t'u mbajmë leksione partnerëve tanë për sulmet e tyre ushtarake kundër Iranit.
+
+Pavarësisht të gjitha dyshimeve, ne ndajmë shumë nga qëllimet e tyre"", ka shtuar ai.
+
+Të dielën, Merzi i është bashkuar presidentit francez, Emmanuel Macron dhe kryeministrit britanik Keir Starmer duke deklaruar se ishin të gatshëm të punonin me Shtetet e Bashkuara ""për të mbrojtur interesat tona dhe ato të aleatëve tanë në rajon"".
+
+Megjithatë, lufta ka nxjerrë sërish në pah se sa shumë Evropa është lënë mënjanë nga Uashingtoni në operacione strategjike që ndikojnë drejtpërdrejt sigurinë dhe prosperitetin e saj.
+
+Vizita e Merzit pritet të dominohet nga përpjekjet për të riformësuar marrëdhëniet transatlantike të Gjermanisë, pas kritikave të ashpra të administratës Trump ndaj Evropës gjatë vitit të kaluar për çështje që variojnë nga shpenzimet e mbrojtjes te tregtia dhe politika e emigracionit.
+
+Merz, një atlantist i përjetshëm, ka thënë se Evropa duhet të pranojë se bota ka hyrë në një epokë të re rivaliteti, ku duhet të qëndrojë më shumë në këmbët e veta. Megjithatë, ai është treguar i kujdesshëm të mos mbyllë derën ndaj aleancës me SHBA-në.",0.4835,0.5202,climate crisis,west nile virus,borderline,no,no,no,Albanian politics,,
+Albanian,Israel,panorama.com.al,newsapi,2470,https://www.panorama.com.al/video-si-e-goditi-izraeli-seline-vendimmarrese-te-regjimit-iranian-ne-zemer-te-teheranit-shikoni-pamjet/,VIDEO/ Si e goditi Izraeli selinë vendimmarrëse të regjimit iranian në zemër të Teheranit! Shikoni pamjet,"Forcat e Armatosura Izraelite njoftuan se kishin goditur selinë ""më të rëndësishme dhe qendrore"" të regjimit iranian në zemër të Teheranit.
+
+Sipas deklaratës zyrtare, operacioni u krye gjatë natës, duke ndjekur ""udhëzime të sakta"" nga shërbimet e inteligjencës. Siç raportohet, Forcat Ajrore Izraelite goditën ndërtesat qeveritare dhe ushtarake brenda kompleksit udhëheqës të regjimit iranian.
+
+Gjatë sulmit, sipas të njëjtës deklaratë, ""municione të shumta"" u hodhën në zyrën presidenciale dhe ndërtesën e Këshillit Suprem të Sigurisë Kombëtare. Përveç kësaj, raportohet se u godit kompleksi ku mblidhet forumi më i lartë i regjimit , përgjegjës për marrjen e vendimeve për çështjet e sigurisë, si dhe instituti i trajnimit të oficerëve të ushtrisë iraniane, së bashku me ""infrastrukturën kritike shtesë"".
+
+Sipas deklaratës izraelite, kompleksi konsiderohet si një nga më të ruajturit në Iran dhe shtrihet në disa rrugë në qendër të Teheranit. Thuhet se udhëheqja politike dhe ushtarake e regjimit takohej shpesh atje, duke menaxhuar - ndër të tjera - vlerësimet e programit bërthamor iranian.
+
+Deklarata i referohet gjithashtu udhëheqësit suprem të Iranit, Ali Khamenei, me ushtrinë izraelite që pretendon se kompleksi është përdorur prej tij dhe se aty ndodhet infrastrukturë që lidhet me menaxhimin e sulmeve kundër Izraelit , si dhe me udhëzimin dhe financimin e organizatave aleate.
+
+Sulmi, sipas të njëjtave burime, u krye pas një ""procesi të zgjatur të mbledhjes dhe analizës së informacionit"" nga shërbimet e inteligjencës ushtarake.
+
+Izraeli e përshkruan këtë kompleks si ""strukturën më të rëndësishme dhe qendrore administrative"" të regjimit iranian, duke pretenduar se sulmi ""thellon ndërprerjen e vazhdimësisë funksionale të mekanizmave të tij të komandës dhe kontrollit"".",0.4775,0.5091,climate crisis,west nile virus,borderline,no,no,no,Crime - armed robbery,,
+Albanian,Israel,panorama.com.al,newsapi,459,https://www.panorama.com.al/meloni-ul-taksat-rama-shton-barren-teliti-kryeministri-po-e-perdor-cmimet-e-larta-te-naftes-per-te-mbushur-arken-e-qeverise-nuk-eshte-krize-tregu-por-vullnet-politik/,"Meloni ul taksat, Rama shton barrën"" - Teliti: Kryeministri po përdor çmimet e larta të naftës për të mbushur arkën e qeverisë! Nuk është krizë tregu, por vullnet politik","Këshilltari ekonomik në Partinë Demokratike, Dorian Teliti ka bërë një reagim në lidhje me situatën e çmimeve të karburantit për shkak të konfliktit në Lindjen e Mesme, duke bërë një krahasim me masat e ndërmarra në Itali.
+
+Në një reagim, ai shprehet se kryeministri italiane Giorgia Meloni veproi në interes të qytetarëve duke ulur taksat e karburantit me 25 cent për litër, ndërkohë që kreu i qeverisë shqiptare Edi Rama bën të kundërtën. Sipas tij, qeveria po e përdor naftën si një mjet për të rritur arkën e shtetit,duke mbajtur çmimet më të larta në Evropë.
+
+Teksa shtron pyetjen se përse shqiptarët duhet të paguajnë taksa më të larta kur rrogat janë shumë më të ulëta, Teliti e cilëson situatën në vend jo si një krizë tregu, por si mungesë e vullnetit politik të qeverisë.
+
+""Kryeministri vazhdon ta përdorë naftën si mjet për të mbushur arkën e qeverisë, duke na mbajtur me çmimet më të larta në Rajon e Europë. Pse ne shqiptarët duhet të paguajmë taksa më të larta se italianët, kur rrogat tona janë disa herë më të ulëta? Kjo nuk është krizë tregu, është vullnet politik."", shprehet Teliti.
+
+REAGIMI I PLOTË
+
+DY REALITETE: MELONI UL TAKSAT, RAMA SHTON BARRËN!
+
+Ndërsa Italia e Meloni-t po ndërmerr hapa konkretë për të ulur taksat mbi karburantin dhe për të lehtësuar qytetarët, në Shqipëri ndodh e kundërta.
+
+Kontrasti është i qartë:
+
+Në Itali: Kryeministrja kupton se nafta e shtrenjtë rrit çdo çmim në tryezën e familjeve. Zgjidhja? Ulja e taksave.
+
+Në Shqipëri: Kryeministri vazhdon ta përdorë naftën si mjet për të mbushur arkën e qeverisë, duke na mbajtur me çmimet më të larta në Rajon e Europë.
+
+Pse ne shqiptarët duhet të paguajmë taksa më të larta se italianët, kur rrogat tona janë disa herë më të ulëta?
+
+Kjo nuk është krizë tregu, është vullnet politik.
+
+Nëse Italia mundet, pse ne jo?",0.5096,0.5240,climate crisis,undernourishment,borderline,no,no,no,Kosovo election campaign,,
+Albanian,Israel,panorama.com.al,newsapi,288,https://www.panorama.com.al/skifteri-shqiptar-beri-per-spital-dy-karabinieret-gjate-grabitjes-kapet-pas-gjashte-muajsh-ne-arrati-ne-banese-i-gjenden-flori-arme-dhe/,"Skifteri"" shqiptar bëri për spital dy karabinierët gjatë grabitjes, kapet pas gjashtë muajsh në arrati! Në banesë i gjenden flori, armë dhe...","Një 37-vjeçar shqiptar me banim në Cassano d'Adda (Milano) të Italisë është arrestuar, pasi vjeshtën e kaluar, së bashku me një bashkëpunëtor tjetër, u përpoq të grabiste shtëpinë e një 85-vjeçari në Arzago d'Adda, duke sulmuar më pas dy karabinierë jashtë detyrës, të cilët pësuan dëmtime.
+
+Ishte mbrëmja e 12 tetorit kur një rreshter nga Njësia e Radios Mobile Treviglio dhe një kaporal nga stacioni Pandino, dy miq, të dy jashtë detyrës dhe duke kaluar një mbrëmje me familjet e tyre, vunë re dhe i habitën dy individë që po hynin me forcë në hyrjen e shtëpisë së një të moshuari në Via Del Parco.
+
+Një përleshje pasoi mes karabinierëve dhe hajdutëve, pas së cilës, jo pa lëndime fizike, oficerët arritën të nënshtronin njërin nga dy kriminelët, një 47-vjeçar shqiptar banor i Cassano d'Adda.
+
+Bashkëpunëtori kishte arritur të arratisej, por falë pamjeve të kamerave të mbikëqyrjes, pas hetimeve të imtësishme, Karabinierët Radiomobile e gjurmuan atë: ai është një burrë 37-vjeçar, gjithashtu shqiptar, i cili u raportua në arrati në Prokurorinë Publike të Bergamos.
+
+Për më tepër, meqenëse ishte vendosur në liri me kusht në shërbimet sociale në tetor 2025, një kallëzim iu bë Gjykatës së Mbikëqyrjes, e cila lëshoi një urdhër paraprak paraburgimi kundër tij të premten e kaluar.
+
+Të nesërmen, i vendosur në shtëpinë e tij, 37-vjeçari u arrestua nga Karabinierët e Treviglio dhe kolegët e tyre nga Pioltello dhe u dërgua në burgun e San Vittore.
+
+Në shtëpinë e tij u gjetën bizhuteri ari dhe një armë zjarri me taser e mbajtur ilegalisht, sende për të cilat ai u raportua edhe në Prokurorinë Publike të Milanos.",0.4490,0.5183,climate crisis,casualties,borderline,no,no,no,Albanian property rights,,
+Albanian,Serbia,koha.net,newsapi,615,https://www.koha.net/bote/trumpi-e-paralajmeron-nato-n-nese-nuk-ndihmon-ne-hapjen-e-ngushtices-se-hormuzit,Trumpi e paralajmëron NATO-n nëse nuk ndihmon në hapjen e Ngushticës së Hormuzit - KOHA.net,"Gjatë fluturimit të tij për t'u kthyer në Washington, presidenti i Shteteve të Bashkuara të Amerikës, Donald Trump tha se ka biseduar me rreth shtatë vende për të ndihmuar në hapjen e Ngushticës së Hormuzit.
+
+Trumpi e përmendi Kinën si një nga këto vende, duke theksuar se ajo varet shumë nga dërgesat e naftës që kalojnë nëpër këtë rrugë ujore.
+
+Megjithëse nuk përmendi vende të tjera me të cilat kishte kontaktuar, ai bëri referenca te aleanca e NATO-s si dhe vende të tjera që sipas tij duhet ta ""mbrojnë territorin e tyre"".
+
+Më herët ai i tha gazetës ""Financial Times"" se është krejtësisht e përshtatshme që vendet që përfitojnë nga Ngushtica e Hormuzit të ndihmojnë në rihapjen e saj.
+
+Trumpi paralajmëroi se nëse nuk ka reagim nga vendet tjera, kjo mund të jetë shenjë e keqe për të ardhmen e NATO-s, duke shtuar se SHBA-ja ka qenë ""shumë e sjellshme"" me aleatët e saj evropianë.",0.4650,0.5236,climate crisis,west nile virus,borderline,no,no,no,Albanian politics,,
+Albanian,Serbia,koha.net,newsapi,1753,https://www.koha.net/bote/shba-ja-thote-se-ka-vrare-49-udheheqesit-me-te-larte-iraniane-e-fundosi-11-anije,SHBA-ja thotë se ka vrarë 49 udhëheqësit më të lartë iranianë e fundosi 11 anije - KOHA.net,"Zëdhënësja e Shtëpisë së Bardhë, Karoline Leavitt, thotë se ""49 udhëheqësit më të lartë të regjimit iranian"" janë vrarë në operacionin izraelito-amerikan ndaj Iranit.
+
+Në një postim në rrjete sociale, ajo ka përshkruar operacionin.
+
+""Vrasja e terroristëve është e mirë për Amerikën. 49 nga udhëheqësit më të lartë të regjimit iranian - përfshirë liderin suprem Ayatollah Ali Khamenei - janë zhdukur nga faqja e Tokës deri më tash në sulmet hapëse të 'Operacionit Epic Fury'"", tha ajo.
+
+Ndërkohë Komanda Qndrore Amerikane (Centcom) tha se ka fundosur 11 anije iraniane në Gjirin e Omanit, duke lënë Iranin pa asnjë anije të mbetur në atë zonë.
+
+""Dy ditë më parë, regjimi iranian kishte 11 anije në Gjirin e Omanit, sot i ka ZERO"", ka njoftuar Centcom.
+
+E po ashtu Centcom ka treguar faktet për operacionin.
+
+Ka thënë se më shumë se 1250 objektiva janë goditur në 48 orët e para.
+
+Ka treguar se janë përfshirë bombardues B-1, aeroplanë luftarakë F-16, transportues aeroplanësh dhe shkatërrues.",0.4959,0.5637,extreme event,west nile virus,borderline,no,no,no,Crime - organized crime trial,,
+Albanian,Israel,panorama.com.al,newsapi,376,https://www.panorama.com.al/interi-kryesues-marota-nuk-ka-dyshime-ne-jemi-lepuri-pozicioni-me-i-veshtire/,"Interi kryesues, Marota nuk ka dyshime: Ne jemi lepuri, pozicioni më i vështirë","Interi është i shkëputur në kreun e renditjes së Serisë A dhe po shkon i qetë drejt titullit kampion të radhës. Por sipas Bepe Marotës, presidentit të zikaltërve, pikërisht kjo është vështirësia më e madhe e skuadrës së tij.
+
+""Ne jemi lepuri që duhet ndalur, ky është pozicioni më i vështirë"", tha Marota në një lidhje të drejtpërdrejtë në një aktivitet promocional në Milano. ""Është më e thjeshtë që të bësh gjahtarin. Ne jemi konkurrues dhe të bindur se mund t'ia dalim. Dua t'i transmetoj optimizëm skuadrës dhe tifozëve tanë"", tha ai.
+
+Ai më pas foli edhe për blerjen e stadiumit dhe nevojës për të ndërtuar një impiant të ri. ""Struktura e re nis nga nevoja e dy klubeve që të kenë një strukturë që i përgjigjet fillimisht standarteve ndërkombëtare dhe që përfaqësojnë shtëpinë e dy klubeve. Do të thotë të krijosh punësim dhe mirëqenie, të gjenerosh aktivitete komerciale. Sporti është një aset i kombit tonë në të njëjtin nivel me turizmin, duhet falënderuar edhe makineria që u vu në punë nga Olimpiada"", tha Marota.",0.4716,0.5165,changing climate,quality of life,borderline,no,no,no,Kosovo politics - opposition protest,,
+Albanian,Israel,panorama.com.al,newsapi,132,https://www.panorama.com.al/video-une-do-zgjedh-jo-italia-voton-per-reformen-ne-drejtesi-18-vjecari-befason-melonin-teksa-i-kerkon-te-shkrepin-nje-foto-reagimi-i-kryeministres/,"VIDEO/ ""Unë do zgjedh 'jo'!""- Italia voton për Reformën në drejtësi, 18-vjeçari befason Melonin teksa i kërkon të shkrepin një foto! Reagimi i kryeministres","Kryeministrja Giorgia Meloni, është përballur me një ""surprizë"" ditën e djeshme, teksa ka takuar një adoleshent, i cili i kërkoi të bënin një foto bashkë.
+
+18-vjeçari Filippo Moini u afrua pranë Melonit, por në vend të një fotografie normale, ai nisi regjistrimin e një videoje dhe i tha: ""Unë votoj jo për referendumin. Vota ime e parë është një jo"".
+
+Reagimi i Melonit ishte i menjëhershëm dhe me një përzierje habie dhe mirësjelljeje: ""Si voton jo?..."", tha ajo fillimisht, më pas shtoi: Epo kjo është demokracia"".
+
+Video, e ripostuar nga e dashura e tij, Benedetta Sommaruga në TikTok, u bë menjëherë virale duke shpërndarë mijëra komente dhe duke u përhapur shpejt edhe në Facebook, Twitter dhe platformat e tjera.
+
+Kujtojmë se qytetarët italianë kanë nisur të votojnë që nga ora 7 e mëngjesit të sotëm për referendumin kushtetues konfirmues mbi reformën e drejtësisë. Në proces mund të marrin pjesë mbi 51 milionë zgjedhës, përfshirë më shumë se 5.4 milionë që jetojnë jashtë vendit.
+
+Fleta e votimit, e gjelbër, përmban pyetjen: ""A miratoni tekstin e ligjit për rishikimin e nenëve 87, 102, 104, 105, 106, 107 dhe 110 të Kushtetutës, për krijimin e Gjykatës disiplinore dhe ndryshimet në organizimin gjyqësor?"" Zgjedhësit duhet të përgjigjen me ""Po"" ose ""Jo"".",0.4718,0.4944,climate crisis,west nile virus,borderline,no,no,no,Albanian politics - parliament session,,
+Albanian,Israel,panorama.com.al,newsapi,3446,https://www.panorama.com.al/parlamenti-evropian-ngrin-marreveshjen-tregtare-me-shba-ne-deri-ne-nje-njoftim-te-dyte/,"Parlamenti Evropian ""ngrin"" marrëveshjen tregtare me SHBA-në deri në një njoftim të dytë","Bashkimi Evropian ka vendosur të pezullojë ratifikimin e marrëveshjes tregtare me Shtetet e Bashkuara, derisa presidenti amerikan, Donald Trump, të finalizojë strategjinë e tij të re dhe të rishikuar për tarifat doganore, duke shtuar pasiguri të re ekonomike në marrëdhëniet tashmë të tensionuara transatlantike.
+
+Eurodeputetët vendosën të hënën të pezullojnë procedurat legjislative për miratimin e marrëveshjes, vetëm pak ditë pasi Supreme Court of the United States anuloi përdorimin nga Trump të ligjit për kompetencat emergjente për vendosjen e të ashtuquajturave tarifa ""reciproke"" në nivel global.
+
+""Ne duam qartësi për situatën"", deklaroi gjatë një seance presidenti i Komisionit për Tregtinë Ndërkombëtare në Parlamentin Evropian, Bernd Lange. ""Duam garanci të qarta nga SHBA-ja se e respekton marrëveshjen, sepse kjo është një element kyç"", shtoi ai.
+
+Pasiguri e re në marrëdhëniet transatlantike
+
+Shtyrja e re zgjat një proces tashmë të gjatë për marrëveshjen, e cila u arrit verën e kaluar, por ende nuk është zbatuar plotësisht. Nëse pakti dështon, mund të hapë një kapitull të ri tensioni mes dy anëve të Atlantikut, në një kohë kur marrëdhëniet janë vënë në provë nga qëndrimi i Trump për luftën e Rusisë në Ukrainë, presioni për Groenlandën dhe deklaratat e tij të ashpra ndaj liderëve evropianë.
+
+Të hënën, Trump paralajmëroi në rrjetet sociale se çdo vend që do të ""luajë lojëra"" me vendimin e Gjykatës Supreme, veçanërisht ato që sipas tij ""kanë shfrytëzuar"" SHBA-në për vite apo dekada, do të përballet me tarifa edhe më të larta.
+
+Pak orë pas vendimit të gjykatës të premten, presidenti amerikan njoftoi vendosjen e një tarife globale prej 10%, të cilën më pas e rriti në 15%, duke lënë të paqartë se si do të harmonizohen këto masa me marrëveshjet ekzistuese tregtare.
+
+Trump bëri të ditur gjithashtu se do të ruajë tarifat ekzistuese të vendosura mbi bazën e neneve 301 dhe 232 të legjislacionit amerikan për tregtinë, ndërsa udhëzoi Përfaqësuesin Amerikan për Tregtinë të nisë hetime të reja të përshpejtuara sipas Nenit 301. Këto procedura kërkojnë hetime specifike për çdo vend dhe konstatime për shkelje të rregullave tregtare përpara vendosjes së tarifave dhe mund të zëvendësojnë në të ardhmen normën bazë globale.
+
+Megjithatë, deklaratat e fundit kanë shtuar paqartësinë mbi drejtimin e politikës tarifore amerikane dhe mënyrën se si ajo do të ndërthuret me marrëveshjet tregtare në fuqi.",0.4767,0.5140,climate crisis,west nile virus,borderline,no,no,no,Junk - newspaper front page listing,,

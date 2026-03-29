@@ -1,0 +1,59 @@
+label,language,length,subtlety,title,climate_max_sim,climate_max_keyword,health_max_sim,health_max_keyword,climate_centroid_sim,health_centroid_sim,climate_matched_max,climate_matched_keyword,health_matched_max,health_matched_keyword,climate_matched_centroid,health_matched_centroid
+climate,en,short,direct,Global Warming Accelerates Arctic Ice Loss,0.667,global warming,0.5092,extreme poverty,0.6338,0.4419,0.667,global warming,0.5092,extreme poverty,0.6338,0.4419
+climate,en,medium,direct,Europe Faces Record Heatwave as Temperatures Soar,0.6529,rising temperatures,0.5062,extreme poverty,0.5836,0.4362,0.6529,rising temperatures,0.5062,extreme poverty,0.5836,0.4362
+climate,en,long,indirect,Pacific Island Nations Face an Uncertain Future,0.6509,rising sea levels,0.5465,extreme poverty,0.6015,0.5112,0.6509,rising sea levels,0.5465,extreme poverty,0.6015,0.5112
+climate,ar,medium,direct,ارتفاع مستوى سطح البحر يهدد المدن الساحلية العربية,0.5808,sea level rise,0.4493,west nile,0.4703,0.3761,0.7394,ارتفاع مستوى سطح البحر,0.5778,حمى النيل الغربي,0.5875,0.4566
+climate,zh,short,direct,中国承诺加速减少碳排放,0.5583,carbon emissions,0.4018,air pollution,0.4807,0.3665,0.615,碳排放,0.4326,空气污染,0.5245,0.3963
+climate,zh,medium,indirect,黄河流域干旱加剧农业危机,0.5191,rising temperatures,0.4895,extreme poverty,0.5135,0.447,0.5749,气候紧急状态,0.5323,粮食危机,0.5494,0.471
+climate,es,medium,direct,América Latina enfrenta una crisis climática sin precedentes,0.561,rising temperatures,0.4956,extreme poverty,0.5882,0.4446,0.6891,aumento de temperatura,0.5773,contaminación del aire,0.6512,0.4955
+climate,fr,short,direct,La France adopte un plan ambitieux contre le réchauffement climatique,0.5649,climate action,0.4557,extreme poverty,0.5524,0.4088,0.7749,réchauffement planétaire,0.6112,pollution de l'air,0.6345,0.4675
+climate,pt,medium,indirect,Seca histórica transforma paisagem do Nordeste brasileiro,0.4908,rising temperatures,0.4522,west nile,0.4838,0.4156,0.6748,aumento da temperatura,0.6345,qualidade de vida,0.5821,0.4841
+health,en,short,direct,Dengue Outbreak Spreads Across Southeast Asia,0.5228,rising temperatures,0.6266,dengue,0.5162,0.5809,0.5228,rising temperatures,0.6266,dengue,0.5162,0.5809
+health,en,medium,direct,Malnutrition Crisis Deepens in Horn of Africa,0.5504,climate crises,0.6652,food insecurity,0.5149,0.545,0.5504,climate crises,0.6652,food insecurity,0.5149,0.545
+health,en,long,indirect,Rural Communities Struggle to Access Medical Care,0.4293,climate crisis,0.4994,extreme poverty,0.4411,0.487,0.4293,climate crisis,0.4994,extreme poverty,0.4411,0.487
+health,ar,medium,direct,تفشي وباء الكوليرا في اليمن يثير قلقاً دولياً,0.4028,climate emergencies,0.4982,cholera,0.3868,0.4805,0.5589,موجة حر,0.6139,وباء,0.4896,0.5433
+health,es,short,direct,Brasil registra aumento alarmante de casos de malaria,0.52,rising temperatures,0.5645,malaria,0.4999,0.5523,0.6625,aumento de temperatura,0.624,fiebre del Nilo Occidental,0.5655,0.5959
+health,fr,medium,indirect,Les hôpitaux parisiens sous pression face à la grippe saisonnière,0.4314,rising temperatures,0.4418,illnesses,0.4436,0.4637,0.6562,réchauffement planétaire,0.6119,fièvre du Nil occidental,0.532,0.5189
+health,pt,short,direct,Surto de dengue atinge recorde no Rio de Janeiro,0.4598,rising temperatures,0.5327,dengue,0.4492,0.4756,0.6465,aumento do nível do mar,0.6235,febre do Nilo Ocidental,0.5457,0.5392
+climate+health,en,short,direct,Climate Change Fuels Spread of Mosquito-Borne Diseases,0.6157,climate emergency,0.5754,dengue,0.5991,0.5525,0.6157,climate emergency,0.5754,dengue,0.5991,0.5525
+climate+health,en,medium,direct,Extreme Heat Drives Surge in Hospital Admissions,0.6526,rising temperatures,0.5272,extreme poverty,0.5884,0.5011,0.6526,rising temperatures,0.5272,extreme poverty,0.5884,0.5011
+climate+health,en,long,indirect,After the Floods: A Town Grapples with Contaminated Water,0.6192,rising sea levels,0.5931,undernourishment,0.5986,0.5777,0.6192,rising sea levels,0.5931,undernourishment,0.5986,0.5777
+climate+health,ar,medium,direct,موجات الحر تفاقم الأزمة الصحية في العراق,0.567,rising temperatures,0.4422,epidemics,0.4824,0.4388,0.6774,الاحتباس الحراري,0.567,التهاب رئوي,0.5956,0.5044
+climate+health,zh,medium,direct,气候变化加剧登革热在中国南方的传播,0.5617,rising temperatures,0.5862,dengue,0.5175,0.5183,0.6059,气温升高,0.6697,登革热,0.565,0.5567
+climate+health,es,short,indirect,Olas de calor provocan emergencia sanitaria en Colombia,0.6228,rising temperatures,0.5209,extreme poverty,0.5864,0.5324,0.6692,aumento de temperatura,0.6152,cólera,0.6394,0.573
+climate+health,fr,medium,direct,Le changement climatique aggrave la propagation du paludisme en Afrique,0.5532,rising temperatures,0.5231,extreme poverty,0.5533,0.5322,0.7278,réchauffement planétaire,0.7135,fièvre du Nil occidental,0.6363,0.5812
+climate+health,pt,medium,indirect,Queimadas na Amazônia agravam problemas respiratórios,0.4815,rising temperatures,0.453,air pollution,0.4825,0.4171,0.6759,aumento da temperatura,0.6763,poluição do ar,0.5789,0.4872
+neither,en,short,easy,Champions League Final: Madrid Triumphs in Extra Time,0.3089,extreme event,0.2769,extreme poverty,0.273,0.2563,0.3089,extreme event,0.2769,extreme poverty,0.273,0.2563
+neither,en,medium,easy,Tech Giants Report Strong Quarterly Earnings,0.3941,rising temperatures,0.368,quality of life,0.3968,0.3306,0.3941,rising temperatures,0.368,quality of life,0.3968,0.3306
+neither,fr,short,easy,Le Festival de Cannes dévoile sa sélection officielle,0.3944,heatwave,0.4393,casualties,0.4035,0.4091,0.5868,émissions de carbone,0.5457,espérance de vie,0.4862,0.4609
+neither,zh,short,easy,中国航天员顺利返回地球,0.3281,heatwave,0.3425,casualties,0.3211,0.3318,0.4253,极端高温,0.4282,伤亡,0.3766,0.3823
+neither,ar,short,easy,افتتاح أكبر متحف للفن الإسلامي في الرياض,0.284,extreme heat,0.3436,west nile,0.2624,0.2949,0.4602,الاحترار العالمي,0.4212,فقر مدقع,0.352,0.3635
+neither,en,medium,hard,Political Climate Heats Up Ahead of November Elections,0.5621,rising temperatures,0.4922,extreme poverty,0.5551,0.4744,0.5621,rising temperatures,0.4922,extreme poverty,0.5551,0.4744
+neither,en,medium,hard,Company Culture Under Pressure as Burnout Epidemic Grows,0.5373,environmental change,0.524,quality of life,0.538,0.4846,0.5373,environmental change,0.524,quality of life,0.538,0.4846
+neither,en,short,hard,Heat Records Shattered at Australian Open Tennis,0.6404,extreme heat,0.4893,extreme poverty,0.563,0.4338,0.6404,extreme heat,0.4893,extreme poverty,0.563,0.4338
+neither,en,medium,hard,The Rising Tide of Student Debt Threatens Economic Recovery,0.481,rising temperatures,0.4799,undernourishment,0.486,0.4232,0.481,rising temperatures,0.4799,undernourishment,0.486,0.4232
+neither,es,short,hard,La fiebre del fútbol se apodera de Buenos Aires,0.487,rising temperatures,0.4662,hay-fever,0.4729,0.4748,0.6164,ola de calor,0.6135,fiebre del Nilo Occidental,0.5401,0.5236
+neither,pt,short,hard,Mercado financeiro aquece com alta recorde da bolsa,0.4608,rising temperatures,0.4116,west nile,0.4561,0.3937,0.6932,aumento da temperatura,0.6152,qualidade de vida,0.5553,0.4633
+climate,pt,short,direct,Emissões de carbono no Brasil atingem novo recorde,0.5277,carbon emissions,0.4242,air pollution,0.4849,0.355,0.7701,emissões de carbono,0.6738,poluição do ar,0.5869,0.4325
+climate,pt,long,indirect,Pescadores do litoral gaúcho enfrentam safra cada vez mais imprevisível,0.526,rising sea levels,0.4787,west nile,0.5105,0.4388,0.6853,aumento do nível do mar,0.6071,febre do Nilo Ocidental,0.5997,0.5023
+health,pt,medium,indirect,Comunidades ribeirinhas do Pará lutam contra surto de diarreia,0.4638,rising sea level,0.5003,west nile,0.4715,0.4986,0.6292,aumento do nível do mar,0.6432,febre do Nilo Ocidental,0.5607,0.5581
+climate+health,pt,medium,indirect,Ondas de calor sufocam idosos em São Paulo,0.5515,rising temperatures,0.4442,extreme poverty,0.4986,0.4389,0.7031,aumento da temperatura,0.6313,qualidade de vida,0.596,0.5063
+neither,pt,medium,hard,Onda de crimes assola zona sul do Rio de Janeiro,0.409,rising temperatures,0.4276,undernourishment,0.4143,0.414,0.6216,aumento da temperatura,0.6376,insegurança alimentar,0.5164,0.4829
+neither,pt,short,easy,Seleção brasileira convocada para eliminatórias,0.3474,rising temperatures,0.3717,west nile,0.3678,0.3496,0.569,aumento da temperatura,0.5498,qualidade de vida,0.4629,0.4182
+climate,es,long,indirect,Los viñedos de La Rioja ya no reconocen las estaciones,0.5351,rising temperatures,0.4839,extreme poverty,0.5251,0.4869,0.6419,deterioro de la capa de ozono,0.5681,calidad de vida,0.5855,0.53
+health,es,medium,indirect,Hospitales de Lima colapsan por brote de enfermedades respiratorias,0.4705,rising temperatures,0.5422,epidemic,0.4838,0.5462,0.6089,deterioro de la capa de ozono,0.618,salud pública,0.5474,0.5881
+climate+health,es,medium,direct,La sequía en Centroamérica dispara la desnutrición infantil,0.5427,climate crises,0.6161,undernourishment,0.5353,0.5383,0.63,deterioro de la capa de ozono,0.6554,desnutrición crónica,0.5935,0.5799
+neither,es,medium,hard,Una oleada de despidos sacude al sector tecnológico en Madrid,0.4595,environmental changes,0.4541,extreme poverty,0.4759,0.4368,0.6077,deterioro de la capa de ozono,0.5569,calidad de vida,0.5385,0.4837
+climate,fr,long,indirect,Les glaciers des Alpes fondent à vue d'oeil,0.504,changing climates,0.4714,west nile,0.5122,0.4403,0.6839,élévation du niveau de la mer,0.637,fièvre du Nil occidental,0.6018,0.496
+health,fr,short,direct,Résurgence du choléra à Mayotte après le passage du cyclone,0.4895,climate emergencies,0.5624,cholera,0.4916,0.5218,0.6905,vagues de chaleur,0.6838,fièvre du Nil occidental,0.5805,0.5763
+climate+health,fr,long,indirect,"Au Sahel, les bergers peuls marchent de plus en plus loin",0.4712,changing climates,0.5288,undernourishment,0.4938,0.4936,0.6584,réchauffement planétaire,0.6638,fièvre du Nil occidental,0.5803,0.5467
+neither,fr,medium,hard,Vague de contestation dans les universités françaises,0.4595,environmental change,0.4369,quality of life,0.462,0.4272,0.6774,réchauffement planétaire,0.6383,qualité de vie,0.55,0.4859
+climate,ar,long,indirect,نخيل البصرة يموت عطشاً,0.5278,rising temperatures,0.5617,west nile,0.507,0.5014,0.6633,الاحتباس الحراري,0.6692,حمى النيل الغربي,0.6298,0.5839
+health,ar,medium,indirect,أطفال غزة يعانون من نقص حاد في الغذاء,0.4075,rising temperatures,0.5693,malnourishment,0.3994,0.4968,0.548,تآكل طبقة الأوزون,0.6498,فقر مدقع,0.4927,0.5556
+neither,ar,medium,hard,موجة غلاء تضرب الأسواق المصرية,0.4202,rising temperatures,0.5423,undernourishment,0.4123,0.447,0.5722,الاحتباس الحراري,0.6081,انعدام الأمن الغذائي,0.5148,0.508
+health,zh,medium,direct,非洲猪瘟疫情在东南亚多国蔓延,0.4384,climate emergencies,0.5554,epidemic,0.4366,0.5489,0.5424,气候紧急状态,0.6177,大流行,0.4801,0.5801
+climate,zh,medium,indirect,青藏高原牧民面临前所未有的困境,0.452,heatwaves,0.4961,extreme poverty,0.469,0.4376,0.6138,冰川融化,0.6015,极端贫困,0.5331,0.4861
+neither,zh,medium,hard,房地产市场降温引发经济担忧,0.3575,climate crises,0.3609,undernourishment,0.3539,0.3244,0.4419,气候危机,0.4626,粮食危机,0.4032,0.3702
+climate,en,medium,indirect,Alaskan Villages Vote to Relocate as Coastline Crumbles,0.6016,rising sea levels,0.5435,west nile,0.5805,0.5304,0.6016,rising sea levels,0.5435,west nile,0.5805,0.5304
+health,en,medium,indirect,Appalachian Communities Left Behind as Clinics Close,0.4937,climate emergency,0.5391,extreme poverty,0.5169,0.5476,0.4937,climate emergency,0.5391,extreme poverty,0.5169,0.5476
+neither,en,medium,hard,Farmers Brace for Tough Season as Fertilizer Prices Surge,0.5283,rising temperatures,0.5643,food insecurity,0.5193,0.4692,0.5283,rising temperatures,0.5643,food insecurity,0.5193,0.4692

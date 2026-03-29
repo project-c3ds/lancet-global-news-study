@@ -1,119 +1,95 @@
 #!/usr/bin/env python3
-"""Check NewsAPI (eventregistry) for article availability of missing/low-count sources.
+"""Check if bad scrapai sources are available via NewsAPI (Event Registry).
+
+Looks up each source URI and counts articles since 2020.
 
 Usage:
-    python check_newsapi_sources.py                # all 167 sources
-    python check_newsapi_sources.py --limit 1      # dry run with 1 source
+    python check_newsapi_sources.py
+    python check_newsapi_sources.py --output results/newsapi_availability.csv
 """
 
 import argparse
 import csv
 import os
-from pathlib import Path
+import time
 
 from dotenv import load_dotenv
 from eventregistry import EventRegistry, QueryArticlesIter
 
 load_dotenv()
 
-SOURCES_CSV = Path("data/sources/source_status.csv")
-OUTPUT_CSV = Path("data/sources/source_status.csv")
-NEWSAPI_CSV = Path("data/sources/newsapi_sources.csv")
-
-
-def load_sources(limit=None):
-    """Load sources that need checking (not collected or < 1000 articles)."""
-    sources = []
-    with open(SOURCES_CSV, newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            if row["collected"] == "No" or int(row["article_count"]) < 1000:
-                sources.append(row)
-    if limit:
-        sources = sources[:limit]
-    return sources
+# 25 bad scrapai sources with no current newsapi replacement
+BAD_SOURCES = [
+    "5plus.mu",
+    "aftonbladet.se",
+    "aif.ru",
+    "chosun.com",
+    "dn.no",
+    "echoroukonline.com",
+    "elcomercio.com",
+    "ennaharonline.com",
+    "ft.com",
+    "guardian.ng",
+    "ilsole24ore.com",
+    "inquirer.net",
+    "kleinezeitung.at",
+    "lanacion.cl",
+    "lequipe.fr",
+    "liberation.fr",
+    "lidovky.cz",
+    "mmbiztoday.com",
+    "nst.com.my",
+    "sol.sapo.pt",
+    "telegraaf.nl",
+    "thechronicle.com.gh",
+    "thisdaylive.com",
+    "vanguardngr.com",
+    "vg.no",
+]
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--limit", type=int, help="Limit number of sources to check")
+    parser.add_argument("--output", default="results/newsapi_availability.csv")
     args = parser.parse_args()
 
-    api_key = os.environ["NEWSAPI_KEY"]
-    er = EventRegistry(apiKey=api_key)
+    er = EventRegistry(apiKey=os.environ["NEWSAPI_KEY"])
 
-    targets = load_sources(args.limit)
-    print(f"Checking {len(targets)} sources...")
+    results = []
+    print(f"Checking {len(BAD_SOURCES)} sources in NewsAPI...\n")
+    print(f"  {'source':30s} {'uri':35s} {'count':>10s}  status")
+    print("  " + "-" * 85)
 
-    # Build a set of target source names for quick lookup
-    target_names = {row["name"] for row in targets}
+    for source in BAD_SOURCES:
+        uri = er.getSourceUri(source)
+        time.sleep(0.3)
 
-    # Query NewsAPI for each target — use domain from URL, fall back to name
-    results = {}
-    for i, row in enumerate(targets, 1):
-        name = row["name"]
-        # Extract domain from website_url for more reliable matching
-        from urllib.parse import urlparse
-        domain = urlparse(row["website_url"].strip().rstrip("/")).hostname or ""
-        domain = domain.removeprefix("www.")
-        uri = er.getSourceUri(domain) if domain else None
-        if not uri:
-            uri = er.getSourceUri(name)
-
+        count = 0
         if uri:
             q = QueryArticlesIter(sourceUri=uri, dateStart="2020-01-01")
             count = q.count(er)
-            results[name] = {"newsapi_uri": uri, "newsapi_count": count}
-            print(f"  [{i}/{len(targets)}] {name} -> {uri} ({count:,} articles)")
-        else:
-            results[name] = {"newsapi_uri": "", "newsapi_count": 0}
-            print(f"  [{i}/{len(targets)}] {name} -> NOT FOUND")
+            time.sleep(0.3)
 
-    # Write newsapi_sources.csv with just the queried results
-    with open(NEWSAPI_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=[
-            "country", "name", "website_url", "reason", "article_count",
-            "newsapi_uri", "newsapi_count",
-        ])
+        status = "available" if count > 0 else "not found"
+        print(f"  {source:30s} {str(uri or ''):35s} {count:>10,}  {status}")
+
+        results.append({
+            "source": source,
+            "newsapi_uri": uri or "",
+            "articles_since_2020": count,
+            "status": status,
+        })
+
+    # Save CSV
+    os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
+    with open(args.output, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(results[0].keys()))
         writer.writeheader()
-        for row in targets:
-            r = results[row["name"]]
-            reason = "not_collected" if row["collected"] == "No" else "low_count"
-            writer.writerow({
-                "country": row["country"],
-                "name": row["name"],
-                "website_url": row["website_url"],
-                "reason": reason,
-                "article_count": row["article_count"],
-                "newsapi_uri": r["newsapi_uri"],
-                "newsapi_count": r["newsapi_count"],
-            })
-    print(f"Wrote {NEWSAPI_CSV}")
+        writer.writerows(results)
 
-    # Re-read full CSV and add newsapi columns
-    all_rows = []
-    with open(SOURCES_CSV, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        fieldnames = list(reader.fieldnames)
-        for col in ["newsapi_uri", "newsapi_count"]:
-            if col not in fieldnames:
-                fieldnames.append(col)
-        for row in reader:
-            if row["name"] in results:
-                row["newsapi_uri"] = results[row["name"]]["newsapi_uri"]
-                row["newsapi_count"] = results[row["name"]]["newsapi_count"]
-            else:
-                row.setdefault("newsapi_uri", "")
-                row.setdefault("newsapi_count", "")
-            all_rows.append(row)
-
-    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_rows)
-
-    print(f"\nDone. Updated {OUTPUT_CSV}")
-    resolved = sum(1 for r in results.values() if r["newsapi_uri"])
-    print(f"Resolved: {resolved}/{len(results)}")
+    available = [r for r in results if r["articles_since_2020"] > 0]
+    print(f"\nAvailable in NewsAPI: {len(available)}/{len(BAD_SOURCES)}")
+    print(f"Saved to {args.output}")
 
 
 if __name__ == "__main__":

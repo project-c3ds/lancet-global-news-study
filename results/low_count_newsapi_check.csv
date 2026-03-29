@@ -1,0 +1,88 @@
+source,scrapai_count,newsapi_uri,newsapi_count,action
+sports.ycwb.com,53,sports.ycwb.com,0,not found
+spravy.pravda.sk,53,spravy.pravda.sk,0,not found
+sowetan.co.za,61,sowetan.co.za,1118,UPGRADE
+indianexpress.com,64,indianexpress.com,10420,UPGRADE
+newvision.co.ug,64,newvision.co.ug,1470,UPGRADE
+ntpluscondominio.ilsole24ore.com,65,ntpluscondominio.ilsole24ore.com,0,not found
+sports.ltn.com.tw,83,sports.ltn.com.tw,3285,UPGRADE
+health.ltn.com.tw,88,health.ltn.com.tw,1264,UPGRADE
+denik.cz,89,denik.cz,0,not found
+ec.ltn.com.tw,89,ec.ltn.com.tw,3674,UPGRADE
+thestatesmanonline.com,89,thestatesmanonline.com,0,not found
+food.ltn.com.tw,109,food.ltn.com.tw,0,not found
+auto.ltn.com.tw,122,auto.ltn.com.tw,0,not found
+publimetro.cl,127,publimetro.cl,313,UPGRADE
+appledaily.com,137,appledaily.com,4,available
+elheraldo.co,143,elheraldo.co,4035,UPGRADE
+ethnos.gr,146,ethnos.gr,0,not found
+assabah.ma,153,assabah.ma,1029,UPGRADE
+observer.ug,153,observer.ug,238,UPGRADE
+miadhu.mv,158,,0,not found
+ent.ycwb.com,159,ent.ycwb.com,0,not found
+mwananchi.co.tz,164,mwananchi.co.tz,1,available
+ent.ltn.com.tw,182,ent.ltn.com.tw,3424,UPGRADE
+gazeta.pl,209,gazeta.pl,2,available
+24plus.ilsole24ore.com,215,,0,not found
+karieri.bg,228,karieri.bg,0,not found
+malaymail.com,236,malaymail.com,3637,UPGRADE
+gazeta.ua,285,gazeta.ua,4987,UPGRADE
+3c.ltn.com.tw,297,3c.ltn.com.tw,382,UPGRADE
+news.mingpao.com,310,news.mingpao.com,4078,UPGRADE
+hani.co.kr,324,hani.co.kr,0,not found
+mauritiustimes.com,324,mauritiustimes.com,62,available
+istyle.ltn.com.tw,330,istyle.ltn.com.tw,0,not found
+elbilad.net,364,elbilad.net,302,available
+pagina12.com.ar,369,pagina12.com.ar,74,available
+economx.hu,379,economx.hu,1888,UPGRADE
+ysln.ycwb.com,436,ysln.ycwb.com,216,available
+blog.calameo.com,440,,0,not found
+estate.ltn.com.tw,450,estate.ltn.com.tw,0,not found
+ethiopianreporter.com,460,ethiopianreporter.com,0,not found
+eldiario.net,495,eldiario.net,0,not found
+mgronline.com,519,mgronline.com,3765,UPGRADE
+auto.ycwb.com,547,auto.ycwb.com,15,available
+trib.com,575,trib.com,0,not found
+dailynayadiganta.com,700,dailynayadiganta.com,0,not found
+thejakartapost.com,708,thejakartapost.com,770,UPGRADE
+sueddeutsche.de,796,sueddeutsche.de,14971,UPGRADE
+thebftonline.com,923,thebftonline.com,692,available
+utusan.com.my,987,utusan.com.my,0,not found
+lematin.ma,1024,lematin.ma,886,available
+mk.co.kr,1072,mk.co.kr,14384,UPGRADE
+news.ltn.com.tw,1089,news.ltn.com.tw,16670,UPGRADE
+limerickleader.ie,1108,limerickleader.ie,1115,UPGRADE
+jyllands-posten.dk,1123,jyllands-posten.dk,1514,UPGRADE
+perfil.com,1246,perfil.com,4682,UPGRADE
+standaard.be,1267,standaard.be,699,available
+mainichi.jp,1422,mainichi.jp,14560,UPGRADE
+diariocorreo.pe,1442,diariocorreo.pe,3793,UPGRADE
+bukedde.co.ug,1502,,0,not found
+bharian.com.my,1534,bharian.com.my,209,available
+mmbiztoday.com,1616,mmbiztoday.com,0,not found
+jawapos.com,1846,jawapos.com,6514,UPGRADE
+aamulehti.fi,1976,aamulehti.fi,574,available
+record.pt,1978,record.pt,4114,UPGRADE
+hs.fi,2146,hs.fi,2389,UPGRADE
+naftemporiki.gr,2339,naftemporiki.gr,4229,UPGRADE
+yomiuri.co.jp,2421,yomiuri.co.jp,5605,UPGRADE
+slobodnadalmacija.hr,2598,slobodnadalmacija.hr,5573,UPGRADE
+lexpress.mu,2616,lexpress.mu,1228,available
+diepresse.com,2641,diepresse.com,3026,UPGRADE
+lalibre.be,2721,lalibre.be,8586,UPGRADE
+manoramaonline.com,2723,manoramaonline.com,4306,UPGRADE
+thenational.com.pg,2760,thenational.com.pg,2,available
+faz.net,2761,faz.net,4969,UPGRADE
+lefigaro.fr,2803,lefigaro.fr,8135,UPGRADE
+busiweek.com,3174,busiweek.com,0,not found
+scmp.com,3402,scmp.com,3095,available
+20min.ch,3498,20min.ch,2319,available
+globes.co.il,3513,globes.co.il,1116,available
+irishexaminer.com,3519,irishexaminer.com,3387,available
+heraldsun.com.au,3653,heraldsun.com.au,503,available
+nation.co.ke,3677,nation.co.ke,0,not found
+theeastafrican.co.ke,3939,theeastafrican.co.ke,223,available
+punchng.com,4336,punchng.com,5823,UPGRADE
+publico.pt,4567,publico.pt,2831,available
+politiken.dk,4584,politiken.dk,1928,available
+dailyinqilab.com,4910,dailyinqilab.com,8647,UPGRADE

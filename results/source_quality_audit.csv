@@ -1,0 +1,281 @@
+source_uri,articles,quality_score,median_len,p10_len,p25_len,p75_len,empty_pct,short_100_pct,short_200_pct,dup_content_pct,dup_title_pct,top_title,top_title_count,top_content_count,shared_prefix_pct,shared_prefix_len
+ilsole24ore.com,417,10,101,101,101,245,0.0,0.0,51.6,100.0,61.4,NT+ Condominio,65,215,51.6,101
+dailyinqilab.com,4733,25,174,174,174,1944,0.0,0.0,55.1,55.3,57.0,Just a moment...,2605,2605,0.4,0
+lesoftonline.net,17,29,166,148,162,172,0.0,0.0,82.4,64.7,0.0,Congo | Le Soft international,1,6,35.3,166
+dailyguidenetwork.com,23420,30,185,136,136,209,0.0,0.0,64.6,66.0,31.1,DailyGuide Network,6620,10030,0.6,0
+gazzetta.it,19443,32,936,155,187,2631,0.0,0.0,34.4,34.1,57.0,Roma: ultime notizie,610,4395,37.8,155
+alwafd.news,9225,38,275,147,190,1233,0.0,0.0,28.3,47.6,57.0,بوابة الوفد الإلكترونية  | جميع الموضوعات,192,64,16.4,0
+trib.com,581,39,410,110,110,871,0.0,0.0,38.9,47.3,15.3,Girls,6,188,22.4,0
+indianexpress.com,20,42,101,101,101,101,0.0,0.0,85.0,0.0,95.0,Access Denied,19,1,10.0,0
+telegraf.rs,130699,42,297,128,194,1136,0.0,0.0,26.0,76.2,78.3,Odgovor na komentar,14902,6459,7.6,0
+adressa.no,7318,43,119,104,109,132,0.0,0.0,94.5,3.0,4.0,"Leilighet i Sorgenfriveien solgt for 4,3 millioner kroner - ",4,4,80.0,50
+vecernji.hr,21726,45,1153,194,194,2349,0.0,0.0,29.7,34.2,32.1,Prijava - Večernji.hr,6417,6417,24.8,0
+5plus.mu,10,50,249,249,249,249,0.0,0.0,0.0,100.0,100.0,WhatsApp,10,10,100.0,249
+arabnews.com,332,50,519,519,519,1850,0.0,0.0,0.0,56.0,56.0,Attention Required!,186,186,56.0,519
+newvision.co.ug,14,50,189,127,175,877,0.0,0.0,71.4,14.3,0.0,"New Vision: Your trusted source for breaking news, analysis,",1,2,14.3,0
+lematin.ma,1024,51,620,620,620,3247,0.0,0.0,0.0,50.4,49.7,Connexion à votre compte Le Matin.ma - Accédez à votre conte,507,507,48.2,620
+naszemiasto.pl,15,51,1983,143,1983,2920,0.0,0.0,13.3,53.3,13.3,Firmy rezygnują ze świątecznych spotkań. Co pracownicy chcą ,2,6,46.7,1983
+mg.co.za,23604,54,242,141,176,417,0.0,0.0,37.0,35.9,6.8,police – The Mail & Guardian,44,148,0.8,0
+scmp.com,3402,54,199,124,139,256,0.0,0.0,50.3,9.1,9.0,Iran conflict will accelerate China’s push to become an ‘ene,4,4,0.4,0
+theeastafrican.co.ke,3939,56,4104,2292,2292,6582,0.0,0.0,0.2,60.4,58.0,Sign in,1219,1320,30.4,6582
+jawapos.com,1846,57,174,118,137,255,0.0,0.0,59.4,4.6,0.3,Segar dan Menyehatkan: 5 Buah Terbaik untuk Es Buah Berbuka ,2,54,2.2,0
+lesoir.be,156,58,283,103,268,294,0.0,0.0,15.4,0.0,95.5,Access Denied,149,1,80.1,72
+nation.co.ke,3677,58,2997,715,2447,6582,0.0,0.0,2.7,69.0,63.4,Packages,850,850,16.8,0
+bukedde.co.ug,857,63,1058,430,628,1829,0.0,0.0,1.2,99.6,99.9,Uganda eyolekedde Saudi Arabia okwetaba mu mizannyo gya Isla,8,8,3.2,0
+ethiopianreporter.com,246,63,3407,190,599,5135,0.0,0.0,20.3,21.5,21.5,#1 Reliable News Source In Ethiopia,44,50,20.3,0
+standardmedia.co.ke,27885,63,1930,238,300,3226,0.0,0.0,1.3,77.7,74.7,Why waiting to get sick is a risk we can't afford,9,647,3.4,0
+globes.co.il,5235,64,3031,446,1181,4734,0.0,0.0,0.8,66.6,79.0,זירת העסקים של ישראל,777,83,1.4,0
+independent.ie,29534,64,1328,533,662,3564,0.0,0.0,0.2,67.5,70.5,Blessington Bulletin,35,4,3.0,0
+slobodnadalmacija.hr,3489,64,1922,720,877,3489,0.0,0.0,0.1,86.1,86.4,LIVE Iranska novinska agencija: Žena pokojnog Alija Hameneij,15,15,1.8,0
+udn.com,71251,64,938,538,681,1763,0.0,0.0,0.4,49.2,49.5,udn 會員中心,5572,5572,4.2,0
+uzhurriyat.uz,16826,64,6665,2521,4102,9966,0.0,0.0,0.4,66.9,75.9,РАССОМ ХАНДАСИ,21,8,1.4,0
+vg.no,16486,64,235,235,235,769,0.0,0.0,0.5,69.0,1.8,drapet,10,11374,98.8,235
+aftonbladet.se,9402,65,3272,107,218,4342,0.0,0.0,22.3,5.0,0.4,"Senaste nytt, Trupp och Resultat",21,9,72.0,749
+laprensa.hn,238,65,414,133,166,882,0.0,0.0,30.3,1.3,20.2,Diario La Prensa,15,3,13.4,0
+nst.com.my,6644,65,832,794,832,874,0.0,0.0,0.0,100.0,0.4,German police smash massive child porn ring | New Straits Ti,2,3127,100.0,721
+pluska.sk,62,70,372,257,295,420,0.0,0.0,0.0,33.9,72.6,Správy,9,4,6.5,0
+gazeta.pl,124952,73,2036,139,1311,3038,0.0,0.0,12.5,18.8,18.9,Logowanie,15577,15577,11.6,0
+chinadaily.com.cn,52357,74,1167,285,448,2311,0.0,0.0,3.8,31.8,28.8,Chinadaily.com.cn,307,2193,5.8,0
+pagina12.com.ar,369,74,352,185,230,467,0.0,0.0,12.7,24.1,7.0,Página,26,41,12.2,0
+hindustantimes.com,26856,75,1353,567,874,2644,0.0,0.0,4.3,29.2,29.7,"Dubai, Abu Dhabi news highlights: Sirens blare in Doha as Qa",1141,1138,3.0,0
+yomiuri.co.jp,1085,75,328,149,170,560,0.0,0.0,30.3,0.3,0.3,巨人プレミアム　アーカイブ : 読売新聞,3,3,0.4,0
+jamaicaobserver.com,23031,77,1828,1171,1517,3314,0.0,0.0,0.5,30.3,6.4,Jamaica Observer,1031,633,29.8,0
+philstar.com,928,78,2113,1113,1467,3144,0.0,0.0,0.3,30.7,30.7,Miss Universe Philippines 2026 includes sports challenge as ,6,6,1.4,0
+citizen.co.za,22322,79,1202,107,574,2044,0.0,0.0,17.9,14.6,1.8,ESKOM HOLDINGS SOC LIMITED (now NATIONAL TRANSMISSION COMPAN,23,2750,0.4,0
+donga.com,21340,79,1311,584,839,2261,0.0,0.0,2.3,22.6,28.9,[인천판/게시판]인천 外｜동아일보,13,51,5.0,0
+eluniverso.com,46596,79,253,164,206,321,0.0,0.0,22.0,3.5,0.2,"‘El amor después del amor’, la esencia  y estilo de Juanes e",2,1318,5.0,0
+lexpress.mu,2609,79,2280,348,1026,4021,0.0,0.0,0.0,27.4,27.3,L'express Leaks — lexpress.mu,80,80,6.2,0
+gp.se,11566,80,1710,963,1195,3380,0.0,0.0,0.3,29.2,0.2,Attackerna mot Iran: Detta har hänt,4,3352,26.2,0
+miadhu.mv,158,80,1600,376,920,2654,0.0,0.0,4.4,0.0,99.4,Miadhu Online - މިއަދު އޮންލައިން,121,1,4.4,0
+standaard.be,1267,81,3008,2367,2891,3117,0.0,0.0,0.2,5.4,3.9,De Standaard,17,33,62.0,78
+capitalethiopia.com,19645,82,1838,205,205,3571,0.0,0.0,0.2,27.7,19.7,Capital Newspaper,2693,5248,1.4,0
+correiobraziliense.com.br,10,82,1493,279,671,1663,0.0,0.0,0.0,0.0,70.0,Correio Braziliense,7,1,10.0,0
+jyllands-posten.dk,1116,82,829,335,521,2153,0.0,0.0,3.3,20.4,21.8,Nyhedsoverblik - Jyllands-Posten,24,13,3.4,0
+kompas.com,83537,82,2289,1424,1813,2900,0.0,0.0,0.0,17.5,35.7,Jadwal Buka Puasa Ramadhan Kota Denpasar 3 Maret 2025,12,5,1.8,0
+nrc.nl,879,82,2556,957,1231,5204,0.0,0.0,0.0,20.1,17.2,Vorto - NRC,15,104,14.6,0
+bharian.com.my,1534,83,2747,1779,2214,3640,0.0,0.0,0.0,2.8,97.4,Berita Harian (BHarian Online),5,8,1.6,0
+novosti.rs,7,83,1175,874,874,1332,0.0,0.0,0.0,42.9,0.0,Društvo - Saznajte sve najnovije vesti dana,1,3,0.0,0
+straitstimes.com,23281,83,2614,663,1674,3696,0.0,0.0,0.4,0.3,3.5,On social media,76,16,70.4,59
+sunstar.com.ph,21905,83,1491,118,860,2210,0.0,0.0,14.2,14.0,0.1,Museo Sugbo reopens,2,3063,1.0,0
+iol.co.za,5,84,5299,3264,5299,5587,0.0,0.0,0.0,40.0,0.0,World News: Latest International News Headlines,1,2,0.0,0
+jpost.com,32088,84,1386,184,364,3561,0.0,0.0,14.8,5.5,4.5,The Jerusalem Post,1358,15,3.6,0
+latercera.com,9997,84,284,163,216,375,0.0,0.0,19.2,1.7,0.4,¿Sube o baja la bencina? Revisa el precio del combustible pa,5,60,0.8,0
+mmbiztoday.com,1597,84,2370,2307,2322,2562,0.0,0.0,0.0,0.0,2.4,Myanmar Business Today,25,1,97.4,2212
+people.com.cn,101374,84,794,327,482,1252,0.0,0.0,2.6,9.7,1.3,关于干部任前公示的公告,44,3472,30.6,53
+todayonline.com,16369,84,5016,1887,3052,6601,0.0,0.0,0.0,21.6,23.9,Commentary: BIGBANG’s Seungri’s sex scandal and the end of K,3,5,1.4,0
+24chasa.bg,7142,85,2810,2652,2712,2955,0.0,0.0,0.0,0.0,0.2,Пътищата са проходими при зимни условия,3,1,58.6,88
+dawn.com,7,85,1085,282,369,2540,0.0,0.0,0.0,0.0,57.1,DAWN.COM,4,1,0.0,0
+jutarnji.hr,20316,85,1728,205,891,3458,0.0,0.0,9.5,7.6,12.8,Živim -  #dežurna ordinacija,32,7,0.4,0
+lostiempos.com,275,85,1563,1087,1179,2431,0.0,0.0,0.0,17.1,18.9,Editorial y Puntos de Vista,46,11,9.5,0
+sol.sapo.pt,10,85,4864,4412,4634,4963,0.0,0.0,0.0,0.0,0.0,Política | SOL,1,1,100.0,458
+gulfnews.com,6596,87,2198,160,1050,3477,0.0,0.0,16.1,0.4,0.4,WorldCup,5,7,0.2,0
+mk.co.kr,258,87,849,266,354,1531,0.0,0.0,2.3,20.5,1.6,아이디 - 매일경제,2,19,7.8,0
+theonion.com,23598,87,948,205,379,1329,0.0,0.0,8.9,7.3,1.4,"‘No Way To Prevent This,’ Says Only Nation Where This Regula",14,1202,7.0,0
+ycwb.com,25423,88,1024,182,479,1712,0.0,0.0,11.9,3.9,2.9,广东代表团召开全体会议 推选黄楚平为代表团团长,4,64,0.6,0
+ce.cn,11,89,1458,588,1305,1926,0.0,0.0,0.0,0.0,18.2,即时新闻_中国经济网,2,1,18.2,0
+dnevnik.bg,42,89,246,196,218,454,0.0,0.0,11.9,0.0,0.0,Берт-Ян Раусен: ЕС не бива да допуска зависимост от вноса на,1,1,4.8,0
+novilist.hr,13716,89,382,313,339,729,0.0,0.0,0.0,27.5,0.2,Novi list,9,10,1.4,0
+alriyadh.com,257,90,1187,326,549,2123,0.0,0.0,8.2,3.1,3.9,جريدة الرياض,4,4,2.3,0
+iltalehti.fi,23536,90,727,176,307,864,0.0,0.0,12.3,0.1,0.1,Juttu poistettu,5,3,2.0,0
+magyarnemzet.hu,22916,90,1734,520,949,2290,0.0,0.0,0.9,13.4,13.3,Háború Ukrajnában: ma éjjel történt,11,32,0.6,0
+mwananchi.co.tz,156,90,4070,1281,3191,5430,0.0,0.0,0.0,5.1,0.0,Kitaifa,1,8,26.9,0
+dagbladet.no,9997,92,2634,1249,1660,4398,0.0,0.0,0.0,13.2,6.3,Aldri skjedd før,16,809,2.4,0
+kurir.rs,31532,92,1347,503,828,2230,0.0,0.0,2.7,8.8,5.4,Lek protiv epi napada može zaustaviti Alchajmerovu bolest: O,5,562,0.8,0
+record.pt,1978,92,884,441,627,1503,0.0,0.0,0.4,9.7,3.0,Mercado a mexer: conheça as principais novidades de hoje em ,8,79,8.6,0
+smh.com.au,23545,92,4721,2481,3775,6165,0.0,0.0,0.7,7.1,6.6,Australia news LIVE: NSW records 239 new local COVID-19 case,13,120,7.4,0
+tagesanzeiger.ch,120,92,3563,753,2205,3977,0.0,0.0,0.0,0.0,25.8,Tages-Anzeiger,31,1,2.5,0
+en.calameo.com,440,93,7499,3215,5192,10374,0.0,0.0,0.5,14.3,3.0,Calaméo Blog,5,3,1.1,0
+haaretz.co.il,23033,93,385,219,291,512,0.0,0.0,7.4,0.3,1.3,פינת ליטוף - פינת ליטוף - הארץ,42,10,2.2,0
+malaymail.com,22,93,3781,1903,2517,6103,0.0,0.0,0.0,0.0,0.0,Domestic Trade Ministry issues 532 compounds totalling over ,1,1,22.7,0
+postcourier.com.pg,11880,93,868,661,777,974,0.0,0.0,0.5,8.3,7.3,Front and Back page - Post Courier,221,240,4.8,0
+standartnews.com,21,93,1233,901,1142,1401,0.0,0.0,0.0,9.5,0.0,Политика ≫ Политически новини — Стандарт Нюз,1,2,9.5,0
+tienphong.vn,23612,93,1823,234,1089,2905,0.0,0.0,8.4,0.9,0.2,Thời tiết 7 ngày tới trên cả nước ra sao?,4,187,0.6,0
+denik.cz,45096,94,1531,477,816,2534,0.0,0.0,0.9,6.4,6.7,FOTOGALERIE: Právě jsme se narodili,69,48,1.8,0
+elfinanciero.com.mx,23506,94,2326,1391,1784,3322,0.0,0.0,0.0,8.0,8.1,El Financiero,9,2,0.4,0
+elmostrador.cl,20,94,3844,1267,2475,4248,0.0,0.0,5.0,0.0,0.0,Mundo,1,1,5.0,0
+nikkei.com,19974,94,475,262,325,1020,0.0,0.0,0.0,0.5,20.1,NIKKEI STYLEは次のステージに,23,23,0.6,0
+publico.pt,4567,94,3570,1246,2193,5330,0.0,0.0,1.1,3.2,2.6,Acabou o tempo dos “homens brutalmente poderosos”. Oprah Win,3,36,11.8,0
+taipeitimes.com,190,94,3128,1786,2447,4294,0.0,0.0,0.0,4.2,13.2,Taipei Times,10,3,1.6,0
+thairath.co.th,18293,94,1525,714,1193,2218,0.0,0.0,0.5,0.0,0.6,สายตรงลูกทุ่ง,13,2,16.6,0
+thestar.com,468,94,9494,5989,7310,11624,0.0,0.0,0.0,0.0,0.9,Phio Pharmaceuticals to Present at the Life Sciences Investo,2,1,19.4,0
+today.almasryalyoum.com,6628,94,2661,1804,2225,3617,0.0,0.0,0.3,3.4,3.0,شخبطة 2,101,204,11.6,0
+zaobao.com.sg,23404,94,692,251,409,1116,0.0,0.0,6.1,0.7,1.6,每日生肖运程,31,40,0.4,0
+berlingske.dk,8506,95,827,283,407,3212,0.0,0.0,3.0,0.3,0.4,Berlingske,4,2,8.2,0
+bild.de,426,95,2070,231,455,2833,0.0,0.0,4.2,0.0,0.0,Regionalnachrichten: Aktuelle News und Videos,1,1,4.2,0
+blick.ch,338374,95,2674,350,1083,4146,0.0,0.0,0.6,1.5,1.6,Brack Truck – die abgefahrene Schnitzeljagd - Blick,144,445,13.0,0
+capital.bg,44908,95,1322,875,1112,1564,0.0,0.0,0.0,7.1,4.6,Снимка на деня,565,2211,3.6,0
+elespectador.com,232,95,4611,1200,2779,6458,0.0,0.0,2.6,4.3,0.0,Noticias judiciales hoy en Colombia | EL ESPECTADOR,1,10,4.3,0
+eltiempo.com,809883,95,5616,1135,4434,6958,0.0,0.0,0.0,12.4,0.7,No se acueste sin leer esto,203,89605,0.4,0
+independent.co.uk,23258,95,2689,1250,1806,4076,0.0,0.0,0.6,1.3,0.2,The top photos of the day by AP's photojournalists,5,135,13.6,0
+kyivpost.com,23353,95,2972,738,1733,4635,0.0,0.0,1.8,6.3,1.9,Kyiv Post,150,1438,2.0,0
+lastampa.it,20086,95,3458,475,2370,4915,0.0,0.0,2.7,3.6,5.2,"The Italian Sea Group, fuori dal segmento Star e rumor su Lü",4,49,0.4,0
+politiken.dk,4584,95,613,317,466,1366,0.0,0.0,0.9,7.6,0.2,"Landmænd risikerer politianmeldelse, hvis de ikke fodrer der",2,309,5.2,0
+prothomalo.com,15899,95,2230,323,1391,3430,0.0,0.0,4.8,1.4,1.8,সকালেই পড়ুন আলোচিত ৫ খবর | প্রথম আলো,48,135,0.6,0
+theage.com.au,13570,95,4545,1266,3059,6039,0.0,0.0,3.4,1.3,1.1,Breaking News and Headlines,4,104,4.8,0
+tuoitre.vn,14925,95,1816,376,1152,2840,0.0,0.0,4.5,2.9,0.1,Chủ nhà biến sân trước cửa garage thành đường đua cho trẻ hà,2,386,1.6,0
+aamulehti.fi,1976,96,728,301,428,1897,0.0,0.0,3.6,0.0,0.3,Oikaisu,6,1,2.0,0
+appledaily.com,137,96,9404,3475,8532,11199,0.0,0.0,0.0,5.1,2.9,Page not found,4,7,5.1,0
+as.com,44916,96,1596,641,997,2605,0.0,0.0,1.1,3.3,5.6,Fútbol,292,13,1.6,0
+busiweek.com,3174,96,3602,1582,2404,5546,0.0,0.0,0.2,3.5,5.6,East African Business Week,76,15,1.0,0
+dailypakistan.com.pk,21699,96,964,492,669,1437,0.0,0.0,0.2,4.8,6.2,طلبہ و طالبات کے مطالعاتی دورے,8,4,0.4,0
+eldiario.net,484,96,1815,746,1047,2872,0.0,0.0,0.0,0.0,7.2,LUSBEL - El Diario - Bolivia,24,1,5.0,0
+evz.ro,23408,96,2642,1762,2152,3521,0.0,0.0,1.9,1.9,1.9,Autentificare ‹ Evenimentul Zilei — WordPress,442,442,5.4,0
+gazeta.ua,138,96,2897,1136,1735,6889,0.0,0.0,0.7,3.6,2.2,Новини на Gazeta.ua,3,5,3.6,0
+irishexaminer.com,3519,96,1139,743,937,1290,0.0,0.0,2.0,3.0,1.7,A selection of images chosen by the Irish Examiner picture d,30,38,0.8,0
+limerickleader.ie,817,96,2910,1415,2074,4096,0.0,0.0,0.0,4.3,6.4,Limerick Live Limerick Leader,23,19,1.6,0
+maldivesindependent.com,17268,96,1019,426,644,1397,0.0,0.0,1.8,1.8,5.2,News In Brief - Maldives Independent,274,307,0.6,0
+marca.com,52021,96,1877,919,1409,2699,0.0,0.0,2.0,3.6,2.8,Las mejores postales del desfile de locura de... | MARCA Usa,31,32,0.6,0
+mingpao.com,310,96,2839,1306,2159,4084,0.0,0.0,0.0,0.6,4.5,陳家珮逆線罰停牌 稱被李慧琼警告  李：口頭提醒遵《守則》 無關監委會處理,2,2,8.7,0
+nemzetisport.hu,16715,96,1446,475,736,2812,0.0,0.0,1.7,4.8,0.1,Játékszabályzat,7,649,2.6,0
+se.pl,105610,96,1856,686,1242,2623,0.0,0.0,0.0,5.4,0.1,EXPRESSEM,7,5662,5.2,0
+stabroeknews.com,23162,96,2375,1088,1617,3612,0.0,0.0,0.9,1.3,2.6,Stock market updates,74,176,5.6,0
+theglobeandmail.com,784,96,4315,277,2203,5529,0.0,0.0,4.5,0.0,0.6,Before the Bell: What every Canadian investor needs to know ,5,1,1.0,0
+wenweipo.com,586,96,843,343,612,1196,0.0,0.0,4.4,1.2,0.0,"我要爆料 - 
+          香港文匯網",1,4,1.4,0
+abola.pt,9623,97,1342,546,741,2862,0.0,0.0,0.3,1.6,0.6,Pensar verde e branco,3,97,6.2,0
+blic.rs,10,97,483,232,465,492,0.0,0.0,0.0,0.0,0.0,"Najvažnije vesti iz Srbije, regiona i sveta - Blic",1,1,10.0,0
+businesstimes.com.sg,5827,97,1614,431,627,2728,0.0,0.0,0.7,1.0,4.2,Daily Debrief: What Happened Today,18,29,3.0,0
+corriere.it,22733,97,4013,1095,2509,5877,0.0,0.0,0.7,0.9,1.5,Il Tema del Giorno nell’App de «la Lettura»- Corriere.it,43,82,6.0,0
+dailynews.co.th,16194,97,1771,753,1127,3192,0.0,0.0,1.7,1.8,0.6,เดลินิวส์clips | เดลินิวส์,11,245,1.4,0
+diariocorreo.pe,826,97,2045,327,1413,2894,0.0,0.0,3.3,0.2,0.2,#DetrásDeUnaMascarilla: ya son 2 millones de mascarillas KN9,2,2,0.4,0
+diepresse.com,1866,97,3270,933,1786,4894,0.0,0.0,1.8,2.6,0.3,"Bücher: Podcast Bücherei 26: Arno Geigers Roman ""Reise nach ",3,14,2.8,0
+elcolombiano.com,10,97,873,572,776,915,0.0,0.0,0.0,0.0,0.0,Noticias de Colombia,1,1,10.0,0
+elcomercio.pe,16866,97,2514,801,1644,3747,0.0,0.0,0.6,5.1,1.1,Otra vez Andrés,3,47,0.8,0
+english.ahram.org.eg,8185,97,1980,984,1381,3030,0.0,0.0,0.0,2.6,5.7,Egyptian Premier League results & scorers (14th matchday),8,96,1.8,0
+fijisun.com.fj,332,97,1842,1079,1442,2410,0.0,0.0,0.6,0.0,8.1,"Latest News, Business, Sports, and Entertainment from Fiji",27,1,0.6,0
+jamaica-gleaner.com,135,97,3752,574,2218,5256,0.0,0.0,0.0,0.0,8.9,Jamaica Gleaner,12,1,0.7,0
+jamaica-star.com,17413,97,2078,868,1377,2817,0.0,0.0,0.7,0.7,5.2,ENTERTAINMENT DIARY,297,56,3.0,0
+kathimerini.gr,22703,97,2556,859,1532,3818,0.0,0.0,0.2,1.8,2.5,φωτογραφήματα,85,299,4.8,0
+kauppalehti.fi,14479,97,367,261,291,456,0.0,0.0,2.4,0.2,2.4,Häh? | Kauppalehti,52,5,0.6,0
+khaosod.co.th,979,97,3431,1746,2526,4353,0.0,0.0,0.0,1.1,5.7,หมอไสว ทำพิธีกลางดึกสงัดขอขมานางตานี ส่องเลขเด็ดต้นกล้วยบ้าน,2,7,1.4,0
+koran.tempo.co,23464,97,2406,454,904,3300,0.0,0.0,0.0,5.3,1.1,Indikator,16,826,1.8,0
+kp.ru,23576,97,1875,582,989,7281,0.0,0.0,1.8,0.2,5.6,эксперт проекта «Семья» от Комсомольской правды,539,2,0.4,0
+la-razon.com,6813,97,2140,1410,1716,2896,0.0,0.0,0.0,3.7,4.0,Page not found,100,81,1.2,0
+laprosperiteonline.net,11,97,1885,1362,1363,1975,0.0,0.0,0.0,0.0,0.0,Archives des Politique,1,1,9.1,0
+mainichi.jp,24071,97,890,544,656,1518,0.0,0.0,0.0,0.0,4.1,THE MARKET：経済データ | 週刊エコノミスト Online,292,2,5.0,0
+manoramaonline.com,1948,97,3182,1563,2224,4573,0.0,0.0,0.1,0.0,0.3,Specials,4,1,8.8,0
+milenio.com,23538,97,2266,1325,1792,2979,0.0,0.0,1.2,1.4,2.6,Grupo Milenio,55,148,1.6,0
+sabah.com.tr,5981,97,1720,1292,1496,2099,0.0,0.0,0.0,0.1,9.5,GÜRCAN BİLGİÇ,132,5,0.6,0
+sowetanlive.co.za,61,97,2364,448,1439,3170,0.0,0.0,1.6,0.0,3.3,RECORDED | Madlanga commission continues,2,1,1.6,0
+sozcu.com.tr,277,97,1444,687,964,2136,0.0,0.0,0.7,3.2,0.0,"Haberler, son dakika haberleri, güncel haber, köşe yazıları",1,9,3.2,0
+sueddeutsche.de,532,97,542,294,404,748,0.0,0.0,3.4,0.0,0.0,Politik aktuell - Nachrichten aus Deutschland und der Welt,1,1,0.2,0
+svd.se,23539,97,742,263,361,1439,0.0,0.0,2.7,0.6,2.2,Senaste nytt på SvD,11,48,0.4,0
+thestar.com.my,23303,97,389,253,313,476,0.0,0.0,2.1,1.9,0.2,Ratchanok admits time no longer on her side after first-roun,2,398,1.6,0
+utusan.com.my,987,97,642,571,601,1788,0.0,0.0,1.5,1.9,0.2,Da’i Syed dibebaskan sementara,2,15,2.0,0
+aawsat.com,22783,98,3258,1095,1750,7669,0.0,0.0,0.0,3.1,0.5,مادة الأسبستوس الخطرة تغطي ركام غزة... ماذا نعرف عنها؟,4,263,1.0,0
+aftenposten.no,9669,98,336,259,280,437,0.0,0.0,2.3,0.1,0.1,Aftenposten,5,2,0.4,0
+azzaman.com,44767,98,2531,991,1553,4326,0.0,0.0,0.0,1.3,4.7,Azzaman,172,15,1.6,0
+blikk.hu,5270,98,2831,993,1686,3967,0.0,0.0,0.0,3.3,0.3,"Zsozsó, az elfelejtett szépség",2,175,3.0,0
+cas.sk,700927,98,1073,411,693,1581,0.0,0.0,2.4,0.3,0.5,dievča dňa,662,370,0.2,0
+eleconomista.com.mx,22272,98,3286,1576,2295,4488,0.0,0.0,1.2,1.3,1.0,Gobierno 2024-2030: Así se va conformando el gabinete de Cla,3,212,0.4,0
+elkhabar.com,22127,98,938,662,902,1200,0.0,0.0,0.2,0.3,6.2,أمطار رعدية على هذه الولايات,53,5,0.8,0
+estadao.com.br,18539,98,1522,539,865,2455,0.0,0.0,0.4,1.1,4.4,Força de Expressão,30,30,1.0,0
+expressen.se,18122,98,1965,689,1320,2849,0.0,0.0,1.9,0.5,0.3,Veckans höjdpunkter i Göteborgs nöjesliv,10,27,0.4,0
+gazetadopovo.com.br,18759,98,2532,951,1570,3634,0.0,0.0,1.4,1.6,1.4,Lista de falecimentos,130,245,0.6,0
+ghanaiantimes.com.gh,230,98,2268,1308,1663,3166,0.0,0.0,0.0,0.0,0.9,"The big push: ‘on’ roads vs. rolling stock on rails, its imp",2,1,5.7,0
+guyanachronicle.com,11336,98,2295,1132,1589,3247,0.0,0.0,0.4,1.4,2.6,NOTABLE DATES,62,27,0.4,0
+habarileo.co.tz,20178,98,1490,627,951,2190,0.0,0.0,0.7,0.6,1.5,Jifunze Kiswahili,134,74,1.2,0
+hs.fi,1729,98,393,275,322,2627,0.0,0.0,0.1,0.1,0.0,Maailma,1,2,6.0,0
+kaieteurnewsonline.com,442,98,2676,826,1567,4206,0.0,0.0,1.1,1.1,0.5,Court tosses request for stay in Mohameds’ extradition case,2,5,1.1,0
+lesoleil.sn,6996,98,2073,601,1116,3565,0.0,0.0,0.1,3.0,0.6,Conseil des ministres : les 5 points à retenir,5,203,1.0,0
+manager.co.th,284,98,2307,1009,1552,3363,0.0,0.0,1.8,0.0,0.0,ชวนเที่ยวไทยกับแก๊งขนฟู พร้อมกิจกรรม Meet & Greet กับซุปตาร์,1,1,0.7,0
+milliyet.com.tr,338,98,1825,542,1019,3093,0.0,0.0,0.9,0.9,2.4,Galatasaray öncesi Beşiktaş Başkanı Serdal Adalı'dan Halil D,2,3,0.9,0
+napi.hu,358,98,1092,401,645,1831,0.0,0.0,1.4,0.8,0.0,Economx.hu,1,3,1.4,0
+nepszava.hu,419,98,3229,667,1653,5728,0.0,0.0,0.5,2.6,0.0,Népszava,1,11,2.6,0
+opinion.com.bo,37329,98,1588,638,1059,2369,0.0,0.0,0.8,1.2,3.6,APUNTES,225,3,0.4,0
+perfil.com,579,98,3138,1782,2349,4635,0.0,0.0,0.3,2.9,0.0,Politica | Perfil,1,17,2.2,0
+publimetro.cl,112,98,2370,1520,1882,3292,0.0,0.0,0.0,0.0,4.5,Publimetro Chile,5,1,0.9,0
+republika.co.id,1743,98,2255,1354,1744,2976,0.0,0.0,0.2,1.5,1.6,Republika Online,6,2,2.8,0
+rp.pl,21216,98,1977,775,1131,3527,0.0,0.0,0.0,3.5,1.2,Zdarzyło się dzisiaj. Informacje w skrócie,24,271,1.8,0
+thedailystar.net,23844,98,1981,826,1256,3134,0.0,0.0,0.3,1.1,2.5,Four more die of dengue,7,88,1.6,0
+theguardian.com,523,98,4115,1326,2723,5593,0.0,0.0,1.1,0.4,0.6,Corrections and clarifications,3,2,1.6,0
+thehindu.com,22638,98,2712,900,1725,4112,0.0,0.0,1.4,0.5,0.1,"St. Columba’s School responsible for death of student, state",2,9,1.8,0
+thenational.com.pg,2760,98,2330,1331,1696,3630,0.0,0.0,0.0,0.1,4.9,PETE’S PUNCHLINE,118,2,0.4,0
+tiempo.hn,6444,98,2322,1877,2041,2857,0.0,0.0,0.0,1.3,1.3,¡Impactante! Joven madre confiesa cómo intentó deshacerse de,3,3,5.2,0
+timeslive.co.za,170,98,2561,832,1660,3938,0.0,0.0,1.2,0.0,1.2,RECORDED | Madlanga commission continues,2,1,1.2,0
+usatoday.com,8955,98,3683,1346,2250,5371,0.0,0.0,0.0,0.0,5.5,USA TODAY,479,1,0.8,0
+ynet.co.il,44620,98,2886,1218,1833,4434,0.0,0.0,0.1,2.1,2.1,לראשונה: המלצה לנשים בהיריון להתחסן נגד קורונה,3,8,1.0,0
+24sata.hr,17185,99,2487,950,1557,4020,0.0,0.0,0.4,0.1,0.1,5 stvari koje nikad ne smiješ jesti na prazan želudac,2,7,1.2,0
+abc.es,655,99,2643,1046,1635,3897,0.0,0.0,0.2,1.2,0.6,Betis Deportivo - Sevilla Atlético: el derbi chico se pinta ,2,2,0.4,0
+aksam.com.tr,553,99,1581,552,882,2955,0.0,0.0,0.2,1.6,0.0,Dünyadan Haberler - Güncel Dünya Haberleri | AKŞAM,1,9,1.8,0
+albayan.ae,595,99,1552,503,903,2454,0.0,0.0,0.8,0.0,0.5,الدفاعات الجوية الإماراتية تتعامل مع اعتداءات صاروخية وطائرا,3,1,0.6,0
+assabah.ma,153,99,542,422,439,587,0.0,0.0,0.0,0.0,3.9,راصـــــــد,2,1,0.7,0
+aujourdhui.ma,191,99,3064,1090,1728,5422,0.0,0.0,0.0,0.0,1.0,Sous le signe de la solidarité: Casablanca accueille une soi,2,1,1.0,0
+blesk.cz,8637,99,1589,674,1011,2469,0.0,0.0,0.2,1.1,0.0,TOP Vinařský cíl: Kam si zajít na dobré víno?,3,36,0.4,0
+bt.dk,7313,99,2050,1142,1509,2965,0.0,0.0,0.1,0.4,0.5,Blachman deler mystisk opslag: 'Hvad fanden bilder TV 2 sig ,2,2,0.6,0
+dailymail.co.uk,632,99,3751,2076,2806,5152,0.0,0.0,0.2,0.5,0.0,Team USA avoids scare against Great Britain as Kyle Schwarbe,1,3,2.4,0
+dailynewsegypt.com,20621,99,3957,1280,2266,5636,0.0,0.0,0.1,0.4,1.7,Rebel Economy Wrap,23,3,0.4,0
+dailytelegraph.com.au,19873,99,2705,1339,1935,4202,0.0,0.0,0.1,0.8,1.0,Subscribe to The Daily Telegraph for exclusive stories,23,23,0.4,0
+dailytimes.com.pk,512,99,1987,1278,1515,2778,0.0,0.0,0.0,0.8,0.0,Pakistan Archives,1,2,1.2,0
+derstandard.at,279790,99,3480,1294,2120,5325,0.0,0.0,1.4,0.0,0.5,Die schönsten Urlaubsfotos unserer Userinnen und User der Wo,270,2,0.2,0
+elbilad.net,206,99,1739,1178,1402,2340,0.0,0.0,0.0,0.0,1.5,مجتبى خامنئي مرشد أعلى لإيران خلفًا لوالده.. فمن يكون؟,3,1,1.5,0
+eldeber.com.bo,9332,99,2902,1723,2202,4065,0.0,0.0,0.3,0.3,0.8,EL DEBER: Noticias de Bolivia y el mundo,20,3,0.8,0
+elheraldo.hn,44241,99,2103,1157,1551,3009,0.0,0.0,0.7,0.3,0.1,Elección de la Corte Suprema de Justicia de Honduras| última,4,4,1.0,0
+eltelegrafo.com.ec,33630,99,2325,1258,1698,2937,0.0,0.0,0.0,0.1,4.1,El Telégrafo,978,4,0.4,0
+eluniversal.com.mx,100,99,2376,1246,1728,3359,0.0,0.0,0.0,0.0,0.0,"8M: ¿A qué hora inicia la marcha por el Día de la Mujer HOY,",1,1,2.0,0
+ethnos.gr,146,99,2940,871,1789,6012,0.0,0.0,0.7,0.0,1.4,Συντάξεις Απριλίου: Ο λόγος που θα δοθούν νωρίτερα,2,1,1.4,0
+excelsior.com.mx,23543,99,2571,1379,1877,3654,0.0,0.0,0.8,0.3,0.8,Lazza Global se corona en la Maratón Medellín 2025,8,8,0.4,0
+fakt.pl,71416,99,2045,1323,1633,2678,0.0,0.0,0.0,0.7,0.7,Placki z twarogiem — idealny posiłek dla najmłodszych,4,4,0.4,0
+faz.net,1940,99,929,401,531,2121,0.0,0.0,0.6,0.4,0.3,"Formel 1 heute: Motorsport im Liveticker mit Terminen, Fahre",4,4,0.4,0
+fijitimes.com.fj,4061,99,1748,913,1280,2482,0.0,0.0,0.4,0.1,1.6,SITUATION VACANT - The Fiji Times,36,2,1.0,0
+gsp.ro,44932,99,1614,1531,1568,2175,0.0,0.0,0.0,0.4,0.7,Votează AICI „Jucătorul lunii” și „Antrenorul lunii”!,5,2,3.2,0
+heraldsun.com.au,3653,99,4114,2188,3088,5794,0.0,0.0,0.2,1.0,1.7,The Chase Australia: The Shark tests his fans’ knowledge,14,8,0.4,0
+hurriyet.com.tr,136,99,1601,534,866,3175,0.0,0.0,0.0,0.0,0.0,"Dünyadan Son Dakika Gelişmeleri, Yurtdışından Haberler Hürri",1,1,2.2,0
+irishtimes.com,16409,99,4836,2735,3603,6650,0.0,0.0,0.3,0.3,0.2,Martyn Turner – The Irish Times,7,20,1.6,0
+is.fi,21979,99,1210,520,765,2100,0.0,0.0,0.4,0.1,0.1,EKP piti ohjauskoron ennallaan,4,2,1.8,0
+jornaleconomico.sapo.pt,23015,99,2075,783,1339,3133,0.0,0.0,0.1,0.6,2.8,Revista de imprensa internacional: as notícias que estão a m,53,6,0.6,0
+khaleejtimes.com,3382,99,2448,1072,1737,3625,0.0,0.0,0.9,0.1,0.1,Bangladesh votes in landmark election after Gen Z uprising,2,2,1.4,0
+krone.at,16669,99,2014,905,1390,2856,0.0,0.0,0.1,0.1,0.0,Biden warnt Putin vor Einmarsch in die Ukraine,2,3,2.0,0
+kurier.at,23447,99,2475,1014,1570,3635,0.0,0.0,0.2,0.2,0.1,"Die eine Sache, die Diana vor Charles geheim hielt, als sie ",3,7,1.0,0
+lanacion.com.ar,763,99,3866,1579,2807,5929,0.0,0.0,0.5,1.0,0.0,Noticias de Economía,1,4,0.8,0
+lefigaro.fr,2757,99,1480,1170,1250,2996,0.0,0.0,0.0,0.0,1.2,La sélection Figaro Live: les vidéos qu'il ne fallait pas ra,15,1,1.8,0
+lemonde.fr,23307,99,1833,1253,1498,2704,0.0,0.0,0.2,1.0,0.4,Ce qu’il ne fallait pas manquer de l’actualité du week-end,23,110,0.2,0
+leparisien.fr,22879,99,1213,481,642,2232,0.0,0.0,0.1,0.5,1.1,LES AUTRES MATCHS,15,45,0.4,0
+ltn.com.tw,1631,99,888,607,727,1102,0.0,0.0,0.6,0.0,0.4,1 - 精選圖輯 - 自由電子報iStyle時尚美妝頻道,5,1,0.2,0
+mathrubhumi.com,8458,99,1777,940,1285,2430,0.0,0.0,0.1,0.0,0.2,All news in News - Mathrubhumi,7,2,2.6,0
+mauritiustimes.com,324,99,1103,1078,1085,1486,0.0,0.0,0.0,0.0,0.6,Mauritius Times ePaper – Friday 24 April 2020,2,1,2.5,0
+naftemporiki.gr,1117,99,1657,1090,1271,3193,0.0,0.0,0.0,0.4,0.5,"ΕΥΔΑΠ: Placement για το 9,7% των μετοχών – Πωλητής ο Πόλσον,",2,2,1.2,0
+nationalpost.com,187,99,6109,5022,5753,6488,0.0,0.0,0.0,0.0,0.0,The secret life of chickens,1,1,3.7,0
+nzz.ch,7172,99,4515,1432,2791,6447,0.0,0.0,0.0,0.2,2.8,Briefing am Dienstagabend,16,3,0.2,0
+okaz.com.sa,23590,99,2964,1207,1967,4451,0.0,0.0,0.2,0.0,2.4,أنا الإنسان - أخبار السعودية | صحيفة عكاظ,21,2,0.6,0
+portafolio.co,21,99,1012,625,1008,1042,0.0,0.0,0.0,0.0,0.0,Economía | PORTAFOLIO.CO,1,1,4.8,0
+punchng.com,4336,99,2189,1160,1584,3129,0.0,0.0,0.2,0.4,1.1,Senate probes IPPIS over fraud,2,7,0.6,0
+saudigazette.com.sa,12675,99,2189,921,1427,3407,0.0,0.0,0.7,0.0,0.1,Rain-seeking prayers performed across Saudi Arabia,2,1,1.0,0
+tanea.gr,20437,99,1706,706,1087,2640,0.0,0.0,0.0,0.9,0.2,Τηλεφωνική επικοινωνία Πούτιν,4,54,0.2,0
+thejakartapost.com,641,99,2469,1612,1976,4224,0.0,0.0,0.0,0.8,0.3,Beyond the gloss: Navigating viral beauty trends and truths,2,3,0.6,0
+thenational.ae,100,99,3795,861,2241,5142,0.0,0.0,1.0,0.0,0.0,UAE Ramadan campaign raises Dh1 billion in one night to help,1,1,1.0,0
+thenationonlineng.net,4727,99,2741,989,1657,4537,0.0,0.0,0.6,0.6,1.3,The Nation Newspaper,30,9,1.2,0
+thestatesmanonline.com,76,99,5706,2878,3907,7014,0.0,0.0,0.0,0.0,0.0,News – The New Statesman :: Ghana Oldest Mainstream Newspape,1,1,2.6,0
+tovima.gr,14956,99,1281,525,795,2254,0.0,0.0,0.2,0.1,1.3,Minor losses for the Athens Stock Exchange on Friday,9,2,0.2,0
+valor.com.br,23483,99,1503,497,686,3043,0.0,0.0,0.0,0.0,3.0,Curtas,121,1,0.4,0
+vancouversun.com,120,99,5816,4600,5263,6081,0.0,0.0,0.0,0.0,1.7,These are the 3 best beauty products we tried this week,2,1,2.5,0
+zeit.de,23547,99,1408,589,836,2328,0.0,0.0,0.6,0.4,2.5,Fotografie: Bilder des Tages,53,65,0.4,0
+20min.ch,3498,100,2430,962,1678,3271,0.0,0.0,0.2,0.1,0.2,Umfrage zur eidgenössischen Abstimmung: Wie hast du abgestim,2,2,0.6,0
+adevarul.ro,7693,100,5929,3191,4398,8391,0.0,0.0,0.0,0.0,0.1,Momente simfonice emblematice ale Festivalului enescian,2,1,0.6,0
+chinatimes.com,5,100,46522,46331,46508,46523,0.0,0.0,0.0,0.0,0.0,即時新聞  - 中時新聞網,1,1,0.0,0
+clarin.com,18122,100,3638,1864,2645,4932,0.0,0.0,0.0,0.3,0.4,Clarín.com,6,3,0.6,0
+dailynayadiganta.com,466,100,1806,772,1138,2776,0.0,0.0,0.0,0.0,0.0,আন্তর্জাতিক | দৈনিক নয়া দিগন্ত,1,1,0.4,0
+elheraldo.co,3,100,2069,255,255,2583,0.0,0.0,0.0,0.0,0.0,Procuraduría advierte sobre las prohibiciones de los servido,1,1,0.0,0
+elmundo.es,9115,100,3604,1605,2301,5388,0.0,0.0,0.0,0.0,0.0,Internacional. Noticias internacionales. Última hora | EL MU,1,1,0.2,0
+elpais.com,9,100,2849,1629,2307,3672,0.0,0.0,0.0,0.0,0.0,EL PAÍS: el periódico global,1,1,0.0,0
+expreso.ec,325,100,2939,1739,2300,4187,0.0,0.0,0.0,0.6,0.0,Economía,1,2,0.6,0
+ft.com,1,100,3844,3844,3844,3844,0.0,0.0,0.0,0.0,0.0,Subscribe to the Financial Times,1,1,0.0,0
+gestion.pe,9,100,1561,273,1463,1792,0.0,0.0,0.0,0.0,0.0,G de Gestión | GESTIÓN,1,1,0.0,0
+hani.co.kr,324,100,1524,607,911,2372,0.0,0.0,0.0,0.0,0.0,정치 뉴스,1,1,0.9,0
+ihned.cz,142,100,2554,1332,1640,3848,0.0,0.0,0.0,0.0,0.0,"Levné knihy jsou v insolvenci, dluží přes 130 milionů. Končí",1,1,1.4,0
+infobae.com,17868,100,3293,1439,2112,4239,0.0,0.0,0.2,0.2,0.2,"Coronavirus, en directo: el avance de la pandemia y la búsqu",5,2,0.4,0
+jang.com.pk,183,100,1387,1121,1219,1587,0.0,0.0,0.0,0.0,0.0,"Samsung Galaxy Watch 9, Galaxy Watch Ultra 2 to launch with ",1,1,0.5,0
+lalibre.be,1418,100,2698,840,1600,4367,0.0,0.0,0.0,0.1,0.1,Trois bons livres à lire ce week-end,2,2,0.4,0
+larepublica.pe,199,100,2450,1578,1971,3609,0.0,0.0,0.0,0.0,0.0,Día de la Mujer y la lucha de las niñas que buscan transform,1,1,1.0,0
+lephareonline.net,5,100,5772,272,5598,6140,0.0,0.0,0.0,0.0,0.0,Kinshasa Aujourd’hui,1,1,0.0,0
+letemps.ch,23357,100,1227,732,937,2366,0.0,0.0,0.0,0.1,0.1,Le dessin d'Urbs (France),4,12,0.4,0
+mk.ru,470,100,3211,932,1530,5027,0.0,0.0,0.2,0.0,0.0,"Московский Комсомолец: происшествия, общество, культура, мне",1,1,0.6,0
+observer.ug,153,100,4109,1695,2551,5670,0.0,0.0,0.0,0.0,0.0,built railway haunts Kenya,1,1,0.7,0
+pravda.sk,170,100,2988,1191,1774,4604,0.0,0.0,0.0,0.0,0.0,Ekonomika,1,1,0.6,0
+repubblica.it,354,100,1578,958,1042,6018,0.0,0.0,0.0,0.0,0.6,Se scopriamo di vivere in un mondo di nuovi muri,2,1,0.6,0
+seattletimes.com,3,100,5666,4564,4564,8624,0.0,0.0,0.0,0.0,0.0,Guest: Political tremors and terror in Mexico lead to missin,1,1,0.0,0
+thebftonline.com,914,100,3589,2192,2826,4858,0.0,0.0,0.1,0.0,0.2,Holy Child School marks 79 years with emphasis on sustainabi,2,1,0.4,0
+thenews.com.pk,199,100,1433,1058,1230,1806,0.0,0.0,0.0,0.0,0.0,Logan Paul makes major claim against WWE on livestream,1,1,0.5,0
+tnp.sg,22037,100,1418,651,922,2238,0.0,0.0,0.0,0.0,0.2,Police looking for man involved in shop theft at Bugis Junct,4,2,0.6,0
+topky.sk,22985,100,1303,620,887,1924,0.0,0.0,0.3,0.0,0.1,Čierna vdova alebo rozprávková Popoluška? HLASUJ za kráľovnú,3,2,0.4,0
+welt.de,8284,100,3881,1416,2317,6051,0.0,0.0,0.2,0.3,0.1,"Dieses Foto legt nahe, dass die Norweger auch bei den Bindun",2,23,0.4,0

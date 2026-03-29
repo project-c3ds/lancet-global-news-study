@@ -1,0 +1,891 @@
+language,country,source,collection_method,article_id,url,title,content,climate_max_sim,health_max_sim,climate_best_keyword,health_best_keyword,sample_bucket,climate,health,health_climate_impact,climate_justification,health_justification,impact_justification
+Slovak,Slovakia,cas.sk,scrapai,270386,https://www.cas.sk/sport/tenis/prekvapive-zavahanie-dvoch-favoritiek-na-australian-open-koncia-pred-branami-osemfinale,Prekvapivé zaváhanie dvoch favoritiek: Na Australian Open končia pred bránami osemfinále!!,"Češka Karolína Plíšková nasadená ako druhá prehrala s Ruskou Anastasiou Pavľučenkovovou v dvoch tajbrejkoch 6:7 (4), 6:7 (3). Šestka Belinda Benčičová zo Švajčiarska podľahla Estónke Anett Kontaveitovej prekvapujúco hladko 0:6, 1:6.
+
+Ďalej sa však prebojovala štvorka ""pavúka"" Simona Halepová z Rumunska, ktorá vyradila Kazašku Juliu Putincevovú 6:1, 6:4.
+
+Najvyššie nasadený španielsky tenista Rafael Nadal postúpil do osemfinále dvojhry na grandslamovom turnaji Australian Open v Melbourne. V sobotnom stretnutí 3. kola si víťaz podujatia z roku 2009 poradil s krajanom Pablom Carrenom-Bustom za 101 minút 6:1, 6:2, 6:4.
+
+Päťka ""pavúka"", Rakúšan Dominic Thiem vyradil Taloyra Fritza z USA 6:2, 6:4, 6:7 (5), 6:4. Francúz Gael Monfils nasadený ako desiaty zdolal Lotyša Ernestsa Gulbisa 7:6 (2), 6:4, 6:3.
+
+dvojhra - muži - 3. kolo:
+
+Gael Monfils (10-Fr.) - Ernests Gulbis (Lot.) 7:6 (2), 6:4, 6:3, Dominic Thiem (5-Rak.) - Taylor Fritz (29-USA) 6:2, 6:4, 6:7 (5), 6:4, Rafael Nadal (1-Šp.) - Pablo Carreno-Busta (27-Šp.) 6:1, 6:2, 6:4, Andrej Rubľov (17-Rus.) - David Goffin (11-Belg.) 2:6, 7:6 (3), 6:4, 7:6 (4)
+
+dvojhra - ženy - 3. kolo:
+
+Angelique Kerberová (17-Nem.) - Camila Giorgiová (Tal.) 6:2, 6:7 (4), 6:3, Anastasia Pavľučenkovová (30-Rus.) - Karolína Plíšková (2-ČR) 7:6 (4), 7:6 (3), Iga Swiateková (Poľ.) - Donna Vekičová (19-Chor.) 7:5, 6:3, Anett Kontaveitová (Est.) - Belinda Benčičová (6-Švaj.) 6:0, 6:1, Simona Halepová (4-Rum.) - Julia Putincevová (Kaz.) 6:1, 6:4, Elise Mertensová (16-Belg.) - Catherine Bellisová (USA) 6:1, 6:7 (5), 6:0",0.4956,0.5490,heatwave,west nile virus,high_climate,no,no,no,Australian Open tennis results,,
+Slovak,Slovakia,cas.sk,scrapai,82257,https://www.cas.sk/spravy/politika/prezidentka-prehovorila-na-klimatickej-konferencii-ludstvo-sa-ruti-do-priepasti,Prezidentka prehovorila na klimatickej konferencii: Ľudstvo sa rúti do priepasti,"""Koľko klimatických podujatí ešte potrebujeme, aby sme zabránili voľnému pádu do tejto priepasti?"" pýtala sa účastníkov konferencie. Ako pokračovala, počet katastrof súvisiacich s počasím počas uplynulých štyroch desaťročí stúpol takmer trojnásobne. ""Každých päť sekúnd niekto predčasne zomrie v dôsledku znečistenia. Ak neurobíme nič, onedlho to budú každé štyri sekundy,"" varovala.
+
+Podľa nej 88 percent chorôb v dôsledku klimatických zmien vo svete v súčasnosti postihuje deti do piatich rokov. ""Dokedy ešte chceme škodiť budúcim generáciám?"" pýtala sa a zdôraznila, že účinné riešenia na zmiernenie dôsledkov klimatickej krízy sú už teraz dostupné v podobe technológií aj zdrojov.
+
+""Naše snahy musia byť ambiciózne, kolektívne a univerzálne,"" vyhlásila. Upozornila, že podľa vedcov musí množstvo emisií vo svete vyvrcholiť do roku 2025. Účastníkov informovala, že Slovensko v produkcii emisií už dosiahlo svoj vrchol a v roku 2030 ich bude produkovať o 55 percent menej než v roku 1990. SR v nasledujúcich siedmich rokoch preinvestuje päť percent HDP z verejných zdrojov na dekarbonizáciu hospodárstva a spoločnosti. Na konci tohto roka Slovensko prestane používať uhlie na výrobu elektriny a do troch rokov ho postupne vyradí aj z produkcie tepla.
+
+Celkovo 85 percent elektriny na Slovensku sa už teraz vyrába s nulovými emisiami, pričom SR chce tento podiel do roku 2025 zvýšiť na 90 percent. Do roku 2030 má elektrina vyrobená z obnoviteľných zdrojov na Slovensku predstavovať 29 percent, povedala Čaputová s tým, že SR k riešeniu klimatickej krízy pristupuje zodpovedne.",0.5333,0.5156,climate crisis,extreme poverty,high_climate,yes,yes,yes,"President at climate conference: humanity rushing toward abyss, weather disasters tripled",Every 5 seconds someone dies prematurely from pollution,Climate disasters and pollution directly causing premature deaths
+Slovak,Slovakia,cas.sk,scrapai,175972,https://www.cas.sk/spravy/zahranicne-spravy/znizovanie-sklenikovych-plynov-je-pre-vladu-prioritou-zasadne-vyhlasenie-noveho-zelandu,Znižovanie skleníkových plynov je pre vládu prioritou: Zásadné vyhlásenie Nového Zélandu,"Ako píše agentúra Reuters, táto ostrovná krajina oznámila svoje ambicióznejšie klimatické ciele len niekoľko hodín pred začiatkom klimatickej konferencie OSN v škótskom Glasgowe (COP26). Novozélandská vláda pôvodne plánovala znížiť do roku 2030 emisie skleníkových plynov o 30 percent oproti hodnotám z roku 2005.
+
+""Aj keď sme malým prispievateľom ku globálnym emisiám, ako krajina obklopená oceánmi a ekonomika závislá od pôdy nie sme imúnni voči vplyvu klimatických zmien, a preto je dôležité, aby sme prispeli svojím dielom,"" uviedla Ardernová v spoločnom vyhlásení s ministrom pre klimatické zmeny Jamesom Shawom. ""Navýšenie príspevku Nového Zélandu ku globálnemu úsiliu v boji proti klimatickým zmenám teraz predstavuje náš spravodlivý podiel a je v súlade s tým, čo je potrebné, ak sa chceme vyhnúť najhorším vplyvom globálneho otepľovania na Nový Zéland,"" dodala predsedkyňa vlády.",0.5590,0.5178,climate action,extreme poverty,high_climate,yes,no,no,"New Zealand greenhouse gas reduction, climate goals before COP26",,
+Slovak,Slovakia,cas.sk,scrapai,602640,https://www.cas.sk/ostatne/vitaz-ms-v-hokeji-krava-cooly,Víťaz MS v hokeji? Krava Cooly!,"Víťaz MS v hokeji? Krava Cooly!11. 5. 2009, 0:00 (aktualizované: 25. 5. 2020, 14:15)Zdroj: youtubeReklamaLogo Nový ČasLogo Nový ČasRedakcia Nový ČasAutor: © Nový ČasZdieľaťDiskusia (0)Krátke videáLukáš Hrošovský o schválenej liečbe ministerstvom zdravotníctvaPolícia zadržala humanoidného robota! Čoho sa dopustil?Na Oscaroch hrkali kosti: Nicole Kidman a Demi Moore sú chudé ako paličkyNová kapitola slovensko-českej spolupráce: Raši a Okamura sa stretli na symbolickom miesteZlaté pisoáre na Úrade vlády? Holečková kritizuje sumu: Gedra ju pozýva na návštevuLaura z Ruže pre nevestu: Vojna s Kollárom! Boris, spamätaj sa! Toto som si nezaslúžilaSúperka ju dostala: Shiffrinová po pretekoch neudržala slzyArtur Štaidl spomína na mamu Ivetu Bartošovú: Takto mu v súkromí pripravovala oslavy narodenín",0.4921,0.5315,heatwave,zika,high_climate,no,no,no,Cow predicts hockey World Cup winner - humor,,
+Slovak,Slovakia,cas.sk,scrapai,196279,https://www.cas.sk/spravy/domace-spravy/vychodne-slovensko/vietor-moze-znova-ukazat-svoju-silu-vydali-vystrahy-pre-tieto-okresy-a-to-nie-je-vsetko-co-hrozi,"Vietor môže znova ukázať svoju silu: Vydali výstrahy pre tieto okresy! A to nie je všetko, čo hrozí","Vietor môže znova ukázať svoju silu: Vydali výstrahy pre tieto okresy! A to nie je všetko, čo hrozí
+18. 2. 2022, 8:14
+Na severe Slovenska sa môže v piatok vyskytnúť vietor na horách. V noci môže dosiahnuť rýchlosť od 135 do 160 kilometrov za hodinu. Slovenský hydrometeorologický ústav (SHMÚ) preto vydal výstrahu prvého aj druhého stupňa.
+V niektorých okresoch hrozia povodne z topenia snehu. Informuje o tom na svojom webe.
+Pred vetrom na horách si treba dať pozor v okresoch Poprad, Brezno, Liptovský Mikuláš, Banská Bystrica, Ružomberok, Turčianske Teplice, Martin, Žilina, Dolný Kubín, Námestovo a Tvrdošín. Výstraha prvého stupňa platí do 22.00 h, druhý stupeň do soboty poobedia.
+Výskyt vetra s rýchlosťou 45 kilometrov za hodinu očakávajú meteorológovia od 19.00 h. Výstrahu prvého stupňa preto vydali pre okresy Námestovo, Tvrdošín a Kežmarok.
+Povodne z topenia snehu hrozia v okresoch Žilina, Martin, Ružomberok, Čadca, Kysucké Nové Mesto, Námestovo, Dolný Kubín, Tvrdošín, Bánovce nad Bebravou, Michalovce a Sobrance. Pre tieto oblasti platí výstraha prvého stupňa, pre okres Turčianske Teplice vydalo SHMÚ výstrahu druhého stupňa.
+""Vzhľadom na existujúce snehové zásoby, oteplenie a spadnuté kvapalné zrážky bol zaznamenaný vzostup vodných hladín. Aktuálne vodné hladiny kulminujú alebo klesajú,"" poznamenali meteorológovia.
+Autor: TASR",0.5150,0.5175,heatwave,west nile virus,high_climate,yes,no,no,"Wind warnings issued for Slovak districts, mountain storms",,
+Slovak,Slovakia,cas.sk,scrapai,81526,https://www.cas.sk/spravy/zahranicne-spravy/obavana-sopka-sa-po-20-rokoch-prebudila-neskutocne-do-akej-vysky-chrlila-popol,"Obávaná sopka sa po 20 rokoch prebudila: Neskutočné, do akej výšky chrlila popol","Po pondelkovej erupcii sopky Lewotobi na východe ostrova Flores úrady zvýšili stupeň výstrahy na druhý najvyšší. Ide o jej druhú erupciu za posledné dva týždne, prvá 23. decembra bola prvou po takmer 20 ročnej nečinnosti. Miestny predstaviteľ pre indonézsku agentúru Antara povedal, že ženy, starších ľudí a deti premiestnili do núdzových prístreškov, ako sú školy, kancelárie a vojenské základne, kde dostali potraviny, vodu, masky aj deky.
+
+Ľuďom v regióne bolo odporučené, aby sa zdržiavali najmenej dva kilometre od krátera. Sopka má dva vrcholy, známe ako Lewotobi Lakilaki a Lewotobi Perempuan. Ide o jednu zo 127 aktívnych sopiek v Indonézii s intenzívnou seizmickou činnosťou. Nízkonákladová spoločnosť Wings Air so sídlom v Jakarte uviedla, že v pondelok a utorok zrušila päť letov smerujúcich do mesta Maumere, najväčšieho na ostrove Flores.",0.5175,0.5511,extreme heat,west nile virus,high_climate,no,no,no,Feared volcano wakes up after 20 years,,
+Slovak,Slovakia,cas.sk,scrapai,125419,https://www.cas.sk/spravy/zahranicne-spravy/to-co-sa-deje-v-azii-pociti-zrejme-cely-svet-z-hladiska-buducnosti-panuje-neistota,"To, čo sa deje v Ázii, pocíti zrejme celý svet: Z hľadiska budúcnosti panuje neistota","El Niño je prírodné, dočasné a príležitostné otepľovanie v Tichom oceáne, ktoré ovplyvňuje vzorce globálneho počasia, pričom klimatická zmena ich zosilňuje. Americký Národný úrad pre oceány a atmosféru (NOAA) oznámil tohtoročný jav už v júni, čo je o zhruba mesiac-dva skôr ako zvyčajne.
+
+Podľa vedcov existuje šanca jedna ku štyrom, že sa rozšíri na nadrozmerné úrovne. To by znamenalo zlé správy pre pestovateľov ryže, obzvlášť v Ázii, kde sa vypestuje aj skonzumuje 90 percent svetovej produkcie ryže. El Niño totiž zvyčajne znamená menej dažďa pre vyprahnuté plodiny. V minulosti tento jav viedol k extrémnemu počasiu od súch po záplavy.
+
+Každý El Niño je iný, ale historické trendy naznačujú, že zriedkavé zrážky v južnej a juhovýchodnej Ázii vysušia pôdu, čo v nasledujúcich rokoch spôsobí kaskádové efekty, vyjadril sa Beau Damen z pobočky Organizácie pre výživu a poľnohospodárstvo v thajskom Bangkoku. Niektoré krajiny, ako napríklad Indonézia, môžu byť v počiatočných štádiách tohto javu zraniteľnejšie, povedal.",0.5194,0.5068,rising temperatures,extreme poverty,high_climate,yes,no,no,"El Niño in Asia will affect whole world, climate change amplifies it",,
+Slovak,Slovakia,cas.sk,scrapai,70763,https://www.cas.sk/spravy/domace-spravy/blizi-sa-k-nam-vichrica-slovaci-drzte-si-klobuky-na-tychto-miestach-to-bude-najhorsie,"Blíži sa k nám víchrica?! Slováci, držte si klobúky: Na TÝCHTO miestach to bude najhoršie","Blíži sa k nám víchrica?! Slováci, držte si klobúky: Na TÝCHTO miestach to bude najhoršie
+23. 3. 2025, 10:57
+Reklama
+Na horách v okresoch Brezno, Poprad, Liptovský Mikuláš a Tvrdošín sa môže v nedeľu vyskytnúť silný vietor. Slovenský hydrometeorologický ústav (SHMÚ) preto vydal výstrahu prvého stupňa od 12.00 h do pondelka (24. 3.) 4.00 h. Informuje o tom na svojom webe.
+""Na hrebeňoch Tatier sa očakáva výskyt vetra, ktorý dosiahne krátkodobo (v nárazoch) rýchlosť 110 až 125 kilometrov za hodinu alebo priemernú rýchlosť 70 až 85 kilometrov za hodinu, čo je až víchrica,"" priblížili meteorológovia.
+Zároveň platí aj výstraha prvého stupňa pred silným vetrom v okresoch Bratislava, Malacky, Myjava, Nové Mesto nad Váhom, Levice, Nitra, Topoľčany, Zlaté Moravce, Hlohovec, Piešťany, Senica a Skalica do 20.00 h.
+Autor: TASR",0.5290,0.5305,heatwave,zika,high_climate,yes,no,no,"Windstorm approaching Slovakia, hold your hats",,
+Slovak,Slovakia,cas.sk,scrapai,243474,https://www.cas.sk/spravy/domace-spravy/rozdiely-na-slovensku-silne-burky-ale-aj-velky-podpriemer-zrazok,"Rozdiely na Slovensku: Silné búrky, ale aj veľký podpriemer zrážok","""Napríklad v Košeckom Podhradí (okres Ilava), iba v období od 25. júla do 5. augusta (12 dní), zaznamenali 192 milimetrov zrážok,"" upozornil Slovenský hydrometeorologický ústav (SHMÚ) na sociálnej sieti.
+
+Opačným príkladom sú meteorologické stanice na bratislavskej Kolibe a v Hurbanove. Tam dosiahli počas 73 dní (od 25. júla do 5. augusta) zrážky len 87, respektíve 85 milimetrov. Meteorológovia upozornili, že je to takmer o polovicu menej v porovnaní s dlhodobým priemerom.
+
+Čo sa týka stavu pôdnej vlahy, aktuálne je takmer celé územie SR bez rizika sucha. ""Začínajúce sucho je len lokálne na juhozápade a severovýchode Slovenska. V hlbšej vrstve je mierne sucho ojedinele na krajnom východe. Relatívne nasýtenie je na Podunajskej nížine najnižšie nula až desať percent, na Záhorí lokálne desať až 20 percent,"" spresnili. Deficit pôdnej vlahy je najvyšší, a to mínus 60 milimetrov, na krajnom východe. Nadbytok vlahy 80 milimetrov je podľa SHMÚ v okolí Lučenca, Trenčína a Bardejova.
+
+Monitoring meteorologického sucha indikuje, že na Slovensku prevládajú normálne až mierne vlhké podmienky. ""Podľa indexu SPEI je veľmi vlhko na siedmich staniciach. Extrémne vlhko je len v Bardejove. Podľa indexu SPI je veľmi vlhko na deviatich staniciach. Extrémne vlhko je v Trenčíne a Bardejove,"" doplnili meteorológovia.
+
+Ďalej dodali, že podľa indexu CMI prevládajú normálne až mierne vlhké podmienky. ""Extrémne vlhko je len v Čadci a Bardejove. Deficit zrážok je za posledných 90 dní najvyšší v Medzilaborciach, až okolo mínus 135 milimetrov. Deficit zrážok okolo mínus 90 milimetrov je aj vo Švedlári a okolo mínus 80 milimetrov v Kamenici nad Cirochou,"" informovali.",0.4922,0.4983,rising temperatures,undernourishment,high_climate,yes,no,no,Strong storms but also heat wave in different parts of Slovakia,,
+Slovak,Slovakia,cas.sk,scrapai,196000,https://www.cas.sk/spravy/domace-spravy/greenpeace-reaguje-na-zaradenie-plynu-a-jadra-medzi-zelene-zdroje-je-to-vysmech,Greenpeace reaguje na zaradenie plynu a jadra medzi zelené zdroje: Je to výsmech!,"Tento krok by mohol aktivovať odlev súkromných investícií v hodnote miliárd eur z obnoviteľných zdrojov. To by viedlo len k ďalšiemu prehlbovaniu klimatickej krízy. Uviedla to enviroorganizácia Greenpeace Slovensko v reakcii na rozhodnutie Európskej komisie, ktorá v stredu prijala svoj návrh ""zelenej taxonómie"". Greenpeace vyzýva europoslancov, aby návrh zamietli. Zároveň žiada slovenskú vládu, aby ukončila verejné investície do plynovej infraštruktúry a pripravila plán útlmu využívania plynu do roku 2035.
+
+Fosílny plyn je podľa Greenpeace najznečisťujúcejšie palivo v Európskej únii (EÚ), ktorého rastúce ceny stoja za prebiehajúcou energetickou krízou. Tvrdí, že ani jadrová energia nemôže byť považovaná za zelenú. Produkuje nebezpečný rádioaktívny odpad a výstavba nových reaktorov je časovo náročná. ""Nedokážu byť preto spustené dostatočne rýchlo na to, aby prispeli k dosiahnutiu klimatických cieľov EÚ do roku 2030. Splnenie záväzkov zníženia emisií do roku 2030 je však podľa vedeckej komunity nevyhnutné na to, aby sme zabránili najhorším dôsledkom klimatickej krízy,"" konštatujú environmentalisti.
+
+Slovensko malo podľa riaditeľky Greenpeace Slovensko Kataríny Juríkovej predpoklady, stať sa lídrom stredoeurópskeho regiónu v oblasti klimatickej krízy. Konštatuje, že každým ďalším rozhodnutím vlády sa od tohto líderstva ako krajina vzďaľujeme.",0.5350,0.5065,climate action,extreme poverty,high_climate,yes,no,no,Greenpeace reacts to gas and nuclear classified as green - climate crisis,,
+Slovak,Slovakia,cas.sk,scrapai,36757,https://www.cas.sk/prominenti/prominenti-domaci/toto-musite-mat-v-satniku-letne-kusky-oblecenia-v-ktorych-zaziarite,"Kúsky oblečenia, v ktorých zažiarite! Doplňte si šatník","TOTO musíte mať v šatníku: Letné kúsky oblečenia, v ktorých zažiarite!
+6. 7. 2025, 3:00
+Leto v dámskej móde praje priehľadným materiálom, krásnym šatám, boho štýlu, ale aj žltej farbe. Ak obľubujete denim, určite sa doň oblečte od hlavy po päty!
+Žltá farba
+Žltá ako slnko je farbou tohto leta. Ak ju nemáte rady, skúste ju aspoň na doplnkoch, hodí sa takmer ku každej farbe. Speváčka Marcella Molnárová (59) si vybrala žiarivé žlté minišaty jednoduchého strihu s jemným volánikom, ku ktorým si obula šľapky v rovnakej farbe s aplikáciou kvetu.
+Rifľovina
+„Denim on denim“ je anglický výraz pre outfit, ktorý je celý rifľový. To je naozaj momentálne obrovský hit. Moderátorka Soňa Skoncová (38) si zo svojho šatníka vybrala denimovú košeľu, ktorú si zaviazala na uzol a doplnila ju širokými rifľami. Ak neviete čo na seba, týmto rozhodne nič nepokazíte.
+Vzdušné strihy
+Moderátorka Soňa Müllerová (63) je milovníčkou módy a vždy vie, čo sa nosí. Toto leto sú trendy vzdušné materiály. Ľahká maslová blúzka s nádherným vyšívaným detailom vpredu je na toto obdobie ako stvorená. K tomu široké biele rifle a tenisky v rovnakej farbe. Skvelé!
+Strana1/2
+Pokračovanie na ďalšej strane",0.4943,0.5484,heatwaves,casualties,high_climate,no,no,no,Fashion - clothing to shine in,,
+Slovak,Slovakia,cas.sk,scrapai,188387,https://www.cas.sk/spravy/domace-spravy/fico-sa-nevzdava-pre-ceny-energii-chce-siestykrat-zvolat-mimoriadnu-schodzu-parlamentu,Fico sa nevzdáva: Pre ceny energií chce šiestykrát zvolať mimoriadnu schôdzu parlamentu!,"""Päťkrát sme žiadali Národnú radu SR, aby rokovala o prudkom zdražovaní. Nejde iba o energie, ale ide aj o potraviny,"" upozornil Fico. Smer-SD podľa neho opakovane žiadal členov vlády, aby prijali opatrenia, ktoré by pomohli občanom aj podnikateľom. ""Preto sme sa rozhodli, že ideme so šiestym pokusom,"" povedal predseda Smeru-SD. Fico skonštatoval, že na riadne zasadnutie parlamentu by sa návrhy opozície nedostali. ""Preto ak chceme vôbec otvoriť nejakú tému, nezostáva nám nič iné, len dať dohromady 30 podpisov,"" dodal Fico.
+
+Predseda Smeru-SD ako príklad razantného zvýšenia cien energií uviedol mesto Banská Štiavnica, ktoré má podľa neho namiesto 3000 eur mesačne platiť zálohové platby na elektrinu 11.000 eur. Podobné problémy má aj 100.000 domácností pripojených na malé plynové kotolne. U nich je nárast mesačných platieb o 30 až 50 eur. Rast cien energií zasiahol aj niektoré veľké podniky.
+
+Smer chce na mimoriadnej schôdzi predložiť uznesenie, ktorým by parlament vyzval vládu SR, aby prišla do parlamentu vysvetliť, aké opatrenia prijme na zmiernenie vplyvu zdražovania energií.",0.4921,0.5298,global heating,undernourishment,high_climate,no,no,no,Fico wants emergency session on energy prices - politics,,
+Slovak,Slovakia,cas.sk,scrapai,454650,https://www.cas.sk/sport/tenis/roger-si-spravil-chut-pred-us-open-v-zaverecnom-finalovom-sete-sa-ferrer-jeho-loptickam-iba-klanal,Roger si spravil chuť pred US Open: V záverečnom finálovom sete sa Ferrer jeho loptičkám iba klaňal!,"Roger si spravil chuť pred US Open: V záverečnom finálovom sete sa Ferrer jeho loptičkám iba klaňal!
+18. 8. 2014, 0:08 (aktualizované: 29. 5. 2020, 12:32)
+Reklama
+Roger Federer zdolal vo finálovom zápase turnaja ATP v americkom Cincinnati Španiela Davida Ferrera.
+Tenista Roger Federer zdolal vo finálovom zápase turnaja ATP v americkom Cincinnati Španiela Davida Ferrera v trojsetovej bitke 6:4, 1:6 a 6:2.
+Sympatický Švajčiar si tak pred prestížnym zámorským podujatím US Open spravil poriadnu chuť a bude do neho vstupovať ako jeden z najväčších favoritov na titul.
+Autor: © Nový Čas",0.4993,0.5206,extreme event,west nile virus,high_climate,no,no,no,Roger Federer before US Open - tennis,,
+Slovak,Slovakia,cas.sk,scrapai,243381,https://www.cas.sk/spravy/na-cypre-biju-na-poplach-ziadaju-eu-o-pomoc,Na Cypre bijú na poplach: Žiadajú EÚ o pomoc,"Cyperský minister životného prostredia Costas Kadis uviedol, že oheň zasiahol ""obrovské lesné plochy"" a súkromné vlastníctvo neďaleko dediny Arakapas v pohorí Troodos. Minimálne štyri domy zhoreli a na zverejnených fotografiách sú vidieť obrovské oblaky hnedého dymu.
+
+Hovorca cyperskej vlády Marios Pelekanos pre AP povedal, že rozsah požiaru je ""znepokojujúci"". Grécko podľa neho vyslalo na pomoc dve hasičské lietadlá a Izrael jedno.
+
+Medzitým štyri cyperské hasičské lietadlá pomáhajú pozemným jednotkám v boji proti plameňom, ale silný vietor a teploty nad 30 stupňov Celzia bránia ich úsiliu. Hovorca hasičov Andreas Kettis oznámil, že povolali aj hasičov, ktorí boli mimo službu.",0.5380,0.5568,heatwaves,west nile virus,high_climate,yes,yes,yes,"Cyprus wildfire alarm, huge forest areas burned, houses destroyed",At least 4 people killed by wildfire,Wildfire (climate-linked) causing deaths and destruction
+Slovak,Slovakia,cas.sk,scrapai,244085,https://www.cas.sk/spravy/zahranicne-spravy/katastrofa-z-ktorej-tuhne-krv-v-zilach-pocet-obeti-zaplav-v-nemecku-opat-stupol,"Katastrofa, z ktorej tuhne krv v žilách: Počet obetí záplav v Nemecku opäť stúpol","Celkový počet obetí v Nemecku tak stúpol na najmenej 169. Nemecká polícia uviedla, že počet zranených taktiež stúpol na 763 a nezvestných je v súčasnosti ešte 155 ľudí, po ktorých stále pátrajú v troskách po povodniach.
+
+Povodňami najhoršie postihnutú oblasť v Nemecku navštívila v utorok aj kancelárka Angela Merkelová, ktorá prisľúbila miestnym obyvateľom rýchlu a nebyrokratickú finančnú pomoc.
+
+Vyčíňanie počasia pripravilo v celej Európe o život viac než 200 ľudí, pripomína AFP. Belgicko, kde prišlo o život najmenej 31 ľudí, si v utorok obete pripomenulo minútou ticha.",0.4974,0.5446,extreme event,undernourishment,high_climate,no,yes,no,,Flood disaster death toll rising,
+Slovak,Slovakia,topky.sk,scrapai,9777,https://www.topky.sk/cl/10/2993427/Skutocnym-zamerom-ministra-Tarabu-je-vyjst-v-ustrety-developerom--tvrdi-Stohlova,"Skutočným zámerom ministra Tarabu je vyjsť v ústrety developerom, tvrdí Stohlová","archívne video
+
+Tlačová konferencia strany PS na tému Robert Fico stráca posledné zvyšky autority a krajina je v stále hlbšej paralýze (Zdroj: Topky/Vlado Anjel)
+
+Tresty za poškodzovanie prírody, ktoré sa odvíjajú od spoločenskej hodnoty chránených druhov, sú v súčasnosti podľa Stohlovej nastavené tak zle, že strácajú preventívny účinok. ""Skutočným zámerom ministra Tarabu je vyjsť v ústrety developerom. Tí musia platiť za škodu, ktorú v prírode svojou výstavbou spôsobia a splácajú tak svoj dlh spoločnosti,"" poznamenala poslankyňa. Ministrovi odkázala, aby sa namiesto snežienok venoval znečistenému ovzdušiu vo Zvolene či odstráneniu vrakunskej skládky.",0.5053,0.5362,environmental changes,undernourishment,high_climate,no,no,no,Minister Taraba's true intent is to serve demolishers - politics,,
+Slovak,Slovakia,cas.sk,scrapai,331256,https://www.cas.sk/sport/cyklistika/fantasticke-spravy-pre-petra-sagana-jeho-najvacsi-rivali-si-nic-nedarovali-teraz-za-to-pykaju,"Fantastické správy pre Petra Sagana: Jeho najväčší rivali si nič nedarovali, teraz za to pykajú","Fantastické správy pre Petra Sagana: Jeho najväčší rivali si nič nedarovali, teraz za to pykajú
+14. 7. 2018, 17:33 (aktualizované: 29. 5. 2020, 12:50)
+Slovenský cyklista Peter Sagan obsadil v 8. etape 105. ročníka Tour de France napokon druhé miesto.
+Jury po dojazde diskvalifikovala pôvodne druhého Andreho Greipela z tímu Lotto - Soudal a tretieho Fernanda Gaviriu (Quick-Step Floors) po vzájomnom kontakte. V klasifikácii etapy ich rozhodcovia zaradili až na koniec hlavného pelotónu na 92. a 93. miesto.
+Víťazstvo zostalo jazdcovi stajne Lotto NL Jumbo Dylan Groenewegen z Holandska. Informovali agentúry DPA a APA.
+výsledky 8. etapy (Dreux - Amiens, 181 km):
+1. Dylan Groenewegen (Hol./LottoNL-Jumbo) 4:23:36 h, 2. Peter SAGAN (SR/Bora-Hansgrohe), 3. John Degenkolb (Nem./Trek-Segafredo), 4. Alexander Kristoff (Nór./UAE Team Emirates), 5. Arnaud Demare (Fr./Groupama-FDJ), 6. Thomas Boudat (Fr./Direct Energie), 7. Nikias Arndt (Nem./Sunweb), 8. Mark Cavendish (V.Brit./Dimension Data), 9. Yves Lampaert (Bel./Quick-Step), 10. Andrea Pasqualon (Tal./Wanty) všetci rovnaký čas ako víťaz
+celkové poradie:
+1. Greg van Avermaet (Belg./BMC) 32:43:00 h, 2. Geraint Thomas (V.Brit./Sky) +7 s, 3. Tejay Van Garderen (USA/BMC) +9, 4. Philippe Gilbert (Belg./Quick-Step) +16, 5. Bob Jungels (Lux./Quick-Step) +22, 6. Rigoberto Uran (Kol./Cannondale-Drapac) +49, 7. Valverde +55, 8. Rafal Majka (Bora-Hansgrohe) +56, 9. Jakob Fuglsang (Dán./Astana), 10. Ritchie Porte (Aus./BMC) obaja +57,... 30. SAGAN +2:40 min
+Poradie v bodovacej súťaži: 1. SAGAN 277, 2. Fernando Gaviria (Kol./Quick-Step) 214, 3. Groenewegen 132
+Autor: TASR",0.5558,0.5887,heatwave,west nile virus,high_climate,no,no,no,Peter Sagan cycling rival news - sports,,
+Slovak,Slovakia,cas.sk,scrapai,42564,https://www.cas.sk/spravy/zahranicne-spravy/merz-ide-do-boja-presadi-zrusenie-zakazu-spalovacich-motorov-odvazne-slova,Merz ide do boja! Presadí zrušenie zákazu spaľovacích motorov? Odvážne slová,"Merz povedal, že na rokovaniach v rámci EÚ bude presadzovať „komplexný technologický pokrok smerom ku klimatickej neutralite, ale nie s dátumom v kalendári, ktorý nemôžeme splniť, to je nereálne.“
+
+Výrobcovia sa obávajú, že hroziaci zákaz áut so spaľovacími motormi im zasadí úder. Sťažujú sa, že nemajú dostatok času na vybudovanie konkurencieschopnej ponuky elektromobilov. Okrem toho dopyt po elektrických autách v Európe podľa nich rastie oveľa pomalšie, ako sa očakávalo.
+
+Pod tlakom európskych výrobcov automobilov sa EÚ už minulý mesiac dohodla na urýchlenom preskúmaní zákazu spaľovacích motorov.",0.5565,0.5242,carbon emission,west nile virus,high_climate,yes,no,no,"Merz fights to reverse combustion engine ban, climate neutrality debate",,
+Slovak,Slovakia,cas.sk,scrapai,120058,https://www.cas.sk/spravy/zahranicne-spravy/smrtiaci-zivel-sposobil-v-krajine-teror-vyziadal-si-obete-aj-zranenych-priroda-utoci-coraz-castejsie,Smrtiaci živel spôsobil v krajine teror: Vyžiadal si obete aj zranených! Príroda útočí čoraz častejšie,"""Mesto Matador zažilo bezprecedentné tornádo so zničujúcim vetrom. Sú potvrdené štyri úmrtia a celkovo desať zranených,"" uviedli hasiči v susednom meste Lubbock. Vzhľadom na vysoké teploty mesto otvorilo pre obyvateľov centrum, kde sa môžu prísť schladiť.
+
+Matador s približne 600 obyvateľmi je hlavným mestom okresu Motley. Podľa americkej Národnej meteorologickej služby (NWS) došlo v západnej časti mesta k ""značným škodám"", kde tornádo ťažko poškodilo alebo zničilo budovy.
+
+Texasom sa podľa NWS v stredu prehnali najmenej štyri tornáda. Dážď a silný vietor zasiahli aj niektoré ďalšie mestá.
+
+Minulý týždeň si podobná búrka v mesto Perryton na severe Texasu vyžiadala troch mŕtvych a približne stovku zranených.
+
+Texas a časť juhu Spojených štátov v posledných dňoch sužujú búrky a vlny horúčav, pričom teploty dosahujú až 40 stupňov Celzia.",0.5367,0.5202,extreme heat,extreme poverty,high_climate,yes,yes,yes,"Deadly tornado in Texas, 4 deaths, 10 injured, extreme heat","4 deaths, 10 injuries from tornado",Extreme weather (tornado) causing deaths
+Slovak,Slovakia,hnonline.sk,newsapi,2510,https://hnonline.sk/komentare/komentare/96267554-biznismeni-hovoria-o-energiach-inak-ako-politici-koho-teda-pocuvat,Biznismeni hovoria o energiách inak ako politici. Koho teda počúvať?,"Až teraz sa ide kapacita Adrie pod dohľadom EÚ testovať. Keď nepôjde Družba (dnes nejde) a Adria nebude mať dostatočnú kapacitu, nemusíme mať dosť ropy.
+
+Európsky priemysel sa borí s vysokými cenami elektriny (a iných energií). Všetci elektrikári vám povedia, že dôvodom sú najmä dopady Zelenej dohody a bláznivý nemecký nápad odstaviť jadrové elektrárne. Zrozumiteľne to vysvetlil český miliardár Pavel Tykač. Slovensko a Maďarsko nedostávajú ropu (odstavený ropovod Družba). Mnohí politici mávajú ""riešeniami"". A potom napíše bývalý generálny riaditeľ Slovnaftu Oszkár Világi článok ""Pravda o rope a realite"" a zrazu vidíte, aké sú ich reči prázdne.
+
+Isteže. Armáda expertov (na všetko) kontruje, že Világi obhajuje biznis skupiny MOL a jej dcérskeho Slovnaftu. Alebo že Tykač robí to isté v prípade svojich biznisov. Bolo by super, keby toto bola pravda. Ale bohužiaľ sme oveľa ďalej.",0.5199,0.5595,global heating,undernourishment,high_climate,no,no,no,Businesspeople talk about energy differently than politicians,,
+Slovak,Slovakia,cas.sk,scrapai,136244,https://www.cas.sk/spravy/politika/vlada-garantuje-13-dochodok-a-potesi-aj-mladych-aha-co-slubuje-absolventom,"Vláda garantuje 13. dôchodok a poteší aj mladých: Aha, čo sľubuje absolventom","""Vláda zvýši svoju aktivitu v tripartitnej Aliancii sektorových rád za účelom kvalitného predvídania nových potrieb zamestnávateľov v oblasti znalostí, vedomostí a zručností a zvýšenia štandardov kvality a dostupnosti celoživotného poradenstva a vzdelávania pre pracujúcich, ako aj formálneho odborného vzdelávania,"" uvádza sa v programovom vyhlásení s tým, že Aliancia sektorových rád musí presadzovať svoje analýzy do reálnej hospodárskej a sociálnej praxe.
+
+Mladým ľuďom po skončení štúdia chce vláda uľahčiť vstup do produktívneho veku poskytnutím jednorazového účelovo viazaného štátneho príspevku alebo využitím prostriedkov zo sporiaceho účtu zriadeného do určitého veku dieťaťa. Zo strednodobých a dlhodobých priorít sa chce kabinet venovať civilizačným megatrendom, ktoré ovplyvňujú konkurenčnú schopnosť SR v globálnom európskom prostredí. Ide o technologické zmeny, ako sú inovácie v zelených a digitálnych transformáciách.
+
+Práca v nočných hodinách alebo iných nadštandardných časoch bude obmedzená. ""Pri prácach, v ktorých to inak nejde, budú mzdové zvýhodnenia spravodlivo kompenzovať túto nevyhnutnosť. Novými legislatívnymi pravidlami a aktívnejšou inšpekciou práce bude brániť zneužívaniu tzv. agentúrnych pracovníkov, ale aj migrantov z tretích krajín na zhoršovanie pracovných podmienok,"" uviedol kabinet.
+
+Vláda sa chce zamerať aj na efektívne čerpanie eurofondov. Zaviazala sa zrealizovať opatrenia, vďaka ktorým nebudú digitalizácia, informatizácia a zelená transformácia hospodárstva predstavovať hrozbu pre zamestnanosť.
+
+Kabinet tiež navrhne úpravu príspevku na bývanie ako samostatnú dávku. Pomoc v hmotnej núdzi má byť poskytovaná na základe adresnosti, subsidiarity, ochranných a motivačných prvkov nielen vo finančnej forme, ale aj komplexnou ponukou služieb, ktoré jednotlivcov a rodiny ochránia pred rizikom chudoby. Zároveň sfunkční tripartitu a politiky v oblasti práce a sociálnych vecí chce tvoriť a realizovať na princípe partnerstva, začlenením sociálnych partnerov či samospráv.",0.4747,0.5428,environmental change,undernourishment,high_health,no,no,no,Government guarantees 13th pension - politics,,
+Slovak,Slovakia,cas.sk,scrapai,243520,https://www.cas.sk/spravy/koronavirus/ockovanie-v-trencianskom-kraji-cez-vikend-vas-zaockuju-vakcinami-janssen-comirnaty-aj-astrazeneca,"Očkovanie v Trenčianskom kraji: Cez víkend vás zaočkujú vakcínami Janssen, Comirnaty aj AstraZeneca","Na trenčianskom výstavisku budú zdravotníci očkovať vakcínou Janssen, v Prievidzi na zimnom štadióne očkovacou látkou Comirnaty. Informoval o tom Matej Plánek z oddelenia komunikácie a medzinárodných vzťahov Úradu TSK.
+
+Samosprávny kraj má k dispozícii celkom 1345 dávok vakcíny COVID-19 Vaccine Janssen od spoločnosti Johnson & Johnson, tie bude podávať záujemcom o očkovanie na trenčianskom výstavisku, a to len počas nedele 15. augusta. ""Už tradične budeme očkovať aj na Zimnom štadióne v Prievidzi. Opäť vakcínou Comirnaty, a to počas soboty 14. augusta. Pripravených máme 500 dávok pre dospelých a 200 pre deti od 12 rokov. Zdôrazňujem, že v oboch VKOC očkujeme aj bez objednania v systéme NCZI,"" povedala vedúca Odboru zdravotníctva a sociálnej pomoci Úradu TSK Elena Štefíková. Pripomenula, že osoby mladšie ako 18 rokov musia prísť na očkovanie spolu so zákonným zástupcom.
+
+""V sobotu 14. augusta plánujeme aj mimoriadne očkovanie druhou dávkou vakcíny od AstraZeneca v priestoroch krajskej Nemocnice s poliklinikou Považská Bystrica v čase od 8.00 h do 10.00 h,"" dodala Štefíková.",0.4264,0.5496,heatwave,zika,high_health,no,yes,no,,COVID vaccination in Trencin region with Janssen,
+Slovak,Slovakia,cas.sk,scrapai,182855,https://www.cas.sk/sport/futbal/slavia-praha-si-z-izraela-odniesla-prehru-as-rim-utrzil-v-norsku-vysoky-debakel,"Slavia Praha si z Izraela odniesla prehru, AS Rím utržil v Nórsku vysoký debakel","So siedmimi bodmi sa prepracovali na čelo F-skupiny, v ktorej od 21.00 h úradujúci slovenský majster ŠK Slovan Bratislava hostí Lincoln Red Imps. Neuspela Slavia Praha s Ivanom Schranzom, ktorá podľahla na ihrisku Maccabi Haifa 0:1, a AS Rím prehral na trávniku FK Bodö/Glimt zahanbujúco vysoko 1:6.
+
+Kodaň v domácom prostredí veľmi rýchlo oslabil Kamil Grabara, ktorý už v 9. minúte videl červenú kartu. Hostia to využili už v prvom polčase a gólmi Sidcleyho a Andriju Živkoviča rozhodli o plnom bodovom zisku. Domáci už len znížili v závere zásluhou Pepa Biela a v tabuľke figurujú na druhom mieste s jednobodovým odstupom za svojím premožiteľom.
+
+Slavia nedokázala v Izraeli odpovedať na vedúci zásah Godswaya Donyoha z 24. minúty a utrpela druhú prehru. Schranz hral do 76. minúty. V ďalšom zápase E-skupiny zvíťazil Feyenoord Rotterdam nad Unionom Berlín 3:1 a tabuľku vedie so ziskom 7 bodov. AS Rím si po úvodných dvoch úspechoch pokazil vydarený štart do zápolení v C-skupine, k debaklu talianskeho klubu v Nórsku prispel autor hetriku Erik Botheim. Prekvapenie na úkor favorita sa zrodilo aj v ""géčku"", Tottenham Hotspur prehral na trávniku Vitesse Arnhem 0:1.
+
+3. kolo skupinovej fázy EKL:
+
+A-skupina:
+
+HJK Helsinki - Maccabi Tel Aviv 0:5 (0:1)
+
+Góly: 28. a 60. Kanichowsky, 49. Perica (z 11 m), 87. Saborit (z 11 m), 90.+4 Shamir
+
+FC Alaškert - LASK Linz 0:3 (0:1)
+
+Góly: 35. Hong Hyun-Seok, 68. Goiginger, 90.+2 Michorl
+
+tabuľka A-skupiny:
+
+1. Maccabi Tel Aviv 3 2 1 0 10:2 7
+
+2. LASK Linz 3 2 1 0 6:1 7
+
+3. HJK Helsinki 3 1 0 2 4:9 3
+
+4. FC Alaškert 3 0 0 3 3:11 0
+
+B-skupina:
+
+Anorthosis Famagusta - Flora Tallinn 2:2 (2:1)
+
+Góly: 25. Deletič, 28. Popovič - 38. a 80. Sappinen
+
+C-skupina:
+
+FK Bodö/Glimt - AS Rím 6:1 (2:1)
+
+Góly: 8., 52. a 80. Botheim, 20. Berg, 71. Solbakken, 78. Pellegrino - 28. Perez
+
+E-skupina:
+
+Feyenoord Rotterdam - Union Berlín 3:1 (2:1)
+
+Góly: 11. Jahanbakhsh, 29. Linssen, 76. Sinisterra - 35. Awoniyi
+
+Maccabi Haifa - Slavia Praha 1:0 (1:0)
+
+Gól: 24. Donyoh
+
+/I. Schranz hral do 76. min, J. Hromada (obaja Slavia) pre trest nefiguroval v zápise o stretnutí/
+
+tabuľka E-skupiny:
+
+1. Feyenoord Rotterdam 3 2 1 0 5:2 7
+
+2. Maccabi Haifa 3 1 1 1 1:3 4
+
+3. Slavia Praha 3 1 0 2 4:4 3
+
+3. Union Berlín 3 1 0 2 5:6 3
+
+F-skupina:
+
+FC Kodaň - PAOK Solún 1:2 (0:2)
+
+Góly: 80. Biel - 19. Sidcley, 38. Živkovič. ČK: 9. Grabara (Kodaň)
+
+Kodaň: Grabara - Ankersen, Chočolava, Boilesen, Diks - Jóhannesson (74. Jelert), Lerager, Baldursson (17. Singh, 84. Höjlund) - Biel, Wind, Böving (11. Johnsson)
+
+Solún: Paschalakis - Taylor, Mihaj, Michailidis (74. Varela), Sidcley - Esiti, Schwab (64. El Kaddouri) - Živkovič, Biseswar (74. Augusto), Mitria (88. Murg) - Swiderski (83. Akpom)
+
+G-skupina:
+
+Vitesse Arnhem - Tottenham Hotspur 1:0 (0:0)
+
+Gól: 78. Wittek
+
+NŠ Mura - Stade Rennes 1:2 (1:2)
+
+Góly: 20. Lotrič - 17. Guirassy (z 11 m), 41. Laborde
+
+tabuľka G-skupiny:
+
+1. Stade Rennes 3 2 1 0 6:4 7
+
+2. Vitesse Arnhem 3 2 0 1 4:2 6
+
+3. Tottenham Hotspur 3 1 1 1 7:4 4
+
+4. N...",0.4847,0.5525,heatwave,west nile virus,high_health,no,no,no,Slavia Prague football loss,,
+Slovak,Slovakia,cas.sk,scrapai,234890,https://www.cas.sk/spravy/zahranicne-spravy/je-to-oficialne-belgicko-potvrdilo-prve-styri-pripady-indickeho-variantu-koronavirusu,Je to oficiálne: Belgicko potvrdilo prvé štyri prípady indického variantu koronavírusu,"Podľa RTBF belgická platforma genómového monitorovania vírusu SARS-Cov-2 v stredu (21. apríla) identifikovala prvé prípady indického variantu koronavírusu. Ide o variant B.1.617. Zatiaľ sú známe iba štyri prípady nákazy v troch rôznych miestach - v bruselskej štvrti Saint-Josse-ten-Noode a v dvoch flámskych obciach. Podľa úradov si stav žiadneho z pacientov nevyžadoval hospitalizáciu a príznaky ich ochorenia boli mierne. K prenosu nového variantu vírusu došlo na belgickej pôde.
+
+RTBF upozornila, že indický variant, ktorý kombinuje niekoľko mutácií vírusu, už bol potvrdený vo viacerých krajinách sveta, najmä však v Indii, Spojenom kráľovstve a Spojených štátoch. Odborníci z belgickej platformy pre sekvenovanie vírusov odhadli, že indická mutácia pravdepodobne nie je taká závažná ako niektoré mutácie prítomné v iných variantoch koronavírusu identifikovaných v Británii, Juhoafrickej republike a Brazílii.
+
+Variant pôvodne identifikovaný v Británii (B.1.1.7) sa stal v Belgicku dominantným, keď predstavuje 85,9 percenta nových prípadov nákazy. Juhoafrický variant (B.1.351) sa potvrdil v 3,7 percenta prípadov, o niečo menej ako brazílsky (P.1), ktorý v poslednom období spôsobil ochorenie 4,9 percenta Belgičanov.",0.4366,0.5552,extreme event,west nile virus,high_health,no,yes,no,,Belgium confirms first 4 cases of Indian COVID variant,
+Slovak,Slovakia,cas.sk,scrapai,112155,https://www.cas.sk/spravy/domace-spravy/narodna-banka-odhalila-podrobne-cisla-kolko-nas-stoji-bezny-zivot-na-slovensku-nevyzera-to-dobre,Národná banka odhalila podrobné čísla: Koľko nás stojí bežný život na Slovensku? Nevyzerá to dobre!,"Skúmali najmä to, že životné minimum, ktoré by malo stačiť na to, aby sa človek dokázal o seba postarať, absolútne nezodpovedá reálnym nákladom. Výsledkom tak je, že štát nevie dobre nastaviť adresnú pomoc v časoch vysokej inflácie a zdražovania.
+
+Experti z NBS sa pozreli na to, že životné minimum rastie asi trikrát pomalšie ako priemerná mzda. „Od roku 1998, keď boli stanovené základné parametre systému, sa ekonomická situácia na Slovensku výrazne zmenila. Len za posledných 10 rokov stúpla priemerná mzda o 60 %, kým životné minimum vzrástlo iba o 20 %,“ píšu analytici Brian Fabo a Pavel Gertler. Pripomínajú, že veľa sociálnych dávok je naviazaných na životné minimum, no to neodráža skutočné ekonomické pomery pri domácnostiach.
+
+„V ostatnom roku pozorujeme bezprecedentnú mieru inflácie a pokles reálnych miezd. Inflácia sa týka najmä tovarov každodennej spotreby, obzvlášť potravín,“ píšu experti. Najväčšie problémy spôsobuje práve zdražovanie potravín nízkopríjmovým domácnostiam, keďže pri nich je možnosť šetrenia obmedzená.",0.4591,0.5627,temperature rises,undernourishment,high_health,no,no,no,National bank reveals how much household spending costs,,
+Slovak,Slovakia,cas.sk,scrapai,114216,https://www.cas.sk/spravy/zaujimavosti/mamicka-sa-uspesne-zbavila-obezity-strata-vahy-mala-necakany-nasledok-bojuje-s-novou-zavislostou,Mamička sa úspešne zbavila obezity: Strata váhy mala nečakaný následok! Bojuje s novou závislosťou,"Žena trpiaca obezitou sa zbavila závislosti na jedle, avšak nahradila ju závislosťou na nakupovaní oblečenia. Za dva mesiace je schopná minúť 2000 dolárov. 32-ročná Whitney mala vo zvyku jesť nezdravé jedlo. Rodáčka z americkej Louisiany si v októbri 2021 povedala, že s týmto životným štýlom je koniec. Strata váhy mala nečakaný vedľajší účinok, píše Daily Star.
+
+Whitney schudla 27 kíl vďaka nízkosacharidovej diéte a v apríli 2022 podstúpila špeciálnu procedúru. “Vedela som, že keby v tom pokračujem, tak z toho môže vzniknúť niečo vážne,” priznáva Whitney, ktorá začala cvičiť päťkrát týždenne. Do stravy zakomponovala kuracie mäso, ryby, morské plody a množstvo zeleniny. Hoci jej nenásytný hlad je už minulosťou, stále má na čom pracovať.",0.4441,0.5585,rising temperatures,malnourishment,high_health,no,yes,no,,"Mother successfully overcame obesity, unexpected weight loss side effects",
+Slovak,Slovakia,cas.sk,scrapai,21497,https://www.cas.sk/spravy/zahranicne-spravy/po-7-mesiacoch-letu-takmer-v-cieli-cinska-kozmicka-lod-sa-dostala-na-obeznu-drahu-marsu,Po 7 mesiacoch letu takmer v cieli: Čínska kozmická loď sa dostala na obežnú dráhu Marsu,"Ide o najnovší úspech ambiciózneho vesmírneho programu Číny. Tchien-wen-1 sa dostala na obežnú dráhu Marsu po takmer sedemmesačnom lete; z južnej Číny odštartovala vlani v júli.
+
+Súčasťou kozmickej lode Tchien-wen-1 sú 240-kilogramový pristávací modul a diaľkovo ovládané vozidlo (rover). Po pristátí plánovanom v máji budú skúmať povrch Marsu, ako aj horniny do hĺbky 100 metrov a atmosféru planéty.
+
+Úspešná bola aj misia Spojených arabských emirátov (SAE). Ich sonda nazvaná Amal (Nádej) sa v utorok po prekonaní takmer 500 miliónov kilometrov tiež úspešne dostala na obežnú dráhu planéty Mars. Ide o prvú medziplanetárnu misiu arabskej krajiny. Úlohou sondy Amal počas najmenej dvoch rokov bude z obežnej dráhy skúmať atmosféru Marsu a monitorovať klimatické zmeny.
+
+Budúci týždeň 18. februára by malo na povrch Marsu zosadnúť robotické vozidlo amerického Národného úradu pre letectvo a vesmír (NASA) s názvom Perseverance (Vytrvalosť). Súčasťou technického vybavenia sondy je aj malá helikoptéra Ingenuity (Vynaliezavosť).",0.4757,0.5416,heatwave,west nile virus,high_health,no,no,no,Chinese spacecraft after 7 months nearly at destination - space,,
+Slovak,Slovakia,cas.sk,scrapai,56602,https://www.cas.sk/spravy/zahranicne-spravy/supertajfun-dorazil-strasidelne-co-sa-v-krajine-deje-to-tu-uz-dlho-nebolo,"SUPERTAJFÚN dorazil! Strašidelné, čo sa v krajine deje: To tu už dlho nebolo","SUPERTAJFÚN dorazil! Strašidelné, čo sa v krajine deje: To tu už dlho nebolo
+31. 10. 2024, 11:32
+Supertajfún Kong-Rey zasiahol vo štvrtok Taiwan, o život prišla najmenej jedna osoba a vyše 73 utrpelo zranenia, oznámilo Ústredné centrum pre núdzové operácie (CEOC).
+TASR o tom informuje podľa správy agentúry DPA. Supertajfún sa dostal na pevninu na východe Taiwanu vo štvrtok popoludní miestneho času, uvádza taiwanský meteorologický úrad (CWA). CEOC upresnila, že jedna osoba zahynula po páde stromu na auto v centrálnej oblasti krajiny. Hlásila aj 73 ranených a vyše 1429 nehôd. V lokalitách ohrozených tajfúnom evakuovali už 9658 osôb. Výpadky elektrickej energie zaznamenalo 207.209 domácností.
+Školy, podniky aj finančné trhy v celej krajiny sú dnes zatvorené. Pre zlé počasie sa zrušili aj všetky vnútroštátne lety a najmenej 298 medzinárodných letov. Obmedzila sa tiež trajektová doprava cez Taiwanský prieliv a vnútroštátne spoje.
+Kong-Rey dosahuje maximálnu rýchlosť vetra 184 kilometrov za hodinu s nárazmi do 227 kilometrov. Ide o najväčší tajfún za uplynulé takmer tri desaťročia na Taiwane.
+Taiwanský prezident Laj Čching-te, ktorý sa zúčastnil na zasadnutí CEOC, vyhlásil, že armáda je pripravená pomôcť pri zvládnutí následkov katastrofy. Laj tiež vyzval verejnosť a turistov, aby sa v záujme svojej bezpečnosti vyhýbali pobrežným oblastiam.
+Autor: TASR",0.5257,0.5526,extreme event,west nile virus,high_health,yes,yes,yes,"Super typhoon Kong-Rey hits Taiwan, 1 dead, 73 injured","1 dead, 73 injured from typhoon",Extreme weather (typhoon) causing casualties
+Slovak,Slovakia,cas.sk,scrapai,65236,https://www.cas.sk/spravy/zahranicne-spravy/dovolenku-v-taliansku-v-tomto-meste-vas-prekvapi-novy-zakaz-spustila-sa-vlna-kritiky,Dovolenku v Taliansku? V tomto MESTE vás prekvapí nový ZÁKAZ! Spustila sa vlna kritiky,"Za porušenie nového zákazu hrozí pokuta od 40 do 240 eur a nevzťahuje sa na elektronické cigarety. Platí pre ""všetky verejné priestranstvá vrátane ulíc"" s výnimkou ""izolovaných miest, kde je možné dodržať vzdialenosť najmenej 10 metrov od ostatných osôb"".
+
+""Nový zákaz je podľa mňa prehnaný. Súhlasím, že nebudem fajčiť v uzavretých priestoroch, nebudem fajčiť v blízkosti starších osôb alebo detí, ale zákaz fajčenia vonku do istej miery obmedzuje slobodu človeka,"" povedal miestny inštalatér Morgan Ishak (46) ešte pred zákazom.
+
+Miláno patrí medzi európske mestá s najviac znečisteným ovzduším a cigaretový dym ""ako každé spaľovanie prispieva k tvorbe jemných častíc"", povedala Anna Scavuzzová, zástupkyňa primátora Milána.
+
+""Je to prehnané. Ak hovoríme o uzavretom priestore, súhlasím. Fajčenie je otravné a nie je zdravé. Ale na otvorenom mieste nevidím dôvod, prečo by to malo byť obmedzené,"" povedal obchodný zástupca Myrian Illiano (21). ""Dúfam, že aj fajčiari dokážu pochopiť potrebu nefajčiarov, ktorí chcú dýchať čistejší vzduch,"" povedala nefajčiarka Chiara Ciuffiniová (39).",0.5108,0.5678,extreme heat,casualties,high_health,no,no,no,Italy vacation surprise tax - travel,,
+Slovak,Slovakia,cas.sk,scrapai,216263,https://www.cas.sk/spravy/zahranicne-spravy/who-varuje-fajcenie-moze-zapricinit-tazky-priebeh-nakazy-a-smrti-na-covid-19,WHO varuje: Fajčenie môže zapríčiniť ťažký priebeh nákazy a smrti na COVID-19,"Informácie priniesla vo štvrtok tlačová agentúra AP.
+
+Vo vedeckej práci, zverejnenej tento týždeň, WHO skúmala 34 vydaných štúdií o spojitosti fajčenia a ochorenia COVID-19, pokiaľ ide o pravdepodobnosť nakazenia, hospitalizáciu, závažnosť priebehu choroby a smrť.
+
+WHO poukázala na to, že fajčiari tvoria až do 18 percent pacientov hospitalizovaných s novým koronavírusom, a že existuje výrazná súvislosť medzi tým, či pacient fajčil alebo nie a závažnosťou jeho ochorenia, druhom nutných nemocničných zásahov a rizikom smrti.
+
+Francúzski výskumníci vydali v apríli menšiu štúdiu, podľa ktorej fajčiarom menej hrozí, že sa nakazia a ochorejú na COVID-19, a plánovali testovať na pacientoch aj zdravotníkoch nikotínové náplasti - ale ich zistenia vtedy mnohí vedci spochybnili a poukazovali na nedostatok vyčerpávajúcich údajov.
+
+WHO najnovšie uviedla, že ""dostupné dôkazy naznačujú, že fajčenie súvisí so zvýšenou závažnosťou ochorenia a úmrtnosťou u pacientov hospitalizovaných s COVIDom-19"". Organizácia OSN tiež odporučila, aby ľudia prestali fajčiť.",0.4679,0.5690,rising temperatures,malnourishment,high_health,no,yes,no,,WHO warns: smoking causes severe COVID and death,
+Slovak,Slovakia,cas.sk,scrapai,72601,https://www.cas.sk/prominenti/prominenti-zahranicni/jean-claude-van-damme-lieta-v-problemoch-zapleteny-do-obchodu-s-bielym-masom,Jean-Claude Van Damme lieta v problémoch: Zapletený do obchodu s bielym mäsom?!,"K incidentu malo prísť vo francúzskom meste Cannes, no v právnych dokumentoch nebol objasnený dátum. Herec tu údajne od Morela Bolea, rumunského podnikateľa a majiteľa modelingovej agentúry, prijal „darček“ v podobe piatich rumunských žien. Mal pri tom dobre vedieť, že sú obeťami obchodovania s ľuďmi.
+
+Prípadom sa začal zaoberať rumunský špeciálny útvar DIICOT pre vyšetrovanie organizovaného zločinu a terorizmu v roku 2020, keď sa prihlásila svedkyňa. „Práve som sa pridala k organizácii. V tom čase organizovali veľa akcií v Rumunsku a v zahraničí. Počas tohto obdobia sa v Cannes konalo uvedenie filmu s Van Dammom v hlavnej úlohe,“ citoval ženu portál Antena 3. Dodala, že ženy boli poslané hercovi na sex. Advokát Adrian Cuculis, ktorý jednu z nich zastupuje, tvrdí, že ženy „boli v stave zraniteľnosti s podozrením, že boli vykorisťované“.
+
+K obvineniam sa pre People vyjadril i hercov agent Patrick Goavec: „Dozvedeli sme sa o správach o údajnej afére v Cannes s pánom Jean-Claude Van Dammom. Nahlásené skutočnosti sú groteskné a zároveň neexistujúce.“ Zároveň dodal, že Van Damme nechce komentovať fámu, ktorá je absurdná a nepodložená.",0.4666,0.5510,extreme event,casualties,high_health,no,no,no,Van Damme in trouble with drug smuggling - celebrity,,
+Slovak,Slovakia,cas.sk,scrapai,236734,https://www.cas.sk/sport/hokej/studenicov-vydareny-navrat-proti-halakovmu-bostonu-si-pripisal-asistenciu,Studeničov vydarený návrat: Proti Halákovmu Bostonu si pripísal asistenciu,"V siedmom vystúpení v profilige to bol pre Studeniča, ktorého pred súbojom s Bruins povolali z farmy v AHL, druhý kanadský bod. Na konte už má presný zásah do siete New Yorku Rangers spred dvoch týždňov.
+
+Výsledky:
+
+BUFFALO SABRES - NEW YORK ISLANDERS 4:3 pp a sn (1:1, 1:2, 1:0 - 0:0, 1:0)
+
+Góly: 16. Eakin (Skinner, Caggiula), 38. Bjork (Miller, Olofsson), 51. Bjork (Olofsson), rozh. nájazd Bjork – 17. Beauvillier (Bailey, Nelson), 24. Pulock (Clutterbuck, Johnston), 30. Clutterbuck. Brankári: Houser - Sorokin, strely na bránku: 31:48.
+
+CAROLINA HURRICANES - CHICAGO BLACKHAWKS 6:3 (0:2, 2:0, 4:1)
+
+Góly: 25. Niederreiter (Geekie, Trocheck), 36. Svečnikov (Slavin, Teräväinen), 45. Svečnikov (Teräväinen, Aho), 48. Teräväinen (Aho, Svečnikov), 58. Nečas, 59. Niederreiter (Nečas, Trocheck) – 7. DeBrincat, 13. Hardman (Entwistle, Kane), 52. DeBrincat (Kane, Mitchell). Brankári: Mrázek - Delia, strely na bránku: 28:30.
+
+NEW JERSEY DEVILS - BOSTON BRUINS 4:3 pp (1:0, 0:2, 2:1 - 1:0)
+
+Góly: 9. Zacha (Hughes, Hischier), 50. Boqvist (Severson, STUDENIČ), 53. Šarangovič (Severson, Bahl), 63. Zacha (Hughes, Butcher) – 25. Bergeron (Pastrňák, Grzelcyk), 35. Hall (Grzelcyk, Krejčí), 51. Kuraly (Pastrňák, Reilly). Brankári: Blackwood - HALÁK, strely na bránku: 21:36.
+
+PHILADELPHIA FLYERS - PITTSBURGH PENGUINS 3:7 (0:1, 2:2, 1:4)
+
+Góly: 29. Braun (Allison, Provorov), 39. Couturier (Sanheim, Giroux), 51. Konecny (Giroux, Gostisbehere) – 2. Pettersson (McCann, Gaudreau), 24. Guentzel (Letang, Malkin), 26. Crosby (Pettersson), 48. Zucker (Malkin, Kapanen), 53. Crosby (Rust, Guentzel), 56. Friedman (Blueger, Aston-Reese), 57. Marino (Crosby, Guentzel). Brankári: Elliott - Jarry, strely na bránku: 33:31.
+
+VANCOUVER CANUCKS - EDMONTON OILERS 1:4 (1:0, 0:3, 0:1)
+
+Góly: 1. Boeser (Höglander, Edler) – 35. Draisaitl (McDavid), 38. Draisaitl (McDavid, Barrie), 40. Bouchard (Nurse, Kahun), 55. Nurse (Archibald, Chiasson). Brankári: Demko - Smith, strely na bránku: 29:27.",0.5180,0.5685,heatwave,west nile virus,high_health,no,no,no,Hockey - Studenič's return against Boston,,
+Slovak,Slovakia,cas.sk,scrapai,85911,https://www.cas.sk/spravy/domace-spravy/pozor-kaufland-stahuje-z-predaja-oblubenu-sladkost-je-nebezpecna-ak-to-mate-doma-nejedzte-to,"Pozor, Kaufland sťahuje z predaja obľúbenú sladkosť! Je nebezpečná: Ak to máte doma, nejedzte to","Pozor, Kaufland sťahuje z predaja obľúbenú sladkosť! Je nebezpečná: Ak to máte doma, nejedzte to
+17. 2. 2024, 15:45
+Obchodný reťazec Kaufland sťahuje z predaja známu sladkosť. Môže podľa nich obsahovať malé kovové časti. AK ju máte doma, nekonzumujte ju.
+Výrobca Banketbakkerij Merba B.V. z dôvodu preventívnej ochrany spotrebiteľa sťahuje z predaja nasledovný produkt: 200g, EAN 4337185467004, S dátumom minimálnej trvanlivosti 06-12-2024, šarža 2334103.
+""Nie je možné vylúčiť, že v uvedenom výrobku sa môžu nachádzať malé kovové častice. Vzhľadom na možné riziko zranenia pri konzumácii by zákazníci mali prísne dodržiavať stiahnutie z predaja a dotknutý výrobok, ktorý sa predával v Kauflande, nekonzumovať,"" píše spoločnosť na svojom webe. ""Spoločnosť Kaufland reagovala okamžite a predmetný výrobok stiahla z predaja. Zákazníci môžu zakúpený produkt vrátiť v ktorejkoľvek predajni Kaufland a obdržia čiastku v plnej výške naspäť, a to aj bez predloženia pokladničného bloku.""
+Autor: © Nový Čas",0.4671,0.5518,carbon dioxide,undernourishment,high_health,no,yes,no,,Kaufland recalls popular sweet from sale - food safety,
+Slovak,Slovakia,cas.sk,scrapai,140001,https://www.cas.sk/spravy/zahranicne-spravy/banka-pre-medzinarodne-zuctovanie-odkazuje-centralne-banky-musia-konat-inak-sa-inflacia-zmeni-na-nieco-horsie,Banka pre medzinárodné zúčtovanie odkazuje: Centrálne banky musia konať inak sa inflácia zmení na niečo horšie,"TASR o tom informuje na základe správy agentúry Reuters.
+
+V uplynulých dňoch sa konalo výročné zasadnutie BIS, na ktorom centrálni bankári diskutovali o aktuálnych problémoch a rizikách rovnako ako o turbulenciách na finančných trhoch.
+
+""Pre centrálne banky je kľúčové, aby konali rýchlo a rozhodne, než sa inflácia stane ukotvenou,"" uviedol generálny riaditeľ BIS Agustín Carstens. Podľa neho je dôležité, aby centrálne banky konali v najbližších kvartáloch.
+
+BIS naďalej predpokladá, že je možné takzvané mäkké pristátie, teda že zvyšovanie sadzieb nemusí stiahnuť ekonomiky do recesie, uznáva však, že situácia je náročná.
+
+""Veľa bude závisieť práve od toho, aké trvalé sú tieto inflačné šoky,"" uviedol Carstens a dodal, že kľúčová tiež bude reakcia finančných trhov. ""Ak toto sprísňovanie spôsobí rozsiahle straty, spôsobí rozsiahlu korekciu cien aktív, a tým zasiahne aj spotrebu, investície a zamestnanosť, potom to bude horšie.""
+
+Prudké zdraženie energií a potravín spôsobil, že inflácia sa v mnohých krajinách dostala na najvyššie úrovne za desaťročia, čo vyvolalo obavy z recesie, či dokonca stagflácie podobnej tej zo 70. rokov minulého storočia. Stagflácia znamená situáciu, keď je rýchle zvyšovanie cien spojené s nízkym alebo dokonca negatívnym rastom ekonomiky.
+
+BIS vznikla v roku 1930 v Bazileji a označuje sa za centrálnu banku centrálnych bánk a reprezentuje krajiny, na ktoré pripadá okolo 95 % svetového hrubého domáceho produktu (HDP). Realizuje výskum a analýzu menového a finančného systému a fórom pre dialóg medzi tvorcami menových politík.",0.5148,0.5523,temperature rises,undernourishment,high_health,no,no,no,BIS tells central banks about interest rates - finance,,
+Slovak,Slovakia,cas.sk,scrapai,162243,https://www.cas.sk/spravy/domace-spravy/chcete-kupit-byt-ci-dom-este-pockajte-na-tuto-spravu-ste-cakali-dlhe-mesiace,Chcete kúpiť byt či dom? Ešte počkajte: Na túto správu ste čakali dlhé mesiace,"Nárast cien nehnuteľností medzikvartálne o viac ako 8 až 10 % podľa Obtuloviča nie je zdravý. ""Najsilnejším faktorom spomalenia rastu cien realít je ich cenová nedostupnosť pre drvivú väčšinu obyvateľstva, nárast úrokových sadzieb na hypotékach a neisté vyhliadky do budúcnosti spojené s vysokou mierou inflácie a energetickou krízou, čo spôsobuje obavy obyvateľstva, a teda odklad kúpy nehnuteľnosti,"" priblížil.
+
+Očakáva zastabilizovanie cien na celom území Slovenska a pri niektorých ponukách ich zreálnenie, čo znamená pokles cien smerom nadol. Najbližších šesť mesiacov podľa neho ukáže, v akej kondícii sa realitný trh na Slovensku nachádza. Dodal, že vo štvrtom kvartáli už na trhu môže dôjsť k poklesu cien a ten sa môže prejaviť v negatívnych hodnotách. ""Všetko záleží od toho, či Európska centrálna banka (ECB) pristúpi k ďalšiemu sprísneniu úrokových sadzieb s cieľom, aby sa vyhla inflačnej špirále, alebo zachová základnú úrokovú sadzbu na súčasných hodnotách,"" spresnil odborník.",0.5238,0.5448,temperature rises,undernourishment,high_health,no,no,no,Want to buy apartment? Wait for this news - real estate,,
+Slovak,Slovakia,cas.sk,scrapai,183061,https://www.cas.sk/spravy/nitriansky-kraj-cez-vikend-otvori-vsetky-svoje-ockovacie-centra-ktori-obcania-maju-prednost,Nitriansky kraj cez víkend otvorí všetky svoje očkovacie centrá: Ktorí občania majú prednosť,"Vakcína proti ochoreniu COVID-19 sa v krajských centrách bude podávať v Nitre, v Šali aj v Štúrove. NSK upozornil, že prednosť budú mať registrovaní záujemcovia.
+
+VKOC na Slančíkovej ulici v Nitre bude otvorené v sobotu aj v nedeľu. Očkovať sa bude vakcínami Moderna, Comirnaty a Janssen. „V nedeľu 28. novembra už vakcína Moderna k dispozícii nebude. V tento deň však môžu prísť na očkovanie aj deti,“ informoval NSK.
+
+Otvorené bude aj VKOC v Poliklinike NSK v Šali, kde sa bude očkovať oba víkendové dni. Centrum v Poliklinike NSK v Štúrove bude otvorené iba v nedeľu. Očkovať sa tu bude od 8.00 do 15.30 h.",0.4447,0.5559,heatwave,west nile virus,high_health,no,yes,no,,Nitra opens all vaccination centers for weekend COVID vaccination,
+Slovak,Slovakia,cas.sk,scrapai,246831,https://www.cas.sk/spravy/zahranicne-spravy/pocet-obeti-zemetrasenia-na-haiti-sa-zvysuje-rapidnou-rychlostou-situaciu-moze-zhorsit-este-jedna-vec,Počet obetí zemetrasenia na Haiti sa zvyšuje rapídnou rýchlosťou: Situáciu môže zhoršiť ešte jedna vec,"Citovala ho tlačová agentúra AP. Zemetrasenie zničilo tisíce domov, úradov, kostolov a ďalších budov a stavieb. Spúšť môže čoskoro ešte zhoršiť prichádzajúca tropická cyklóna Grace, ktorá má podľa predpovedí zasiahnuť Haiti v pondelok neskoro večer miestneho času - ostrovnú krajinu postihne silný vietor, hustý lejak, zosuvy pôdy a bleskové záplavy. Dažďové zrážky dosiahnu v niektorých oblastiach hodnotu 38 centimetrov.
+
+""Teraz pracujeme na tom, aby sme zaistili, že zdroje, ktoré máme, sa dostanú na najťažšie postihnuté miesta,"" povedal šéf úradu civilnej ochrany Jerry Chandler. Myslel tým haitské provincie Cayes, Jérémie a Nippe, ktoré sa nachádzajú v juhozápadnej časti krajiny.",0.5051,0.5408,extreme heat,west nile virus,high_health,yes,yes,yes,"Haiti earthquake deaths rising rapidly, tropical cyclone Grace approaching","Deaths from earthquake, situation worsening",Earthquake + approaching cyclone compounding disaster casualties
+Slovak,Slovakia,cas.sk,scrapai,157863,https://www.cas.sk/spravy/zahranicne-spravy/nemecko-naslo-krajinu-odkial-bude-dovazat-med-a-vzacne-kovy-az-z-mongolska,"Nemecko našlo krajinu, odkiaľ bude dovážať: Meď a vzácne kovy až z Mongolska","Po stretnutí s mongolským premiérom Luvsannamsrainom Oyun-Erdene v Berlíne povedal, že sa dohodli na prehĺbení a tiež rozšírení spolupráce medzi oboma krajinami. Scholz povedal, že boj proti zmene klímy a transformácia energetických sektorov budú stredobodom budúcoročného stretnutia v Mongolsku a dodal, že táto krajina má „obrovský potenciál, čo sa týka veternej a solárnej energie“.
+
+Nemecko má záujem uzatvoriť dohody o dovoze väčšieho množstva komodít z Mongolska, aby znížilo svoju závislosť od krajín ako Rusko a Čína. „Mongolsko sa stane dôležitým partnerom pre mnohé suroviny v našej diverzifikačnej stratégii,“ povedal Scholz s tým, že teraz treba identifikovať konkrétne projekty a zabezpečiť právnu istotu.",0.5205,0.5778,global heating,undernourishment,high_health,no,no,no,Germany found country to import copper and rare metals,,
+Slovak,Slovakia,cas.sk,scrapai,281220,https://www.cas.sk/spravy/peniaze/ma-slovensko-v-obchodoch-dostatok-zasob-pred-velkou-nocou-retazce-reaguju,Má Slovensko v obchodoch dostatok zásob pred Veľkou nocou? Reťazce reagujú,"Vyplýva to z vyjadrení oslovených spoločností. Aj podľa ministra pôdohospodárstva Jána Mičovského (OĽaNO) je potravín dostatok.
+
+""Spoločnosť Billa má dostatočné zásoby potravín a ostatného tovaru aj pred blížiacimi sa sviatkami. Posilnili sme objednávky tovaru, aby sme dokázali naplniť aj vyšší záujem zákazníkov,"" priblížila pre TASR hovorkyňa reťazca Kvetoslava Kirchnerová.
+
+Billa pre očakávané väčšie nákupy k blížiacim sa sviatkom podľa nej rozšírila otváracie hodiny. ""A tiež ako pred každými sviatkami sme posilnili aj personál na predajni,"" informovala. ""Nemáme plošne nastavené otváracie hodiny, avšak na každej jednej predajni si zákazníci túto informáciu nájdu. Otvárame približne o 7.00 alebo 8.00 h a zatvárame predajne medzi 19.00 až 22.00 h v závislosti od konkrétnej predajne. Dočasné otváracie časy máme uvedené na každej predajni a rovnako aj na stránke Billy,"" spresnila.
+
+Oproti štandardnej situácii pred vypuknutím nového koronavírusu, keď si ľudia zvykli nechávať sviatočné nákupy na poslednú chvíľu, reťazec Billa podľa nej teraz zaevidoval zmenu. ""Vidíme, že zákazníci si robia sviatočné nákupy v predstihu,"" poznamenala Kirchnerová.
+
+""Je pre nás prioritou, aby zákazníci u nás vždy našli všetko, čo potrebujú. Preto sme s našimi dodávateľmi neustále v kontakte a podnikáme všetky potrebné kroky na to, aby nenastali výpadky v dostupnosti tovarov,"" uviedla Lucia Langová, hovorkyňa Kauflandu.
+
+Podľa Petra Steigaufa z Tesco Stores SR za súčasných mimoriadnych okolností vyvíja Tesco aj v období pred Veľkou nocou maximálne úsilie, aby sa potraviny bezpečne dostali k všetkým zákazníkom. Nepretržite podľa neho pokračuje zásobovanie obchodov Tesca potravinami a ďalším sortimentom produktov. ""V našich distribučných centrách máme aj v aktuálnej mimoriadnej situácii dostatočné zásoby a pokračuje ich plynulé dopĺňanie. Zo všetkých distribučných centier denne putujú čerstvé a trvanlivé potraviny do každého zo 150 obchodov Tesca na Slovensku,"" spresnil.
+
+""Aby sme sa uistili, že dostupnosť tovaru v obchodoch je plynulo zabezpečená, prepravné kapacity sme v uplynulých týždňoch zvyšovali približne o štvrtinu. Situáciu sme zvládli v spolupráci s partnerskou prepravnou spoločnosťou, ktorá pre nás operatívne zvýšila dopravné kapacity. Našim kolegom v distribučných centrách a obchodoch sme nesmierne vďační za ich obetavú prácu, vďaka ktorej prinášame potraviny pre ľudí na celom Slovensku aj za súčasných mimoriadnych okolností,"" dodal Steigauf.
+
+Aj Mičovský pred pondelkovým (6. 4.) rokovaním vládneho kabinetu ubezpečil, že zásobovanie potravinami je veľmi dobré, potravín v SR je dostatok. ""Zásobovanie (potravinami) je veľmi dobré. V pondelok sme mali na Ministerstve pôdohospodárstva a rozvoja vidieka (MPRV) SR krízový štáb, ktorý veľmi podrobne hodnotil zásoby. Môžem konštatovať, že zásoby sú dobré po nákupnej horúčke, ktorá tu bola pred časom. Situácia je stabilizovaná. Prekvapujúco, máme nielen dobré zásoby, ale aj konkrétne komodity často nakupované sú v poriad...",0.4336,0.5422,rising temperatures,undernourishment,high_health,no,no,no,Does Slovakia have enough supplies before Easter?,,
+Slovak,Slovakia,cas.sk,scrapai,241806,https://www.cas.sk/spravy/zahranicne-spravy/karantenu-po-prilete-z-velkej-britanie-zavadza-dalsi-stat-kolko-ostanu-cestujuci-doma,Karanténu po prílete z Veľkej Británie zavádza ďalší štát: Koľko ostanú cestujúci doma?,"Informuje o tom agentúra PAP.
+
+Ide o nariadenie, ktoré podpísal v utorok poľský premiér Mateusz Morawiecki a do platnosti vstúpi v stredu, spresnil hovorca poľského rezortu zdravotníctva Wojciech Andrusiewicz.
+
+Opatrenie v súvislosti so sedemdňovou karanténou sa týka snahy zredukovať riziko prenesenia variantu delta z postihnutých oblastí vo Veľkej Británii, povedal pre agetúru PAP poľský minister zdravotníctva Adam Nedzielski. Dodatočné reštrikčné opatrenia sa tak nebudú týkať iba ľudí prichádzajúcich z Indie, Brazílie alebo Južnej Afriky, ale aj Veľkej Británie.
+
+Poľské ministerstvo zdravotníctva minulý týždeň uviedlo, že sa pripravuje na možnú jesennú vlnu pandémie koronavírusu.",0.4654,0.5485,heatwaves,west nile virus,high_health,no,yes,no,,Another country introduces quarantine for UK arrivals - COVID,
+Slovak,Slovakia,cas.sk,scrapai,403752,https://www.cas.sk/spravy/peniaze/venezuela-je-na-krok-od-bankrotu-zachranit-ju-moze-len-jedna-vec,Venezuela je na krok od bankrotu: Zachrániť ju môže len jedna vec!,"Venezuela je na krok od bankrotu: Zachrániť ju môže len jedna vec!
+28. 2. 2016, 21:24 (aktualizované: 26. 5. 2020, 8:54)
+Venezuelské hospodárstvo sa v dôsledku súčasného silného poklesu ceny ropy na svetovom trhu dostalo do hlbokej krízy.
+Informuje o tom nemecký spravodajský televízny kanál N24. Vláda prezidenta Nicolása Madura sa usiluje zabrániť štátnemu bankrotu, a preto sa obrátila na banky, aby získala od nich úver spolu 5 miliárd USD (4,97 miliardy eur).
+Láka ich na pevné platidlo – zlato. Ním bude ručiť bankám za ich pôžičky. Caracas zapojil do projektu nemenovanú kanadskú banskú spoločnosť. Za dve miliardy USD by vyhĺbili firmy dve bane a tri miliardy USD by zostali vláde k dispozícii na operatívne výdavky. Krajina by úver splácala zlatom z úspešného projektu.
+Hrubý domáci produkt tejto latinskoamarickej krajiny klesol vlani medziročne o 5 %. Podľa signálov z prvých dvoch mesiacov tohto roka sa ešte neblýska na lepšie časy.
+Autor: TASR",0.4974,0.5776,climate crises,west nile virus,high_both,no,no,no,Venezuela near bankruptcy - economics,,
+Slovak,Slovakia,cas.sk,scrapai,149316,https://www.cas.sk/prominenti/prominenti-domaci/maju-hviezdne-maniere-slovenske-kapely-prehovorili-toto-su-nase-podmienky-pre-organizatorov,Majú hviezdne maniere? Slovenské kapely prehovorili: Toto sú naše podmienky pre organizátorov!,"Chcú ružovú šatňu s presným počtom kvetov, miestnosť vyčlenenú len pre parochne, osobného kuchára či terapeuta a mnohé iné nezmysly. Ako sú na tom slovenské hviezdy?
+
+„Medzi naše podmienky patrí napríklad zrkadlo, ktoré v šatni musí byť, toalety v blízkosti, nejaké nealko a občerstvenie,“ vymenúva líder Desmodu Mário Kuly Kollár (50). Kapela má pre organizátorov aj nepovinnú požiadavku. „Aspoň teda my to tak berieme, že je nepovinná. Na konci je napísané, že by sme chceli šesť štrúdieľ a čakáme, kto na to zareaguje a kto nie. Keď prídeme do šatne pred koncertom, tak hneď vidíme, kto to čítal do konca,“ smeje sa. „Stáva sa nám tiež, že nám volajú, či to myslíme vážne a napečú nám potom domácu, aby sme mali kvalitnú.“",0.4897,0.5470,heatwaves,casualties,high_both,no,no,no,Slovak bands discuss their behavior - entertainment,,
+Slovak,Slovakia,cas.sk,scrapai,22120,https://www.cas.sk/prominenti/prominenti-domaci/barkolova-trci-po-prichode-do-kanady-14-dni-v-karantene-opisala-mimoriadne-prisne-podmienky,Barkolová trčí po príchode do Kanady 14 dní v karanténe: Opísala mimoriadne prísne podmienky,"V utorok oslavovala jojkárka meniny a množstvo blahoželaní ju potešilo o to viac, že je zatvorená 14. deň v karanétne. ,,Áno, dobre počujete. Kanada má prísne pravidlá. Po docestovaní do krajiny nielenže musíš mať negatívny test, ale ideš rovno do 14-dňovej izolácie. Kontrolujú ťa poctivo prostredníctvom aplikácie a zároveň ti viackrát volajú,"" opísala z Toronta.
+
+,,Nikoho tu ani len nenapadne to porušiť, pokuta je 5000 kanadských dolárov (3242 eur). A premiér Justin Trudeau to tento týždeň ešte sprísnil. Zastavil lety do Karibiku, kam by teraz všetci radi leteli, a keď priletíš do Kanady, musíš ísť na test. Na výsledok čakáš tri dni vo vybranom hoteli, ktorý platíš, stojí to 2000 dolárov. Ak si negatívny, ideš do karantény domov, ak pozitívny, platíš si hotel po zvyšok karantény,"" ozrejmila Barkolová podmienky v Kanade.
+
+Označila ich za veľmi prísne s tým, že Kanaďania si nakazených do krajiny jednoducho nepustia. ,,Ale zase všetky lyžiarske strediská tu fungujú. Mne končí karanténa, od zajtra vám dúfam ukážem čo-to z Toronta,"" odkázala moderátorka na Instagrame.",0.4824,0.5639,heatwaves,west nile virus,high_both,no,yes,no,,Barkolová stuck in 14-day quarantine in Canada,
+Slovak,Slovakia,cas.sk,scrapai,160670,https://www.cas.sk/spravy/zahranicne-spravy/rusi-opat-utocia-mieria-aj-na-obytne-budovy-nezastavia-ich-ani-deti-ich-armada-bombardovala-minometmi,"Rusi opäť útočia: Mieria aj na obytné budovy, nezastavia ich ani deti! Ich armáda bombardovala mínometmi","Zničili alebo poškodili 21 civilných objektov, vrátane obytných budov, fariem a rekreačného strediska. Uviedla to na komunikačnej platforme ukrajinská polícia. „Ruská armáda mínometmi bombardovala mesto Vuhledar, pričom zranili dieťa narodené v roku 2007,"" napísala polícia. Informuje o tom portál news.sky.com.
+
+Ukrajinská polícia zároveň upozornila Ukrajincov, aby dodržiavali zákazy vychádzania a necestovali sami. „Buďte opatrní, v obsadených obciach okupanti rabujú a berú si automobily,"" dodala polícia.",0.4749,0.5555,heatwave,casualties,high_both,no,yes,no,,Russians attacking residential buildings - war casualties,
+Slovak,Slovakia,cas.sk,scrapai,166805,https://www.cas.sk/tip-od-vas/slovensko/mesto-nitra-predlzi-svoj-cyklochodnik-sledujte-kolko-stoji-15-kilometra,"Mesto Nitra predĺži svoj cyklochodník: Sledujte, koľko stojí 1,5 kilometra!","Ako sa uvádza vo Vestníku Úradu pre verejné obstarávanie, predpokladaná hodnota zákazky je takmer 633.000 eur, lehota na predkladanie ponúk je do 24. januára. ""Obstarávanie sa týka programu financovaného z plánu obnovy,"" konštatuje sa vo výzve.
+
+Tri metre široký dvojpruhový cyklistický chodník bude dlhý takmer 1,5 kilometra. Napojí sa na existujúcu cyklotrasu z mestského parku. Bude viesť od Vodnej ulice až ku komunikácii do areálu Zelokvetu a skončí sa pri napojení na chodník na Bratislavskej ulici. Druhý úsek trasy sa začína v križovaní s vozovkou Bratislavskej ulice s ukončením na spevnenej ploche otočky mestskej hromadnej dopravy. Od nej je samostatným projektom riešené pokračovanie cyklotrasy po Dubíkovej, Štúrovej a Kmeťovej ulici až na jestvujúcu cyklotrasu na Hviezdoslavovej ulici.",0.4796,0.5357,extreme heat,west nile virus,high_both,no,no,no,Nitra extends cycling path - local infrastructure,,
+Slovak,Slovakia,cas.sk,scrapai,44208,https://www.cas.sk/ostatne/autobus-v-europskej-metropole-napalil-do-zastavky-zabil-niekolko-ludi-desive-zistenie,Autobus v európskej metropole napálil do zastávky! Zabil niekoľko ľudí: Desivé zistenie,"Nehoda sa stala okolo 15:00 (14:00 GMT) na ulici Valhallavägen v švédskom hlavnom meste. Vo vyhlásení polícia uviedla, že incident bol klasifikovaný ako úmyselné zabitie, píše BBCPolícia uviedla, že v súčasnosti neposkytuje žiadne informácie o počte, pohlaví ani veku postihnutých osôb.
+
+Jedna miestna žena povedala Expressen: „Sedela som na gauči a počula som výbuchy. Bola som naozaj vystresovaná.“ Ďalší svedok povedal miestnej televízii SVT Nyheter, že po incidente prišlo do ich obchodu niekoľko ľudí, ktorí plakali.
+
+Národná televízna stanica SVT citovala manažéra pre komunikáciu spoločnosti Transdev, ktorá prevádzkuje miestnu autobusovú dopravu v severnej časti Štokholmu, ktorý uviedol, že dvojposchodový autobus patril tejto spoločnosti.",0.4860,0.5519,extreme event,casualties,high_both,no,yes,no,,"Bus crashed into stop in European city, killed and injured",
+Slovak,Slovakia,cas.sk,scrapai,422654,https://www.cas.sk/spravy/zahranicne-spravy/kristinka-6-sa-hrala-s-bratom-bez-stopy-zmizla-a-nik-o-nej-nevie,Kristínka (6) sa hrala s bratom: Bez stopy zmizla a nik o nej nevie!,"Kristínka (6) sa hrala s bratom: Bez stopy zmizla a nik o nej nevie!
+19. 7. 2016, 15:07 (aktualizované: 26. 5. 2020, 8:54)
+Reklama
+Policajti pátrajú po šesťročnej Kristínke Bělohlávkovej z českého Milevska na Písecku.
+Na policajnom webe to oznámila hovorkyňa polície Kamila Čuřínová Ingrišová. Dievča sa stratilo v utorok popoludní, keď sa hrala pri kultúrnom dome. O pomoc pri pátraní prosíía policajti verejnosť. ""Hrala sa so svojím bratom na záhrade kultúrneho domu. Od 12:30 o nej nikto nič nevie,"" oznámila hovorkyňa.
+Dievča je drobnej chudé postavy, vysoká 110 až 120 centimetrov a má dlhé rovné hnedé vlasy a hnedé oči. ""So sebou mala detský bicykel fialovej farby so žltými riadidlami,"" doplnila Ingrišová.
+Autor: ČTK",0.5014,0.5605,heatwave,casualties,high_both,no,no,no,6-year-old Kristínka disappeared without trace - crime,,
+Slovak,Slovakia,cas.sk,scrapai,112870,https://www.cas.sk/spravy/domace-spravy/zdrogovane-labute-si-dopriali-odvykacku-na-vlcom-maku-majitela-ale-trapi-aj-to-co-na-jeho-poli-robia-ludia,"Zdrogované labute si dopriali odvykačku na vlčom maku: Majiteľa ale trápi aj to, čo na jeho poli robia ľudia","Napriek zákazu sa sem chodia zvedavci fotiť - dokonca s malými deťmi. Upozorňuje, že labute sú agresívne a že na poli ostávajú aj uhynuté rozkladajúce sa telá. Ľudia však nemajú zábrany.
+
+Omámené labute z makového poľa urobili rozruch! Asi dvesto sa ich nasťahovalo vo februári na pole pri Patinciach. Toxická rastlina im zachutila, no po jej spásaní neohrdli ani vlčím makom.
+
+„Už nechodia do toho šľachteného, ale do toho divokého. Aj sa už sťahujú postupne. Šľachtený mak je vysoký takmer 1,60 metra a nevedia sa v ňom hýbať,“ hovorí Jozef Lengyel, zoológ zo Štátnej ochrany prírody SR. Ubúda aj uhynutých vtákov.
+
+„V nedeľu bolo 6 uhynutých a bolo ich tam už len asi 80, polovica už odletela. Mŕtve telá, ktoré vieme, tak odpratávame, tie v rozklade necháme na prírodu, to už by bolo aj pre nás veľké riziko. Celkovo uhynulo okolo 100 labutí, mnohé sme zachránili v záchrannej stanici v Marcelovej. Na moje počudovanie sa tam však chodia ľudia fotiť,“ krúti hlavou Lengyel.",0.4865,0.5510,rising temperatures,starvation,high_both,no,no,no,Drugged swans went to poppy field detox - animal story,,
+Slovak,Slovakia,cas.sk,scrapai,236063,https://www.cas.sk/spravy/zahranicne-spravy/zena-po-infarkte-upadla-do-komy-prebrala-sa-takmer-po-roku-medzicasom-porodila-dceru,"Žena po infarkte upadla do kómy, prebrala sa takmer po roku: Medzičasom porodila dcéru","Informoval o tom spravodajský portál BBC s odvolaním sa na taliansky denník La Nazione. Dcéru Caterinu priviedli na svet cisárskym rezom. Tridsaťsedemročná žena však zostala v kóme s podozrením na poškodenie mozgu.
+
+Ako uviedol jej manžel, po prebudení ako prvé povedala slovo „mama“. „Nečakali sme to, po toľkom utrpení sme cítili veľkú radosť,“ povedal Gabriele Succi.
+
+Cristinu Rosi v apríli previezli na kliniku v Rakúsku. Jej liečbu v zahraničí hradili prostredníctvom internetovej zbierky, do ktorej ľudia prispeli sumou viac ako 170-tisíc eur.",0.4790,0.5598,heatwave,deaths,high_both,no,yes,no,,"Woman woke from coma after heart attack, nearly a year later",
+Slovak,Slovakia,cas.sk,scrapai,446756,https://www.cas.sk/sport/futbal/americania-sa-musia-v-brazilii-zaobist-bez-kanoniera-nezmestil-sa-na-supisku,Američania sa musia v Brazílii zaobísť bez kanoniera: Nezmestil sa na súpisku,"Američania sa musia v Brazílii zaobísť bez kanoniera: Nezmestil sa na súpisku
+23. 5. 2014, 11:30 (aktualizované: 29. 5. 2020, 12:32)
+Historicky najlepší strelec reprezentácie USA Landon Donovan (32) sa nezmestil do konečnej 23-člennej nominácie na futbalové MS v Brazílii.
+Zo širšieho kádra vypadli aj obrancovia Brad Evans, Clarence Goodson a Michael Parkhurst, stredopoliari Joe Corona a Maurice Edu i útočník Terrence Boyd.
+Tridsaťdvaročný Donovan zaznamenal v 156 medzištátnych zápasoch 57 gólov, ale šancu štartovať na svojom štvrtom šampionáte nedostal. ""Jednoducho som videl iných hráčov v trocha lepšom svetle,"" vysvetlil kouč zámorského tímu Jürgen Klinsmann, ktorý dal v ofenzíve prednosť Aronovi Johannssonovi a Chrisovi Wondolowskému.
+Prakticky isté miesto v útoku už mali Jozy Altidore a Clint Dempsey.
+V nominácii je iba desať hráčov z predchádzajúcich MS v roku 2010. Medzi nimi aj obranca DaMarcus Beasley, ktorý bude prvým Američanom so štyrmi účasťami na svetovom šampionáte.
+Konečná nominácia USA na MS v Brazílii:
+Brankári: Brad Guzan (Aston Villa), Tim Howard (Everton), Nick Rimando (Salt Lake)
+Obrancovia: DaMarcus Beasley (Puebla), Matt Besler (Kansas City), John Brooks (Hertha Berlín), Geoff Cameron (Stoke), Timmy Chandler (Norimberg), Omar Gonzalez (Los Angeles), Fabian Johnson (Borussia Mönchengladbach), DeAndre Yedlin (Seattle)
+Stredopoliari: Kyle Beckerman (Salt Lake), Alejandro Bedoya (Nantes), Michael Bradley (Toronto), Brad Davis (Houston), Mix Diskerud (Rosenborg), Julian Green (Bayern Mníchov), Jermaine Jones (Besiktas), Graham Zusi (Kansas City)
+Útočníci: Jozy Altidore (Sunderland), Clint Dempsey (Seattle), Aron Johannsson (AZ Alkmaar), Chris Wondolowski (San Jose).
+Autor: © Nový Čas",0.4835,0.5711,heatwave,west nile virus,high_both,no,no,no,Americans in Brazil without striker - football,,
+Slovak,Slovakia,cas.sk,scrapai,52678,https://www.cas.sk/spravy/zahranicne-spravy/v-meste-bolo-pocut-vybuchy-ulomky-dronu-dopadli-na-obecnu-budovu-v-kyjeve,V meste bolo počuť výbuchy: Úlomky dronu dopadli na obecnú budovu v Kyjeve,"Očitý svedok pre Reuters povedal, že následne bolo v meste počuť výbuchy.
+
+Kličko na sociálnej platforme Telegram napísal, že záchranné služby sú na ceste na miesto udalosti. Starosta Kyjeva už predtým uviedol, že jednotky protivzdušnej obrany boli nasadené do akcie v hlavnom meste.
+
+Šéf kyjevskej vojenskej správy Serhij Popko v príspevku na Telegrame uviedol, že bezpilotné lietadlá stále predstavujú hrozbu a vyzval ľudí, aby zostali v úkrytoch.
+
+Letecký poplach v Kyjeve bol neskôr zrušený, no zostal v platnosti pre niekoľko oblastí strednej Ukrajiny.",0.4778,0.5339,extreme event,casualties,high_both,no,yes,no,,Drone fragments fell on residential buildings in city - war casualties,
+Slovak,Slovakia,cas.sk,scrapai,51748,https://www.cas.sk/spravy/v-krajine-udrela-desiva-bebinca-75-rokov-tam-taku-skazu-nevideli,V krajine udrela desivá BEBINCA: 75 rokov tam takú skazu nevideli,"Tajfún sprevádzaný vetrom s nárazmi s rýchlosťou viac ako 150 km/h dorazil k mestu s takmer 25 miliónmi obyvateľov podľa čínskych médií okolo 07.30 h miestneho času (01.30 h SELČ). Šanghaj je len zriedka vystavený priamym zásahom silných tajfúnov, väčšina ktorých postihuje južné oblasti Číny. Práve južnú provinciu Chaj-nan zasiahol minulý týždeň tajfún štvrtej kategórie Jagi, kde si vyžiadal štyri obete.
+
+Čínska štátna televízia CCTV informovala, že v nedeľu od 20.00 h miestneho času (14.00 h SELČ) boli pozastavené všetky lety na dvoch najdôležitejších letiskách Pchu-tung a Chung-čchiao, ktorých prevádzka už bola predtým obmedzená.
+
+V obmedzenom režime funguje aj hlavná železničná stanica v Šanghaji. Dočasne sú zatvorené niektoré zábavné parky. Bebinca sa ako tropická búrka v noci na nedeľu prehnala ponad japonský ostrov Amami, pričom rýchlosť vetra dosahovala až 198 kilometrov za hodinu. V piatok spôsobila na Filipínach záplavy a vyžiadala si tam šesť obetí.",0.5063,0.5412,heatwave,west nile virus,high_both,yes,no,no,"Typhoon Bebinca hits Shanghai, worst in 75 years, 150+ km/h winds",,
+Slovak,Slovakia,pluska.sk,newsapi,591,https://www1.pluska.sk/spravy/eu-pod-palbou-kritiky-szijjarto-chce-uvolnit-sankcie-ako-usa,EÚ pod paľbou kritiky: Szijjártó chce uvoľniť sankcie ako USA,"Maďarský minister zahraničných vecí Péter Szijjártó kritizuje Brusel za zachovanie sankcií na ruskú ropu, ktoré podľa neho zvyšujú ceny pohonných látok.
+
+Spojené štáty pozastavili sankcie na námorné zásielky ruskej ropy, zatiaľ čo Európska únia ich naďalej uplatňuje. Tento krok podľa maďarského ministra zahraničných vecí Pétra Szijjártá spôsobuje dramatický nárast cien pohonných látok, informuje TASR.
+
+""Americká vláda pozastavila sankcie na námornú prepravu ruskej ropy, ale Brusel tento príklad nenasledoval, naďalej tancuje na hudbu ukrajinského prezidenta Volodymyra Zelenského,"" povedal Szijjártó. Podľa neho by EÚ mala zvážiť zmenu politiky, aby ochránila obyvateľstvo a podniky pred prudkým rastom cien energií.
+
+Minister poukázal aj na globálne riziká: vojna na Blízkom východe, uzavretý Hormuzský prieliv a neisté dodávky ropy z arabských štátov výrazne ovplyvňujú svetový trh. ""Ak by sa ruská ropa mohla vrátiť na európsky trh, ceny by výrazne klesli,"" dodal Szijjártó.
+
+Maďarsko podľa jeho slov už chráni domácnosti a podniky prostredníctvom regulovaných cien pohonných látok, ale riešenie by podľa neho mohlo prísť len, ak by EÚ nasledovala príklad USA.",0.4741,0.5326,rising temperatures,west nile virus,high_both,no,no,no,"EU criticized, Szijjártó wants to ease sanctions - politics",,
+Slovak,Slovakia,topky.sk,scrapai,4404,https://www.topky.sk/cl/11/2980295/Rezort-zahranicnych-veci-upozornuje-na-strajky-v-Grecku-a-Nemecku,Rezort zahraničných vecí upozorňuje na štrajky v Grécku a Nemecku,"""V súvislosti so štrajkom je potrebné počítať s rozsiahlymi obmedzeniami leteckej, lodnej, železničnej a autobusovej dopravy, ako aj taxislužieb v celom Grécku,"" upozornil rezort. Odporúča sledovať usmernenia gréckych dopravcov, leteckých a námorných spoločností, prípadne cestovných kancelárií, a podľa potreby upraviť svoj cestovný program.
+
+archívne video
+
+Kultúrny štrajk bude pokračovať aj v ďalšom období protestnými aktivitami (Zdroj: TASR/Jakub Popelka)
+
+Odborový zväz letových dispečerov informoval, že počas 24-hodinového prerušenia práce budú vybavované len určité typy letov vrátane lekárskych, pátracích a záchranných služieb, humanitárnej pomoci, vojenských letov a mimoriadnych udalostí. ""Letecké spoločnosti Aegean a Olympic Air zrušili všetky pravidelné lety vnútroštátnej a medzinárodnej siete s výnimkou niekoľkých špecifických prípadov,"" priblížilo ministerstvo.
+
+Aténska farmaceutická asociácia informovala o trojhodinovom prerušení prevádzky lekární v Aténach v čase od 11.00 do 14.00 h. Zamestnanci taxislužieb sa majú k štrajku pripojiť v čase od 10.00 do 13.00 h.
+
+Rezort varuje, že v súvislosti so štrajkom sú na území celého Grécka očakávané demonštrácie. ""Slovenským občanom, ktorí sa budú v čase demonštrácií nachádzať v blízkosti protestov odporúčame vyhnúť sa miestam, kde sa zhromažďuje viac ľudí,"" uviedol.
+
+V prípade núdze môžu občania Slovenskej republiky kontaktovať pohotovostné číslo mobilného telefónu Veľvyslanectva SR v Aténach +30 69 3240 8028 alebo Medzinárodné operačné krízové centrum MZVEZ SR na číslach +421 2 5978 5978 alebo +421 906 07 5978.
+
+Na letisku v Mníchove budú do piatka polnoci štrajkovať zamestantnci
+
+Na letisku v Mníchove od štvrtka štrajkujú zamestnanci. Štrajk potrvá do piatka (28. 2.) polnoci. V dôsledku štrajku bude zrušená väčšina z 1600 plánovaných letov. Ministerstvo zahraničných vecí a európskych záležitostí (MZVEZ) SR o tom informovalo na svojom webe.",0.4756,0.5342,heatwaves,casualties,high_both,no,no,no,Foreign ministry warns about strikes in Greece - travel,,
+Slovak,Slovakia,hnonline.sk,newsapi,1466,https://hnonline.sk/tv/relacie/doslova/96269330-iran-sa-rozhodol-pre-siroku-eskalaciu-ukazuje-sa-ze-usa-tomu-nedokazu-zabranit-hovori-cesky-expert,"Irán sa rozhodol pre širokú eskaláciu. Ukazuje sa, že USA tomu nedokážu zabrániť, hovorí český expert","Irán po americko-izraelských útokoch rozšíril vojenské operácie aj na ďalšie krajiny regiónu. Rakety a drony smerovali nielen na Izrael, ale aj na štáty Perzského zálivu. Podľa analytika Asociácie pre medzinárodné otázky v Prahe Matúša Horčičku ide o snahu vytvoriť širší tlak na Spojené štáty aj ich regionálnych partnerov.
+
+""Myslím si, že je to kombinácia viacerých faktorov. Irán sa rozhodol pre širokú eskaláciu smerom k finančným, obchodným a ďalším centrám v regióne. Ide o Spojené arabské emiráty, Bahrajn, Kuvajt, Saudskú Arábiu a ďalšie štáty. Cieľom je narušiť dodávateľské reťazce, zvýšiť ceny a vytvoriť tlak na Donalda Trumpa a Benjamina Netanjahua, aby v tejto vojenskej operácii nepokračovali,"" reagoval analyti...",0.4777,0.5364,global heating,west nile virus,high_both,no,no,no,Iran decided on broad escalation - geopolitics,,
+Slovak,Slovakia,cas.sk,scrapai,161906,https://www.cas.sk/spravy/konflikt-ukrajina/zelenskyj-na-klimatickom-summite-drsne-slova-o-situacii-v-zaporozi,Zelenskyj na klimatickom summite: Drsné slová o situácii v Záporoží,"Prostredníctvom videoodkazu to povedal na konferencii OSN o zmene klímy COP27 v egyptskom Šarm aš-Šajchu. TASR prevzala správu z agentúry AP. Zelenskyj uviedol, že ruská invázia na Ukrajinu viedla k zničeniu piatich miliónov akrov lesov (viac ako dvoch miliónov hektárov). Zároveň Moskvu obvinil z toho, že pre rozpútanie vojny celosvetovo vzrástli ceny fosílnych palív. ""To prinútilo desiatky krajín obnoviť výrobu elektriny z uhlia s cieľom znížiť ceny energie pre svojich obyvateľov,"" dodal.
+
+Ukrajinský prezident sa vyjadril aj k obavám v spojitosti so Záporožskou atómovou elektrárňou (ZAES), ktorú už niekoľko mesiacov okupuje ruská armáda. ""Koho bude zaujímať napríklad množstvo skleníkových plynov v atmosfére, ak časť Európy alebo Blízkeho východu a možno aj severnej Afriky nedajbože zakryje radiačný mrak po (jadrovej) havárii v Záporoží?"" opýtal sa prítomných svetových lídrov. Zároveň nabádal krajiny, aby pomohli ""zastaviť tých, ktorí svojou šialenou a nezákonnou vojnou ničia schopnosť sveta pracovať jednotne pre spoločný cieľ"". ""Bez mieru na Zemi nemôže existovať účinná klimatická politika,"" zdôraznil.
+
+V poradí 27. Konferencia zmluvných strán (COP) Rámcového dohovoru OSN o zmene klímy (UNFCCC) potrvá v egyptskom Šarm aš-Šajchu do 18. novembra. Popri rokovaniach sa v pondelok a utorok uskutoční summit viac ako 120 svetových lídrov. Súčasťou konferencie sú aj tematické dni venované financiám, dekarbonizácii, vode, poľnohospodárstvu či energetike.",0.5217,0.5630,climate crisis,west nile virus,high_both,yes,no,no,"Zelensky at climate summit about Zaporizhzhia, 5 million acres of forest destroyed",,
+Slovak,Slovakia,cas.sk,scrapai,247976,https://www.cas.sk/spravy/koronavirus/situacia-na-slovensku-sa-nemeni-vsetky-okresy-zostavaju-nadalej-zelene-stale-vsak-platia-opatrenia,"Situácia na Slovensku sa nemení: Všetky okresy zostávajú naďalej zelené, stále však platia opatrenia","Všetky okresy zostávajú od pondelka podľa COVID automatu v zelenej farbe, teda v stupni monitoringu.
+
+Úrad verejného zdravotníctva (ÚVZ) SR pripomína, že hoci sa všetky okresy nachádzajú v zelenej farbe, stále platia preventívne opatrenia. Naďalej je až na výnimky povinnosť prekrytia horných dýchacích ciest vo všetkých interiéroch verejných budov, verejnej hromadnej doprave, taxislužbách a podobne. Okrem respirátorov je možné použiť rúško, šatku či šál. Rúška či respirátory je potrebné nosiť na hromadných podujatiach, a to aj v exteriéri.
+
+V zelených okresoch okrem iného napríklad platí, že pri vstupe na svadobné hostiny, kary, večierky a podobné podujatia v prevádzkach verejného stravovania je potrebné mať negatívny výsledok RT-PCR/LAMP testu nie starší ako 72 hodín alebo antigénového testu nie starší ako 24 hodín. Naďalej platia aj obmedzenia pre hromadné podujatia, akvaparky, fitnescentrá či pre divadelné, filmové, hudobné alebo iné umelecké predstavenia.",0.4825,0.5354,extreme heat,casualties,high_both,no,yes,no,,"COVID situation in Slovakia unchanged, all districts remain in category",
+Slovak,Slovakia,cas.sk,scrapai,107147,https://www.cas.sk/spravy/zahranicne-spravy/znama-bieloruska-politicka-je-uz-vyse-roka-vo-vazeni-jej-stav-je-vazny-sialene-co-s-nou-robia,"Známa bieloruská politička je už vyše roka vo väzení: Jej stav je vážny! Šialené, čo s ňou robia","Známa bieloruská politička je už vyše roka vo väzení: Jej stav je vážny! Šialené, čo s ňou robia
+30. 8. 2024, 22:34
+Priaznivci väznenej bieloruskej opozičnej političky Maryje Kalesnikavovej v piatok upozornili na zhoršenie jej zdravotného stavu za mrežami.
+Podľa ich slov je politička objektom ""pomalej vraždy"". TASR o tom informuje na základe správy agentúry AFP. Kalesnikavová viedla v roku 2020 rozsiahle pouličné protesty proti bieloruskému prezidentovi Alexandrovi Lukašenkovi. Odmietla tiež násilnú deportáciu z krajiny a v roku 2021 bola odsúdená na 11 rokov. Politička nemá už viac ako rok priamy kontakt s vonkajším svetom a jej zdravotný stav je známy len na základe výpovedí spoluväzňov.
+""Informácie, ktoré dostávame o Maryji Kalesnikavovej od jej spoluväzňov, sú alarmujúce,"" uviedla na platforme X exilová opozičná líderka Sviatlana Cichanovská. ""Aktuálne váži iba 45 kilogramov, hladuje a držia ju v izolácii v hrozných podmienkach. Táto stredoveká krutosť a pomalá vražda sa deje priamo tu v Európe, v 21. storočí,"" zdôraznila Cichanovská. Väzenkyňa sa nachádza v trestaneckej kolónii číslo štyri neďaleko ruských a ukrajinských hraníc.
+Strana1/2
+Pokračovanie na ďalšej strane",0.4752,0.5402,climate crisis,malnourishment,high_both,no,no,no,Belarusian politician imprisoned for over a year - politics,,
+Slovak,Slovakia,cas.sk,scrapai,423046,https://www.cas.sk/sport/sport-mix/rozpalene-modelky-zo-seba-zhodili-saty-a-potom-to-prislo-na-toto-nebol-nikto-pripraveny,Rozpálené modelky zo seba zhodili šaty a potom to prišlo: Na toto nebol nikto pripravený!,"Rozpálené modelky zo seba zhodili šaty a potom to prišlo: Na toto nebol nikto pripravený!
+8. 2. 2015, 0:00 (aktualizované: 20. 5. 2020, 20:30)
+Reklama
+Rozpálené modelky na scéne najskôr zo seba odhodili šaty a potom to prišlo... Čakali by ste TOTO?!
+Sexi modelky prestížneho športového magazínu Sports Illustrated Hannah Davis, Chrissy Teigen a Nina Agdal sa rozhodli pre skutočne netradičný krok.
+Rozpálené krásky v bikinách sa behom pár minút zmenili na až po krk zahalené puritánky s výzorom, ktorý vraví snáď za všetko. Celý proces fotografovania bol samozrejme zachytený na videu, ktoré jednoducho musíte vidieť!
+Autor: © Nový Čas",0.5000,0.5603,extreme events,casualties,high_both,no,no,no,Hot models took off clothes then it came - celebrity clickbait,,
+Slovak,Slovakia,cas.sk,scrapai,59659,https://www.cas.sk/prominenti/prominenti-zahranicni/hollywoodsky-herec-v-problemoch-do-jeho-novej-restauracie-leteli-hasici-este-ani-neprestrihol-pasku,Hollywoodsky herec v problémoch! Do jeho novej reštaurácie leteli HASIČI: Ešte ani neprestrihol pásku,"V reštaurácii amerického herca Marka Wahlberga v Las Vegas horelo. Hovorca reštaurácie Flecha Cantina pre PEOPLE uviedol, že požiar vznikol 6. novembra po tom, ako sa „vznietilo poškodené ohnisko"".
+
+„Prišla hasičská posádka a hneď ho uhasila,“ povedal hovorca. „Vo vnútorných priestoroch reštaurácie nevznikli žiadne škody. Jediná škoda bola na ohnisku a stoličke vedľa neho. Našťastie sa nikto nezranil,"" povedal hovorca reštaurácie.
+
+K požiaru došlo v noci pred očakávaným slávnostným prestrihnutím pásky, ktoré sa má uskutočniť 7. novembra, tri týždne po otvorení reštaurácie 14. septembra. Podujatie bude pokračovať podľa plánu.",0.4895,0.5344,heatwave,casualties,high_both,no,no,no,Hollywood actor's new restaurant gets bad review,,
+Slovak,Slovakia,topky.sk,scrapai,717,https://www.topky.sk/cl/100314/2805355/Slavna-herecka-lieta-v-problemoch--Postavi-sa-pred-sud--Celi-zalobe-byvalych-kolegov-,Slávna herečka lieta v problémoch: Postaví sa pred súd… Čelí žalobe bývalých kolegov!,"Rebel Wilson začiatkom tohto roka rozprúdila vášne po tom, čo vo svojej knihe Rebel Rising uviedla viacero šokujúcich tvrdení. Najviac však zarezonovali jej slová o jej kolegovi Sachovi Baronovi Cohenovi, ktoré obvinila z viacerých vecí.
+
+Prečítajte si tiež
+
+Obľúbená herečka si nedávala servítku pred ústa: Slávneho kolegu nazvala kreténom… Prišla okamžitá reakcia!
+
+Pred pár dňami na svojom profile na sociálnej sieti Instagram zverejnila video, v ktorom obvinila producentov filmu The Deb z toho, že spreneverili peniaze z filmu a rovnako sa mali nevhodne správať počas natáčania.
+
+Tieto slová ju však dostali do problémov a trojica producentov Amanda Ghost, Gregor Cameron a Vince Holdenju zažalovala. Podľa súdnych dokumentov, ktoré sa podarilo získať magazínu Page Six, sú jej tvrdenia obyčajné lži.
+
+„Týmto sa snaží o to, aby sme splnili jej nezmyselné požiadavky. Šíri o nás lži bez ohľadu na to, akú škodu nám jej slová spôsobia. Tvári sa ako zástankyňa umelkýň a že chce bojovať proti znevažovaniu vo filmovom priemysle, avšak pravdou je, že je tyranka, ktorá nikdy nebrala ohľady na záujmy iných a bojovala len za seba,“ uviedol právny zástupca v súdnom spise.",0.4241,0.4818,changing climates,undernourishment,low_both,no,no,no,Famous actress faces court - celebrity,,
+Slovak,Slovakia,cas.sk,scrapai,55555,https://www.cas.sk/prominenti/prominenti-domaci/neuveritelne-silny-pribeh-martina-z-csmt-trpku-minulost-preziva-spevak-druhykrat,Neuveriteľne silný príbeh Martina z ČSMT: Trpkú minulosť prežíva spevák druhýkrát!,"Martinova žena, matka jeho 7-ročného syna, ich totiž opustila. Ešte predtým, ako sa dnes večer na pódiu predvedie spevák Martin Kovář, ktorý bravúrne odspieva pesničku Perfect od Eda Sheerena, rozpovie porote v zložení Eva Burešová, Diana Mórová, Jakub Prachař, Jaro Slávik a Leoš Mareš svoj ťažký životný príbeh. Spočiatku však začne zľahka a skromne.
+
+„V speve ma odmalička úplne naplno podporujú rodičia a teraz už aj môj 7-ročný syn Sebastián. Ten sa tiež snaží spievať a hrá na gitare,“ povie Kovář. Svoje súkromie sa však rozhodne odhaliť až po tom, čo sa ho Jaro Slávik opýta, či prišiel aj s manželkou.
+
+„Neprišiel som s manželkou, ja som sám. Syna mám v starostlivosti ja, pretože maminka ho nechcela, tak som ho dostal ja, a tak žijeme teraz my sami spolu. Je to náročné, ale nesťažujem sa. Nemenil by som to,“ uviedol.",0.4123,0.4547,changing climate,casualties,low_both,no,no,no,Martin's story from reality show - entertainment,,
+Slovak,Slovakia,cas.sk,scrapai,183819,https://www.cas.sk/spravy/domace-spravy/zamestnanci-v-karantene-pozor-kedy-ziadat-socialnu-poistovnu-o-nemocenske,"Zamestnanci v karanténe, pozor: Kedy žiadať Sociálnu poisťovňu o nemocenské?","Ten im bude vyplácať náhradu mzdy za prvých desať dní PN. Zamestnanci o nemocenskú dávku žiadajú Sociálnu poisťovňu prostredníctvom elektronického formulára až v prípade, ak im dočasná PN trvá viac ako 10 kalendárnych dní. Informovala o tom hovorkyňa Sociálnej poisťovne Zuzana Dvoráková.
+
+Zamestnancom nárok na nemocenskú dávku od Sociálnej poisťovne vzniká až od 11. dňa trvania dočasnej PN. Sociálna poisťovňa preto žiada zamestnancov, aby nezasielali žiadosť o dávku do Sociálnej poisťovne skôr. „Keďže každú žiadosť musí Sociálna poisťovňa preskúmať, aj keď nárok na nemocenské nevznikne, žiadosti zamestnancov, ktorým práceneschopnosť ešte netrvá viac ako 10 dni, môžu procesy posudzovania nároku na dávku predlžovať,"" upozornila hovorkyňa Sociálnej poisťovne.",0.3642,0.4894,ozone depletion,undernourishment,low_both,no,yes,no,,Employees in quarantine: when to request social insurance,
+Slovak,Slovakia,sme.sk,newsapi,955,https://www.sme.sk/index/c/odmietnutim-revizie-medzinarodnych-zdravotnych-predpisov-sa-podla-suska-nic-nezmeni,Odmietnutím revízie IHR sa podľa Suska na medzinárodnej spolupráci nič nezmení - Index SME,"Medzinárodná spolupráca funguje a Slovensko je rešpektovaným partnerom, tvrdí Šaško.
+
+Na medzinárodnej spolupráci pri medicínskych krízach sa odmietnutím revízie medzinárodných zdravotných predpisov (IHR) nič nezmení. Vyplýva to z vyjadrenia ministra spravodlivosti Borisa Suska (Smer), ktorý pripomenul, že SR je aj v súčasnosti viazané predpismi IHR z roku 2005.
+
+Rovnako minister zdravotníctva Kamil Šaško (Hlas) deklaroval, že medzinárodná spolupráca v tejto oblasti funguje a Slovensko je rešpektovaným partnerom. Ministri to uviedli pred stredajším rokovaním vlády.
+
+Susko označil tvrdenia opozície o izolácii a ohrození Slovenska v prípade odmietnutia revízie IHR za politické zavádzanie.
+
+""Nedostávame sa do žiadnej izolácie, pretože platia predpisy z roku 2005, ktoré nastavujú celý systém vzájomnej spolupráce, vzájomného varovania sa pri nejakých cezhraničných medicínskych hrozbách. A okrem toho tu máme aj nariadenie Európskeho parlamentu a Rady o koordinácii v rámci takýchto hrozieb a krízy. Čiže my sme súčasťou medzinárodnej spolupráce v tejto oblasti, takže sa nič nestane,"" poznamenal.
+
+Šéf rezortu zdravotníctva zopakoval, že je potrebné rozlišovať medzi medicínsko-vedeckou stránkou problematiky a právnou a ľudskoprávnou stránkou tejto problematiky.
+
+""Ja chcem potvrdiť, že táto spolupráca je nevyhnutná pre efektívnu reakciu v prípade krízových situácií. A z tohto pohľadu, z pohľadu medicínskej stránky, vedecko-výskumnej stránky, potreby výmeny informácií, tá pozícia je nemenná, je absolútne jasná a nikým nespochybňovaná,"" povedal.
+
+Pripomenul, že výhrady rezortu spravodlivosti sa týkajú právnej oblasti revízie predpisov, pričom ich podporujú aj stanoviská právnych fakúlt v Banskej Bystrici a Bratislave.
+
+""Zmeny z roku 2024 sú veľmi problematické z hľadiska právnej istoty, z hľadiska, suverenity Slovenskej republiky, pretože by sa museli preniesť niektoré kompetencie na Svetovú zdravotnícku organizáciu, čo odporuje ústave. A takisto sú tam niektoré ustanovenia, ktoré by si vyžadovali zmeny zákona o bezpečnosti štátu, ktoré by mohli dôjsť do rozporu s článkami Dohovoru o základných ľudských právach a slobodách. Takže sme presvedčení, že tieto predpisy, tak ako sú pripravené, vytvárajú veľmi problematické otázky,"" priblížil Susko.
+
+Identifikované právne medzery je podľa Šaška potrebné adresovať a vyriešiť na národnej úrovni a až potom pristúpiť k revízii predpisov.
+
+V tejto súvislosti podľa jeho slov vytvoril platformu, ktorá sa má otázkami zaoberať.
+
+""Z principiálneho hľadiska aj z môjho osobného presvedčenia absolútne žiadnym spôsobom ani nespochybňujeme, ani neodmietame tie medzinárodné zdravotné predpisy, tak ako sú navrhnuté. A to, čo dnes robíme, v anglickej terminológii je to iba 'soft' odmietnutie, to znamená dočasné odmietnutie alebo dočasné nepristúpenie. (...) V momente, keď budú tieto legislatívne procesy na Slovensku adresované a vyriešené, sme okamžite pripravení stiahnuť tento dočasný nesúhlas alebo dočasné nepristúpenie,"" vyhlásil ...",0.4263,0.4729,environmental changes,west nile virus,low_both,no,no,no,IHR revision refusal at international level - health policy,,
+Slovak,Slovakia,cas.sk,scrapai,39664,https://www.cas.sk/spravy/zahranicne-spravy/donald-trump-spojil-tento-liek-s-autizmom-u-deti-odbornici-reaguju,Donald Trump spojil tento liek s autizmom u detí: Odborníci reagujú!,"Trump vo svojom vyhlásení v pondelok odporučil, aby sa Tylenol počas tehotenstva neužíval a vyjadril aj nepodložené obavy z očkovania.
+
+Ako informovala agentúra DPA, britskí vedci upozorňujú, že paracetamol je bezpečný a jeho používanie počas tehotenstva matky jej dieťaťu neškodí. Štúdia zo Švédska vychádzajúca z dát 2,4 milióna pôrodov nezistila súvislosť medzi expozíciou paracetamolu a autizmom, ADHD či mentálnym postihnutím. Autizmus podľa odborníkov vzniká kombináciou genetických a iných faktorov, a obavy z paracetamolu by nemali odradiť ženy od potrebnej starostlivosti.
+
+Web britskej Národnej zdravotnej služby (NHS) uvádza, že „paracetamol je prvou voľbou lieku proti bolesti počas tehotenstva. Bežne sa užíva a dieťaťu neškodí.“
+
+Profesor Dimitrios Siassakos z University College London doplnil, že autizmus je výsledkom viacerých faktorov, najmä genetických predispozícií a prípadného nedostatku kyslíka pri pôrode. „Akékoľvek zdanie zvýšeného rizika v dôsledku paracetamolu sa pri zohľadnení rodinnej anamnézy stratí,“ uviedol.
+
+Mel Merrittová z britskej Národnej spoločnosti pre autizmus varovala, že dezinformácie prezidenta Trumpa a ministra zdravotníctva Roberta F. Kennedyho ml. ohrozujú desiatky rokov výskumu a môžu vyvolať strach a stigmatizáciu rodín s autistickými deťmi. Odporučila hľadať informácie o autizme len na dôveryhodných weboch, napríklad NHS alebo Národnej spoločnosti pre autizmus.
+
+DPA tiež informovala, že v štúdii fakulty verejného zdravia Harvardovej univerzity a Lekárskej fakulty Mount Sinai z augusta tohto roku sa píše, že expozícia acetaminofénu (Tylenolu) počas tehotenstva môže u detí zvýšiť riziko neurovývojových porúch vrátane autizmu a ADHD. Vedci však zároveň zdôraznili, že tento liek je dôležitý pri liečbe horúčky a bolesti u matiek, pričom dodali, že tieto príznaky by mohli ohroziť aj plod v maternici.
+
+Odborníci upozorňujú, že nárast diagnostikovaných prípadov autizmu v USA je spôsobený najmä novou definíciou tejto poruchy, ktorá zahŕňa aj miernejšie prejavy na autistickom spektre, a zlepšenou diagnostikou.",0.4177,0.4677,rising temperatures,malnourishment,low_both,no,yes,no,,Trump linked vaccine to autism in children - health misinformation,
+Slovak,Slovakia,cas.sk,scrapai,51189,https://www.cas.sk/spravy/tajna-svadba-na-silvestra-hudobnik-slavnej-kapely-mal-po-navsteve-slovenska-rozpravkovy-sobas,TAJNÁ svadba na Silvestra! Hudobník slávnej kapely mal po návšteve Slovenska rozprávkový sobáš,"Nemecký hudobník zo známej kapely Modern Talking, Dieter Bohlen, sa po 20 rokoch vzťahu oženil so svojou partnerkou Carinou Walz. Svadbu spravili potajme na Silvestra na Maldivách. Dvojica si vybrala tieto ostrovy práve preto, lebo táto destinácia patrí medzi jej výnimočné miesta, píše nemecký denník Bild.
+
+Obrad prebehol v podvečerných hodinách krátko pred západom slnka. Na sobáši sa zúčastnili i ich deti, pričom svadobným fotografom bol len 12-ročný syn Max. O plánovanej tajnej svadbe vedeli vopred Bohlenove dospelé deti z prvého manželstva a najbližší rodinní príslušníci.
+
+Spevák uviedol, že dátum svadby vybrali zámerne, aby si mohli každý príchod nového roka pripomínať spolu so sobášom. Hudobník sa však v minulosti viackrát vyjadril, že jeho vzťah s Carinou považuje za to najlepšie, čo sa mu prihodilo. Preto po dvoch desaťročiach spoločného života spečatili svoju lásku na výnimočnom mieste.
+
+Dieter Bohlen bol nedávno na Slovensku, a to počas otvárania sezóny v Jasnej, kde v známom klube vystupoval. Tam muzikant podľa portálu Plus jeden deň priznal, že našu krajinu chce navštíviť ešte raz, a to s celou rodinou.",0.4018,0.4738,heatwave,casualties,low_both,no,no,no,Secret New Year wedding of famous band musician,,
+Slovak,Slovakia,topky.sk,scrapai,5284,https://www.topky.sk/cl/11/3121885/Australia-vyhostila-iranskeho-velvyslanca-kvoli-antisemitskym-utokom-na-domacej-pode,Austrália vyhostila iránskeho veľvyslanca kvôli antisemitským útokom na domácej pôde,"Je to prvýkrát od druhej svetovej vojny, čo Austrália vyhostila veľvyslanca, poznamenáva AFP. Spravodajské služby dospeli k „hlboko znepokojujúcemu záveru“, že Irán zrežíroval najmenej dva antisemitské útoky, vyhlásil austrálsky premiér Anthony Albanese.
+
+Premiér na tlačovej konferencii uviedol, že za útokom na kóšer kaviareň Lewis Continental Cafe v sydneyskej štvrti Bondi v októbri 2024 stál Teherán. Irán taktiež v decembri 2024 nariadil podpaľačský útok na synagógu Adass Israel v Melbourne, povedal premiér s odvolaním sa na zistenia spravodajských služieb. Žiadne fyzické zranenia neboli pri týchto dvoch útokoch hlásené.
+
+Austrália pozastavila činnosť veľvyslanectva v Teheráne
+
+„Boli to mimoriadne a nebezpečné akty agresie, zorganizované cudzím štátom na austrálskej pôde,“ uviedol Albanese. „Boli to pokusy o podkopanie sociálnej súdržnosti a zasiatie sváru v našej komunite. Je to absolútne neprijateľné,“ zdôraznil. Premiér uviedol, že za Irán pravdepodobne stojí aj za ďalšími antisemitskými útokmi spáchanými v Austrálii. Austrália vyhlásila iránskeho veľvyslanca Ahmada Sadeghiho za „personu non grata“ a nariadila jemu a ďalším trom predstaviteľom, aby do siedmich dní opustili krajinu.",0.4196,0.4784,extreme event,west nile virus,low_both,no,no,no,Australia expelled Iranian ambassador over antisemitism,,
+Slovak,Slovakia,topky.sk,scrapai,7511,https://www.topky.sk/cl/13/3016149/Bizarny-vyjav-na-ulici--VIDEO-Koza-uplne-ignorovala-gravitaciu--pobehovala-po----Toto-musite-vidiet-,"Bizarný výjav na ulici: VIDEO Koza úplne ignorovala gravitáciu, pobehovala po... Toto musíte vidieť!","Nezvyčajný pohľad sa naskytol okoloidúcemu v brazílskom štáte Ceará, keď si všimol kozu stojacu na elektrických drôtoch niekoľko metrov nad zemou. Zvieratá sú síce známe svojou schopnosťou šplhať sa na najnepravdepodobnejšie miesta, no toto video, ktoré vzniklo v nedeľu, vyrazilo dych takmer všetkým divákom. Koza sa podľa denníka Daily Mail dostala k vedeniu po výstupe na neďaleký stĺp, kde si pravdepodobne chcela pochutnať na kúskoch rastlín zachytených na drôtoch. V zábere ju možno vidieť, ako si občas kontroluje okolie, no následne sa s chuťou vracia k svojmu nečakanému občerstveniu. Aj keď táto scéna pôsobí ako z animovaného filmu, podobný prípad sa nedávno odohral aj v Španielsku.
+
+V ulici Calle Potes neďaleko Madridu museli hasiči zasahovať pri záchrane hnedej kozy, ktorá sa ocitla na úzkej parapete približne 15 metrov nad zemou, vo februári informoval Daily Mail. Zviera sa uvelebilo a odmietalo sa pohnúť, čím si vyslúžilo nielen záujem záchranných zložiek, ale aj celonárodných médií. Záchranári sa ku koze priblížili cez susedný vetrací otvor a ponúkli jej vodu, no zviera ich pokusy o záchranu najskôr ignorovalo. Kľúčový zlom nastal, keď hasiči použili ako návnadu mrkvu. Koza zbystrila pozornosť a pomaly sa začala približovať. „Máme ju,“ zaznelo radostne z kamery jedného z hasičov. Vzápätí sa však napätie opäť vystupňovalo – koza sa rozhodla pre riskantný prechod po úzkej hrane balkóna. Záchranári ju nesmeli vyplašiť a opatrne čakali. „Nechaj ju… Príde sama,“ šepkali si navzájom.",0.4194,0.4623,extreme heat,casualties,low_both,no,no,no,Goat ignores gravity on street - funny video,,
+Slovak,Slovakia,pluska.sk,newsapi,27,https://www1.pluska.sk/spravy/foto-zomrel-byvaly-francuzsky-premier-lionel-jospin-88-jeho-slavne-reformy-trvaju-dodnes,FOTO Zomrel bývalý francúzsky premiér Lionel Jospin (†88): Jeho slávne reformy trvajú dodnes,"Bývalý socialistický premiér Francúzska Lionel Jospin zomrel vo veku 88 rokov, oznámila v pondelok jeho rodina.
+
+Jospin viedol francúzsku vládu v rokoch 1997 - 2002 a počas svojej vlády okrem iného zaviedol 35-hodinový pracovný týždeň. V roku 2002 sa po neúspechu v prezidentských voľbách stiahol z politiky.
+
+Rodina expremiéra uviedla, že zomrel v nedeľu. Príčinu smrti neoznámila. Podľa francúzskej tlačovej agentúry podstúpil v januári ""závažnú operáciu"", Jospin o nej však nepovedal žiadne podrobnosti.
+
+Počas svojej vlády Jospin znížil pracovný čas z 39 hodín na 35 hodín týždenne, rozšíril bezplatnú zdravotnú starostlivosť a zaviedol registrované partnerstvá, ktoré poskytli slobodným párom - homosexuálnym alebo heterosexuálnym - rovnaké práva ako manželským párom.
+
+V roku 2002 sa uchádzal o post prezidenta, no do druhého kola hlasovania postúpila krajne pravicová kandidátka Marine Le Penovová. Jospin sa po zverejnení výsledkov prvého kola prihovoril svojim podporovateľom a prebral zodpovednosť za nečakanú porážku, informuje agentúra Reuters. Zároveň oznámil, že sa sťahuje z politiky, v ktorej pôsobil od roku 1971, keď vstúpil do Socialistickej strany (PS).",0.3944,0.4470,climate crisis,undernourishment,low_both,no,no,no,Former French PM Jospin died - obituary,,
+Slovak,Slovakia,cas.sk,scrapai,282535,https://www.cas.sk/sport/futbal/obavany-zakoncovatel-neapola-prehovoril-spomienky-na-tazke-detstvo,Obávaný zakončovateľ Neapola prehovoril: Spomienky na ťažké detstvo,"Málokto však pozná príbeh 26-ročného hráča talianskeho klubu SSC Neapol. Milik nemal ľahké detstvo a veľa nechýbalo, aby sa jeho život uberal úplne iným smerom.
+
+""Narodil sa v meste Tychy približne 20 kilometrov od Katowíc v južnom Poľsku. Jeho otec opustil rodinu a detstvo tak nemal jednoduché. V šiestich rokoch bol drzý, fajčil cigarety a kradol cukríky z obchodov. Našťastie sa v jeho živote objavil futbalový tréner Slawomir Mogilan, ktorý v ňom videl potenciál,"" píše web sportowefakty.wpl.pl s odvolaním sa na španielske periodikum Asa.
+
+""Zjavil sa a zachránil ma,"" spomína po rokoch Milik na svojho prvého trénera. S futbalom začínal v tíme Rozwój Katowice a už v mladom veku sa oňho zaujímali anglické kluby Tottenham Hotspur či FC Reading. Nakoniec išiel do Górnika Zabrze, kde sa jeho kariéra naplno rozvinula. Trénoval ho tam Adam Nawalka, ktorý ho neskôr viedol aj v poľskej reprezentácii.
+
+Zo Zabrze sa v roku 2013 sťahoval do Bayeru Leverkusen, odkiaľ neskôr putoval do Ajaxu Amsterdam. Práve v Holandsku sa dostal do povedomia veľkoklubov z popredných európskych líg a po vydarených ME 2016 vo Francúzsku odišiel do talianskeho SSC Neapol.",0.3987,0.4623,heatwave,west nile virus,low_both,no,no,no,Napoli striker speaks about memories - football,,
+Slovak,Slovakia,cas.sk,scrapai,134986,https://www.cas.sk/tip-od-vas/vase-horuce-tipy/nepredstavitelny-boj-o-zivot-influencerky-zo-zvolena-kto-zavinil-smrt-natalky-23-desivy-status-na-facebooku,Nepredstaviteľný boj o život influencerky zo Zvolena: Kto zavinil smrť Natálky († 23)?! Desivý status na facebooku,"Do redakcie Nového Času napísal jej otec Miroslav zo Zvolena, ktorý zo smrti Natálie viní jej matku Milotu. Opísal, ako jej mala hovoriť, že ju zabije, a tiež ju mala neustále ponižovať. Matka všetko vyvracia. Faktom však je, že ich spoločná dcéra napísala na svojej sociálnej sieti vyjadrenie, ktoré potvrdzuje slová otca.
+
+Natáliin otec vyhlasuje, že jeho dcéra bola v desiatich rokoch unesená matkou do Českej republiky. „Natálke bolo počas jej pobytu v Českej republike v malom mestečku Jablunkov strašne ubližované jej despotickou matkou a otčimom. Často som kontaktoval aj políciu v Jablunkove, aby išla prešetriť, čo všetko zlé sa tam deje,“ píše otec a pokračuje: „To dieťa tam nemalo žiadnu lásku, pochopenie od svojej vlastnej matky, ktorá bola zodpovedná za Natálkin život, zdravotný stav a výchovu, ktorá jej stále nadávala, aby už konečne zdochla, že ju dá spáliť...“
+
+Matka tieto tvrdenia odmieta a vyhlasuje, že sú to klamstvá. „Naozaj nemám silu sa obhajovať, pretože to je na hodiny rozprávania. Ja prežívam najhoršie obdobie života. Ja som s Natálkou žila v anorexii 14 rokov a všetci sme trpeli,“ uviedla zlomená mama Milota.",0.3850,0.4557,changing climates,malnourishment,low_both,no,yes,no,,Influencer from Zvolen fights for life - health crisis,
+Slovak,Slovakia,cas.sk,scrapai,34700,https://www.cas.sk/tip-od-vas/zaber-na-ktory-sa-pozriete-dvakrat-annamaria-zachytila-neobycajnu-momentku-vidite-to-tiez,Annamária zachytila niečo neobyčajné: Vidíte to tam tiež?,"Záber, na ktorý sa pozriete dvakrát: Annamária zachytila niečo neobyčajné! Vidíte to tam tiež?
+2. 6. 2025, 17:05
+Annamáriina fotografia spustila na sociálnej sieti Facebook horlivú diskusiu. Ľudia si ju začali spájať s ikonickou estetikou albumu Pink Floyd, iným zase pripomenula romantický moment dvoch tvárí.
+Jeden nevinný pohľad hore a vytvorila záber, ktorý rozpútal vášnivú debatu. Slovenka zverejnila vo facebookovej skupine fotografiu, ktorá okamžite zaujala Slovákov. Dôvod? Mnohí v nej vidia niečo viac, než len náhodu.
+Zatiaľ čo jedni hovoria o romantike a nežnosti, ďalší v tom vidia známu estetiku: „Dve tváre sa bozkávajú,“ napísala k záberu jeho autorka Annamária. Iný používateľ zase v komentári napísal, že mu oblaky pripomínajú obal albumu od legendárnych Pink Floyd.
+Nie je to prvýkrát, čo sa zdanlivo bežný moment stal internetovým hitom – niekto v tom vidí symboliku, iný umelecký odkaz, ďalší len zábavnú náhodu. Jedno je však isté – záber má v sebe niečo, čo núti človeka zastaviť sa a pozrieť sa naň dvakrát.",0.4067,0.4519,extreme events,casualties,low_both,no,no,no,Annamária captured something extraordinary - unusual photo,,
+Slovak,Slovakia,cas.sk,scrapai,244683,https://www.cas.sk/sport/futbal/hviezda-olympiakosu-za-mrezami-ohavne-coho-sa-mal-dopustit,"Hviezda Olympiakosu za mrežami: Ohavné, čoho sa mal dopustiť","Dvadsaťsedemročného hráča Olympiakosu Pireus zatkla polície v nedeľu na základe oznámenia 17-ročnej ženy, že v dome futbalistu neďaleko Atén ju Semedo napadol.
+
+Podľa polície je v súvislosti s prípadom potrebný výsluch jedného svedka. Futbalistov právnik Stavros Georgopoulos informoval, že Semedo akékoľvek obvinenia popiera. Obranca v tejto sezóne odohral zatiaľ za Olympiakos štyri stretnutia v pohárovej Európe, v dueloch play-off Európskej ligy proti Slovanu Bratislava však absentoval.
+
+""Môj klient pán Semedo kategoricky odmieta obvinenia. Máme silné dôkazy, ktoré dokumentujú, že skutok sa nestal a taká je naša verzia,"" uviedol spomenutý právnik. Futbalista sa pred sudcu postavil hneď v pondelok a dostal 24 hodín na prípravu obhajoby.
+
+Rúben Semedo prestúpil do Olympiakosu Pireus v lete 2019 zo španielskeho Villarrealu. Za národný tím Portugalska absolvoval tri stretnutia.",0.4230,0.4864,extreme event,west nile virus,low_both,no,no,no,Olympiakos star behind bars - sports crime,,
+Slovak,Slovakia,topky.sk,scrapai,13658,https://www.topky.sk/cl/11/2676061/Na-stretnuti-s-Orbanom-nebudu-ziadne-rozhovory-o-NATO--povedal-Kristersson,"Na stretnutí s Orbánom nebudú žiadne rozhovory o NATO, povedal Kristersson","""Čím rýchlejšie Maďarsko prijme rozhodnutie o ratifikácii, tým rýchlejšie sa budeme môcť rozprávať o veciach, o ktorých sa dá diskutovať, len ak bude členom NATO aj Švédsko. Otázka stíhačiek Gripen je dôležitou témou, dlhoročnou spoluprácou, ktorá sa môže ďalej rozvíjať, ak sa aj Švédsko pripojí k NATO,"" povedal švédsky premiér.
+
+archívne video
+
+Spolupráca V4 bola úmyselne znefunkčnená, je to tragédia, hovorí Fico (Zdroj: TASR/Ladislav Vallach)
+
+Turecko v januári ratifikovalo vstup Švédska do NATO
+
+Turecko v januári ratifikovalo vstup Švédska do NATO, takže Maďarsko zostalo poslednou členskou krajinou, ktorá sa v tejto otázke ešte nerozhodla, pripomenul server. Orbán následne generálnemu tajomníkovi NATO Jensovi Stoltenbergovi povedal, že vyzve parlament, aby pri prvej príležitosti vstup Švédska ratifikoval.
+
+Maďarský ministerský predseda pred rozhodnutím Turkov pozval švédskeho premiéra do Budapešti. Ten však po odmietavých vyjadreniach predsedu parlamentu Lászlóa Kövéra v otázke vstupu Švédska do NATO povedal, že aj keď sa stretne s Orbánom, vstup Švédska do NATO by nemal byť témou. ""Nemáme o čom diskutovať. Sme pripravení na NATO,"" odkázal Kristersson. Povedal, že sú iné témy, o ktorých môžu Maďarsko a Švédsko hovoriť. Nepovedal však, či navštívi Budapešť pred ratifikáciou maďarským parlamentom alebo až po nej.
+
+Orbán dal prednosť spoločnému postupu, netreba v tom hľadať záhady
+
+Za zmenou postoja Maďarska v otázke revízie viacročného finančného rámca EÚ na štvrtkovom stretnutí lídrov členských štátov v Bruseli netreba podľa českého premiéra hľadať záhady. Ukazuje sa, že v kľúčových veciach sa EÚ dokáže dohodnúť, čo navonok vysiela silný signál, vyhlásil Petr Fiala po skončení summitu, informuje spravodajkyňa.
+
+Petr Fiala (Zdroj: SITA/AP Photo/Virginia Mayo, File)
+
+""Diplomaticky by som to formuloval tak, že nie je príjemné byť sám, a to si každý postupne uvedomí. Nehľadajme za všetkým zákulisné dohody a nejaké záhady. Všetko má nejaký vývoj... Viktor Orbán dal nakoniec prednosť – a je to dobre - spoločnému postupu a dohode než nejakej osamelej ceste,"" komentoval zmenu postoja Maďarska Fiala.
+
+Podľa jeho slov sa mnoho lídrov rôznym spôsobom snažilo o dosiahnutie dohody so všetkými 27 členskými štátmi. Tento proces prebiehal od decembra a štvrtková dohoda nie je výsledkom dvoch či troch rokovaní, ale celého procesu, priblížil zákulisie rokovaní Fiala.
+
+Zhodu označil sa dobrú správu pre ČR, EÚ aj Ukrajinu
+
+""Je to dôležité v tom, že v kľúčových veciach sa dokážeme dohodnúť. Dokážeme sa naďalej zhodnúť na podpore Ukrajiny, na garantovaní finančnej pomoci pre Ukrajinu. To je signál, ktorý EÚ vysiela navonok a je to veľmi silný signál,"" myslí si český premiér. Ocenil, že revízia je úsporná a zacielená na konkrétne oblasti.
+
+Okrem tejto témy lídri EÚ podľa jeho slov diskutovali aj o spôsobe, akým by bola EÚ schopná v budúcnosti zaisťovať vojenskú pomoc Ukrajine, o situácii na Blízkom východe či o demonštráciách farmárov, ktoré sa konali vo štvrtok pria...",0.4268,0.4639,climate crisis,west nile virus,low_both,no,no,no,NATO talks with Orbán meeting - politics,,
+Slovak,Slovakia,cas.sk,scrapai,145801,https://www.cas.sk/spravy/zahranicne-spravy/nasledky-ponesie-cela-eu-odpoved-na-vyhostenie-ruskych-diplomatov-nezostane-bez-povsimnutia,Následky ponesie celá EÚ: Odpoveď na vyhostenie ruských diplomatov nezostane bez povšimnutia,"V pondelok to uviedla hovorkyňa ruského ministerstva zahraničných vecí Marija Zacharovová, informuje TASR podľa správy agentúry AFP. ""Spolitizované rozhodnutie Sofie neodôvodnene znížiť počet našich diplomatických zamestnancov v Bulharsku nezostane bez odozvy na bilaterálnej úrovni,"" povedala Zacharovová.
+
+Vyhostenie podľa nej ""presahuje rámec diplomatických praktík"". Bulharsko i EÚ vyzvala aby uvažovali ""o zásade reciprocity, ktorá je základom diplomatických vzťahov"". ""EÚ by mala rozumieť, že nerozvážna podpora protiruských krokov jednotlivými členskými štátmi kladie zodpovednosť za ich dôsledky pre celú EÚ,"" dodala.
+
+Ruská veľvyslankyňa v Bulharsku Eleonora Mitrofanovová v piatok avizovala, že požiada svoju vládu o úplné zatvorenie ambasády v Sofii a teda ukončenie diplomatických vzťahov. EÚ vyjadrila poľutovanie nad takouto neopodstatnenou hrozbou Ruska a označila ju za neprimeranú.
+
+Dosluhujúci premiér Kiril Petkov povedal, že príslušné bulharské inštitúcie vyhostených diplomatov identifikovali ako ľudí, ktorí pracovali proti záujmom Bulharska. Viacero európskych krajín vyhostilo ruských diplomatov po útoku Ruska na Ukrajinu 24. februára. Moskva na tieto kroky odpovedá rovnakým spôsobom. Sofia v marci vyhostila desiatich ruských diplomatov, pripomína AFP.
+
+Bulharsko je členským štátom EÚ a NATO, v minulosti bolo spojencom Sovietskeho zväzu. S Ruskom ho dodnes spájajú úzke kultúrne, historické a ekonomické väzby. Vzájomné vzťahy však od roku 2019 naštrbili špionážne škandály. Obe krajiny si odvtedy vzájomne vyhostili dve desiatky diplomatov a technických zamestnancov.",0.4070,0.4818,climate crisis,west nile virus,low_both,no,no,no,Consequences of expelling Russian diplomats for entire EU,,
+Slovak,Slovakia,cas.sk,scrapai,94747,https://www.cas.sk/prominenti/prominenti-zahranicni/babis-ma-byt-zamilovany-ako-tinedzer-opustil-zenu-kvoli-tejto-krasnej-mladej-rysavke,Babiš má byť zamilovaný ako tínedžer! Opustil ženu kvôli TEJTO krásnej mladej ryšavke?,"Andrej Babiš odlúčenie od manželky všetkým zdelil na Instagrame. 19. apríla zverejnil fotku zo svadby, na ktorej si s manželkou vymieňajú obrúčky. ""Po tridsiatich spoločných rokoch plných vzostupov, pádov a nezabudnuteľných zážitkov sme sa s Monikou rozhodli, že naše cesty sa teraz rozchádzajú. Ako rodičia dvoch úžasných dospelých detí si najviac želáme zachovať rodinnú harmóniu,"" uviedol politik, s tým, že ich vzájomná láska a úcta k sebe a k ich deťom zostáva rovnaká.
+
+Politikovi mala hlavu zamotať krásna, iba 30-ročná ryšavka Aneta Zicklerová z PR tímu hnutia ANO, ktoré Babiš založil. Stojí práve ona za krachom jeho manželstva s Monikou? ""Je až po uši zamilovaný do nového dievčaťa. Je mladá, je s ňou už od leta a je taký nadšený, že sa už ani neskrýva,"" napísal portál extra.cz s tým, že túto informáciu dostal od zdroja už vlani v decembri, no nemal ju ako overiť. Pravda však je, že Babišovci minulé leto neboli spolu ani na dovolenke.
+
+Monika Babišová sa podľa zdroja mala odsťahovať od politika už v lete. ""Andrej sa tou novou vo svojom najužšom kruhu naozaj vôbec netají. A rovno vám môžem povedať, že sa chová ako teenager,"" prekvapil ďalší zdroj blízky Babišovi. On sám zatiaľ nový vzťah oficiálne nepotvrdil.",0.3946,0.4662,climate crisis,casualties,low_both,no,no,no,Babiš reportedly in love like teenager - politics/gossip,,
+Slovak,Slovakia,cas.sk,scrapai,104618,https://www.cas.sk/spravy/domace-spravy/zrazka-s-autom-sa-stala-cyklistovi-osudnou-co-sa-vsak-dialo-v-momentoch-pred-nehodou,Zrážka s autom sa stala cyklistovi osudnou: Čo sa však dialo v momentoch pred nehodou?,"Zrážka s autom sa stala cyklistovi osudnou: Čo sa však dialo v momentoch pred nehodou?
+18. 8. 2024, 9:14
+Cyklista neprežil zrážku s osobným autom. Nehodu, ktorá sa stala v sobotu (17.8.) krátko pred 19.00 h v Košiciach, vyšetruje polícia. Informovala o tom krajská policajná hovorkyňa z Košíc Lenka Ivanová.
+Z doterajších zistení vyplýva, že vodič, ktorý viedol osobné motorové vozidlo po ceste Ku hájovni v smere od mestskej časti Myslava na Girbeš, približne 360 metrov od telekomunikačného vysielača prešiel do ľavej časti vozovky, kde sa zrazil s protiidúcim cyklistom.
+Šofér podľa hovorkyne pravdepodobne porušil pri jazde povinnosť jazdiť vpravo. Cyklistu po zrážke previezli do nemocnice, tam však zraneniam podľahol. Počas dokumentovania dopravnej nehody vodiča vozidla podrobili dychovej skúške, tá prítomnosť alkoholu v jeho dychu nepotvrdila.
+""Vzhľadom na rozsah zranení sa cyklista dychovej skúške na mieste dopravnej nehody nepodrobil, a v nemocnici mu bol odobratý biologický materiál,"" dodala Ivanová. Čo presne sa na mieste tragickej zrážky stalo a presná miera zavinenia účastníkov dopravnej nehody je predmetom ďalšieho vyšetrovania. Zároveň bolo v tejto súvislosti začaté trestné stíhanie pre trestný čin usmrtenia.
+Autor: TASR",0.4253,0.4844,heatwave,casualties,low_both,no,yes,no,,Cyclist killed in car collision - fatal accident,
+Slovak,Slovakia,cas.sk,scrapai,143988,https://www.cas.sk/spravy/domace-spravy/exsefka-financnej-spravy-ma-hlavu-v-smutku-sud-ju-nesetril-prve-slova-po-vypocuti-rozsudku,Exšéfka finančnej správy má hlavu v smútku: Súd ju nešetril! Prvé slová po vypočutí rozsudku,"Stalo sa tak v rámci schválenia dohody o vine a trestne medzi prokurátorom Úradu špeciálnej prokuratúry a obvinenou z trestného činu prijímania úplatku. Wittenbergerová má tiež zaplatiť peňažný trest 50-tisíc eur. Ak by tak neurobila, súd určil náhradný trest vo výmere 18 mesiacov väzenia. Sudca takisto uložil exprezidentke finančnej správy zákaz vykonávania funkcie v orgánoch verejnej moci na dobu piatich rokov.
+
+Dnešné rozhodnutie súd je právoplatné, keďže súčasťou dohody je záväzok sa voči nemu neodvolať. „Je mi ľúto, že sa tento skutok stal,"" uviedla Wittenbergerová. Dodala, že za skutok plne prijíma zodpovednosť.
+
+Lenku Wittenbergerovú obvinili orgány činné v trestnom konaní v roku 2021 rámci akcie Mýtnik III. Podľa vyšetrovateľa prijala v roku 2018 sumu 50-tisíc eur od podnikateľa Michala S. za pomoc pri zavádzaní IT systému Alladin na finančnej správe. Podnikateľ o tom vypovedal, keďže od svojho obvinenia spolupracuje s orgánmi činnými v trestnom konaní.
+
+V rámci akcie Mýtnik III obvinila polícia minulý rok pre korupciu spolu osem osôb. Dve osoby konkrétne obvinili pre podplácanie a šesť pre prijímanie úplatku. Medzi obvinenými bol aj podnikateľ Miroslav V. alebo bývalý štátny tajomník rezortu financií Radko K.",0.4059,0.4868,carbon dioxide,undernourishment,low_both,no,no,no,Former head of financial administration faces court,,
+Slovak,Slovakia,cas.sk,scrapai,79873,https://www.cas.sk/prominenti/prominenti-domaci/narocne-obdobie-petry-vajdovej-alkohol-rozvod-a-vychova-syna-bez-partnera-teraz-ju-okolie-nespoznava,"Náročné obdobie Petry Vajdovej: Alkohol, rozvod a výchova syna bez partnera! Teraz ju okolie nespoznáva","A doma nie je len na javisku a pred kamerami, ale aj v dabingu. Petra však nemala v živote na ružiach ustlané. Najprv sa musela dostať z náročného obdobia, keď holdovala alkoholu, potom prišiel ťažký rozvod a na syna Martina (4) zostala sama. Čo vo svojom živote prežíva aktuálne?
+
+Pôsobí utrápene a strhane, pretože život sa s ňou nemaznal a posledné roky to s ňou bolo ako na hojdačke. Fotograf Nového Času Vajdovú zachytil pred jej bytom v Dunajskej Lužnej, ktorý si kúpila sama ešte v roku 2020. V byte žije so svojím malým synom. A podľa našich informácií ju často navštevujú rodičia, ktorí bývajú neďaleko. Práve otec s mamou majú Petre pomáhať so starostlivosťou o malého Martina.
+
+Nápomocní jej majú byť najmä vo večerných hodinách, keď Vajdová chlapčeka na nejaký čas opúšťa a uteká zarábať peniaze do divadla. Napriek tomu, že umelkyňa pôsobí na fotografiách unavene, do jej vnútra, podľa jej slov, po dlhom ťažkom životnom období zavítal pokoj. Pred pár dňami v rozhovore pre televíziu JOJ prezradila: „Ja mám teraz momentálne také ukotvené obdobie. Racionálne... A to je asi prvýkrát v živote. Ono sa to stalo v tridsiatich ôsmich rokoch. A stále som to ja.""",0.4042,0.4745,rising temperatures,casualties,low_both,no,no,no,"Actress Vajdová's difficult period: alcohol, divorce",,
+Slovak,Slovakia,cas.sk,scrapai,271006,https://www.cas.sk/spravy/domace-spravy/peter-ziga-schodzu-nrsr-otvorili-legitimne-nevidim-dovod-preco-by-sa-nemalo-rokovat,"Peter Žiga: Schôdzu NRSR otvorili legitímne, nevidím dôvod, prečo by sa nemalo rokovať","Uviedol to po stredajšom rokovaní vlády.
+
+""Schôdza bola legitímne otvorená, viac ako 76 poslancov schválilo program schôdze, nevidím dôvod, prečo by sa nemalo rokovať,"" uviedol Žiga. ""To, čo sa v súčasnosti deje, sa nikdy v parlamente neodohrávalo a trochu to vnímam ako nebezpečné precedensy pre fungovanie zákonodarného zboru v ďalšom období,"" upozornil.
+
+Pripomenul, že každý z poslancov, ktorý sa na rokovaní zúčastní, môže v diskusii a následnom hlasovaní vyjadriť svoj názor k prerokovávaným bodom.
+
+Predseda NR SR Andrej Danko (SNS) prerušil v stredu druhýkrát mimoriadnu schôdzu parlamentu. Dôvodom je pokračovanie obštrukcie zo strany niektorých nezaradených poslancov, ktorí blokujú rokovanie. Obsadili rečnícky pult a odmietajú ho opustiť. Naopak, požadujú, aby o zákonnosti schôdze a jej zvolania rozhodol Ústavný súd SR.
+
+Poslanci majú na schôdzi prerokovať tri vládne návrhy zákonov v skrátenom režime, ktorými sa má zvýšiť prídavok na dieťa, zaviesť 13. dôchodok a zrušiť zákon o diaľničnej známke. Rovnako sa majú zaoberať aj Istanbulským dohovorom.",0.4199,0.4727,temperature rises,undernourishment,low_both,no,no,no,Peter Žiga: Parliament session opened legitimately,,
+Slovak,Slovakia,cas.sk,scrapai,450254,https://www.cas.sk/tip-od-vas/slovensko/partia-zo-zvolena-ohurila-stacilo-im-na-to-par-sekund-slovenske-video-to-moze-natriet-celemu-svetu,"Partia zo Zvolena ohúrila, stačilo im na to pár sekúnd: Slovenské VIDEO to môže natrieť celému svetu!","Partia zo Zvolena ohúrila, stačilo im na to pár sekúnd: Slovenské VIDEO to môže natrieť celému svetu!
+18. 6. 2014, 12:00 (aktualizované: 30. 4. 2021, 15:47)
+Chcú letieť do Afriky a robia pre to všetko! Štvorica rodákov zo Zvolena už prvý krok urobila, k vytúženému cieľu však majú stále ďaleko.
+Letecká spoločnosť South African Airways na oslavu 20. výročia oslobodenia Juhoafrickej republiky vyhlásila súťaž o štyri spiatočné letenky do tejto exotickej krajiny. Podmienkou bolo nakrútiť krátke video na tému, čo pre súťažiacich znamená sloboda. Slováci sa chytili šance a týždeň (vyhodnotenie 27. júna) pred ukončením internetového hlasovania sú na priebežnom prvom mieste!
+Chcete podporiť jediný slovenský tím v súťaži? Klikajte na www.trevolta.com/DiversePeopleUnite/thewandererssvk a dajte hlas sympatickým Zvolenčanom!
+Hlavným iniciátorom bol Michal Žihlavník (26), ktorý nielenže s nápadom prišiel, ale aj video postrihal. Ako prezradila ďalšia z partie Soňa Čermáková (20), zábery dávali dokopy dva dni, samotný strih už Michal ""zmákol"" za 24 hodín. ""Všetci sme ľudia aktívni a dobrodružstva chtiví,"" opísala partiu jediná baba medzi troma tŕňmi. Štvorčlenný tím ešte dopĺňajú Matej Nemky (29) a Peter Žuffa (25).
+""V hre je viac ako 500 tímov z celého sveta, my sme zatiaľ na prvej pozícii,"" hovorí Michal. ""Súťaž však ešte nekončí, hlasuje sa až do 25. júna,"" naráža na možnosť, že ešte stále nemajú nič isté. Na krk im dýcha hlavne americký tím, ktorý zaostáva o približne 500 ""lajkov"".
+Absolvovali ste zaujímavú, dobrodružnú expedíciu v exotickej krajine? Podeľte sa so svojimi zážitkami a napíšte nám na [email protected]
+Autor: © Nový Čas",0.4584,0.5114,heatwave,west nile virus,borderline,no,no,no,Group from Zvolen amazed in seconds - viral video,,
+Slovak,Slovakia,cas.sk,scrapai,278655,https://www.cas.sk/spravy/zahranicne-spravy/prisne-opatrenia-este-pritvrdili-v-celom-taliansku-zatvorili-vsetky-parky-a-ihriska,Prísne opatrenia ešte pritvrdili: V celom Taliansku zatvorili všetky parky a ihriská,"Ako informuje agentúra DPA, ministerstvo zdravotníctva nariadilo zatvorenie všetkých parkov a ihrísk a zakázalo vonkajšie voľnočasové aktivity. Individuálne fyzické cvičenie je stále povolené, ale v blízkosti domova. Zatvorené sú aj bary a reštaurácie na železničných a čerpacích staniciach. Ministerstvo tiež zakázalo obyvateľom presúvať sa do ich víkendových domov.
+
+""Musíme urobiť ešte viac, aby sme obmedzili šírenie nákazy. Kľúčom je účinné obmedzenie spoločenského života,"" povedal minister zdravotníctva Roberto Speranza.
+
+V Taliansku podľahlo nákaze spôsobenej novým koronavírusom ďalších 627 ľudí, čo je zatiaľ najviac za jeden deň. Celkový počet obetí v Taliansku sa vyšplhal na 4032. Počet nakazených stúpol na 47.021.
+
+Vo štvrtok Taliansko informovalo o ďalších 427 obetiach a celkovo o 3405 obetiach, čím prekonalo počet mŕtvych v Číne. V Číne, ktorá zaregistrovala prvý prípad koncom minulého roka, oficiálne podľahlo nákaze 3245 ľudí.",0.4760,0.5308,rising temperatures,malnourishment,borderline,no,yes,no,,"Italy tightened strict measures, closed all parks and playgrounds - COVID",
+Slovak,Slovakia,cas.sk,scrapai,22672,https://www.cas.sk/spravy/domace-spravy/ziadna-zmena-sa-nekona-vyucba-na-univerzite-konstantina-filozofa-bude-pokracovat-distancnou-formou,Žiadna zmena sa nekoná: Výučba na Univerzite Konštantína Filozofa bude pokračovať dištančnou formou,"Výučba bude pokračovať dištančnou formou, informovalo vedenie univerzity.
+
+Výnimky stanovuje dekan fakulty v nadväznosti na podmienky a možnosti príslušného študijného programu. ""Dekan stanoví spôsob a režim vzdelávania a zodpovedá za rešpektovanie platných epidemiologických opatrení. Toto opatrenie sa týka aj praktickej výučby vrátane praxí v zmluvných zariadeniach,"" potvrdila univerzita.
+
+Študentské domovy a univerzitná knižnica budú poskytovať služby v obmedzenom režime, ktorý určí príslušný riaditeľ podľa aktuálnej epidemiologickej situácie. Univerzitná jedáleň bude zabezpečovať stravovanie zamestnancov a študentov výdajom jedál vo výdajniach stravy formou balíčkov, bez možnosti konzumácie na mieste. V prípade zlepšenia epidemiologickej situácie a uvoľnenia záväzných opatrení univerzita umožní vzdelávanie v prezenčnom režime.",0.4442,0.5086,extreme event,undernourishment,borderline,no,no,no,No change at Konstantin University - education,,
+Slovak,Slovakia,cas.sk,scrapai,72409,https://www.cas.sk/spravy/zahranicne-spravy/stane-sa-to-uz-v-priebehu-nadchadzajucich-dni-ide-o-ukrajinu-co-sa-chysta,Stane sa to už v priebehu nadchádzajúcich dní: Ide o Ukrajinu! Čo sa chystá?,"Stane sa to už v priebehu nadchádzajúcich dní: Ide o Ukrajinu! Čo sa chystá?
+7. 4. 2025, 13:48
+Ukrajina počas nadchádzajúcich dní vyšle svojich predstaviteľov do Washingtonu na ďalšie rokovania o strategickej dohode o nerastných surovinách, ktorá má zabezpečiť výraznú prítomnosť amerických podnikov na Ukrajine a pomôcť jej bezpečnostnej infraštruktúre. Uviedla to v pondelok ukrajinská ministerka hospodárstva Julija Svyrydenková. TASR informuje podľa správy agentúry AFP.
+Ukrajina a USA minulý mesiac plánovali podpísať dohodu o strategických surovinách, zmarila ju však roztržka medzi ukrajinským prezidentom Volodymyrom Zelenským a americkým prezidentom Donaldom Trumpom, pripomína AFP.
+Trump chce dohodu, ktorá by Washingtonu poskytla licenčné poplatky zo ziskov z ukrajinskej ťažby surovín a vzácnych nerastov ako kompenzáciu za vojenskú a finančnú pomoc, ktorú Ukrajine v boji proti ruskej invázii poslal jeho predchodca Joe Biden.
+Dohoda by podľa Kyjeva mala obsahovať silné bezpečnostné záruky, ktoré by pôsobili ako odstrašujúci prostriedok voči ďalším ruským útokom. Rozhovory budú podľa Svyrydenkovej brať ohľad na strategické záujmy oboch štátov a ich „spoločný záväzok vybudovať silné a transparentné partnerstvo“, cituje ju AFP.
+Autor: TASR",0.4463,0.5323,climate crises,west nile virus,borderline,no,no,no,Coming in the next days regarding Ukraine,,
+Slovak,Slovakia,cas.sk,scrapai,12256,https://www.cas.sk/spravy/zahranicne-spravy/madarsko-odhalilo-detaily-o-umrtiach-suvisiacich-s-covid-19-dolezite-slova,Maďarsko odhalilo detaily o úmrtiach súvisiacich s COVID-19: Dôležité slová,"Po zasadaní operačného štábu v Budapešti to v stredu uviedla šéfka Úradu štátnej zdravotnej služby (ÁNTSZ) Cecília Müllerová.
+
+Podľa agentúry MTI povedala, že najviac úmrtí evidujú v období medzi 13. a 19. aprílom, keď zomrelo 90 ľudí. Müllerová poznamenala, že počet obetí stúpa, pričom ale priemerný vek zosnulých mierne klesá. Od začiatku pandémie bol priemerný vek obetí 76,4 roka, v 40. kalendárnom týždni už ale táto hodnota klesla na 72,6.
+
+V utorok zomrela 21-ročná žena, ktorá síce mala pozitívny test na koronavírus, ale podľa lekárov príčinou jej smrti bolo iné ochorenie s tragickým priebehom, zdôraznila šéfka ÁNTSZ.
+
+V Maďarsku v stredu za uplynulých 24 hodín pribudlo rekordných 24 prípadov úmrtí spájaných s nákazou novým druhom koronavírusu. Testy potvrdili infekciu 816 ľuďom, čím celkový počet nakazených vírusom SARS-CoV-2 v krajine dosiahol už 33 114.",0.4081,0.5145,rising temperature,deaths,borderline,no,yes,no,,Hungary reveals details about COVID-related deaths,
+Slovak,Slovakia,cas.sk,scrapai,47293,https://www.cas.sk/kvizy/ako-dobre-poznate-pamelu-anderson-otestujte-svoje-vedomosti,Ako dobre poznáte Pamelu Anderson? Otestujte svoje vedomosti!,"Ikonická herečka, aktivistka a podnikateľka. Viete o nej viac, ako si myslíte? Zistite to v našom kvíze!
+
+Správne odpovede sa zobrazia po kliknutí na tlačítko ""Vyhodnotiť kvíz"" na konci kvízu.
+
+Otázka č.1
+
+1 / 5 - Kedy sa narodila?
+
+1 / 5 - Kedy sa narodila? 19721972
+
+1 / 5 - Kedy sa narodila? 19651965
+
+1 / 5 - Kedy sa narodila? 19701970
+
+1 / 5 - Kedy sa narodila? 19671967
+
+Otázka č.2
+
+2 / 5 - Viete, aký televízny seriál jej priniesol najväčšiu slávu?
+
+2 / 5 - Viete, aký televízny seriál jej priniesol najväčšiu slávu? Krok za krokom (Step by Step)Krok za krokom (Step by Step)
+
+2 / 5 - Viete, aký televízny seriál jej priniesol najväčšiu slávu? Ženatý so záväzkami (Married... with Children)Ženatý so záväzkami (Married... with Children)
+
+2 / 5 - Viete, aký televízny seriál jej priniesol najväčšiu slávu? Pobrežná hliadka (Baywatch)Pobrežná hliadka (Baywatch)
+
+2 / 5 - Viete, aký televízny seriál jej priniesol najväčšiu slávu? Melrose PlaceMelrose Place
+
+Otázka č.3
+
+3 / 5 - Za ktorého rockového hudobníka bola vydatá?
+
+3 / 5 - Za ktorého rockového hudobníka bola vydatá? Tommy LeeTommy Lee
+
+3 / 5 - Za ktorého rockového hudobníka bola vydatá? Jon Bon JoviJon Bon Jovi
+
+3 / 5 - Za ktorého rockového hudobníka bola vydatá? Bret MichaelsBret Michaels
+
+3 / 5 - Za ktorého rockového hudobníka bola vydatá? Axl RoseAxl Rose
+
+Otázka č.4
+
+4 / 5 - Viete, ktorej organizácii bojujúcej za práva zvierat je veľkou podporovateľkou?
+
+4 / 5 - Viete, ktorej organizácii bojujúcej za práva zvierat je veľkou podporovateľkou? PETAPETA
+
+4 / 5 - Viete, ktorej organizácii bojujúcej za práva zvierat je veľkou podporovateľkou? WWFWWF
+
+4 / 5 - Viete, ktorej organizácii bojujúcej za práva zvierat je veľkou podporovateľkou? Sierra ClubSierra Club
+
+4 / 5 - Viete, ktorej organizácii bojujúcej za práva zvierat je veľkou podporovateľkou? GreenpeaceGreenpeace
+
+Otázka č.5
+
+5 / 5 - Aké občianstvo má Pamela Anderson?
+
+5 / 5 - Aké občianstvo má Pamela Anderson? BritskéBritské
+
+5 / 5 - Aké občianstvo má Pamela Anderson? Kanadské a AmerickéKanadské a Americké
+
+5 / 5 - Aké občianstvo má Pamela Anderson? AustrálskeAustrálske
+
+5 / 5 - Aké občianstvo má Pamela Anderson? FrancúzskeFrancúzske
+
+Výsledok je pripravený!",0.4804,0.5242,heatwave,undernourishment,borderline,no,no,no,How well do you know Pamela Anderson? Quiz,,
+Slovak,Slovakia,cas.sk,scrapai,604294,https://www.cas.sk/video-dna/na-pohodlnom-kresle-az-do-prace,Na pohodlnom kresle až do práce!,"Na pohodlnom kresle až do práce!28. 5. 2009, 0:00 (aktualizované: 25. 5. 2020, 14:15)Zdroj: Break.comReklamaLogo Nový ČasLogo Nový ČasRedakcia Nový ČasAutor: © Nový ČasZdieľaťDiskusia (0)Krátke videáLukáš Hrošovský o schválenej liečbe ministerstvom zdravotníctvaPolícia zadržala humanoidného robota! Čoho sa dopustil?Na Oscaroch hrkali kosti: Nicole Kidman a Demi Moore sú chudé ako paličkyNová kapitola slovensko-českej spolupráce: Raši a Okamura sa stretli na symbolickom miesteZlaté pisoáre na Úrade vlády? Holečková kritizuje sumu: Gedra ju pozýva na návštevuLaura z Ruže pre nevestu: Vojna s Kollárom! Boris, spamätaj sa! Toto som si nezaslúžilaSúperka ju dostala: Shiffrinová po pretekoch neudržala slzyArtur Štaidl spomína na mamu Ivetu Bartošovú: Takto mu v súkromí pripravovala oslavy narodenín",0.4865,0.5275,heatwave,casualties,borderline,no,no,no,Comfortable chair to work - office furniture,,
+Slovak,Slovakia,cas.sk,scrapai,173724,https://www.cas.sk/spravy/toto-su-naj-auta-do-tazkeho-terenu-pozrite-si-atraktivne-kusy-ktore-su-dostupne-aj-u-nas,"Toto sú naj autá do ťažkého terénu: Pozrite si atraktívne kusy, ktoré sú dostupné aj u nás","Na trhu existujú desiatky SUV alebo pravoverných off-roadov a každé ponúka zaujímavý mix vlastností. Ak hľadáte vozidlo do náročného terénu, oceníte dostatočnú svetlú výšku, nižšiu hmotnosť a najmä poriadnu porciu krútiaceho momentu, dostupnú od čo najnižšieho spektra otáčok. Prinášame vám niekoľko atraktívnych kusov, dostupných na Slovensku.
+
+ČÍTAJTE VIAC: Ako mali vyzerať Škodovky v podaní najslávnejších talianskych štúdií?
+
+Pick-up s vypínateľným pohonom 4x4
+
+Ford Ranger 2.0 EcoBlue biturbo s desaťstupňovou automatickou prevodovkou, ktorú vyvíjali v spolupráci s GM radí plynulo a výkon distribuuje efektívne a jazda na rozbahnenom stavenisku s hlbokými koľajami plnými vody dostáva nové rozmery. Ford na takomto povrchu exceluje vďaka svetlej výške a motoru.
+
+Ak máte zapnuté všetky asistenčné prvky, prejdete náročný terén s prehľadom, lenže bude to sterilné. Ak skúsite rozmočenú zem prekonať len so zapnutým pohonom zadných kolies s predstavou, že si poľahky zadriftujete, stačí ak deaktivujete kontrolu trakcie. Pneumatiky sa pretočia na mieste a keď zaberú, vyhádžu kilá trávy a bahna a auto poletí bokom. Jazda s vyše dvojtonovým autom s výkonom 213 koní a 500 Nm, patrí medzi najlepšie zážitky, aké sme za volantom za dlhú dobu zažili.
+
+Mestské SUV má dostatok výkonu, aby prešlo aj náročné prekážky
+
+Mazda CX-30 s výkonom 180 koní a 224 Nm má dobrú dynamiku, ktorú si vychutnáte najmä na náročnejších úsekoch, kde sa často striedajú zákruty a rovinky a občas ich spestrí aj prevýšenie. Podvozok a 18“ pneumatiky navyše zaručia dobrú stabilitu na nekvalitnom povrchu, takže obavy z ľahšieho terénu môžete hodiť za hlavu a smelo ju vezmite na rozbahnenú poľnú cestu či strmé stúpanie do kopca.
+
+My sme CX-30 prehnali aj hlbokou vodou, ktorá sa držala na poľnej ceste a vozidlo nezaváhalo ani keď sme v strede zastavili, aby sa trochu prepadlo. Spojka CX-30 „podržala“ pri rozjazde, aby sa o ňu mohla trocha oprieť a spod pneumatík vyletela spŕška vody a bahna. Ani rýchly prejazd nenarobil Mazde problémy. Pri nájazdovej rýchlosti takmer 40 km/h predná náprava klesla, keď sa prepadla do koľají, no smer si udržal aj pri plnom plyne, keď už bol ponorený aj zadok a kolesá sa pretáčali pod náporom výkonu.
+
+Kompaktné auto so skvelými jazdnými vlastnosťami
+
+Suzuki Vitara 1,4 BoosterJet je mild-hybrid so skvelým pohonom 4×4 .Tento model sa aj preto na slovenskom trhu teší mimoriadnej obľube. Napokon, má všetko, čo potrebujete a cena plno vybavenej verzie s pohon 4×4 sa končí tam, kde iné SUV len začínajú. Navyše, ak Vitaru postavíte proti sebe v teréne s Audi Q3 alebo so Škodou Karoq, budete milo prekvapení. V priestrannom interiéri kompaktného SUV navyše nič nechýba a disponuje armádou asistenčných systémov.
+
+Základným údajom pri jazde s Vitarou s pohonom všetkých kolies je jej pohotovostná hmotnosť – necelých 1,3 tony, čo sľubuje obratnosť v teréne aj v meste a je to naozaj tak. Vozidlo s výkonom 129 koní a maximálnym krútiacim momentom 235 Nm vás vytiahne z akejkoľvek š...",0.4876,0.5044,extreme heat,west nile virus,borderline,no,no,no,Best off-road cars - automotive,,
+Slovak,Slovakia,topky.sk,scrapai,2139,https://www.topky.sk/cl/10/9308639/Majersky-kritizuje-novelu-rokovacieho-poriadku--Pekne-obleky-slusnost-neurobia--tvrdi,"Majerský kritizuje novelu rokovacieho poriadku: Pekné obleky slušnosť neurobia, tvrdí","„Takéto direktívy boli možno známe v totalitných režimoch a v žiadnom prípade tento návrh neurobí parlament slušnejším,“ skonštatoval Majerský. Kresťanských demokratov mrzí, že i keď zo začiatku koalícia o zmenách rokovacieho poriadku rokovala s opozíciou, no ich pripomienky nezapracovala a nedospeli k prieniku pri finálnej verzii. Skritizovali tiež to, že návrh sa rieši v úvode schôdze. Treba sa podľa nich venovať dôležitejším oblastiam.
+
+archívne video
+
+46. schôdza Národnej rady SR (Zdroj: Topky/ Vlado Anjel)",0.4836,0.5389,extreme event,undernourishment,borderline,no,no,no,Majerský criticizes rules of procedure amendment - politics,,
+Slovak,Slovakia,cas.sk,scrapai,103533,https://www.cas.sk/spravy/zahranicne-spravy/tragedia-na-ceste-do-cile-kamion-prudko-narazil-do-autobusu-nehoda-si-vyziadala-niekolko-mrtvych,"Tragédia na ceste do Čile: Kamión prudko narazil do autobusu, nehoda si vyžiadala niekoľko mŕtvych","""Kamión, ktorý sa vracal do Bolívie, narazil do autobusu medzištátnej dopravy spoločnosti Nordic Buss, ktorý smeroval do Čile,"" uviedol šéf oddelenia pre nehody z úradu pre dopravu, prepravu a cestnú bezpečnosť Nilo Torrico. Dodal, že vodič kamióna so svojím vozidlom vošiel do protismeru, čo zapríčinilo zrážku.
+
+Pozrite si aj zrážku expresu a nákladného vlaku v Indii:
+
+Zranenia utrpelo sedem mužov a sedem žien. Išlo prevažne o zlomeniny a odreniny rôznych častí tela. Zranených previezli do nemocnice v meste El Alto, ktoré sa nachádza neďaleko hlavného mesta krajiny La Paz.
+
+Vodiť kamióna prišiel o život. Polícia však preveruje jeho totožnosť z dôvodu podozrení, že jeho vozidlo do Bolívie prevážalo nezákonný tovar, píše EFE.
+
+Agentúra dodáva, že pri dopravných nehodách zomrie v Bolívii ročne približne 1400 osôb a okolo 40.000 utrpí zranenia.",0.4317,0.5148,extreme event,casualties,borderline,no,yes,no,,Truck crashed into bus on road to Chile - fatal accident,
+Slovak,Slovakia,cas.sk,scrapai,337823,https://www.cas.sk/spravy/zahranicne-spravy/theresa-mayova-v-osn-hajila-rozhodnutie-britov-odist-z-eu-poviem-vam-preco-sme-to-urobili,"Theresa Mayová v OSN hájila rozhodnutie Britov odísť z EÚ: Poviem vám, prečo sme to urobili","Theresa Mayová v OSN hájila rozhodnutie Britov odísť z EÚ: Poviem vám, prečo sme to urobili
+26. 9. 2018, 21:22 (aktualizované: 29. 5. 2020, 12:55)
+Britská premiérka Theresa Mayová v prejave vo Valnom zhromaždení OSN obhajovala rozhodnutie Britov odísť z Európskej únie. Varovala tiež pred rastom nacionalizmu a pripomenula marcový útok nervovou látkou v anglickom Salisbury, z ktorého Británia viní Rusko.
+""Hlasovanie Britov pre odchod z EÚ nebolo odmietnutím multilateralizmu a ani medzinárodnej spolupráce. Bola to jasná požiadavka, aby rozhodovanie a zodpovednosť boli bližšie domovu,"" povedala Mayová.
+V časti prejavu potom hovorila o tom, že Rusko v britských uliciach ľahkomyseľne použilo bojovú chemickú látku, čo viedlo k smrti Dawn Sturgessovej, ktorá do styku s nebezpečnou zlúčeninou prišla náhodne.
+""Videli sme, čo sa stane, keď sa prirodzený patriotizmus, ktorý je základným stavebným kameňom zdravej spoločnosti, prekrúti v agresívny nacionalizmus, ktorý zneužíva strach a neistotu k podpore stotožňujúcej sa politiky doma a k nepriateľskej konfrontácii v zahraničí,"" povedala britská premiérka. ""Toto sme videli, keď štáty ako Rusko nehorázne porušujú medzinárodné normy počnúc obsadzovaním suverénnych území a končiac nezodpovedným používaním chemických zbraní v britských uliciach agentmi (vojenskej tajnej služby) GRU,"" dodala.
+Autor: ČTK",0.4503,0.4996,climate crisis,west nile virus,borderline,no,no,no,Theresa May defends Brexit at UN,,
+Slovak,Slovakia,cas.sk,scrapai,238557,https://www.cas.sk/spravy/zahranicne-spravy/zlata-20-dolarovka-po-druhy-raz-pokorila-svetovy-rekord-minca-za-15-a-pol-miliona,Zlatá 20-dolárovka po druhý raz pokorila svetový rekord: Minca za 15 a pol milióna,"Jedinečnosť mince z roku 1933 zvyšuje fakt, že sa nikdy nedostala do obehu a vlastne by nemala ani existovať. Mincu volajú Double Eagle, teda dvojitý orol. Bola to posledná zlatá 20-dolárovka, ktorú v Spojených štátoch vyrazili s úmyslom dať ju do obehu. Nikdy ju však nevydali, pretože prezident Franklin D. Roosevelt vyňal USA v roku 1933 zo zlatého štandardu. Ide o spôsob vyjadrenia hodnoty meny v menovom systéme, pričom štandardným ekonomickým meradlom je zlato.
+
+Urobil tak v snahe pomôcť ekonomike štátu sužovanej hospodárskou krízou. Mincovňa pred zrušením zlatého štandardu stihla vyraziť 445 500 kusov zlatých 20-dolároviek. Všetky mince mali roztaviť a oficiálne sa mali zachovať len dve. Darovali ich Smithsonovmu inštitútu, ktorý ich z času na čas vystavuje. Lenže neznámy pracovník z mincovne schoval a vyniesol najmenej 20 kusov, ktoré predal súkromným zberateľom.
+
+Ich existencia vyplávala na povrch až v roku 1944, kedy egyptský kráľ Farúk jednu kúpil a požiadal americké úrady o povolenie na export. Tajná služba ich v priebehu niekoľkých rokov vypátrala 20. Časť zničili a zopár uložili do trezoru vo Fort Knox. Iba jedna je v súkromných rukách. Po súdnych ťahaniciach ju legalizovali a v roku 2002 sa predala za rekordných 6,2 milióna eur. V utorok rekord pokorila druhýkrát.
+
+Ďalšie v poradí
+
+2. Dolár Flowing Hair
+
+3. Brasherov dublón",0.4375,0.5100,heatwave,west nile virus,borderline,no,no,no,Gold $20 coin breaks world record again - collectibles,,
+Slovak,Slovakia,cas.sk,scrapai,386594,https://www.cas.sk/spravy/zahranicne-spravy/brunetka-sa-kazdy-den-boji-o-svoj-zivot-staci-ked-niekto-dychne-a-pride-to,"Brunetka sa každý deň bojí o svoj život: Stačí, keď niekto dýchne a príde to!","Brunetka sa každý deň bojí o svoj život: Stačí, keď niekto dýchne a príde to!
+15. 1. 2017, 15:30 (aktualizované: 30. 4. 2021, 15:47)
+Každodenné utrpenie! To musí prežívať mladá dievčina z Veľkej Británie.
+Rachel Foy (21) z britského Cardiffu sa každý deň musí obávať o svoj život. Je totiž extrémne alergická na arašidy. Rachel hrozí anafylaktický šok už vtedy, keď na ňu dýchne niekto, kto zjedol arašidy.
+Diagnóza mladej brunetke strpčuje život. Napriek tomu, že vyštudovala na univerzite, prácu si nedokáže nájsť. Od júla, kedy skončila školu, si podala množstvo žiadostí o prácu. No bez úspechu. Firmy cúvnu, keď sa dozvedia o jej diagnóze. „Poznám ľudí s takými alergiami ako mám ja, ktorí sa nevedia zamestnať mnoho rokov, a obávam sa, že sa to môže stať aj mne,“ cituje The Mirror mladú brunetku.
+Rachel sa podarilo dvakrát zamestnať. No v každej vydržala len pár týždňov. Jej kolegovia totiž občas jedli arašidy a brunetka sa obávala o svoj život. Postupne bola nútená prácu opustiť. „Lekár mi odporučil, aby som pracovala v malej kancelárii s kompaktným tímom ľudí, ktorí vedia o mojom probléme,“ vysvetľuje mladá žena. Podobnú prácu sa jej ale zatiaľ nájsť nepodarilo.
+Autor: Novy Cas, guz",0.4610,0.5167,temperature rises,malnourishment,borderline,no,yes,no,,Woman fears for life daily - severe allergy/health condition,
+Slovak,Slovakia,cas.sk,scrapai,101000,https://www.cas.sk/spravy/zahranicne-spravy/situacia-v-gaze-sa-este-viac-zhorsuje-z-toho-co-nasli-v-odpade-vedcov-vystrasilo,"Situácia v Gaze sa ešte viac zhoršuje: Z toho, čo našli v odpade, vedcov vystrašilo","Situácia v Gaze sa ešte viac zhoršuje: Z toho, čo našli v odpade, vedcov vystrašilo
+23. 7. 2024, 22:48
+Vysoký predstaviteľ Svetovej zdravotníckej organizácie (WHO) pre palestínske oblasti Ayadil Saparbekov vyjadril v utorok hlboké znepokojenie nad možným vypuknutím nákazy detskej obrny a ďalších chorôb v Pásme Gazy.
+Stopy vírusu detskej obrny boli zistené v odpadových vodách na tomto území. Podľa správy agentúry AP píše TASR. Podrobnejšie výsledky testov a vyhodnotenie rizika sa očakáva tento týždeň. Na základe toho budú vypracované odporúčania pre verejnosť a zdravotníkov ohľadom prevencie a zvládania prípadného vypuknutia choroby.
+Doposiaľ sa v Gaze nepotvrdili žiadne prípady detskej obrny. Avšak šesť zo siedmich vzoriek odpadových vôd bolo pozitívnych na vírus detskej obrny pochádzajúci z vakcíny. To naznačuje, že najmenej jeden očkovaný človek zo svojho tela vylučoval vírus. ""Som mimoriadne znepokojený možnosťou vypuknutia epidémie v Gaze,"" povedal Saparbekov na brífingu OSN v Ženeve prostredníctvom videohovoru. ""Okrem hrozby detskej obrny existuje aj riziko vzniku ohnísk ďalších prenosných chorôb,"" dodal s odkazom na výskyt hepatitídy v minulom roku. Saparbekov zdôraznil, že nedostatok čistej vody, hygienických zariadení a prístupu k zdravotnej starostlivosti v Gaze môže viesť k tomu, že na prenosné choroby zomrie viac ľudí ako na zranenia spôsobené konfliktom.
+Hovorca OSN v Ženeve Rolando Gómez pripomenul, že Izrael má ""ako okupačná mocnosť zodpovednosť za to, aby sa pomoc dostala k tým, ktorí ju v Gaze potrebujú, a aby vytvoril prostredie umožňujúce pôsobenie OSN a jej partnerov."" Izrael už oznámil, že proti detskej obrne plánuje zaočkovať svojich vojakov nasadených v Pásme Gazy.
+Autor: TASR",0.4604,0.5479,rising temperatures,west nile virus,borderline,no,yes,no,,"Gaza situation worsening, WHO concerned about polio outbreak",
+Slovak,Slovakia,cas.sk,scrapai,176553,https://www.cas.sk/spravy/domace-spravy/trufala-vizia-do-roku-2050-bezpecnost-cestnej-dopravy-sa-ma-u-nas-priblizit-k-nulovej-umrtnosti,Trúfalá vízia do roku 2050: Bezpečnosť cestnej dopravy sa má u nás priblížiť k nulovej úmrtnosti,"Vyplýva to z národnej stratégie SR pre bezpečnosť cestnej premávky na roky 2021 – 2030, ktorú rezort dopravy predložil do medzirezortného pripomienkového konania. Materiál bol zverejnený na legislatívno-právnom portáli Slov-lex.
+
+Ministerstvo dopravy a výstavby (MDV) SR v pozícii národného koordinátora pre zvyšovanie bezpečnosti cestnej premávky v stratégii definuje priority Slovenska v oblasti zvyšovania úrovne bezpečnosti všetkých účastníkov cestnej premávky. A to formou zníženia dopravnej nehodovosti a jej následkov prostredníctvom ovplyvnenia postojov účastníkov cestnej premávky, cielených opatrení zameraných na rizikových účastníkov cestnej premávky, vytvorenia bezpečného dopravného priestoru, zvýšenia bezpečnosti motorových vozidiel, aplikácie moderných technológií a zabezpečenia rýchlej a efektívnej zdravotnej starostlivosti po dopravnej nehode.
+
+Stratégia stanovuje dva strednodobé strategické ciele. Tými sú zníženie počtu usmrtených osôb v dôsledku cestných dopravných nehôd v SR o polovicu do roku 2030 v porovnaní s ich počtom v referenčnom roku 2020, a rovnako tak zníženie počtu ťažko zranených osôb v dôsledku cestných dopravných nehôd v SR o polovicu do roku 2030 v porovnaní s ich počtom v roku 2020. V minulom roku bolo podľa materiálu pri dopravných nehodách v SR usmrtených 224 osôb. Strategickým cieľom je preto do roku 2030 znížiť ich počet na 112 a menej. Zároveň bolo vlani pri dopravných nehodách na Slovensku ťažko zranených 914 osôb, cieľom je preto do roku 2030 znížiť ich počet na 457 a menej.
+
+Dlhodobým strategickým cieľom má byť zníženie počtu usmrtených a ťažko zranených osôb v dôsledku cestných dopravných nehôd v SR na nulový počet do roku 2050. Podľa rezortu dopravy ide zároveň o tri spoločné ciele na úrovni členských štátov Európskej únie (EÚ).",0.4432,0.5085,extreme event,casualties,borderline,no,no,no,Bold vision for road safety by 2050,,
+Slovak,Slovakia,cas.sk,scrapai,103228,https://www.cas.sk/spravy/domace-spravy/brutalne-zdrazovanie-potravin-sa-zastavilo-mame-najhorsie-za-sebou-kedy-to-pocitia-nase-penazenky,Brutálne zdražovanie potravín sa zastavilo: Máme najhoršie za sebou? Kedy to pocítia naše peňaženky,"Inflácia sa v júni vrátila na trojročné minimum 2,1 %. Jej vysoká úroveň v predchádzajúcich rokoch spôsobovala nejednému Slovákovi vrásky na čele. Mala vplyv na obsah ich nákupných košíkov, oslabovala reálny rast platov a znehodnocovala úspory.
+
+Aktuálne vidíme svetlo na konci tunela. Ceny potravín, nealko nápojov, ale aj piva, vína či pohonných látok medzimesačne zlacneli, čo udržalo júnové ceny na májovej úrovni. Nástup letnej sezóny však priniesol zvýšenie cien zájazdov a tiež vodného a stočného.
+
+Ceny z roku 2021 sa nevrátia
+
+Analytička Eva Sadovská z WOOD & Company hovorí, že neočakáva také prudké zdražovanie ako v rokoch 2022 a 2023. Spotrebitelia však zároveň môžu zabudnúť na ceny potravín, ktoré boli v roku 2021.
+
+„Inflácia spomaľuje, za prvý polrok dosiahla v priemere 2,7 %. Pod to sa podpisujú najmä ceny potravín a bývania, ktoré sú porovnateľné s cenami spred roka. To by mali spotrebitelia pociťovať už niekoľko mesiacov pri bežných nákupoch potravín. Na druhej strane ich pocitová inflácia môže byť vyššia, lebo veď dva roky s dvojciferným tempom zdražovania potravín (2022 a 2023) len tak nevymažeme,“ povedala pre Nový Čas.
+
+Vaša tvár o vás prezrádza aj to, čo by ste možno najradšej skryli: Pozor, ide o peniaze.
+
+Zdieľať
+
+Prehrať video
+
+Načítava sa
+
+Čo nás čaká
+
+V prípade potravín a nealko nápojov bol medziročný nárast cien na úrovni 0,5 %. „V oblasti bývania prišlo ešte k miernejšiemu nárastu cien, a to o 0,1 %. Za obe tieto položky si tak v priemere oproti vlaňajšku priplácame iba minimálne,“ hovorí analytička s tým, že počas vlaňajška inflácia spomaľovala z vyše 15 %.
+
+„Tento rok v spomaľovaní pokračovala až na aprílové minimum 2,1 %, ktoré znovu dosiahla v júni 2024. V nasledujúcich mesiacoch môže mierne zrýchliť, ale držať by sa mala v rozpätí 2,0 až 2,5 %, čo sa považuje za normálnu úroveň. Odhad tohtoročného rastu cien tovarov a služieb predpokladáme v rozpätí 2,5 až 3,0 %,“ uzavrela Sadovská.",0.5140,0.5376,temperature rises,undernourishment,borderline,no,no,no,Brutal food price increases stopped - economics,,
+Slovak,Slovakia,cas.sk,scrapai,169609,https://www.cas.sk/tip-od-vas/vase-horuce-tipy/adrenalin-ci-sialenstvo-mladici-zo-zeriava-na-prvom-slovenskom-mrakodrape-natacali-ohnostroj-zatoci-sa-vam-hlava,"Adrenalín, či šialenstvo? Mladíci zo žeriava na prvom slovenskom mrakodrape natáčali ohňostroj: Zatočí sa vám hlava!","Mrakodrap ešte nedokončili a už sa mohol stať dejiskom tragédie. Kanál Illegal Komlik publikoval video, kde chlapci na vrchole žeriava nakrúcajú ohňostroj v hlavnom meste. Na internete tento počin pritom rovesníci hodnotili prívetivo, no to, že nelegálne vošli na stavenisko a spôsobili priestupok, už akosi nikoho nezaujímalo.
+
+Navyše, ak by spadli, následky mohli byť tragické. Vrchol žeriava je vo výške 190 metrov. Nový Čas preto kontaktoval hovorcu spoločnosti JTRE D. Suchého s tým, aby objasnil, ako sa mladíkom podarilo dostať sa až na špičku žeriava.",0.4838,0.5044,extreme heat,casualties,borderline,no,no,no,Adrenaline or madness? Young men on crane - viral,,
+Slovak,Slovakia,cas.sk,scrapai,401664,https://www.cas.sk/tip-od-vas/slovensko/sialene-zabery-z-bratislavskej-mhd-mladik-sa-rozbehol-za-elektrickou-a-toto-je-uz-chore,Šialené zábery z bratislavskej MHD: Mladík sa rozbehol za električkou a... Toto je už choré!,"Šialené zábery z bratislavskej MHD: Mladík sa rozbehol za električkou a... Toto je už choré!
+25. 1. 2016, 18:02 (aktualizované: 29. 5. 2020, 12:45)
+Po mužovi, ktorý sa viezol na streche autobusu po Devínskej Novej Vsi, a fekálnom maniakovi sa v hlavnom meste objavil ďalší „expert“ v MHD.
+Tentoraz sa neznámy mladík rozbehol a doslova sa zavesil na koncový stierač idúcej električky. Spôsobil tak škodu približne 400 eur.
+Incident sa odohral minulú nedeľu krátko pred 21.15 hod. na Vajnorskej ulici v blízkosti nákupného centra. „Neznámy páchateľ električku dobehol a rukami sa chytil stierača na kabíne B, ktorý držal a takto za ňou bežal pár metrov. Následne sa stierača pustil a odišiel na doposiaľ neznáme miesto,“ informuje bratislavská krajská policajná hovorkyňa Lucia Mihalíková.V súvislosti s objasňovaním tohto prípadu vyzýva polícia občanov, aby pomohli pri vypátraní a dolapení neznámeho mladíka. Podľa opisu ide o muža strednej postavy vo veku od 20 do 30 rokov s nakrátko ostrihanými vlasmi. Oblečený mal červený prúžkovaný sveter, hnedú bundu a hnedé nohavice.
+Autor: © Nový Čas",0.4436,0.5108,heatwave,casualties,borderline,no,no,no,Crazy footage from Bratislava public transport,,
+Slovak,Slovakia,cas.sk,scrapai,108217,https://www.cas.sk/spravy/konflikt-ukrajina/neohlasena-navsteva-ukrajiny-k-nasim-susedom-cestuje-vyznamny-politik,Neohlásená návšteva Ukrajiny! K našim susedom cestuje významný politik,"Japonská štátna televízia NHK odvysielala zábery Kišidu vo vlaku smerujúcom z poľského mesta Przemyśl do Kyjeva. Vlak vyšiel zo stanice približne o 01.30 h. Kišidovu cestu na Ukrajinu už oficiálne potvrdilo aj japonské ministerstvo zahraničných vecí.
+
+Kišida, ktorý bude v máji hostiteľom summitu krajín G7, je jediným lídrom z tejto skupiny, ktorý ešte Ukrajinu nenavštívil. Japonský premiér opakovane tvrdil, že takáto návšteva ""je v štádiu zvažovania"".
+
+Fumio Kišida sa stane prvým predsedom vlády Japonska od čias druhej svetovej vojny, ktorý navštívi aktívnu vojnovú zónu. AFP upozorňuje, že cesta Kišidu na Ukrajinu sa uskutočňuje v rovnakom čase, ako rokovania čínskeho prezidenta Si Ťin-pchinga s ruským prezidentom Vladimirom Putinom v Moskve.
+
+Japonsko sa pridalo k západným krajinám, ktoré po ruskej invázii na Ukrajinu uvalili na Moskvu tvrdé sankcie a Kyjevu poskytli humanitárnu pomoc. Tokio vo februári oznámilo, že Ukrajine poskytne finančnú pomoc vo výške 5,5 miliardy dolárov. Japonská vláda však Ukrajine zatiaľ neposkytla žiadne vojenské vybavenie, keďže v tejto otázke je vo veľkej miere obmedzovaná tamojšou ústavou.",0.4089,0.5144,heatwave,west nile virus,borderline,no,no,no,Unannounced visit to Ukraine,,
+Slovak,Slovakia,topky.sk,scrapai,9878,https://www.topky.sk/cl/11/2823207/Pri-pobrezi-Peloponezskoho-polostrova-sa-podarilo-zachranit-75-migrantov,Pri pobreží Peloponézskoho polostrova sa podarilo zachrániť 75 migrantov,"Pobrežná stráž priblížila, že zachránila migrantov z plachetnice juhozápadne od mesta Pylos na Peloponézskom polostrove. Dodala, že zachránení migranti budú prevezení do prístavného mesta Kalamata, o ich národnosti sa však nezmienila.
+
+archívne video
+
+Matúš Šutaj Eštok o situácii k migrantom (Zdroj: Topky/ Vlado Anjel)
+
+Vlani v júni sa juhozápadne od Pylosu potopilo plavidlo z Líbye, na palube ktorého sa pravdepodobne nachádzalo viac ako 750 migrantov. Zachrániť sa podarilo iba 104 z nich. Záchranári našli v oblasti 82 tiel a stovky osôb zostalo nezvestných.
+
+V súvislosti s tragédiou podali desiatky preživších trestné oznámenie na grécku pobrežnú stráž, ktorá podľa nich celé hodiny nereagovala napriek varovaniam od Európskej agentúry pre pohraničnú a pobrežnú stráž (Frontex) a mimovládnej organizácie Alarm Phone.",0.4423,0.5176,heatwaves,west nile virus,borderline,no,no,no,Rescue near Peloponnese coast - maritime rescue,,
