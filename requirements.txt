@@ -1,6 +1,9 @@
 pandas
-ollama
 openai
-eventregistry
-boto3
 python-dotenv
+numpy
+tqdm
+tenacity
+litellm
+scikit-learn
+vllm
