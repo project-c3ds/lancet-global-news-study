@@ -130,19 +130,37 @@ def main():
         shard_num = existing_shards
         print(f"\nShard {shard_num} ({len(shard):,} articles)")
 
+        MAX_CHARS = 28000
         texts = [f"{title}\n{content}" for _, title, content in shard]
         ids = [row[0] for row in shard]
 
         # Embed in batches via vLLM offline
         all_embs = []
+        all_valid_ids = []
         for i in tqdm(range(0, len(texts), args.batch_size), desc=f"Shard {shard_num}"):
             batch_texts = texts[i : i + args.batch_size]
-            outputs = llm.embed(batch_texts)
-            batch_embs = [o.outputs.embedding for o in outputs]
-            all_embs.extend(batch_embs)
+            batch_ids = ids[i : i + args.batch_size]
+            try:
+                outputs = llm.embed(batch_texts)
+                batch_embs = [o.outputs.embedding for o in outputs]
+                all_embs.extend(batch_embs)
+                all_valid_ids.extend(batch_ids)
+            except Exception as e:
+                print(f"\n  Batch {i//args.batch_size} failed, retrying with truncation: {e}")
+                try:
+                    truncated = [t[:MAX_CHARS] for t in batch_texts]
+                    outputs = llm.embed(truncated)
+                    batch_embs = [o.outputs.embedding for o in outputs]
+                    all_embs.extend(batch_embs)
+                    all_valid_ids.extend(batch_ids)
+                except Exception as e2:
+                    print(f"\n  Skipping batch {i//args.batch_size} after retry: {e2}")
+                    with open(OUTPUT_DIR / "failed_ids.txt", "a") as f:
+                        for bid in batch_ids:
+                            f.write(f"{bid}\n")
 
         # Save shard
-        ids_arr = np.array(ids, dtype=np.int64)
+        ids_arr = np.array(all_valid_ids, dtype=np.int64)
         embs_arr = np.array(all_embs, dtype=np.float32)
         np.save(OUTPUT_DIR / f"ids_{shard_num:06d}.npy", ids_arr)
         np.save(OUTPUT_DIR / f"emb_{shard_num:06d}.npy", embs_arr)
