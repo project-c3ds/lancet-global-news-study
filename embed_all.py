@@ -177,28 +177,36 @@ def main():
 
         print(f"\nShard {shard_num} ({len(shard):,} articles)")
 
-        # Split shard into chunks, each worker processes multiple batches sequentially
-        chunk_size = args.batch_size * 10
-        chunks = [shard[i : i + chunk_size] for i in range(0, len(shard), chunk_size)]
-        client = get_client()
+        # Split into individual batches, each submitted as its own task
+        batches = []
+        for i in range(0, len(shard), args.batch_size):
+            batch = shard[i : i + args.batch_size]
+            batch_ids = [row[0] for row in batch]
+            texts = [f"{title}\n{content}" for _, title, content in batch]
+            batches.append((batch_ids, texts))
 
+        client = get_client()
         all_ids = []
         all_embs = []
 
         with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
             futures = {
-                pool.submit(process_chunk, client, chunk, args.batch_size): i
-                for i, chunk in enumerate(chunks)
+                pool.submit(embed_batch, client, texts): batch_ids
+                for batch_ids, texts in batches
             }
 
-            for fut in tqdm(as_completed(futures), total=len(chunks), desc=f"Shard {shard_num}"):
-                ids, embs = fut.result()
-                all_ids.append(ids)
-                all_embs.append(embs)
+            for fut in tqdm(as_completed(futures), total=len(futures), desc=f"Shard {shard_num}"):
+                batch_ids = futures[fut]
+                try:
+                    embeddings = fut.result()
+                    all_ids.extend(batch_ids)
+                    all_embs.extend(embeddings)
+                except Exception as e:
+                    print(f"\n  Skipping batch: {e}")
 
         # Save shard
-        ids_arr = np.concatenate(all_ids)
-        embs_arr = np.concatenate(all_embs)
+        ids_arr = np.array(all_ids, dtype=np.int64)
+        embs_arr = np.array(all_embs, dtype=np.float32)
         np.save(OUTPUT_DIR / f"ids_{shard_num:06d}.npy", ids_arr)
         np.save(OUTPUT_DIR / f"emb_{shard_num:06d}.npy", embs_arr)
 
