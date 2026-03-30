@@ -23,7 +23,7 @@ from tqdm import tqdm
 load_dotenv()
 
 MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
-MODAL_URL = "https://exec3ds--lancet-embeddings-serve.modal.run/v1"
+MODAL_URL = "http://localhost:8000/v1"
 DB_PATH = "data/articles.db"
 OUTPUT_DIR = Path("data/embeddings_np")
 
@@ -151,7 +151,6 @@ def main():
             continue
 
         shard_num = existing_shards
-        existing_shards += 1
 
         print(f"\nShard {shard_num} ({len(shard):,} articles)")
 
@@ -177,8 +176,8 @@ def main():
         # Save shard
         ids_arr = np.concatenate(all_ids)
         embs_arr = np.concatenate(all_embs)
-        np.save(OUTPUT_DIR / f"ids_{existing_shards:06d}.npy", ids_arr)
-        np.save(OUTPUT_DIR / f"emb_{existing_shards:06d}.npy", embs_arr)
+        np.save(OUTPUT_DIR / f"ids_{shard_num:06d}.npy", ids_arr)
+        np.save(OUTPUT_DIR / f"emb_{shard_num:06d}.npy", embs_arr)
 
         total_embedded += len(ids_arr)
         existing_shards += 1
