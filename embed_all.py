@@ -32,7 +32,7 @@ def get_client():
     return OpenAI(
         base_url=MODAL_URL,
         api_key=os.environ.get("HF_TOKEN", "not-needed"),
-        timeout=30,
+        timeout=150,
     )
 
 
