@@ -130,8 +130,8 @@ def main():
         shard_num = existing_shards
         print(f"\nShard {shard_num} ({len(shard):,} articles)")
 
-        MAX_CHARS = 28000
-        texts = [f"{title}\n{content}" for _, title, content in shard]
+        MAX_CHARS = 20000
+        texts = [f"{title}\n{content}"[:MAX_CHARS] for _, title, content in shard]
         ids = [row[0] for row in shard]
 
         # Embed in batches via vLLM offline
