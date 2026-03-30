@@ -1,0 +1,165 @@
+"""Offline embedding using vLLM LLM class — no HTTP server needed.
+
+Usage:
+    python embed_offline.py
+    python embed_offline.py --batch-size 2048
+    python embed_offline.py --limit 10000
+    python embed_offline.py --no-resume
+"""
+
+import argparse
+import sqlite3
+import time
+from pathlib import Path
+
+import numpy as np
+from tqdm import tqdm
+from vllm import LLM
+
+MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
+DB_PATH = "data/articles.db"
+OUTPUT_DIR = Path("data/embeddings_np")
+
+
+def count_articles(db_path):
+    conn = sqlite3.connect(db_path)
+    count = conn.execute("SELECT COUNT(*) FROM articles").fetchone()[0]
+    conn.close()
+    return count
+
+
+def load_shard(db_path, limit, offset):
+    conn = sqlite3.connect(db_path)
+    rows = conn.execute(
+        "SELECT id, title, content FROM articles LIMIT ? OFFSET ?",
+        (limit, offset),
+    ).fetchall()
+    rows = [(id, title, content) for id, title, content in rows if content]
+    conn.close()
+    return rows
+
+
+def load_done_ids(output_dir):
+    done = set()
+    if not output_dir.exists():
+        return done
+    files = sorted(output_dir.glob("ids_*.npy"))
+    print(f"Loading {len(files)} id shards...", flush=True)
+    arrays = [np.load(f) for f in files]
+    if arrays:
+        done = set(np.concatenate(arrays).tolist())
+    print(f"Loaded {len(done):,} done IDs", flush=True)
+    return done
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Offline embed all articles")
+    parser.add_argument("--batch-size", type=int, default=2048, help="Articles per vLLM embed call")
+    parser.add_argument("--shard-size", type=int, default=50000, help="Articles per output shard")
+    parser.add_argument("--limit", type=int, help="Limit total articles")
+    parser.add_argument("--no-resume", action="store_true", help="Start from scratch")
+    parser.add_argument("--dry-run", action="store_true", help="Test without embedding")
+    args = parser.parse_args()
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    print("Counting articles...", flush=True)
+    total_articles = count_articles(DB_PATH)
+    if args.limit:
+        total_articles = min(total_articles, args.limit)
+    print(f"Total articles in DB: {total_articles:,}")
+
+    # Resume support
+    done_ids = set()
+    existing_shards = 0
+    if not args.no_resume:
+        done_ids = load_done_ids(OUTPUT_DIR)
+        existing_files = list(OUTPUT_DIR.glob("emb_*.npy"))
+        if existing_files:
+            max_num = max(int(f.stem.split("_")[1]) for f in existing_files)
+            existing_shards = max_num + 1
+        else:
+            existing_shards = 0
+        if done_ids:
+            print(f"Resuming: {len(done_ids):,} already done")
+
+    if len(done_ids) >= total_articles:
+        print("Nothing to embed.")
+        return
+
+    remaining = total_articles - len(done_ids)
+
+    if args.dry_run:
+        print(f"\n--- DRY RUN ---")
+        print(f"Remaining to embed: {remaining:,}")
+        print(f"Shards to process: {(remaining + args.shard_size - 1) // args.shard_size}")
+        print(f"Batch size: {args.batch_size}")
+        return
+
+    # Initialize vLLM offline
+    print("Loading vLLM model...", flush=True)
+    llm = LLM(
+        model=MODEL_NAME,
+        task="embed",
+        dtype="auto",
+        max_model_len=8192,
+        max_num_seqs=4096,
+        max_num_batched_tokens=524288,
+        gpu_memory_utilization=0.90,
+        runner="pooling",
+        override_pooler_config='{"pooling_type": "MEAN", "enable_chunked_processing": true, "max_embed_len": 32768}',
+        trust_remote_code=True,
+    )
+    print("Model loaded.", flush=True)
+
+    # Process in shards
+    total_shards = (total_articles + args.shard_size - 1) // args.shard_size
+    t0 = time.time()
+    total_embedded = 0
+
+    for shard_idx in range(total_shards):
+        offset = shard_idx * args.shard_size
+        shard = load_shard(DB_PATH, args.shard_size, offset)
+
+        if done_ids:
+            shard = [row for row in shard if row[0] not in done_ids]
+
+        if not shard:
+            print(f"  Skipping shard {shard_idx}/{total_shards} (all done)")
+            continue
+
+        shard_num = existing_shards
+        print(f"\nShard {shard_num} ({len(shard):,} articles)")
+
+        texts = [f"{title}\n{content}" for _, title, content in shard]
+        ids = [row[0] for row in shard]
+
+        # Embed in batches via vLLM offline
+        all_embs = []
+        for i in tqdm(range(0, len(texts), args.batch_size), desc=f"Shard {shard_num}"):
+            batch_texts = texts[i : i + args.batch_size]
+            outputs = llm.embed(batch_texts)
+            batch_embs = [o.outputs.embedding for o in outputs]
+            all_embs.extend(batch_embs)
+
+        # Save shard
+        ids_arr = np.array(ids, dtype=np.int64)
+        embs_arr = np.array(all_embs, dtype=np.float32)
+        np.save(OUTPUT_DIR / f"ids_{shard_num:06d}.npy", ids_arr)
+        np.save(OUTPUT_DIR / f"emb_{shard_num:06d}.npy", embs_arr)
+
+        total_embedded += len(ids_arr)
+        existing_shards += 1
+        elapsed = time.time() - t0
+        rate = total_embedded / elapsed if elapsed > 0 else 0
+        eta = (remaining - total_embedded) / rate if rate > 0 else 0
+        print(f"  Saved: {len(ids_arr):,} embeddings ({embs_arr.shape})")
+        print(f"  Total: {total_embedded:,}/{remaining:,} | {rate:.0f} emb/s | ETA {eta/60:.1f}m")
+
+    elapsed = time.time() - t0
+    print(f"\nDone. {total_embedded:,} embeddings in {elapsed/60:.1f}m ({total_embedded/elapsed:.0f} emb/s)")
+    print(f"Output: {OUTPUT_DIR}/")
+
+
+if __name__ == "__main__":
+    main()
