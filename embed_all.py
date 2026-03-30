@@ -130,7 +130,13 @@ def main():
     existing_shards = 0
     if not args.no_resume:
         done_ids = load_done_ids(OUTPUT_DIR)
-        existing_shards = len(list(OUTPUT_DIR.glob("emb_*.npy")))
+        existing_files = list(OUTPUT_DIR.glob("emb_*.npy"))
+        if existing_files:
+            # Start after the highest existing shard number to avoid overwrites
+            max_num = max(int(f.stem.split("_")[1]) for f in existing_files)
+            existing_shards = max_num + 1
+        else:
+            existing_shards = 0
         if done_ids:
             print(f"Resuming: {len(done_ids):,} already done")
 
