@@ -39,7 +39,7 @@ def get_client():
 def count_articles(db_path):
     """Count total embeddable articles."""
     conn = sqlite3.connect(db_path)
-    count = conn.execute("SELECT COUNT(*) FROM articles WHERE content IS NOT NULL AND content != ''").fetchone()[0]
+    count = conn.execute("SELECT COUNT(*) FROM articles").fetchone()[0]
     conn.close()
     return count
 
