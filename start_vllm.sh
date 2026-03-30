@@ -6,6 +6,5 @@
   --max-num-seqs 1024 \
   --max-num-batched-tokens 65536 \
   --gpu-memory-utilization 0.95 \
-  --tokenizer-pool-size 8 \
   --runner pooling \
   --pooler-config '{"pooling_type": "MEAN", "enable_chunked_processing": true, "max_embed_len": 32768}'
