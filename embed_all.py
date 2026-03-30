@@ -48,9 +48,10 @@ def load_shard(db_path, limit, offset):
     """Load a shard of articles from SQLite. Returns list of (id, title, content)."""
     conn = sqlite3.connect(db_path)
     rows = conn.execute(
-        "SELECT id, title, content FROM articles WHERE content IS NOT NULL AND content != '' LIMIT ? OFFSET ?",
+        "SELECT id, title, content FROM articles LIMIT ? OFFSET ?",
         (limit, offset),
     ).fetchall()
+    rows = [(id, title, content) for id, title, content in rows if content]
     conn.close()
     return rows
 
