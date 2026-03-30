@@ -100,7 +100,6 @@ def main():
     print("Loading vLLM model...", flush=True)
     llm = LLM(
         model=MODEL_NAME,
-        task="embed",
         dtype="auto",
         max_model_len=8192,
         max_num_seqs=4096,
