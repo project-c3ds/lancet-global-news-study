@@ -54,20 +54,25 @@ def load_done_ids(output_dir):
     return done
 
 
+_tokenizer = None
+
+def _init_tokenizer(model_name):
+    global _tokenizer
+    _tokenizer = AutoTokenizer.from_pretrained(model_name)
+
 def _tokenize_chunk(args):
     """Worker function for parallel tokenization."""
-    texts, model_name, max_tokens = args
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    encoded = tokenizer(texts, truncation=True, max_length=max_tokens, add_special_tokens=True)
+    texts, max_tokens = args
+    encoded = _tokenizer(texts, truncation=True, max_length=max_tokens, add_special_tokens=True)
     return encoded["input_ids"]
 
 
-def parallel_tokenize(texts, model_name, max_tokens=8000, num_workers=16):
+def parallel_tokenize(texts, model_name, max_tokens=8000, num_workers=20):
     """Tokenize texts in parallel across CPU cores."""
     chunk_size = max(1, len(texts) // num_workers)
     chunks = [texts[i:i + chunk_size] for i in range(0, len(texts), chunk_size)]
-    args = [(chunk, model_name, max_tokens) for chunk in chunks]
-    with mp.Pool(num_workers) as pool:
+    args = [(chunk, max_tokens) for chunk in chunks]
+    with mp.Pool(num_workers, initializer=_init_tokenizer, initargs=(model_name,)) as pool:
         results = pool.map(_tokenize_chunk, args)
     all_ids = []
     for chunk_ids in results:
