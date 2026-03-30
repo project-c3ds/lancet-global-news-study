@@ -157,9 +157,9 @@ def main():
         ids = [row[0] for row in shard]
 
         # Pre-tokenize in parallel across CPUs (truncates to 8000 tokens)
-        print(f"  Tokenizing {len(texts):,} texts across 16 cores...", flush=True)
+        print(f"  Tokenizing {len(texts):,} texts across 20 cores...", flush=True)
         tok_t0 = time.time()
-        token_ids_list = parallel_tokenize(texts, MODEL_NAME, max_tokens=8000, num_workers=16)
+        token_ids_list = parallel_tokenize(texts, MODEL_NAME, max_tokens=8000, num_workers=20)
         print(f"  Tokenized in {time.time() - tok_t0:.1f}s", flush=True)
 
         # Build prompts with pre-tokenized IDs
