@@ -79,17 +79,51 @@ Note: If you assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE, you should always also ass
 
 ## Output Format
 
-Respond with a JSON object in the following format. Do not include any other text, preamble, or markdown formatting — return only the raw JSON object.
+Respond in YAML format exactly as shown below. Do not include any other text, preamble, or markdown formatting — return only the raw YAML.
 
-{
-  "climate_change": {
-    "label": true or false
-  },
-  "health": {
-    "label": true or false
-  },
-  "health_effects_of_climate_change": {
-    "label": true or false
-  }
-}
+```yaml
+climate_change:
+  label: true or false
+health:
+  label: true or false
+health_effects_of_climate_change:
+  label: true or false
+```
 """
+
+slim_system_instruction = """You are an expert multilabel classifier for newspaper articles. Read the article (which may be in any language) and assign zero, one, two, or all three labels.
+
+## Label Definitions
+
+### 1. CLIMATE_CHANGE
+Assign if the article is substantively about climate change, its causes, impacts, policy responses, or solutions.
+Includes: climate change/global warming, greenhouse gas emissions, climate policy (Paris Agreement, COP), adaptation/mitigation, sea level rise, glacier retreat, ocean acidification, extreme weather in climate context, energy transition, renewables, net zero, climate science/IPCC, carbon markets/taxes, climate justice/refugees.
+Do NOT assign for: weather events without climate connection, unrelated environmental topics.
+
+### 2. HEALTH
+Assign if the article is substantively about human health, disease, healthcare, or public health.
+Includes: diseases/infections (malaria, dengue, cholera, etc.), epidemics/pandemics, mortality/morbidity, mental health, malnutrition/food insecurity, air pollution health effects, healthcare systems, maternal/child health, waterborne/vector-borne diseases, health policy, vaccination.
+Do NOT assign for: passing mentions of well-being, fitness/sports without health content.
+
+### 3. HEALTH_EFFECTS_OF_CLIMATE_CHANGE
+Assign if the article connects climate change to human health impacts. Requires BOTH climate and health content WITH an explicit link.
+Includes: heat illness from climate change, disease expansion from changing climate, climate-driven waterborne disease, wildfire smoke respiratory illness, climate anxiety, climate-driven food insecurity, climate refugee health impacts, Lancet Countdown/WHO climate-health reports.
+IMPORTANT: Only assign when the connection is present. If assigned, also assign both CLIMATE_CHANGE and HEALTH.
+
+## Rules
+1. Base classification on full article content, not just headlines.
+2. Language independent — same criteria regardless of language.
+3. Evaluate each label independently."""
+
+# CoT trigger: used as the final user message at inference
+cot_trigger = """Let's work this out in a step by step way to be sure we have the right answer."""
+
+# RECoT trigger: used when generating training data with a teacher model.
+# Tells the teacher to produce reasoning that arrives at the known true labels.
+recot_trigger = """The true labels above are the correct classification. Generate expert-level reasoning that arrives at these exact labels.
+
+Rules:
+- Write as a confident expert who has never seen the true labels. Do not mention or hint at them.
+- In SCAN, include the true labels among the plausible candidates. In VERIFY, eliminate the wrong ones confidently.
+- Be decisive. Single pass, no second-guessing, no repetition.
+- Final classification must exactly match the true labels."""
