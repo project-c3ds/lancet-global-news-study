@@ -109,6 +109,7 @@ def main():
     parser.add_argument("--shard-size", type=int, default=50000, help="Articles per output shard")
     parser.add_argument("--limit", type=int, help="Limit total articles (for testing)")
     parser.add_argument("--no-resume", action="store_true", help="Start from scratch, ignore existing embeddings")
+    parser.add_argument("--dry-run", action="store_true", help="Test connection and show plan without embedding")
     args = parser.parse_args()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -132,11 +133,28 @@ def main():
         print("Nothing to embed.")
         return
 
+    remaining = total_articles - len(done_ids)
+
+    if args.dry_run:
+        print(f"\n--- DRY RUN ---")
+        print(f"Remaining to embed: {remaining:,}")
+        print(f"Shards to process: {(remaining + args.shard_size - 1) // args.shard_size}")
+        print(f"Batch size: {args.batch_size}, Concurrency: {args.concurrency}")
+        # Test server connection
+        print(f"\nTesting connection to {MODAL_URL} ...")
+        try:
+            client = get_client()
+            resp = client.embeddings.create(model=MODEL_NAME, input="test")
+            dim = len(resp.data[0].embedding)
+            print(f"OK: model={MODEL_NAME}, dim={dim}")
+        except Exception as e:
+            print(f"FAILED: {e}")
+        return
+
     # Process in shards, streaming from SQLite
     total_shards = (total_articles + args.shard_size - 1) // args.shard_size
     t0 = time.time()
     total_embedded = 0
-    remaining = total_articles - len(done_ids)
 
     for shard_idx in range(total_shards):
         offset = shard_idx * args.shard_size
