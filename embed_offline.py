@@ -106,7 +106,7 @@ def main():
         max_num_batched_tokens=524288,
         gpu_memory_utilization=0.90,
         runner="pooling",
-        override_pooler_config='{"pooling_type": "MEAN", "enable_chunked_processing": true, "max_embed_len": 32768}',
+        pooler_config='{"pooling_type": "MEAN", "enable_chunked_processing": true, "max_embed_len": 32768}',
         trust_remote_code=True,
     )
     print("Model loaded.", flush=True)
