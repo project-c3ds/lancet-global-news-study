@@ -8,13 +8,15 @@ Usage:
 """
 
 import argparse
+import multiprocessing as mp
 import sqlite3
 import time
 from pathlib import Path
 
 import numpy as np
 from tqdm import tqdm
-from vllm import LLM
+from transformers import AutoTokenizer
+from vllm import LLM, TokensPrompt
 
 MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
 DB_PATH = "data/articles.db"
@@ -50,6 +52,27 @@ def load_done_ids(output_dir):
         done = set(np.concatenate(arrays).tolist())
     print(f"Loaded {len(done):,} done IDs", flush=True)
     return done
+
+
+def _tokenize_chunk(args):
+    """Worker function for parallel tokenization."""
+    texts, model_name, max_tokens = args
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    encoded = tokenizer(texts, truncation=True, max_length=max_tokens, add_special_tokens=True)
+    return encoded["input_ids"]
+
+
+def parallel_tokenize(texts, model_name, max_tokens=8000, num_workers=16):
+    """Tokenize texts in parallel across CPU cores."""
+    chunk_size = max(1, len(texts) // num_workers)
+    chunks = [texts[i:i + chunk_size] for i in range(0, len(texts), chunk_size)]
+    args = [(chunk, model_name, max_tokens) for chunk in chunks]
+    with mp.Pool(num_workers) as pool:
+        results = pool.map(_tokenize_chunk, args)
+    all_ids = []
+    for chunk_ids in results:
+        all_ids.extend(chunk_ids)
+    return all_ids
 
 
 def main():
@@ -130,34 +153,34 @@ def main():
         shard_num = existing_shards
         print(f"\nShard {shard_num} ({len(shard):,} articles)")
 
-        MAX_CHARS = 20000
-        texts = [f"{title}\n{content}"[:MAX_CHARS] for _, title, content in shard]
+        texts = [f"{title}\n{content}" for _, title, content in shard]
         ids = [row[0] for row in shard]
+
+        # Pre-tokenize in parallel across CPUs (truncates to 8000 tokens)
+        print(f"  Tokenizing {len(texts):,} texts across 16 cores...", flush=True)
+        tok_t0 = time.time()
+        token_ids_list = parallel_tokenize(texts, MODEL_NAME, max_tokens=8000, num_workers=16)
+        print(f"  Tokenized in {time.time() - tok_t0:.1f}s", flush=True)
+
+        # Build prompts with pre-tokenized IDs
+        prompts = [TokensPrompt(prompt_token_ids=tids) for tids in token_ids_list]
 
         # Embed in batches via vLLM offline
         all_embs = []
         all_valid_ids = []
-        for i in tqdm(range(0, len(texts), args.batch_size), desc=f"Shard {shard_num}"):
-            batch_texts = texts[i : i + args.batch_size]
+        for i in tqdm(range(0, len(prompts), args.batch_size), desc=f"Shard {shard_num}"):
+            batch_prompts = prompts[i : i + args.batch_size]
             batch_ids = ids[i : i + args.batch_size]
             try:
-                outputs = llm.embed(batch_texts)
+                outputs = llm.embed(batch_prompts)
                 batch_embs = [o.outputs.embedding for o in outputs]
                 all_embs.extend(batch_embs)
                 all_valid_ids.extend(batch_ids)
             except Exception as e:
-                print(f"\n  Batch {i//args.batch_size} failed, retrying with truncation: {e}")
-                try:
-                    truncated = [t[:MAX_CHARS] for t in batch_texts]
-                    outputs = llm.embed(truncated)
-                    batch_embs = [o.outputs.embedding for o in outputs]
-                    all_embs.extend(batch_embs)
-                    all_valid_ids.extend(batch_ids)
-                except Exception as e2:
-                    print(f"\n  Skipping batch {i//args.batch_size} after retry: {e2}")
-                    with open(OUTPUT_DIR / "failed_ids.txt", "a") as f:
-                        for bid in batch_ids:
-                            f.write(f"{bid}\n")
+                print(f"\n  Skipping batch {i//args.batch_size}: {e}")
+                with open(OUTPUT_DIR / "failed_ids.txt", "a") as f:
+                    for bid in batch_ids:
+                        f.write(f"{bid}\n")
 
         # Save shard
         ids_arr = np.array(all_valid_ids, dtype=np.int64)
