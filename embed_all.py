@@ -61,9 +61,12 @@ def load_done_ids(output_dir):
     done = set()
     if not output_dir.exists():
         return done
-    for f in output_dir.glob("ids_*.npy"):
-        ids = np.load(f)
-        done.update(ids.tolist())
+    files = sorted(output_dir.glob("ids_*.npy"))
+    print(f"Loading {len(files)} id shards...", flush=True)
+    arrays = [np.load(f) for f in files]
+    if arrays:
+        done = set(np.concatenate(arrays).tolist())
+    print(f"Loaded {len(done):,} done IDs", flush=True)
     return done
 
 
