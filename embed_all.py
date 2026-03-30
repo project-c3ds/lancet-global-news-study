@@ -115,6 +115,7 @@ def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # Count total articles
+    print("Counting articles...", flush=True)
     total_articles = count_articles(DB_PATH)
     if args.limit:
         total_articles = min(total_articles, args.limit)
