@@ -1,5 +1,5 @@
 #!/bin/bash
-.venv/bin/vllm serve Ranadheer/lancet_qwen35_4b_full_merged \
+.venv/bin/vllm serve iRanadheer/lancet_qwen35_4b_full_merged \
   --port 8000 \
   --dtype bfloat16 \
   --max-model-len 4096 \
