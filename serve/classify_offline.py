@@ -62,10 +62,9 @@ def get_client():
     )
 
 
-async def classify_article(client, semaphore, article_id, title, content):
+async def classify_article(client, article_id, title, content):
     text = truncate_text(f"{title or ''}\n\n{content or ''}")
-    async with semaphore:
-        for attempt in range(3):
+    for attempt in range(3):
             try:
                 response = await client.chat.completions.parse(
                     model=MODEL_NAME,
@@ -129,31 +128,54 @@ async def classify_year(client, filepath, args, t0, total_classified):
 
     print(f"  To classify: {len(remaining):,}", flush=True)
 
-    semaphore = asyncio.Semaphore(args.concurrency)
-    tasks = [
-        classify_article(
-            client, semaphore,
-            row.id,
-            getattr(row, "title", "") or "",
-            getattr(row, "content", "") or "",
-        )
-        for row in remaining.itertuples(index=False)
-    ]
-
+    rows = list(remaining.itertuples(index=False))
     completed = 0
     failed = 0
     out_f = open(output_path, "a")
+    pbar = tqdm(total=len(rows), desc=f"Year {year}")
 
-    for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"Year {year}"):
-        result = await coro
-        out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
-        if "error" in result:
-            failed += 1
-        else:
-            completed += 1
-        if (completed + failed) % 100 == 0:
-            out_f.flush()
+    async def worker(queue):
+        nonlocal completed, failed
+        while True:
+            row = await queue.get()
+            if row is None:
+                queue.task_done()
+                break
+            try:
+                result = await classify_article(
+                    client,
+                    row.id,
+                    getattr(row, "title", "") or "",
+                    getattr(row, "content", "") or "",
+                )
+                out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
+                if "error" in result:
+                    failed += 1
+                else:
+                    completed += 1
+                if (completed + failed) % 100 == 0:
+                    out_f.flush()
+                pbar.update(1)
+            except Exception:
+                failed += 1
+                pbar.update(1)
+            queue.task_done()
 
+    queue = asyncio.Queue(maxsize=args.concurrency * 2)
+
+    # Start workers
+    workers = [asyncio.create_task(worker(queue)) for _ in range(args.concurrency)]
+
+    # Feed the queue
+    for row in rows:
+        await queue.put(row)
+
+    # Signal workers to stop
+    for _ in range(args.concurrency):
+        await queue.put(None)
+
+    await asyncio.gather(*workers)
+    pbar.close()
     out_f.close()
 
     elapsed = time.time() - t0
