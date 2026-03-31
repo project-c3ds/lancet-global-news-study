@@ -54,11 +54,7 @@ def get_client():
     )
 
 
-def truncate_text(text, max_chars=14000):
-    """Truncate text to roughly fit within token limits. ~4 chars per token."""
-    if len(text) > max_chars:
-        return text[:max_chars] + "..."
-    return text
+FAILED_IDS_PATH = OUTPUT_DIR / "failed_ids.txt"
 
 
 @retry(stop=stop_after_attempt(2), wait=wait_exponential(min=1, max=5), reraise=True)
@@ -77,7 +73,7 @@ def call_api(client, text):
 
 def classify_article(client, article_id, title, content):
     """Classify a single article. Returns result dict or error dict."""
-    text = truncate_text(f"{title or ''}\n\n{content or ''}")
+    text = f"{title or ''}\n\n{content or ''}"
     try:
         response = call_api(client, text)
         parsed = response.choices[0].message.parsed
@@ -88,6 +84,8 @@ def classify_article(client, article_id, title, content):
             "health_effects_of_climate_change": parsed.health_effects_of_climate_change,
         }
     except Exception as e:
+        with open(FAILED_IDS_PATH, "a") as f:
+            f.write(f"{article_id}\t{str(e)[:100]}\n")
         return {
             "id": article_id,
             "error": str(e),
@@ -182,7 +180,7 @@ def main():
             print(f"  All done for {year}")
             continue
 
-        print(f"  To classify: {len(remaining):,}")
+        print(f"  To classify: {len(remaining):,}", flush=True)
 
         out_f = open(output_path, "a")
         completed = 0
@@ -190,15 +188,18 @@ def main():
 
         with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
             futures = {}
-            for _, row in remaining.iterrows():
+            rows = list(remaining.itertuples(index=False))
+            print(f"  Submitting {len(rows):,} tasks...", flush=True)
+            for row in rows:
                 fut = pool.submit(
                     classify_article,
                     client,
-                    row["id"],
-                    row.get("title", ""),
-                    row.get("content", ""),
+                    row.id,
+                    getattr(row, "title", "") or "",
+                    getattr(row, "content", "") or "",
                 )
-                futures[fut] = row["id"]
+                futures[fut] = row.id
+            print(f"  Submitted. Classifying...", flush=True)
 
             for fut in tqdm(as_completed(futures), total=len(futures), desc=f"Year {year}"):
                 result = fut.result()
