@@ -6,9 +6,12 @@ using the fine-tuned Qwen 3.5 4B model, and saves results as JSONL.
 Usage:
     python serve/classify_offline.py
     python serve/classify_offline.py --year 2024
-    python serve/classify_offline.py --concurrency 100 --batch-size 32
+    python serve/classify_offline.py --concurrency 100
     python serve/classify_offline.py --limit 1000
     python serve/classify_offline.py --dry-run
+
+    # Point at Modal:
+    VLLM_URL=https://exec3ds--lancet-classify-serve.modal.run/v1 python serve/classify_offline.py
 """
 
 import argparse
@@ -22,6 +25,7 @@ import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel
+from tenacity import retry, stop_after_attempt, wait_exponential
 from tqdm import tqdm
 
 load_dotenv()
@@ -30,8 +34,8 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from prompts.base_prompt import slim_system_instruction, cot_trigger
 
-MODEL_NAME = "lancet-classify"
-VLLM_URL = "http://localhost:8000/v1"
+MODEL_NAME = os.environ.get("MODEL_NAME", "lancet-classify")
+VLLM_URL = os.environ.get("VLLM_URL", "http://localhost:8000/v1")
 INPUT_DIR = Path("data/climate_by_year")
 OUTPUT_DIR = Path("data/classifications")
 
@@ -40,7 +44,6 @@ class ArticleClassification(BaseModel):
     climate_change: bool
     health: bool
     health_effects_of_climate_change: bool
-    reasoning: str
 
 
 def get_client():
@@ -51,30 +54,44 @@ def get_client():
     )
 
 
-def classify_article(client, article_id, title, content, max_retries=3):
-    """Classify a single article. Returns (id, result_dict) or (id, None) on failure."""
-    text = f"### Article:\n{title}\n\n{content}"[:20000]
-    for attempt in range(max_retries):
-        try:
-            response = client.chat.completions.parse(
-                model=MODEL_NAME,
-                messages=[
-                    {"role": "system", "content": slim_system_instruction.strip()},
-                    {"role": "user", "content": f"{text}\n\n{cot_trigger}"},
-                ],
-                response_format=ArticleClassification,
-                max_tokens=500,
-                temperature=0.01,
-            )
-            parsed = response.choices[0].message.parsed
-            result = parsed.model_dump()
-            result["id"] = article_id
-            return article_id, result
-        except Exception as e:
-            if attempt < max_retries - 1:
-                time.sleep(2 ** attempt)
-            else:
-                return article_id, None
+def truncate_text(text, max_chars=14000):
+    """Truncate text to roughly fit within token limits. ~4 chars per token."""
+    if len(text) > max_chars:
+        return text[:max_chars] + "..."
+    return text
+
+
+@retry(stop=stop_after_attempt(2), wait=wait_exponential(min=1, max=5), reraise=True)
+def call_api(client, text):
+    return client.chat.completions.parse(
+        model=MODEL_NAME,
+        messages=[
+            {"role": "system", "content": slim_system_instruction.strip()},
+            {"role": "user", "content": f"### Article:\n{text}\n\nClassify this article."},
+        ],
+        response_format=ArticleClassification,
+        max_tokens=500,
+        temperature=0.01,
+    )
+
+
+def classify_article(client, article_id, title, content):
+    """Classify a single article. Returns result dict or error dict."""
+    text = truncate_text(f"{title or ''}\n\n{content or ''}")
+    try:
+        response = call_api(client, text)
+        parsed = response.choices[0].message.parsed
+        return {
+            "id": article_id,
+            "climate_change": parsed.climate_change,
+            "health": parsed.health,
+            "health_effects_of_climate_change": parsed.health_effects_of_climate_change,
+        }
+    except Exception as e:
+        return {
+            "id": article_id,
+            "error": str(e),
+        }
 
 
 def load_done_ids(output_path):
@@ -125,8 +142,10 @@ def main():
 
     if args.dry_run:
         print(f"\n--- DRY RUN ---")
+        print(f"Server: {VLLM_URL}")
+        print(f"Model: {MODEL_NAME}")
         print(f"Concurrency: {args.concurrency}")
-        print(f"\nTesting connection to {VLLM_URL} ...")
+        print(f"\nTesting connection...")
         try:
             client = get_client()
             models = client.models.list()
@@ -138,7 +157,7 @@ def main():
     client = get_client()
     t0 = time.time()
     total_classified = 0
-    total_remaining = 0
+    total_errors = 0
 
     for filepath in files:
         year = filepath.stem
@@ -163,42 +182,47 @@ def main():
             print(f"  All done for {year}")
             continue
 
-        total_remaining += len(remaining)
         print(f"  To classify: {len(remaining):,}")
 
-        # Open output file for appending
         out_f = open(output_path, "a")
-
-        # Submit all articles concurrently
         completed = 0
         failed = 0
+
         with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
             futures = {}
             for _, row in remaining.iterrows():
-                title = row.get("title", "") or ""
-                content = row.get("content", "") or ""
-                fut = pool.submit(classify_article, client, row["id"], title, content)
+                fut = pool.submit(
+                    classify_article,
+                    client,
+                    row["id"],
+                    row.get("title", ""),
+                    row.get("content", ""),
+                )
                 futures[fut] = row["id"]
 
             for fut in tqdm(as_completed(futures), total=len(futures), desc=f"Year {year}"):
-                article_id, result = fut.result()
-                if result:
-                    out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
-                    completed += 1
-                else:
-                    failed += 1
+                result = fut.result()
+                out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
 
-                total_classified += 1
+                if "error" in result:
+                    failed += 1
+                else:
+                    completed += 1
+
+                if completed % 1000 == 0:
+                    out_f.flush()
 
         out_f.close()
 
         elapsed = time.time() - t0
-        rate = total_classified / elapsed if elapsed > 0 else 0
-        print(f"  Completed: {completed:,}, Failed: {failed:,}")
-        print(f"  Rate: {rate:.1f} articles/s")
+        rate = (total_classified + completed) / elapsed if elapsed > 0 else 0
+        total_classified += completed
+        total_errors += failed
+        print(f"  Completed: {completed:,}, Failed: {failed:,}, Rate: {rate:.1f} art/s")
 
     elapsed = time.time() - t0
-    print(f"\nDone. {total_classified:,} articles in {elapsed/60:.1f}m ({total_classified/elapsed:.1f} art/s)")
+    print(f"\nDone. {total_classified:,} classified in {elapsed/60:.1f}m ({total_classified/elapsed:.1f} art/s)")
+    print(f"Errors: {total_errors:,}")
     print(f"Output: {OUTPUT_DIR}/")
 
 
