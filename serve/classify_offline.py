@@ -169,7 +169,7 @@ async def classify_year(filepath, args, t0, total_classified):
                 failed += 1
             else:
                 completed += 1
-            if completed % 1000 == 0:
+            if (completed + failed) % 100 == 0:
                 out_f.flush()
 
         out_f.close()
