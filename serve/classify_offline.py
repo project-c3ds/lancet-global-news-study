@@ -1,4 +1,4 @@
-"""Classify climate articles using vLLM server (HTTP) with async IO.
+"""Classify climate articles using vLLM server with async OpenAI client.
 
 Reads parquet files from data/climate_by_year/, classifies each article
 using the fine-tuned Qwen 3.5 4B model, and saves results as JSONL.
@@ -21,9 +21,10 @@ import os
 import time
 from pathlib import Path
 
-import aiohttp
 import pandas as pd
 from dotenv import load_dotenv
+from openai import AsyncOpenAI
+from pydantic import BaseModel
 from tqdm.asyncio import tqdm
 
 load_dotenv()
@@ -38,25 +39,13 @@ INPUT_DIR = Path("data/climate_by_year")
 OUTPUT_DIR = Path("data/classifications")
 FAILED_IDS_PATH = OUTPUT_DIR / "failed_ids.txt"
 
-RESPONSE_SCHEMA = {
-    "type": "json_schema",
-    "json_schema": {
-        "name": "ArticleClassification",
-        "strict": True,
-        "schema": {
-            "type": "object",
-            "properties": {
-                "climate_change": {"type": "boolean"},
-                "health": {"type": "boolean"},
-                "health_effects_of_climate_change": {"type": "boolean"},
-            },
-            "required": ["climate_change", "health", "health_effects_of_climate_change"],
-            "additionalProperties": False,
-        },
-    },
-}
-
 SYSTEM_PROMPT = slim_system_instruction.strip()
+
+
+class ArticleClassification(BaseModel):
+    climate_change: bool
+    health: bool
+    health_effects_of_climate_change: bool
 
 
 def truncate_text(text, max_chars=12000):
@@ -65,37 +54,36 @@ def truncate_text(text, max_chars=12000):
     return text
 
 
-async def classify_article(session, semaphore, article_id, title, content, url, api_key):
-    text = truncate_text(f"{title or ''}\n\n{content or ''}")
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": f"### Article:\n{text}\n\nClassify this article."},
-        ],
-        "response_format": RESPONSE_SCHEMA,
-        "max_tokens": 200,
-        "temperature": 0.01,
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}",
-    }
+def get_client():
+    return AsyncOpenAI(
+        base_url=VLLM_URL,
+        api_key=os.environ.get("HF_TOKEN", "not-needed"),
+        timeout=120,
+    )
 
+
+async def classify_article(client, semaphore, article_id, title, content):
+    text = truncate_text(f"{title or ''}\n\n{content or ''}")
     async with semaphore:
         for attempt in range(3):
             try:
-                async with session.post(
-                    f"{url}/chat/completions", json=payload, headers=headers, timeout=aiohttp.ClientTimeout(total=120)
-                ) as resp:
-                    if resp.status != 200:
-                        err = await resp.text()
-                        raise Exception(f"HTTP {resp.status}: {err[:200]}")
-                    data = await resp.json()
-                    content_str = data["choices"][0]["message"]["content"]
-                    parsed = json.loads(content_str)
-                    parsed["id"] = article_id
-                    return parsed
+                response = await client.chat.completions.parse(
+                    model=MODEL_NAME,
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": f"### Article:\n{text}\n\nClassify this article."},
+                    ],
+                    response_format=ArticleClassification,
+                    max_tokens=200,
+                    temperature=0.01,
+                )
+                parsed = response.choices[0].message.parsed
+                return {
+                    "id": article_id,
+                    "climate_change": parsed.climate_change,
+                    "health": parsed.health,
+                    "health_effects_of_climate_change": parsed.health_effects_of_climate_change,
+                }
             except Exception as e:
                 if attempt < 2:
                     await asyncio.sleep(2 ** attempt)
@@ -112,14 +100,13 @@ def load_done_ids(output_path):
     with open(output_path) as f:
         for line in f:
             try:
-                row = json.loads(line)
-                done.add(row["id"])
+                done.add(json.loads(line)["id"])
             except (json.JSONDecodeError, KeyError):
                 continue
     return done
 
 
-async def classify_year(filepath, args, t0, total_classified):
+async def classify_year(client, filepath, args, t0, total_classified):
     year = filepath.stem
     output_path = OUTPUT_DIR / f"{year}.jsonl"
 
@@ -142,37 +129,32 @@ async def classify_year(filepath, args, t0, total_classified):
 
     print(f"  To classify: {len(remaining):,}", flush=True)
 
-    api_key = os.environ.get("HF_TOKEN", "not-needed")
     semaphore = asyncio.Semaphore(args.concurrency)
-    connector = aiohttp.TCPConnector(limit=args.concurrency, limit_per_host=args.concurrency)
+    tasks = [
+        classify_article(
+            client, semaphore,
+            row.id,
+            getattr(row, "title", "") or "",
+            getattr(row, "content", "") or "",
+        )
+        for row in remaining.itertuples(index=False)
+    ]
 
     completed = 0
     failed = 0
+    out_f = open(output_path, "a")
 
-    async with aiohttp.ClientSession(connector=connector) as session:
-        tasks = []
-        for row in remaining.itertuples(index=False):
-            task = classify_article(
-                session, semaphore,
-                row.id,
-                getattr(row, "title", "") or "",
-                getattr(row, "content", "") or "",
-                VLLM_URL, api_key,
-            )
-            tasks.append(task)
+    for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"Year {year}"):
+        result = await coro
+        out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
+        if "error" in result:
+            failed += 1
+        else:
+            completed += 1
+        if (completed + failed) % 100 == 0:
+            out_f.flush()
 
-        out_f = open(output_path, "a")
-        async for result in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"Year {year}"):
-            result = await result
-            out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
-            if "error" in result:
-                failed += 1
-            else:
-                completed += 1
-            if (completed + failed) % 100 == 0:
-                out_f.flush()
-
-        out_f.close()
+    out_f.close()
 
     elapsed = time.time() - t0
     rate = (total_classified + completed) / elapsed if elapsed > 0 else 0
@@ -216,20 +198,20 @@ async def async_main():
         print(f"Concurrency: {args.concurrency}")
         print(f"\nTesting connection...")
         try:
-            async with aiohttp.ClientSession() as session:
-                async with session.get(f"{VLLM_URL}/models") as resp:
-                    data = await resp.json()
-                    print(f"OK: {[m['id'] for m in data['data']]}")
+            client = get_client()
+            models = await client.models.list()
+            print(f"OK: {[m.id for m in models.data]}")
         except Exception as e:
             print(f"FAILED: {e}")
         return
 
+    client = get_client()
     t0 = time.time()
     total_classified = 0
     total_errors = 0
 
     for filepath in files:
-        completed, failed = await classify_year(filepath, args, t0, total_classified)
+        completed, failed = await classify_year(client, filepath, args, t0, total_classified)
         total_classified += completed
         total_errors += failed
 
