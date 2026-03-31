@@ -8,24 +8,6 @@ load_dotenv()
 api_key = os.getenv('NEWSAPI_KEY')
 er = EventRegistry(apiKey=api_key)
 
-CLIMATE_KEYWORDS_EN = [
-    "climate change", "climate changes", "changing climate", "changing climates",
-    "environmental change", "environmental changes",
-    "global warming", "global heating",
-    "climate emergency", "climate emergencies",
-    "climate crisis", "climate crises",
-    "climate action", "climate actions",
-    "climate variability", "variable climate", "variable climates",
-    "extreme weather", "extreme event", "extreme events",
-    "extreme heat", "heatwave", "heatwaves",
-    "rising temperature", "rising temperatures",
-    "temperature rise", "temperature rises",
-    "sea level rise", "rising sea level", "rising sea levels",
-    "greenhouse gas", "greenhouse gases",
-    "carbon emission", "carbon emissions",
-    "co2 emission", "co2 emissions", "carbon dioxide",
-]
-
 
 def fetch_source_uri(url):
     """Fetch the source URI from EventRegistry for a given URL."""
@@ -47,8 +29,13 @@ def collect_recent_articles(source_uri, max_items=20,
         sortBy="date",
         sortByAsc=False,
         returnInfo=ReturnInfo(
-            articleInfo=ArticleInfoFlags(body=False, image=False,
-                                        sentiment=False, authors=False)
+            articleInfo=ArticleInfoFlags(
+                body=True, title=True, url=True, authors=True,
+                image=True, sentiment=True, concepts=True,
+                categories=True, links=True, videos=True,
+                socialScore=True, location=True, extractedDates=True,
+                originalArticle=True, storyUri=True,
+            )
         )
     ))
     res = er.execQuery(q)
@@ -72,17 +59,33 @@ def collect_recent_articles(source_uri, max_items=20,
     }
 
 
-def count_articles(source_uri, keywords=None,
+def count_articles(source_uri, keywords=None, ignore_keywords=None,
                    date_start='2020-01-01', date_end='2026-03-06'):
     """Count articles matching keywords for a source without fetching them.
-    Keywords should be a list of phrases -- they are OR'd together via QueryItems.OR()."""
-    if keywords is None:
-        keywords = CLIMATE_KEYWORDS_EN
-    q = QueryArticlesIter(
-        keywords=QueryItems.OR(keywords),
+    Keywords should be a list of phrases -- they are OR'd together via QueryItems.OR().
+    ignore_keywords is an optional list of phrases to exclude (also OR'd)."""
+    kwargs = dict(
         sourceUri=source_uri,
         dateStart=date_start,
         dateEnd=date_end,
-        keywordSearchMode='phrase'
     )
+    if keywords is not None:
+        kwargs["keywords"] = QueryItems.OR(keywords)
+        kwargs["keywordSearchMode"] = "phrase"
+    if ignore_keywords is not None:
+        kwargs["ignoreKeywords"] = QueryItems.OR(ignore_keywords)
+        kwargs["ignoreKeywordSearchMode"] = "phrase"
+    q = QueryArticlesIter(**kwargs)
     return q.count(er)
+
+
+def get_usage():
+    """Check API token usage and limits."""
+    info = er.getUsageInfo()
+    available = info.get("availableTokens", 0)
+    used = info.get("usedTokens", 0)
+    remaining = available - used
+    print(f"Available: {available:,}")
+    print(f"Used:      {used:,}")
+    print(f"Remaining: {remaining:,}")
+    return info
