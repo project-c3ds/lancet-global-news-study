@@ -57,6 +57,13 @@ def get_client():
 FAILED_IDS_PATH = OUTPUT_DIR / "failed_ids.txt"
 
 
+def truncate_text(text, max_chars=12000):
+    """Truncate text to fit within model context. ~3 chars per token for multilingual."""
+    if len(text) > max_chars:
+        return text[:max_chars] + "..."
+    return text
+
+
 @retry(stop=stop_after_attempt(2), wait=wait_exponential(min=1, max=5), reraise=True)
 def call_api(client, text):
     return client.chat.completions.parse(
@@ -73,7 +80,7 @@ def call_api(client, text):
 
 def classify_article(client, article_id, title, content):
     """Classify a single article. Returns result dict or error dict."""
-    text = f"{title or ''}\n\n{content or ''}"
+    text = truncate_text(f"{title or ''}\n\n{content or ''}")
     try:
         response = call_api(client, text)
         parsed = response.choices[0].message.parsed
