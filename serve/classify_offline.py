@@ -30,7 +30,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from prompts.base_prompt import slim_system_instruction, cot_trigger
 
-MODEL_NAME = "iRanadheer/lancet_qwen35_4b_full_merged"
+MODEL_NAME = "lancet-classify"
 VLLM_URL = "http://localhost:8000/v1"
 INPUT_DIR = Path("data/climate_by_year")
 OUTPUT_DIR = Path("data/classifications")

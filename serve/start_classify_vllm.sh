@@ -1,5 +1,6 @@
 #!/bin/bash
-.venv/bin/vllm serve iRanadheer/lancet_qwen35_4b_full_merged \
+.venv/bin/vllm serve /workspace/lancet-global-news-study/lancet_qwen35_4b_full_merge \
+  --served-model-name lancet-classify \
   --port 8000 \
   --dtype bfloat16 \
   --max-model-len 4096 \
