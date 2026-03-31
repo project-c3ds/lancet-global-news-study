@@ -21,6 +21,7 @@ from pathlib import Path
 import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
+from pydantic import BaseModel
 from tqdm import tqdm
 
 load_dotenv()
@@ -34,24 +35,12 @@ VLLM_URL = "http://localhost:8000/v1"
 INPUT_DIR = Path("data/climate_by_year")
 OUTPUT_DIR = Path("data/classifications")
 
-RESPONSE_SCHEMA = {
-    "type": "json_schema",
-    "json_schema": {
-        "name": "ArticleClassification",
-        "strict": True,
-        "schema": {
-            "type": "object",
-            "properties": {
-                "climate_change": {"type": "boolean"},
-                "health": {"type": "boolean"},
-                "health_effects_of_climate_change": {"type": "boolean"},
-                "reasoning": {"type": "string"},
-            },
-            "required": ["climate_change", "health", "health_effects_of_climate_change", "reasoning"],
-            "additionalProperties": False,
-        },
-    },
-}
+
+class ArticleClassification(BaseModel):
+    climate_change: bool
+    health: bool
+    health_effects_of_climate_change: bool
+    reasoning: str
 
 
 def get_client():
@@ -67,17 +56,18 @@ def classify_article(client, article_id, title, content, max_retries=3):
     text = f"### Article:\n{title}\n\n{content}"[:20000]
     for attempt in range(max_retries):
         try:
-            response = client.chat.completions.create(
+            response = client.chat.completions.parse(
                 model=MODEL_NAME,
                 messages=[
                     {"role": "system", "content": slim_system_instruction.strip()},
                     {"role": "user", "content": f"{text}\n\n{cot_trigger}"},
                 ],
-                response_format=RESPONSE_SCHEMA,
+                response_format=ArticleClassification,
                 max_tokens=500,
                 temperature=0.01,
             )
-            result = json.loads(response.choices[0].message.content)
+            parsed = response.choices[0].message.parsed
+            result = parsed.model_dump()
             result["id"] = article_id
             return article_id, result
         except Exception as e:
