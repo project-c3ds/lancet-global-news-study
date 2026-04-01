@@ -16,7 +16,6 @@ Usage:
 
 import argparse
 import asyncio
-import random
 import json
 import os
 import time
@@ -134,50 +133,31 @@ async def classify_year(client, filepath, args, t0, total_classified):
     failed = 0
     out_f = open(output_path, "a")
     pbar = tqdm(total=len(rows), desc=f"Year {year}")
+    semaphore = asyncio.Semaphore(args.concurrency)
 
-    async def worker(queue, worker_id):
+    async def process_one(row):
         nonlocal completed, failed
-        # Stagger startup to prevent synchronized bursts
-        await asyncio.sleep(random.uniform(0, 5))
-        while True:
-            row = await queue.get()
-            if row is None:
-                queue.task_done()
-                break
-            try:
-                result = await classify_article(
-                    client,
-                    row.id,
-                    getattr(row, "title", "") or "",
-                    getattr(row, "content", "") or "",
-                )
-                out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
-                if "error" in result:
-                    failed += 1
-                else:
-                    completed += 1
-                if (completed + failed) % 100 == 0:
-                    out_f.flush()
-                pbar.update(1)
-            except Exception:
+        async with semaphore:
+            result = await classify_article(
+                client,
+                row.id,
+                getattr(row, "title", "") or "",
+                getattr(row, "content", "") or "",
+            )
+            out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
+            if "error" in result:
                 failed += 1
-                pbar.update(1)
-            queue.task_done()
+            else:
+                completed += 1
+            if (completed + failed) % 100 == 0:
+                out_f.flush()
+            pbar.update(1)
 
-    queue = asyncio.Queue(maxsize=args.concurrency * 2)
-
-    # Start workers
-    workers = [asyncio.create_task(worker(queue, i)) for i in range(args.concurrency)]
-
-    # Feed the queue
-    for row in rows:
-        await queue.put(row)
-
-    # Signal workers to stop
-    for _ in range(args.concurrency):
-        await queue.put(None)
-
-    await asyncio.gather(*workers)
+    # Create all tasks — semaphore limits concurrency
+    # Tasks start immediately but only `concurrency` run at once
+    # Each task finishes independently, no synchronization
+    tasks = [asyncio.create_task(process_one(row)) for row in rows]
+    await asyncio.gather(*tasks)
     pbar.close()
     out_f.close()
 
