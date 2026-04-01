@@ -7,4 +7,4 @@
   --max-model-len 8192 \
   --max-num-seqs 1024 \
   --max-num-batched-tokens 131072 \
-  --gpu-memory-utilization 0.95
+  --gpu-memory-utilization 0.85
