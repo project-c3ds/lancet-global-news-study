@@ -48,7 +48,7 @@ class ArticleClassification(BaseModel):
     health_effects_of_climate_change: bool
 
 
-def truncate_text(text, max_chars=12000):
+def truncate_text(text, max_chars=7000):
     if len(text) > max_chars:
         return text[:max_chars] + "..."
     return text
