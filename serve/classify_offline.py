@@ -16,6 +16,7 @@ Usage:
 
 import argparse
 import asyncio
+import random
 import json
 import os
 import time
@@ -134,8 +135,10 @@ async def classify_year(client, filepath, args, t0, total_classified):
     out_f = open(output_path, "a")
     pbar = tqdm(total=len(rows), desc=f"Year {year}")
 
-    async def worker(queue):
+    async def worker(queue, worker_id):
         nonlocal completed, failed
+        # Stagger startup to prevent synchronized bursts
+        await asyncio.sleep(random.uniform(0, 5))
         while True:
             row = await queue.get()
             if row is None:
@@ -164,7 +167,7 @@ async def classify_year(client, filepath, args, t0, total_classified):
     queue = asyncio.Queue(maxsize=args.concurrency * 2)
 
     # Start workers
-    workers = [asyncio.create_task(worker(queue)) for _ in range(args.concurrency)]
+    workers = [asyncio.create_task(worker(queue, i)) for i in range(args.concurrency)]
 
     # Feed the queue
     for row in rows:
