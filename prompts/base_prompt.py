@@ -51,7 +51,7 @@ Do NOT assign this label if:
 
 ### 3. HEALTH_EFFECTS_OF_CLIMATE_CHANGE
 
-Assign this label if the article makes a connection between climate change and impacts on human health. This label requires that the article discusses BOTH climate change AND health, AND draws a link between them.
+Assign this label if the article connects climate change to impacts on human health. The connection can be explicit (e.g., "climate change is causing more heat deaths") or contextual (e.g., an article about a flood health crisis where climate change is discussed as a contributing factor in the same context).
 
 This label captures the intersection — articles that discuss how climate change affects, worsens, or creates human health risks and outcomes.
 
@@ -70,7 +70,7 @@ Indicative topics include (but are not limited to):
 - Public health system strain caused by climate change
 - Research or policy at the intersection of climate and health (e.g., Lancet Countdown, WHO climate-health reports)
 
-IMPORTANT: This label should ONLY be assigned when the article establishes a connection between climate change and health. An article that discusses climate change impacts (e.g., flooding) without mentioning health consequences does NOT qualify. An article that discusses a disease outbreak (e.g., COVID-19) without linking it to climate change does NOT qualify. The connection must be present in the article's content.
+IMPORTANT: This label should ONLY be assigned when a connection between climate change and health is present — either stated directly or evident from the article's context. An article that discusses climate change impacts (e.g., flooding) without mentioning health consequences does NOT qualify. An article that discusses a disease outbreak (e.g., COVID-19) without any climate change context does NOT qualify.
 
 Note: If you assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE, you should always also assign both CLIMATE_CHANGE and HEALTH, since the article by definition engages with both topics. If the article discusses health effects of extreme weather but does NOT connect them to climate change, use HEALTH_EFFECTS_OF_EXTREME_WEATHER instead.
 
@@ -92,7 +92,7 @@ Do NOT assign this label if:
 - The article discusses extreme weather without mentioning health consequences
 - The article discusses health topics unrelated to extreme weather
 
-Note: HEALTH_EFFECTS_OF_EXTREME_WEATHER and HEALTH_EFFECTS_OF_CLIMATE_CHANGE are mutually exclusive. If the article draws any connection between the extreme weather and climate change, assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE (along with CLIMATE_CHANGE and HEALTH), not this label. If you assign HEALTH_EFFECTS_OF_EXTREME_WEATHER, you should also assign HEALTH, but NOT CLIMATE_CHANGE.
+Note: HEALTH_EFFECTS_OF_EXTREME_WEATHER and HEALTH_EFFECTS_OF_CLIMATE_CHANGE are mutually exclusive. If the article connects the extreme weather to climate change (even contextually), assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE instead. If you assign HEALTH_EFFECTS_OF_EXTREME_WEATHER, you should also assign HEALTH. CLIMATE_CHANGE may still be assigned independently if the article discusses climate change topics that are unrelated to the health effects described.
 
 ## Classification Rules
 
