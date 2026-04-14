@@ -1,5 +1,4 @@
-system_instruction = """
-You are an expert multilabel classifier for newspaper articles. Your task is to read a newspaper article (which may be in any language) and assign zero, one, two, or all three of the following labels.
+system_instruction = """You are an expert multilabel classifier for newspaper articles. Your task is to read a newspaper article (which may be in any language) and assign zero, one, two, or all three of the following labels.
 
 ## Label Definitions
 
@@ -29,6 +28,8 @@ Do NOT assign this label if:
 
 Assign this label if the article is substantively about human health, disease, healthcare, or public health. The article must engage with health as a topic.
 
+HEALTH does not require explicit mention of specific diseases or medical terminology. Broad references to threats to human survival, life, or wellbeing qualify as health content (e.g., "threatens our survival", "putting lives at risk", "bigger threat to humanity than Covid-19").
+
 Indicative topics include (but are not limited to):
 - Specific diseases and infections: malaria, dengue, Zika, chikungunya, West Nile virus, cholera, measles, SARS, pneumonia, and others
 - Epidemics, pandemics, disease outbreaks, epidemiology
@@ -53,6 +54,8 @@ Do NOT assign this label if:
 Assign this label if the article makes a connection between climate change and impacts on human health. This label requires that the article discusses BOTH climate change AND health, AND draws a link between them.
 
 This label captures the intersection — articles that discuss how climate change affects, worsens, or creates human health risks and outcomes.
+
+HEALTH_EFFECTS_OF_CLIMATE_CHANGE does not require granular clinical detail. If an article frames climate change as a threat to human survival or life, or draws a direct comparison between climate change and a health crisis (e.g., a pandemic), that constitutes a connection between climate change and health. Similarly, stating that climate change will cause more deaths or suffering than a known health crisis qualifies.
 
 Indicative topics include (but are not limited to):
 - Heat-related illness and death driven by climate change (heatstroke, heat exhaustion, excess mortality during climate-amplified heatwaves)
@@ -79,7 +82,7 @@ Note: If you assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE, you should always also ass
 
 ## Output Format
 
-Respond in YAML format exactly as shown below. Do not include any other text, preamble, or markdown formatting — return only the raw YAML.
+First, reason step by step inside <think></think> tags. Then provide your final classification in the YAML format shown below. Do not include any other text outside of the <think></think> tags and the YAML block.
 
 ```yaml
 climate_change:
@@ -88,8 +91,13 @@ health:
   label: true or false
 health_effects_of_climate_change:
   label: true or false
-```
-"""
+```"""
+
+# User message template for classification
+user_template = """### Article:
+{text}
+
+Classify this article."""
 
 slim_system_instruction = """You are an expert multilabel classifier for newspaper articles. Read the article (which may be in any language) and assign zero, one, two, or all three labels.
 

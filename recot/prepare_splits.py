@@ -22,7 +22,7 @@ import sys
 from sklearn.model_selection import train_test_split
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from prompts.base_prompt import system_instruction, cot_trigger
+from prompts.base_prompt import slim_system_instruction, cot_trigger
 
 
 def load_content_map(data_dir: str) -> dict:
@@ -42,7 +42,7 @@ def build_sft_record(text: str, response: str) -> dict:
     """Convert raw RECoT record to OpenAI SFT chat messages format."""
     return {
         "messages": [
-            {"role": "system", "content": system_instruction.strip()},
+            {"role": "system", "content": slim_system_instruction.strip()},
             {"role": "user", "content": f"### Article:\n{text}\n\n{cot_trigger}"},
             {"role": "assistant", "content": response},
         ]

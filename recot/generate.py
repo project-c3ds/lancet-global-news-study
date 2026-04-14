@@ -29,7 +29,7 @@ load_dotenv()
 # Add parent directory to path so we can import prompts
 # ---------------------------------------------------------------------------
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from prompts.base_prompt import system_instruction, cot_trigger, recot_trigger
+from prompts.base_prompt import slim_system_instruction, cot_trigger, recot_trigger
 
 
 # ---------------------------------------------------------------------------
@@ -100,7 +100,7 @@ def build_messages(text: str, true_labels: dict) -> list:
             "content": [
                 {
                     "type": "text",
-                    "text": system_instruction,
+                    "text": slim_system_instruction,
                     "cache_control": {"type": "ephemeral"},
                 }
             ],
