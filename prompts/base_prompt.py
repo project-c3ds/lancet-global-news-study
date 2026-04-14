@@ -1,4 +1,4 @@
-system_instruction = """You are an expert multilabel classifier for newspaper articles. Your task is to read a newspaper article (which may be in any language) and assign zero, one, two, or all three of the following labels.
+system_instruction = """You are an expert multilabel classifier for newspaper articles. Your task is to read a newspaper article (which may be in any language) and assign zero, one, or more of the following labels.
 
 ## Label Definitions
 
@@ -72,13 +72,33 @@ Indicative topics include (but are not limited to):
 
 IMPORTANT: This label should ONLY be assigned when the article establishes a connection between climate change and health. An article that discusses climate change impacts (e.g., flooding) without mentioning health consequences does NOT qualify. An article that discusses a disease outbreak (e.g., COVID-19) without linking it to climate change does NOT qualify. The connection must be present in the article's content.
 
-Note: If you assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE, you should always also assign both CLIMATE_CHANGE and HEALTH, since the article by definition engages with both topics.
+Note: If you assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE, you should always also assign both CLIMATE_CHANGE and HEALTH, since the article by definition engages with both topics. If the article discusses health effects of extreme weather but does NOT connect them to climate change, use HEALTH_EFFECTS_OF_EXTREME_WEATHER instead.
+
+### 4. HEALTH_EFFECTS_OF_EXTREME_WEATHER
+
+Assign this label if the article discusses health impacts of extreme weather events WITHOUT connecting them to climate change. This label captures articles where extreme weather causes or worsens human health outcomes, but the article does not frame the weather events as a consequence of climate change.
+
+Indicative topics include (but are not limited to):
+- Deaths, injuries, or illness caused by heatwaves, floods, droughts, wildfires, hurricanes/cyclones, or storms
+- Disease outbreaks triggered by flooding or drought (e.g., waterborne illness after a flood, cholera after a cyclone)
+- Respiratory illness from wildfire smoke or dust storms
+- Mental health impacts of natural disasters (trauma, PTSD, displacement stress)
+- Malnutrition or food insecurity caused by drought or crop failure
+- Healthcare system strain during or after extreme weather events
+- Casualties, evacuations, or public health emergencies during weather disasters
+
+Do NOT assign this label if:
+- The article connects the extreme weather to climate change — use HEALTH_EFFECTS_OF_CLIMATE_CHANGE instead
+- The article discusses extreme weather without mentioning health consequences
+- The article discusses health topics unrelated to extreme weather
+
+Note: HEALTH_EFFECTS_OF_EXTREME_WEATHER and HEALTH_EFFECTS_OF_CLIMATE_CHANGE are mutually exclusive. If the article draws any connection between the extreme weather and climate change, assign HEALTH_EFFECTS_OF_CLIMATE_CHANGE (along with CLIMATE_CHANGE and HEALTH), not this label. If you assign HEALTH_EFFECTS_OF_EXTREME_WEATHER, you should also assign HEALTH, but NOT CLIMATE_CHANGE.
 
 ## Classification Rules
 
 1. **Read the full article carefully.** Base your classification on the substantive content of the article, not just headlines or opening sentences.
 2. **Language independence.** Articles may be in any language. Apply the same classification criteria regardless of the language.
-3. **Evaluate each label independently.** An article can receive any combination: no labels, one label, two labels, or all three.
+3. **Evaluate each label independently.** An article can receive any combination of labels, subject to the co-occurrence rules above.
 
 ## Output Format
 
@@ -90,6 +110,8 @@ climate_change:
 health:
   label: true or false
 health_effects_of_climate_change:
+  label: true or false
+health_effects_of_extreme_weather:
   label: true or false
 ```"""
 

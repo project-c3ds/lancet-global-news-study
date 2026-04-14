@@ -19,10 +19,10 @@ from prompts.base_prompt import system_instruction, user_template
 MAX_CHARS = 10000
 
 ARTICLES_PATH = ROOT / "data" / "annotation_sample_5k.jsonl"
-CLASSIFICATIONS_PATH = ROOT / "data" / "classifications" / "annotation_sample_sonnet.jsonl"
-OUTPUT_PATH = ROOT / "ft" / "data" / "sonnet_ft.jsonl"
+CLASSIFICATIONS_PATH = ROOT / "data" / "classifications" / "annotation_sample_sonnet_v2.jsonl"
+OUTPUT_PATH = ROOT / "ft" / "data" / "sonnet_ft_v2.jsonl"
 
-LABELS = ["climate_change", "health", "health_effects_of_climate_change"]
+LABELS = ["climate_change", "health", "health_effects_of_climate_change", "health_effects_of_extreme_weather"]
 
 
 def main():

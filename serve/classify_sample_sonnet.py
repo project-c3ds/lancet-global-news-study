@@ -26,7 +26,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from prompts.base_prompt import system_instruction, user_template
 
 DEFAULT_INPUT = Path("data/annotation_sample_5k.jsonl")
-DEFAULT_OUTPUT = Path("data/classifications/annotation_sample_sonnet.jsonl")
+DEFAULT_OUTPUT = Path("data/classifications/annotation_sample_sonnet_v2.jsonl")
 
 SYSTEM_PROMPT = system_instruction
 USER_TEMPLATE = user_template
@@ -46,7 +46,7 @@ def parse_response(raw):
     if thinking_match:
         result["reasoning"] = thinking_match.group(1).strip()
 
-    for key in ["climate_change", "health", "health_effects_of_climate_change"]:
+    for key in ["climate_change", "health", "health_effects_of_climate_change", "health_effects_of_extreme_weather"]:
         match = re.search(rf"{key}:\s*\n\s*label:\s*(true|false)", raw, re.IGNORECASE)
         if match:
             result[key] = match.group(1).lower() == "true"
@@ -68,8 +68,9 @@ async def call_api(client, text):
     """Single API call with tenacity retry."""
     response = await client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=1500,
+        max_tokens=5000,
         temperature=0,
+        thinking={"type": "disabled"},
         system=SYSTEM_PROMPT,
         messages=[
             {"role": "user", "content": USER_TEMPLATE.format(text=text)},
@@ -98,6 +99,7 @@ async def async_main():
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT, help="Input JSONL")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Output JSONL")
     parser.add_argument("--concurrency", type=int, default=50, help="Concurrent requests")
+    parser.add_argument("--limit", type=int, default=None, help="Max articles to classify")
     args = parser.parse_args()
 
     import anthropic
@@ -122,6 +124,8 @@ async def async_main():
         print(f"Resuming: {len(done_ids)} already done")
 
     remaining = [a for a in articles if a["id"] not in done_ids]
+    if args.limit:
+        remaining = remaining[:args.limit]
     if not remaining:
         print("All done.")
         return
@@ -135,7 +139,7 @@ async def async_main():
     parse_errors = 0
 
     out_f = open(args.output, "a")
-    labels = ["climate_change", "health", "health_effects_of_climate_change"]
+    labels = ["climate_change", "health", "health_effects_of_climate_change", "health_effects_of_extreme_weather"]
 
     from tqdm.asyncio import tqdm
 
@@ -185,11 +189,13 @@ async def async_main():
     if n > 0:
         cc = sum(1 for r in results if r["climate_change"])
         h = sum(1 for r in results if r["health"])
-        ch = sum(1 for r in results if r["health_effects_of_climate_change"])
+        hcc = sum(1 for r in results if r["health_effects_of_climate_change"])
+        hew = sum(1 for r in results if r["health_effects_of_extreme_weather"])
         print(f"\n--- Distribution (n={n}) ---")
         print(f"Climate Change:       {cc} ({cc/n*100:.1f}%)")
         print(f"Health:               {h} ({h/n*100:.1f}%)")
-        print(f"Health Effects of CC: {ch} ({ch/n*100:.1f}%)")
+        print(f"Health Effects of CC: {hcc} ({hcc/n*100:.1f}%)")
+        print(f"Health Effects of EW: {hew} ({hew/n*100:.1f}%)")
 
 
 def main():
