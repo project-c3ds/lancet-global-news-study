@@ -1,0 +1,76 @@
+country,region,un_region,un_subregion,climate_zone,hdi_value,hdi_category,cri_rank_2024,cri_rank_1995_2024,cri_rank_2023,cri_rank_1994_2023
+Algeria,Africa,Africa,Northern Africa,Northern temperate,0.763,High,92.0,110.0,73.0,107.0
+Argentina,Latin America and the Caribbean,Americas,South America,Southern temperate,0.865,Very high,40.0,99.0,27.0,99.0
+Australia,Oceania,Oceania,Australia and New Zealand,Southern temperate,0.958,Very high,55.0,69.0,99.0,65.0
+Austria,Europe,Europe,Western Europe,Northern temperate,0.93,Very high,93.0,100.0,68.0,96.0
+Bangladesh,Asia,Asia,Southern Asia,Tropical,0.685,Medium,13.0,13.0,21.0,13.0
+Belgium,Europe,Europe,Western Europe,Northern temperate,0.951,Very high,142.0,55.0,49.0,52.0
+Bolivia,Latin America and the Caribbean,Americas,South America,Tropical,0.733,High,41.0,44.0,34.0,40.0
+Brazil,Latin America and the Caribbean,Americas,South America,Tropical,0.786,High,12.0,40.0,15.0,44.0
+Bulgaria,Europe,Europe,Eastern Europe,Northern temperate,0.845,Very high,170.0,56.0,24.0,54.0
+Cameroon,Africa,Africa,Middle Africa,Tropical,0.588,Medium,61.0,121.0,63.0,123.0
+Canada,North America,Americas,Northern America,Northern temperate,0.939,Very high,49.0,106.0,29.0,104.0
+Chile,Latin America and the Caribbean,Americas,South America,Southern temperate,0.878,Very high,16.0,87.0,18.0,93.0
+China,Asia,Asia,Eastern Asia,Northern temperate,0.797,High,30.0,11.0,14.0,10.0
+Colombia,Latin America and the Caribbean,Americas,South America,Tropical,0.788,High,26.0,54.0,74.0,53.0
+Croatia,Europe,Europe,Southern Europe,Northern temperate,0.889,Very high,123.0,67.0,26.0,61.0
+Czech Republic,Europe,Europe,Eastern Europe,Northern temperate,0.915,Very high,22.0,57.0,85.0,58.0
+Denmark,Europe,Europe,Northern Europe,Northern temperate,0.962,Very high,135.0,150.0,89.0,148.0
+Ecuador,Latin America and the Caribbean,Americas,South America,Tropical,0.777,High,33.0,92.0,19.0,92.0
+Egypt,Africa,Africa,Northern Africa,Tropical,0.754,High,132.0,154.0,174.0,152.0
+Ethiopia,Africa,Africa,Eastern Africa,Tropical,0.497,Low,62.0,47.0,43.0,46.0
+Fiji,Oceania,Oceania,Melanesia,Tropical,0.731,High,163.0,30.0,57.0,29.0
+Finland,Europe,Europe,Northern Europe,Northern temperate,0.948,Very high,125.0,172.0,95.0,172.0
+France,Europe,Europe,Western Europe,Northern temperate,0.92,Very high,97.0,12.0,8.0,11.0
+Germany,Europe,Europe,Western Europe,Northern temperate,0.959,Very high,50.0,29.0,50.0,30.0
+Ghana,Africa,Africa,Western Africa,Tropical,0.634,Medium,113.0,113.0,83.0,111.0
+Greece,Europe,Europe,Southern Europe,Northern temperate,0.908,Very high,65.0,28.0,4.0,27.0
+Guyana,Latin America and the Caribbean,Americas,South America,Tropical,0.776,High,157.0,73.0,174.0,69.0
+Honduras,Latin America and the Caribbean,Americas,Central America,Tropical,0.645,Medium,75.0,3.0,71.0,3.0
+Hong Kong,Asia,Asia,Eastern Asia,Northern temperate,0.955,Very high,,,,
+Hungary,Europe,Europe,Eastern Europe,Northern temperate,0.87,Very high,134.0,77.0,88.0,74.0
+India,Asia,Asia,Southern Asia,Tropical,0.685,Medium,15.0,9.0,10.0,8.0
+Indonesia,Asia,Asia,South-Eastern Asia,Tropical,0.728,High,27.0,48.0,38.0,47.0
+Iraq,Asia,Asia,Western Asia,Northern temperate,0.695,Medium,91.0,118.0,120.0,116.0
+Ireland,Europe,Europe,Northern Europe,Northern temperate,0.949,Very high,148.0,152.0,108.0,150.0
+Israel,Asia,Asia,Western Asia,Northern temperate,0.919,Very high,128.0,114.0,174.0,112.0
+Italy,Europe,Europe,Southern Europe,Northern temperate,0.915,Very high,104.0,16.0,3.0,16.0
+Jamaica,Latin America and the Caribbean,Americas,Caribbean,Tropical,0.72,High,11.0,84.0,174.0,95.0
+Japan,Asia,Asia,Eastern Asia,Northern temperate,0.925,Very high,34.0,71.0,100.0,68.0
+Kenya,Africa,Africa,Eastern Africa,Tropical,0.628,Medium,45.0,39.0,40.0,42.0
+Korea,Asia,Asia,Eastern Asia,Northern temperate,0.937,Very high,46.0,91.0,84.0,85.0
+Malaysia,Asia,Asia,South-Eastern Asia,Tropical,0.819,Very high,112.0,86.0,77.0,83.0
+Maldives,Asia,Asia,Southern Asia,Tropical,0.766,High,144.0,171.0,174.0,171.0
+Mauritius,Africa,Africa,Eastern Africa,Tropical,0.806,Very high,67.0,129.0,96.0,137.0
+Mexico,Latin America and the Caribbean,Americas,Central America,Tropical,0.789,High,28.0,51.0,12.0,50.0
+Morocco,Africa,Africa,Northern Africa,Northern temperate,0.71,High,96.0,83.0,174.0,80.0
+Netherlands,Europe,Europe,Western Europe,Northern temperate,0.955,Very high,81.0,74.0,94.0,71.0
+Nigeria,Africa,Africa,Western Africa,Tropical,0.56,Medium,19.0,61.0,70.0,62.0
+Norway,Europe,Europe,Northern Europe,Northern temperate,0.97,Very high,145.0,155.0,114.0,153.0
+Pakistan,Asia,Asia,Southern Asia,Northern temperate,0.544,Low,47.0,15.0,59.0,15.0
+Papua New Guinea,Oceania,Oceania,Melanesia,Tropical,0.576,Medium,4.0,63.0,174.0,77.0
+Peru,Latin America and the Caribbean,Americas,South America,Tropical,0.794,High,54.0,31.0,13.0,32.0
+Philippines,Asia,Asia,South-Eastern Asia,Tropical,0.72,High,7.0,7.0,11.0,6.0
+Poland,Europe,Europe,Eastern Europe,Northern temperate,0.906,Very high,42.0,81.0,93.0,78.0
+Portugal,Europe,Europe,Southern Europe,Northern temperate,0.89,Very high,39.0,27.0,33.0,25.0
+Romania,Europe,Europe,Eastern Europe,Northern temperate,0.845,Very high,84.0,49.0,45.0,48.0
+Russia,Europe,Europe,Eastern Europe,Northern temperate,0.832,Very high,51.0,21.0,32.0,19.0
+Saudi Arabia,Asia,Asia,Western Asia,Tropical,0.9,Very high,36.0,133.0,174.0,142.0
+Senegal,Africa,Africa,Western Africa,Tropical,0.53,Low,87.0,108.0,174.0,105.0
+Serbia,Europe,Europe,Southern Europe,Northern temperate,0.833,Very high,173.0,80.0,30.0,76.0
+Singapore,Asia,Asia,South-Eastern Asia,Tropical,0.946,Very high,,,,
+Slovakia,Europe,Europe,Eastern Europe,Northern temperate,0.88,Very high,82.0,111.0,78.0,108.0
+South Africa,Africa,Africa,Southern Africa,Southern temperate,0.741,High,37.0,53.0,87.0,51.0
+Spain,Europe,Europe,Southern Europe,Northern temperate,0.918,Very high,20.0,24.0,7.0,24.0
+Sweden,Europe,Europe,Northern Europe,Northern temperate,0.959,Very high,168.0,153.0,119.0,151.0
+Switzerland,Europe,Europe,Western Europe,Northern temperate,0.97,Very high,108.0,105.0,36.0,102.0
+Taiwan,Asia,Asia,Eastern Asia,Northern temperate,,,,,,
+Tanzania,Africa,Africa,Eastern Africa,Tropical,0.555,Medium,23.0,82.0,37.0,113.0
+Thailand,Asia,Asia,South-Eastern Asia,Tropical,0.798,High,17.0,22.0,69.0,21.0
+Turkey,Asia,Asia,Western Asia,Northern temperate,0.852,Very high,100.0,107.0,42.0,103.0
+Uganda,Africa,Africa,Eastern Africa,Tropical,0.582,Medium,56.0,79.0,106.0,79.0
+Ukraine,Europe,Europe,Eastern Europe,Northern temperate,0.779,High,143.0,85.0,104.0,82.0
+United Arab Emirates,Asia,Asia,Western Asia,Tropical,0.94,Very high,103.0,173.0,174.0,174.0
+United Kingdom,Europe,Europe,Northern Europe,Northern temperate,0.946,Very high,106.0,65.0,75.0,60.0
+United States,North America,Americas,Northern America,Northern temperate,0.938,Very high,21.0,18.0,22.0,20.0
+Vietnam,Asia,Asia,South-Eastern Asia,Tropical,0.766,High,10.0,14.0,61.0,14.0
