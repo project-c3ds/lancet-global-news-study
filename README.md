@@ -49,4 +49,4 @@ An `.env` file is required for any step that hits external APIs (NewsAPI, Anthro
 
 ## Citation
 
-Coan, T. G., Malla, R., & O'Neill, S. (2026). Media Engagement with Health and Climate Change. *The Lancet Countdown on Health and Climate Change*, Indicator 5.1.
+Coan, T. G., Malla, R., & O'Neill, S. (2026). Media Engagement with Health and Climate Change.
