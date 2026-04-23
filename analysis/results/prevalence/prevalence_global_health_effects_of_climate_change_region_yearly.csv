@@ -1,2 +1,2 @@
 ,median,mad,eti_2.5%,eti_97.5%,mcse_median,ess_median,ess_tail,r_hat
-prevalence_global,0.143,0.01,0.105,0.187,0.006,16.186,33.0,
+prevalence_global,0.132,0.014,0.084,0.185,0.0,3881.898,4329.0,1.0
