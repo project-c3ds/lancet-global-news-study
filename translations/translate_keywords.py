@@ -39,19 +39,19 @@ SEED_DIR = HERE / "keywords"
 OUTPUT_JSON = HERE / "keyword_translations.json"
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-4-6")
 
-# ISO-639-3 code → human name. Matches the language set used in the paper.
+# ISO-639-3 code → human name. Covers the 40 languages that appear in the
+# study corpus (derived from `data/climate_articles_with_classifications.parquet`).
 LANGUAGES = {
-    "ara": "Arabic", "aze": "Azerbaijani", "bel": "Belarusian", "ben": "Bengali",
-    "bul": "Bulgarian", "cat": "Catalan", "ces": "Czech", "cmn": "Mandarin Chinese",
-    "dan": "Danish", "deu": "German", "ell": "Greek", "est": "Estonian",
-    "fas": "Persian", "fra": "French", "heb": "Hebrew", "hin": "Hindi",
-    "hrv": "Croatian", "hye": "Armenian", "ind": "Indonesian", "isl": "Icelandic",
-    "ita": "Italian", "jpn": "Japanese", "kaz": "Kazakh", "kor": "Korean",
-    "lav": "Latvian", "lit": "Lithuanian", "mal": "Malayalam", "mkd": "Macedonian",
-    "msa": "Malay", "nld": "Dutch", "nob": "Norwegian Bokmål", "pol": "Polish",
-    "por": "Portuguese", "ron": "Romanian", "rus": "Russian", "spa": "Spanish",
-    "sqi": "Albanian", "srp": "Serbian", "swa": "Swahili", "tha": "Thai",
-    "tur": "Turkish", "urd": "Urdu", "vie": "Vietnamese", "zho": "Chinese",
+    "ara": "Arabic", "ben": "Bengali", "bos": "Bosnian", "bul": "Bulgarian",
+    "cat": "Catalan", "ces": "Czech", "dan": "Danish", "deu": "German",
+    "div": "Dhivehi", "ell": "Greek", "eng": "English", "fin": "Finnish",
+    "fra": "French", "heb": "Hebrew", "hrv": "Croatian", "hun": "Hungarian",
+    "ind": "Indonesian", "ita": "Italian", "jpn": "Japanese", "kor": "Korean",
+    "mal": "Malayalam", "msa": "Malay", "nld": "Dutch", "nob": "Norwegian Bokmål",
+    "pol": "Polish", "por": "Portuguese", "ron": "Romanian", "rus": "Russian",
+    "slk": "Slovak", "spa": "Spanish", "sqi": "Albanian", "srp": "Serbian",
+    "swa": "Swahili", "swe": "Swedish", "tha": "Thai", "tur": "Turkish",
+    "ukr": "Ukrainian", "urd": "Urdu", "vie": "Vietnamese", "zho": "Chinese",
 }
 
 

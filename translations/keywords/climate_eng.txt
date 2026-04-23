@@ -9,6 +9,7 @@ climates
 "heatwave"
 "heatwaves"
 "heat wave"
+"heat waves"
 "rising temperature"
 "rising temperatures"
 "temperature"
