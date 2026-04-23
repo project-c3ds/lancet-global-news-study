@@ -12,6 +12,7 @@ Columns:
 |---|---|---|
 | `source_uri` | str | |
 | `country` | str | 75-country sample, `GB` remapped to `United Kingdom` |
+| `iso3` | str | ISO 3166-1 alpha-3 country code |
 | `month` | str | `YYYY-MM`, 2021-01 through 2025-12 |
 | `un_region` | str | covariate |
 | `climate_zone` | str | covariate (Northern temperate / Tropical / Southern temperate) |

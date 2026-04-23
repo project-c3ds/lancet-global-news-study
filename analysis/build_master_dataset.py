@@ -20,6 +20,7 @@ Columns
 -------
     source_uri     str
     country        str   (75-country sample, `GB` remapped to `United Kingdom`)
+    iso3           str   (ISO 3166-1 alpha-3 country code)
     month          str   (`YYYY-MM`, 2021-01 through 2025-12)
     un_region      str
     climate_zone   str
@@ -46,7 +47,7 @@ DEFAULT_INPUT = ROOT / "data" / "climate_articles_with_classifications.parquet"
 DEFAULT_COVARIATES = ROOT / "analysis" / "country_covariates.csv"
 DEFAULT_OUTPUT = ROOT / "analysis" / "corpus_monthly.csv"
 
-COVARIATE_COLS = ["un_region", "climate_zone", "hdi_category", "hdi_value"]
+COVARIATE_COLS = ["iso3", "un_region", "climate_zone", "hdi_category", "hdi_value"]
 
 
 def build(input_path: Path, covariates_path: Path, output_path: Path) -> None:
@@ -93,8 +94,8 @@ def build(input_path: Path, covariates_path: Path, output_path: Path) -> None:
     print("Merging country covariates ...")
     agg = agg.merge(covariates, on="country", how="left")
     column_order = [
-        "source_uri", "country", "month",
-        *COVARIATE_COLS,
+        "source_uri", "country", "iso3", "month",
+        *[c for c in COVARIATE_COLS if c != "iso3"],
         "n_total", "n_cc", "k_hecc_cc", "k_health_cc",
     ]
     agg = agg[column_order].sort_values(["country", "source_uri", "month"]).reset_index(drop=True)
