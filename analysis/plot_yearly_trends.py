@@ -41,6 +41,15 @@ def load_monthly() -> pd.DataFrame:
 def main() -> None:
     m = load_monthly()
 
+    plt.rcParams.update({
+        "font.size": 9,
+        "axes.labelsize": 9,
+        "axes.titlesize": 10,
+        "xtick.labelsize": 8,
+        "ytick.labelsize": 8,
+        "legend.fontsize": 8,
+    })
+
     fig, (ax_top, ax_bot) = plt.subplots(
         2, 1, figsize=(8, 6), sharex=True, gridspec_kw={"height_ratios": [1, 1.3]}
     )
@@ -48,7 +57,7 @@ def main() -> None:
     # Panel A: monthly CC counts, y-axis not from zero
     ax_top.plot(m.index, m["n_cc"] / 1000, color="#3B3B3B", lw=1.6, marker="o", markersize=3)
     ax_top.set_ylabel("Climate-change articles\n(thousands / month)")
-    ax_top.set_title("A. Monthly volume of climate-change coverage", loc="left", fontsize=11)
+    ax_top.set_title("A. Monthly volume of climate-change coverage", loc="left")
     ax_top.spines[["top", "right"]].set_visible(False)
     lo, hi = m["n_cc"].min() / 1000, m["n_cc"].max() / 1000
     pad = 0.08 * (hi - lo)
@@ -72,7 +81,7 @@ def main() -> None:
             textcoords="offset points",
             ha="center",
             va="bottom",
-            fontsize=7.5,
+            fontsize=6.5,
             color="#C26A1E",
             fontweight="bold",
         )
@@ -90,7 +99,7 @@ def main() -> None:
     ax_bot.set_ylabel("Proportion of CC articles (%)")
     ax_bot.set_xlabel("Month")
     ax_bot.set_title(
-        "B. Health framing as a share of climate-change coverage", loc="left", fontsize=11
+        "B. Health framing as a share of climate-change coverage", loc="left"
     )
     ax_bot.legend(frameon=False, loc="upper left")
     ax_bot.spines[["top", "right"]].set_visible(False)
