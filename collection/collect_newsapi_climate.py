@@ -32,12 +32,14 @@ from eventregistry import (
 load_dotenv()
 
 DATA_DIR = Path("data")
-SOURCE_LANG_CSV = DATA_DIR / "keywords" / "source_languages.csv"
-TRANSLATIONS_JSON = DATA_DIR / "keywords" / "keyword_translations.json"
+TRANSLATIONS_DIR = Path("translations")
+SOURCE_LANG_CSV = TRANSLATIONS_DIR / "keywords" / "source_languages.csv"
+TRANSLATIONS_JSON = TRANSLATIONS_DIR / "keyword_translations.json"
 
 DEFAULT_YEAR = 2025
 PAGE_SIZE = 100
-MAX_KEYWORDS = 80  # total across keywords + ignoreKeywords
+# Event Registry caps total keyword *words* (not phrases) per query at 80.
+WORD_LIMIT = 80
 
 logging.basicConfig(
     level=logging.INFO,
@@ -63,22 +65,31 @@ def load_translations():
         return json.load(f)
 
 
-def get_keywords(translations, category, lang_code, max_count=None):
-    """Get combined eng + local keywords for a category, respecting keyword limit."""
-    limit = max_count or MAX_KEYWORDS
-    eng = translations[category].get("eng", [])
-    local = translations[category].get(lang_code, []) if lang_code != "eng" else []
+def split_keywords(phrases, word_limit=WORD_LIMIT):
+    """Greedily pack phrases into chunks whose total word count stays ≤ word_limit."""
+    chunks, cur, cur_words = [], [], 0
+    for p in phrases:
+        pw = len(p.split())
+        if cur and cur_words + pw > word_limit:
+            chunks.append(cur)
+            cur, cur_words = [], 0
+        cur.append(p)
+        cur_words += pw
+    if cur:
+        chunks.append(cur)
+    return chunks
 
-    # Deduplicate (case-insensitive for eng overlap)
-    seen = set(k.lower() for k in eng)
-    unique_local = [k for k in local if k.lower() not in seen]
 
-    combined = eng + unique_local
-    if len(combined) > limit:
-        log.warning(f"  {lang_code} {category}: {len(combined)} keywords exceeds {limit}, truncating")
-        combined = combined[:limit]
+def get_keyword_chunks(translations, category, lang_code):
+    """Return a list of keyword chunks for this source language.
 
-    return combined
+    Matches the 2021-2025 collection behavior: use only the source's local
+    language keywords (no English mixed in). English sources use the English
+    seed list. Over-80-word languages are split across chunks so each query
+    respects the NewsAPI word limit.
+    """
+    phrases = translations[category].get(lang_code, [])
+    return split_keywords(phrases)
 
 
 def count_existing(filepath):
@@ -162,6 +173,10 @@ def main():
     parser.add_argument("--limit", type=int, help="Limit number of sources")
     parser.add_argument("--dry-run", action="store_true", help="Count only, don't fetch")
     parser.add_argument("--force", action="store_true", help="Re-collect even if output exists")
+    parser.add_argument("--pass", type=int, default=1, dest="pass_num",
+                        help="1-indexed keyword chunk to run. Languages with >80 words split "
+                             "across multiple chunks; rerun with --pass 2 to collect the rest. "
+                             "Sources whose language has fewer chunks than --pass are skipped.")
     parser.add_argument("--api-key-env", default="NEWSAPI_KEY", help="Env var name for API key (default: NEWSAPI_KEY)")
     args = parser.parse_args()
 
@@ -214,10 +229,15 @@ def main():
     for i, (source_uri, lang_code) in enumerate(sources, 1):
         log.info(f"\n[{i}/{len(sources)}] {source_uri} (lang={lang_code})")
 
-        climate_kw = get_keywords(translations, "climate", lang_code)
-        log.info(f"  Climate keywords: {len(climate_kw)}")
+        chunks = get_keyword_chunks(translations, "climate", lang_code)
+        if args.pass_num > len(chunks):
+            log.info(f"  Skip: lang {lang_code} has {len(chunks)} chunk(s); --pass {args.pass_num} not needed")
+            continue
+        climate_kw = chunks[args.pass_num - 1]
+        words = sum(len(p.split()) for p in climate_kw)
+        log.info(f"  Climate keywords (pass {args.pass_num}/{len(chunks)}): {len(climate_kw)} phrases, {words} words")
 
-        climate_path = output_dir / f"{source_uri}_climate.jsonl"
+        climate_path = output_dir / f"{source_uri}_climate_pass{args.pass_num}.jsonl"
         existing_climate = count_existing(climate_path)
 
         if existing_climate > 0 and not args.force:
