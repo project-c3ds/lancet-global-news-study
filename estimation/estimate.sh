@@ -21,13 +21,13 @@ $PY estimation/build_estimation_inputs.py
 
 echo ""
 echo "============================================================"
-echo "Analysis 1: Yearly trend by UN region (HECC | CC)"
+echo "Analysis 1: Yearly trend by LC region (HECC | CC)"
 echo "============================================================"
 $PY $SCRIPT \
   --input "$INPUT_DIR/prev_hecc_cc_region_yearly.csv" \
   --category health_effects_of_climate_change \
   --group-by region --time yearly --no-group-time \
-  --samples 4000 --chains 4 --target-accept 0.99
+  --samples 4000 --tune 3000 --chains 4 --target-accept 0.99
 
 echo ""
 echo "============================================================"
@@ -37,27 +37,27 @@ $PY $SCRIPT \
   --input "$INPUT_DIR/prev_hecc_cc_climate_zone_monthly.csv" \
   --category health_effects_of_climate_change \
   --group-by climate_zone --time monthly --no-global-time \
-  --samples 4000 --chains 4 --target-accept 0.99
+  --samples 4000 --tune 3000 --chains 4 --target-accept 0.99
 
 echo ""
 echo "============================================================"
-echo "Analysis 3: HDI category association (HECC | CC)"
+echo "Analysis 3: HDI 2025 group association (HECC | CC)"
 echo "============================================================"
 $PY $SCRIPT \
   --input "$INPUT_DIR/prev_hecc_cc_hdi_category.csv" \
   --category health_effects_of_climate_change \
   --group-by hdi_category --independent-groups \
-  --samples 4000 --chains 4 --target-accept 0.99
+  --samples 4000 --tune 3000 --chains 4 --target-accept 0.99
 
 echo ""
 echo "============================================================"
-echo "Analysis 4: Yearly trend by UN region (Health | CC)"
+echo "Analysis 4: Yearly trend by LC region (Health | CC)"
 echo "============================================================"
 $PY $SCRIPT \
   --input "$INPUT_DIR/prev_health_cc_region_yearly.csv" \
   --category health \
   --group-by region --time yearly --no-group-time \
-  --samples 4000 --chains 4 --target-accept 0.99
+  --samples 4000 --tune 3000 --chains 4 --target-accept 0.99
 
 echo ""
 echo "============================================================"

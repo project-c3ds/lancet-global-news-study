@@ -18,18 +18,22 @@ Output
 
 Columns
 -------
-    source_uri     str
-    country        str   (75-country sample, `GB` remapped to `United Kingdom`)
-    iso3           str   (ISO 3166-1 alpha-3 country code)
-    month          str   (`YYYY-MM`, 2021-01 through 2025-12)
-    un_region      str
-    climate_zone   str
-    hdi_category   str   (may be empty for Taiwan)
-    hdi_value      float (may be NaN for Taiwan)
-    n_total        int   all articles in the cell
-    n_cc           int   articles with climate_change=True
-    k_hecc_cc      int   articles with climate_change=True AND HECC=True
-    k_health_cc    int   articles with climate_change=True AND health=True
+    source_uri        str
+    country           str   (75-country sample, `GB` remapped to `United Kingdom`)
+    iso3              str   (ISO 3166-1 alpha-3 country code)
+    lc_country_name   str   (formal name from 2026 LC guidance)
+    month             str   (`YYYY-MM`, 2021-01 through 2025-12)
+    lc_region         str   (Lancet Countdown 2026 grouping; primary region for analysis)
+    who_region        str   (WHO Region; retained for sensitivity / traceability)
+    un_region         str   (legacy UN M49 broad region; retained for traceability)
+    climate_zone      str
+    hdi_2025          str   (2025 HDI Group; may be empty for Taiwan and Hong Kong)
+    hdi_category      str   (legacy HDI category; may be empty for Taiwan)
+    hdi_value         float (may be NaN for Taiwan)
+    n_total           int   all articles in the cell
+    n_cc              int   articles with climate_change=True
+    k_hecc_cc         int   articles with climate_change=True AND HECC=True
+    k_health_cc       int   articles with climate_change=True AND health=True
 
 Usage:
     python analysis/build_master_dataset.py
@@ -47,7 +51,12 @@ DEFAULT_INPUT = ROOT / "data" / "climate_articles_with_classifications.parquet"
 DEFAULT_COVARIATES = ROOT / "analysis" / "country_covariates.csv"
 DEFAULT_OUTPUT = ROOT / "analysis" / "corpus_monthly.csv"
 
-COVARIATE_COLS = ["iso3", "un_region", "climate_zone", "hdi_category", "hdi_value"]
+COVARIATE_COLS = [
+    "iso3", "lc_country_name",
+    "lc_region", "who_region", "un_region",
+    "climate_zone",
+    "hdi_2025", "hdi_category", "hdi_value",
+]
 
 
 def build(input_path: Path, covariates_path: Path, output_path: Path) -> None:
@@ -94,8 +103,8 @@ def build(input_path: Path, covariates_path: Path, output_path: Path) -> None:
     print("Merging country covariates ...")
     agg = agg.merge(covariates, on="country", how="left")
     column_order = [
-        "source_uri", "country", "iso3", "month",
-        *[c for c in COVARIATE_COLS if c != "iso3"],
+        "source_uri", "country", "iso3", "lc_country_name", "month",
+        *[c for c in COVARIATE_COLS if c not in ("iso3", "lc_country_name")],
         "n_total", "n_cc", "k_hecc_cc", "k_health_cc",
     ]
     agg = agg[column_order].sort_values(["country", "source_uri", "month"]).reset_index(drop=True)

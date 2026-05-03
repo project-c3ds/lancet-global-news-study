@@ -11,10 +11,15 @@ cell out of `n` trials — that the Binomial likelihood consumes directly.
 
 Analyses produced
 -----------------
-    prev_hecc_cc_region_yearly        HECC | CC, yearly × UN region
+    prev_hecc_cc_region_yearly        HECC | CC, yearly × LC region
     prev_hecc_cc_climate_zone_monthly HECC | CC, monthly × climate zone
-    prev_hecc_cc_hdi_category         HECC | CC, HDI category (no time)
-    prev_health_cc_region_yearly      Health | CC, yearly × UN region
+    prev_hecc_cc_hdi_category         HECC | CC, HDI 2025 group (no time)
+    prev_health_cc_region_yearly      Health | CC, yearly × LC region
+
+Region grouping is the 2026 Lancet Countdown LC Grouping
+(Africa / Asia / Europe / Latin America / Northern America / Oceania / SIDS).
+HDI grouping is the 2025 HDI Group (Low / Medium / High / Very High); rows
+with empty `hdi_2025` (Taiwan, Hong Kong) are dropped from the HDI input.
 
 (HEEW is not estimated — it exists only as a classification label, to keep
 articles about extreme-weather health impacts out of HECC. See
@@ -44,13 +49,13 @@ def derive(master: pd.DataFrame, out: Path) -> None:
     # Build derived frames. Each result uses the estimator's column vocabulary:
     # source, country, group, [time_period,] k, n.
 
-    # Analysis 1 — HECC | CC, yearly × UN region
+    # Analysis 1 — HECC | CC, yearly × LC region
     a = master.assign(time_period=_year(master["month"]))
-    a = a.groupby(["source_uri", "country", "un_region", "time_period"], as_index=False).agg(
+    a = a.groupby(["source_uri", "country", "lc_region", "time_period"], as_index=False).agg(
         k=("k_hecc_cc", "sum"), n=("n_cc", "sum"),
     )
     a = a[a["n"] > 0]
-    a = a.rename(columns={"source_uri": "source", "un_region": "group"})
+    a = a.rename(columns={"source_uri": "source", "lc_region": "group"})
     a[["source", "country", "group", "time_period", "k", "n"]].to_csv(
         out / "prev_hecc_cc_region_yearly.csv", index=False,
     )
@@ -65,25 +70,25 @@ def derive(master: pd.DataFrame, out: Path) -> None:
         out / "prev_hecc_cc_climate_zone_monthly.csv", index=False,
     )
 
-    # Analysis 3 — HECC | CC, HDI category (no time)
-    c = master.dropna(subset=["hdi_category"])
-    c = c[c["hdi_category"] != ""]
-    c = c.groupby(["source_uri", "country", "hdi_category"], as_index=False).agg(
+    # Analysis 3 — HECC | CC, HDI 2025 group (no time)
+    c = master.dropna(subset=["hdi_2025"])
+    c = c[c["hdi_2025"] != ""]
+    c = c.groupby(["source_uri", "country", "hdi_2025"], as_index=False).agg(
         k=("k_hecc_cc", "sum"), n=("n_cc", "sum"),
     )
     c = c[c["n"] > 0]
-    c = c.rename(columns={"source_uri": "source", "hdi_category": "group"})
+    c = c.rename(columns={"source_uri": "source", "hdi_2025": "group"})
     c[["source", "country", "group", "k", "n"]].to_csv(
         out / "prev_hecc_cc_hdi_category.csv", index=False,
     )
 
-    # Analysis 5 — Health | CC, yearly × UN region
+    # Analysis 5 — Health | CC, yearly × LC region
     e = master.assign(time_period=_year(master["month"]))
-    e = e.groupby(["source_uri", "country", "un_region", "time_period"], as_index=False).agg(
+    e = e.groupby(["source_uri", "country", "lc_region", "time_period"], as_index=False).agg(
         k=("k_health_cc", "sum"), n=("n_cc", "sum"),
     )
     e = e[e["n"] > 0]
-    e = e.rename(columns={"source_uri": "source", "un_region": "group"})
+    e = e.rename(columns={"source_uri": "source", "lc_region": "group"})
     e[["source", "country", "group", "time_period", "k", "n"]].to_csv(
         out / "prev_health_cc_region_yearly.csv", index=False,
     )

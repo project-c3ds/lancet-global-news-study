@@ -18,10 +18,12 @@ Each file has the estimator's expected schema `(source, country, group, [time_pe
 
 | File | Analysis | Rows | Size |
 |---|---|---:|---:|
-| `prev_hecc_cc_region_yearly.csv` | Model 1: HECC ⎮ CC, yearly × UN region | 1,258 | 50 KB |
+| `prev_hecc_cc_region_yearly.csv` | Model 1: HECC ⎮ CC, yearly × LC region | 1,258 | 51 KB |
 | `prev_hecc_cc_climate_zone_monthly.csv` | Model 2: HECC ⎮ CC, monthly × climate zone | 12,377 | 611 KB |
-| `prev_hecc_cc_hdi_category.csv` | Model 3: HECC ⎮ CC, HDI category | 297 | 11 KB |
-| `prev_health_cc_region_yearly.csv` | Aux: Health ⎮ CC, yearly × UN region | 1,258 | 50 KB |
+| `prev_hecc_cc_hdi_category.csv` | Model 3: HECC ⎮ CC, HDI 2025 group | 294 | 11 KB |
+| `prev_health_cc_region_yearly.csv` | Aux: Health ⎮ CC, yearly × LC region | 1,258 | 51 KB |
+
+Region grouping is the **2026 Lancet Countdown LC Grouping** (Africa, Asia, Europe, Latin America, Northern America, Oceania, SIDS) — see `analysis/README.md` § *Country names and groupings* for the source-of-truth file (`backup/2026 Guidance_Country_Names_and_Groupings.csv`), Taiwan/Hong Kong overrides, and notes on the singleton Oceania group. HDI grouping is the **2025 HDI Group** (Low / Medium / High / Very High); rows with missing `hdi_2025` (Taiwan, Hong Kong) are dropped from the HDI input upstream.
 
 HEEW is deliberately not estimated — it is used only at classification time to prevent articles about health consequences of extreme weather (without a climate-change framing) from being mislabelled as HECC. There is no well-defined denominator for a HEEW prevalence in this corpus.
 

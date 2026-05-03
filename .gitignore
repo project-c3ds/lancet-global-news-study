@@ -3,6 +3,7 @@ data/
 .DS_Store
 .claude/
 backup/
+logs/
 
 # Article-level dataset is hosted externally; re-built locally by
 # analysis/build_analysis_dataset.py

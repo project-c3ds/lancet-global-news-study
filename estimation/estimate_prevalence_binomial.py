@@ -12,9 +12,11 @@ With --time yearly, --time quarterly, or --time monthly:
     k[j,t] ~ Binomial(n[j,t], p_source_time[j,t])
 
 The top-level grouping (--group-by) can be:
-    region        — UN region (Africa, Asia, Europe, etc.)
+    region        — LC Grouping (Africa, Asia, Europe, Latin America,
+                    Northern America, Oceania, SIDS) per the 2026 Lancet
+                    Countdown country/region guidance
     climate_zone  — Northern temperate, Tropical, Southern temperate
-    hdi_category  — Very high, High, Medium, Low
+    hdi_category  — 2025 HDI Group (Very High, High, Medium, Low)
 
 Usage:
     python estimate_prevalence_binomial.py --input analysis/analysis_data.parquet --climate-filter
@@ -36,9 +38,9 @@ OUTPUT_DIR = Path("analysis/results/prevalence")
 
 # Mapping from --group-by value to the column name in the dataset
 GROUP_COL_MAP = {
-    "region": "un_region",
+    "region": "lc_region",
     "climate_zone": "climate_zone",
-    "hdi_category": "hdi_category",
+    "hdi_category": "hdi_2025",
 }
 
 
@@ -232,12 +234,13 @@ def build_model(data, time_mode=None, group_time=True, global_time=True, indepen
         # Country-within-group variance (always per-group)
         tau_group = pm.HalfNormal("tau_group", sigma=1, shape=data["n_groups"])
 
-        # Country level (logit scale)
-        alpha_country = pm.Normal(
+        # Country level (logit scale) — non-centered parameterization
+        # to avoid Neal's funnel between alpha_country and tau_group, which
+        # is acute for singleton groups (e.g. Oceania = Australia only).
+        z_country = pm.Normal("z_country", mu=0, sigma=1, shape=data["n_countries"])
+        alpha_country = pm.Deterministic(
             "alpha_country",
-            mu=mu_group[data["country_group"]],
-            sigma=tau_group[data["country_group"]],
-            shape=data["n_countries"],
+            mu_group[data["country_group"]] + tau_group[data["country_group"]] * z_country,
         )
 
         # Country mean on logit scale — add time effects if applicable
@@ -302,12 +305,13 @@ def build_model(data, time_mode=None, group_time=True, global_time=True, indepen
     return model
 
 
-def run_model(data, time_mode=None, group_time=True, global_time=True, independent_groups=False, samples=2000, chains=4, target_accept=0.9):
+def run_model(data, time_mode=None, group_time=True, global_time=True, independent_groups=False, samples=2000, chains=4, target_accept=0.9, tune=1000):
     """Build and sample from the model."""
     model = build_model(data, time_mode=time_mode, group_time=group_time, global_time=global_time, independent_groups=independent_groups)
     with model:
         trace = pm.sample(
             draws=samples,
+            tune=tune,
             chains=chains,
             target_accept=target_accept,
             random_seed=42,
@@ -369,6 +373,7 @@ def main():
                         help="Independent group priors (no pooling across groups, only within)")
     parser.add_argument("--min-articles", type=int, default=0, help="Minimum articles per source (default: 0, no filter)")
     parser.add_argument("--samples", type=int, default=2000, help="MCMC samples per chain")
+    parser.add_argument("--tune", type=int, default=1000, help="NUTS warmup/tuning steps per chain (default: 1000)")
     parser.add_argument("--chains", type=int, default=4)
     parser.add_argument("--target-accept", type=float, default=0.95, help="NUTS target accept rate (default: 0.95)")
     args = parser.parse_args()
@@ -412,7 +417,7 @@ def main():
         print(f"  Prevalence (raw): {data['raw_prevalence']:.4f}")
 
         t0 = time.time()
-        model, trace = run_model(data, time_mode=args.time, group_time=args.group_time, global_time=args.global_time, independent_groups=args.independent_groups, samples=args.samples, chains=args.chains, target_accept=args.target_accept)
+        model, trace = run_model(data, time_mode=args.time, group_time=args.group_time, global_time=args.global_time, independent_groups=args.independent_groups, samples=args.samples, chains=args.chains, target_accept=args.target_accept, tune=args.tune)
         elapsed = time.time() - t0
         print(f"  Sampling done in {elapsed/60:.1f}m")
 

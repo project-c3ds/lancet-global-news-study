@@ -160,16 +160,16 @@ citizen.co.za,South Africa,Africa,2022,0,9
 citizen.co.za,South Africa,Africa,2023,2,3
 citizen.co.za,South Africa,Africa,2024,2,5
 citizen.co.za,South Africa,Africa,2025,1,5
-clarin.com,Argentina,Americas,2021,4,16
-clarin.com,Argentina,Americas,2022,5,7
-clarin.com,Argentina,Americas,2023,0,1
-clarin.com,Argentina,Americas,2024,0,2
-clarin.com,Argentina,Americas,2025,1,3
-correiobraziliense.com.br,Brazil,Americas,2021,161,620
-correiobraziliense.com.br,Brazil,Americas,2022,158,494
-correiobraziliense.com.br,Brazil,Americas,2023,249,940
-correiobraziliense.com.br,Brazil,Americas,2024,272,908
-correiobraziliense.com.br,Brazil,Americas,2025,236,953
+clarin.com,Argentina,Latin America,2021,4,16
+clarin.com,Argentina,Latin America,2022,5,7
+clarin.com,Argentina,Latin America,2023,0,1
+clarin.com,Argentina,Latin America,2024,0,2
+clarin.com,Argentina,Latin America,2025,1,3
+correiobraziliense.com.br,Brazil,Latin America,2021,161,620
+correiobraziliense.com.br,Brazil,Latin America,2022,158,494
+correiobraziliense.com.br,Brazil,Latin America,2023,249,940
+correiobraziliense.com.br,Brazil,Latin America,2024,272,908
+correiobraziliense.com.br,Brazil,Latin America,2025,236,953
 corriere.it,Italy,Europe,2021,62,496
 corriere.it,Italy,Europe,2022,40,410
 corriere.it,Italy,Europe,2023,49,427
@@ -220,21 +220,21 @@ derstandard.at,Austria,Europe,2022,183,1026
 derstandard.at,Austria,Europe,2023,144,923
 derstandard.at,Austria,Europe,2024,178,871
 derstandard.at,Austria,Europe,2025,14,261
-df.cl,Chile,Americas,2021,39,527
-df.cl,Chile,Americas,2022,48,506
-df.cl,Chile,Americas,2023,49,523
-df.cl,Chile,Americas,2024,33,379
-df.cl,Chile,Americas,2025,9,195
+df.cl,Chile,Latin America,2021,39,527
+df.cl,Chile,Latin America,2022,48,506
+df.cl,Chile,Latin America,2023,49,523
+df.cl,Chile,Latin America,2024,33,379
+df.cl,Chile,Latin America,2025,9,195
 dhnet.be,Belgium,Europe,2021,459,1612
 dhnet.be,Belgium,Europe,2022,428,1399
 dhnet.be,Belgium,Europe,2023,314,1639
 dhnet.be,Belgium,Europe,2024,244,1186
 dhnet.be,Belgium,Europe,2025,251,1046
-diariocorreo.pe,Peru,Americas,2021,29,86
-diariocorreo.pe,Peru,Americas,2022,19,84
-diariocorreo.pe,Peru,Americas,2023,20,87
-diariocorreo.pe,Peru,Americas,2024,14,50
-diariocorreo.pe,Peru,Americas,2025,9,43
+diariocorreo.pe,Peru,Latin America,2021,29,86
+diariocorreo.pe,Peru,Latin America,2022,19,84
+diariocorreo.pe,Peru,Latin America,2023,20,87
+diariocorreo.pe,Peru,Latin America,2024,14,50
+diariocorreo.pe,Peru,Latin America,2025,9,43
 diariodeibiza.es,Spain,Europe,2022,295,1492
 diariodeibiza.es,Spain,Europe,2023,264,1420
 diariodeibiza.es,Spain,Europe,2024,360,1514
@@ -277,66 +277,66 @@ elbilad.net,Algeria,Africa,2022,7,27
 elbilad.net,Algeria,Africa,2023,10,34
 elbilad.net,Algeria,Africa,2024,13,56
 elbilad.net,Algeria,Africa,2025,3,16
-elcolombiano.com,Colombia,Americas,2021,22,179
-elcolombiano.com,Colombia,Americas,2022,29,192
-elcolombiano.com,Colombia,Americas,2023,42,243
-elcolombiano.com,Colombia,Americas,2024,60,289
-elcolombiano.com,Colombia,Americas,2025,84,270
-elcomercio.com,Ecuador,Americas,2021,51,188
-elcomercio.com,Ecuador,Americas,2022,60,197
-elcomercio.com,Ecuador,Americas,2023,29,102
-elcomercio.com,Ecuador,Americas,2024,1,2
-elcomercio.pe,Peru,Americas,2021,128,422
-elcomercio.pe,Peru,Americas,2022,139,462
-elcomercio.pe,Peru,Americas,2023,114,449
-elcomercio.pe,Peru,Americas,2024,111,411
-elcomercio.pe,Peru,Americas,2025,87,301
-eldeber.com.bo,Bolivia,Americas,2021,119,392
-eldeber.com.bo,Bolivia,Americas,2022,117,332
-eldeber.com.bo,Bolivia,Americas,2023,123,375
-eldeber.com.bo,Bolivia,Americas,2024,93,298
-eldeber.com.bo,Bolivia,Americas,2025,64,215
-eldiario.net,Bolivia,Americas,2021,0,2
-eldiario.net,Bolivia,Americas,2022,0,2
-eldiario.net,Bolivia,Americas,2024,1,1
-eleconomista.com.mx,Mexico,Americas,2021,168,814
-eleconomista.com.mx,Mexico,Americas,2022,116,628
-eleconomista.com.mx,Mexico,Americas,2023,97,513
-eleconomista.com.mx,Mexico,Americas,2024,177,743
-eleconomista.com.mx,Mexico,Americas,2025,117,589
-elespectador.com,Colombia,Americas,2022,41,199
-elespectador.com,Colombia,Americas,2023,94,368
-elespectador.com,Colombia,Americas,2024,53,169
-elespectador.com,Colombia,Americas,2025,23,68
+elcolombiano.com,Colombia,Latin America,2021,22,179
+elcolombiano.com,Colombia,Latin America,2022,29,192
+elcolombiano.com,Colombia,Latin America,2023,42,243
+elcolombiano.com,Colombia,Latin America,2024,60,289
+elcolombiano.com,Colombia,Latin America,2025,84,270
+elcomercio.com,Ecuador,Latin America,2021,51,188
+elcomercio.com,Ecuador,Latin America,2022,60,197
+elcomercio.com,Ecuador,Latin America,2023,29,102
+elcomercio.com,Ecuador,Latin America,2024,1,2
+elcomercio.pe,Peru,Latin America,2021,128,422
+elcomercio.pe,Peru,Latin America,2022,139,462
+elcomercio.pe,Peru,Latin America,2023,114,449
+elcomercio.pe,Peru,Latin America,2024,111,411
+elcomercio.pe,Peru,Latin America,2025,87,301
+eldeber.com.bo,Bolivia,Latin America,2021,119,392
+eldeber.com.bo,Bolivia,Latin America,2022,117,332
+eldeber.com.bo,Bolivia,Latin America,2023,123,375
+eldeber.com.bo,Bolivia,Latin America,2024,93,298
+eldeber.com.bo,Bolivia,Latin America,2025,64,215
+eldiario.net,Bolivia,Latin America,2021,0,2
+eldiario.net,Bolivia,Latin America,2022,0,2
+eldiario.net,Bolivia,Latin America,2024,1,1
+eleconomista.com.mx,Mexico,Latin America,2021,168,814
+eleconomista.com.mx,Mexico,Latin America,2022,116,628
+eleconomista.com.mx,Mexico,Latin America,2023,97,513
+eleconomista.com.mx,Mexico,Latin America,2024,177,743
+eleconomista.com.mx,Mexico,Latin America,2025,117,589
+elespectador.com,Colombia,Latin America,2022,41,199
+elespectador.com,Colombia,Latin America,2023,94,368
+elespectador.com,Colombia,Latin America,2024,53,169
+elespectador.com,Colombia,Latin America,2025,23,68
 elfagr.org,Egypt,Africa,2021,36,258
 elfagr.org,Egypt,Africa,2022,147,1003
 elfagr.org,Egypt,Africa,2023,106,602
 elfagr.org,Egypt,Africa,2024,91,553
 elfagr.org,Egypt,Africa,2025,32,213
-elfinanciero.com.mx,Mexico,Americas,2021,8,67
-elfinanciero.com.mx,Mexico,Americas,2022,20,125
-elfinanciero.com.mx,Mexico,Americas,2023,1,15
-elfinanciero.com.mx,Mexico,Americas,2024,3,8
-elfinanciero.com.mx,Mexico,Americas,2025,1,3
-elheraldo.co,Colombia,Americas,2021,49,262
-elheraldo.co,Colombia,Americas,2022,33,204
-elheraldo.co,Colombia,Americas,2023,35,194
-elheraldo.co,Colombia,Americas,2024,39,261
-elheraldo.co,Colombia,Americas,2025,29,217
-elheraldo.hn,Honduras,Americas,2022,30,86
-elheraldo.hn,Honduras,Americas,2023,19,58
-elheraldo.hn,Honduras,Americas,2024,9,44
-elheraldo.hn,Honduras,Americas,2025,15,46
+elfinanciero.com.mx,Mexico,Latin America,2021,8,67
+elfinanciero.com.mx,Mexico,Latin America,2022,20,125
+elfinanciero.com.mx,Mexico,Latin America,2023,1,15
+elfinanciero.com.mx,Mexico,Latin America,2024,3,8
+elfinanciero.com.mx,Mexico,Latin America,2025,1,3
+elheraldo.co,Colombia,Latin America,2021,49,262
+elheraldo.co,Colombia,Latin America,2022,33,204
+elheraldo.co,Colombia,Latin America,2023,35,194
+elheraldo.co,Colombia,Latin America,2024,39,261
+elheraldo.co,Colombia,Latin America,2025,29,217
+elheraldo.hn,Honduras,Latin America,2022,30,86
+elheraldo.hn,Honduras,Latin America,2023,19,58
+elheraldo.hn,Honduras,Latin America,2024,9,44
+elheraldo.hn,Honduras,Latin America,2025,15,46
 elkhabar.com,Algeria,Africa,2021,21,50
 elkhabar.com,Algeria,Africa,2022,9,31
 elkhabar.com,Algeria,Africa,2023,2,33
 elkhabar.com,Algeria,Africa,2024,7,37
 elkhabar.com,Algeria,Africa,2025,6,23
-elmostrador.cl,Chile,Americas,2021,155,651
-elmostrador.cl,Chile,Americas,2022,154,666
-elmostrador.cl,Chile,Americas,2023,141,600
-elmostrador.cl,Chile,Americas,2024,59,245
-elmostrador.cl,Chile,Americas,2025,34,142
+elmostrador.cl,Chile,Latin America,2021,155,651
+elmostrador.cl,Chile,Latin America,2022,154,666
+elmostrador.cl,Chile,Latin America,2023,141,600
+elmostrador.cl,Chile,Latin America,2024,59,245
+elmostrador.cl,Chile,Latin America,2025,34,142
 elmundo.es,Spain,Europe,2021,0,8
 elmundo.es,Spain,Europe,2022,2,27
 elmundo.es,Spain,Europe,2023,3,23
@@ -347,25 +347,25 @@ elpais.com,Spain,Europe,2022,355,1223
 elpais.com,Spain,Europe,2023,384,1430
 elpais.com,Spain,Europe,2024,415,1307
 elpais.com,Spain,Europe,2025,347,1199
-eltelegrafo.com.ec,Ecuador,Americas,2021,3,12
-eltelegrafo.com.ec,Ecuador,Americas,2022,3,7
-eltelegrafo.com.ec,Ecuador,Americas,2023,5,11
-eltelegrafo.com.ec,Ecuador,Americas,2024,1,2
-eltiempo.com,Colombia,Americas,2021,237,1042
-eltiempo.com,Colombia,Americas,2022,260,1029
-eltiempo.com,Colombia,Americas,2023,334,1279
-eltiempo.com,Colombia,Americas,2024,287,1233
-eltiempo.com,Colombia,Americas,2025,200,802
-eluniversal.com.mx,Mexico,Americas,2021,198,636
-eluniversal.com.mx,Mexico,Americas,2022,116,433
-eluniversal.com.mx,Mexico,Americas,2023,204,588
-eluniversal.com.mx,Mexico,Americas,2024,202,596
-eluniversal.com.mx,Mexico,Americas,2025,130,421
-eluniverso.com,Ecuador,Americas,2021,142,436
-eluniverso.com,Ecuador,Americas,2022,90,332
-eluniverso.com,Ecuador,Americas,2023,77,321
-eluniverso.com,Ecuador,Americas,2024,71,329
-eluniverso.com,Ecuador,Americas,2025,60,248
+eltelegrafo.com.ec,Ecuador,Latin America,2021,3,12
+eltelegrafo.com.ec,Ecuador,Latin America,2022,3,7
+eltelegrafo.com.ec,Ecuador,Latin America,2023,5,11
+eltelegrafo.com.ec,Ecuador,Latin America,2024,1,2
+eltiempo.com,Colombia,Latin America,2021,237,1042
+eltiempo.com,Colombia,Latin America,2022,260,1029
+eltiempo.com,Colombia,Latin America,2023,334,1279
+eltiempo.com,Colombia,Latin America,2024,287,1233
+eltiempo.com,Colombia,Latin America,2025,200,802
+eluniversal.com.mx,Mexico,Latin America,2021,198,636
+eluniversal.com.mx,Mexico,Latin America,2022,116,433
+eluniversal.com.mx,Mexico,Latin America,2023,204,588
+eluniversal.com.mx,Mexico,Latin America,2024,202,596
+eluniversal.com.mx,Mexico,Latin America,2025,130,421
+eluniverso.com,Ecuador,Latin America,2021,142,436
+eluniverso.com,Ecuador,Latin America,2022,90,332
+eluniverso.com,Ecuador,Latin America,2023,77,321
+eluniverso.com,Ecuador,Latin America,2024,71,329
+eluniverso.com,Ecuador,Latin America,2025,60,248
 emirates247.com,United Arab Emirates,Asia,2022,0,10
 emirates247.com,United Arab Emirates,Asia,2023,39,657
 emirates247.com,United Arab Emirates,Asia,2024,9,116
@@ -379,18 +379,18 @@ ennaharonline.com,Algeria,Africa,2021,0,5
 ennaharonline.com,Algeria,Africa,2022,0,2
 ennaharonline.com,Algeria,Africa,2024,14,56
 ennaharonline.com,Algeria,Africa,2025,3,29
-estadao.com.br,Brazil,Americas,2025,5,22
+estadao.com.br,Brazil,Latin America,2025,5,22
 evz.ro,Romania,Europe,2021,2,17
 evz.ro,Romania,Europe,2022,7,32
 evz.ro,Romania,Europe,2023,4,19
 evz.ro,Romania,Europe,2024,7,31
 evz.ro,Romania,Europe,2025,9,29
-excelsior.com.mx,Mexico,Americas,2025,45,136
-expreso.ec,Ecuador,Americas,2021,40,154
-expreso.ec,Ecuador,Americas,2022,51,178
-expreso.ec,Ecuador,Americas,2023,76,287
-expreso.ec,Ecuador,Americas,2024,95,317
-expreso.ec,Ecuador,Americas,2025,58,227
+excelsior.com.mx,Mexico,Latin America,2025,45,136
+expreso.ec,Ecuador,Latin America,2021,40,154
+expreso.ec,Ecuador,Latin America,2022,51,178
+expreso.ec,Ecuador,Latin America,2023,76,287
+expreso.ec,Ecuador,Latin America,2024,95,317
+expreso.ec,Ecuador,Latin America,2025,58,227
 fakt.pl,Poland,Europe,2021,3,8
 fakt.pl,Poland,Europe,2022,1,1
 fakt.pl,Poland,Europe,2023,1,3
@@ -406,8 +406,8 @@ faz.net,Germany,Europe,2022,19,147
 faz.net,Germany,Europe,2023,14,236
 faz.net,Germany,Europe,2024,86,682
 faz.net,Germany,Europe,2025,86,641
-fijisun.com.fj,Fiji,Oceania,2025,0,1
-fijitimes.com.fj,Fiji,Oceania,2025,1,9
+fijisun.com.fj,Fiji,SIDS,2025,0,1
+fijitimes.com.fj,Fiji,SIDS,2025,1,9
 ft.com,United Kingdom,Europe,2021,269,2376
 ft.com,United Kingdom,Europe,2022,216,1874
 ft.com,United Kingdom,Europe,2023,187,1885
@@ -428,11 +428,11 @@ gazzetta.it,Italy,Europe,2022,2,59
 gazzetta.it,Italy,Europe,2023,8,71
 gazzetta.it,Italy,Europe,2024,3,41
 gazzetta.it,Italy,Europe,2025,4,48
-gestion.pe,Peru,Americas,2021,139,855
-gestion.pe,Peru,Americas,2022,111,575
-gestion.pe,Peru,Americas,2023,134,626
-gestion.pe,Peru,Americas,2024,114,506
-gestion.pe,Peru,Americas,2025,15,147
+gestion.pe,Peru,Latin America,2021,139,855
+gestion.pe,Peru,Latin America,2022,111,575
+gestion.pe,Peru,Latin America,2023,134,626
+gestion.pe,Peru,Latin America,2024,114,506
+gestion.pe,Peru,Latin America,2025,15,147
 ghanaiantimes.com.gh,Ghana,Africa,2021,15,76
 ghanaiantimes.com.gh,Ghana,Africa,2022,53,180
 ghanaiantimes.com.gh,Ghana,Africa,2023,36,140
@@ -454,7 +454,7 @@ guardian.ng,Nigeria,Africa,2025,264,1101
 gulfnews.com,United Arab Emirates,Asia,2023,1,5
 gulfnews.com,United Arab Emirates,Asia,2024,1,1
 gulfnews.com,United Arab Emirates,Asia,2025,4,11
-guyanachronicle.com,Guyana,Americas,2022,0,4
+guyanachronicle.com,Guyana,SIDS,2022,0,4
 haaretz.co.il,Israel,Asia,2024,8,32
 haaretz.co.il,Israel,Asia,2025,9,56
 habarileo.co.tz,Tanzania,Africa,2022,12,32
@@ -497,11 +497,11 @@ indianexpress.com,India,Asia,2022,337,1212
 indianexpress.com,India,Asia,2023,69,302
 indianexpress.com,India,Asia,2024,390,1237
 indianexpress.com,India,Asia,2025,274,1012
-infobae.com,Argentina,Americas,2021,0,4
-infobae.com,Argentina,Americas,2022,2,4
-infobae.com,Argentina,Americas,2023,1,2
-infobae.com,Argentina,Americas,2024,1,6
-infobae.com,Argentina,Americas,2025,2,6
+infobae.com,Argentina,Latin America,2021,0,4
+infobae.com,Argentina,Latin America,2022,2,4
+infobae.com,Argentina,Latin America,2023,1,2
+infobae.com,Argentina,Latin America,2024,1,6
+infobae.com,Argentina,Latin America,2025,2,6
 inquirer.net,Philippines,Asia,2024,0,3
 inquirer.net,Philippines,Asia,2025,2,6
 iol.co.za,South Africa,Africa,2021,91,433
@@ -527,15 +527,15 @@ iz.ru,Russia,Europe,2022,43,137
 iz.ru,Russia,Europe,2023,44,156
 iz.ru,Russia,Europe,2024,49,175
 iz.ru,Russia,Europe,2025,38,146
-jamaica-gleaner.com,Jamaica,Americas,2021,119,450
-jamaica-gleaner.com,Jamaica,Americas,2022,167,550
-jamaica-gleaner.com,Jamaica,Americas,2023,198,661
-jamaica-gleaner.com,Jamaica,Americas,2024,199,664
-jamaica-gleaner.com,Jamaica,Americas,2025,166,586
-jamaica-star.com,Jamaica,Americas,2023,0,1
-jamaica-star.com,Jamaica,Americas,2024,4,9
-jamaica-star.com,Jamaica,Americas,2025,5,16
-jamaicaobserver.com,Jamaica,Americas,2025,67,197
+jamaica-gleaner.com,Jamaica,SIDS,2021,119,450
+jamaica-gleaner.com,Jamaica,SIDS,2022,167,550
+jamaica-gleaner.com,Jamaica,SIDS,2023,198,661
+jamaica-gleaner.com,Jamaica,SIDS,2024,199,664
+jamaica-gleaner.com,Jamaica,SIDS,2025,166,586
+jamaica-star.com,Jamaica,SIDS,2023,0,1
+jamaica-star.com,Jamaica,SIDS,2024,4,9
+jamaica-star.com,Jamaica,SIDS,2025,5,16
+jamaicaobserver.com,Jamaica,SIDS,2025,67,197
 jang.com.pk,Pakistan,Asia,2021,18,75
 jang.com.pk,Pakistan,Asia,2022,70,150
 jang.com.pk,Pakistan,Asia,2023,21,73
@@ -567,9 +567,9 @@ jyllands-posten.dk,Denmark,Europe,2022,4,173
 jyllands-posten.dk,Denmark,Europe,2023,8,152
 jyllands-posten.dk,Denmark,Europe,2024,6,166
 jyllands-posten.dk,Denmark,Europe,2025,3,173
-kaieteurnewsonline.com,Guyana,Americas,2023,11,49
-kaieteurnewsonline.com,Guyana,Americas,2024,37,185
-kaieteurnewsonline.com,Guyana,Americas,2025,15,80
+kaieteurnewsonline.com,Guyana,SIDS,2023,11,49
+kaieteurnewsonline.com,Guyana,SIDS,2024,37,185
+kaieteurnewsonline.com,Guyana,SIDS,2025,15,80
 kauppalehti.fi,Finland,Europe,2021,20,244
 kauppalehti.fi,Finland,Europe,2022,12,182
 kauppalehti.fi,Finland,Europe,2023,15,188
@@ -625,52 +625,52 @@ kyivpost.com,Ukraine,Europe,2022,1,1
 kyivpost.com,Ukraine,Europe,2023,4,19
 kyivpost.com,Ukraine,Europe,2024,5,30
 kyivpost.com,Ukraine,Europe,2025,1,16
-la-razon.com,Bolivia,Americas,2025,0,3
+la-razon.com,Bolivia,Latin America,2025,0,3
 lalibre.be,Belgium,Europe,2021,485,1716
 lalibre.be,Belgium,Europe,2022,476,1520
 lalibre.be,Belgium,Europe,2023,374,1923
 lalibre.be,Belgium,Europe,2024,295,1398
 lalibre.be,Belgium,Europe,2025,292,1269
-lanacion.cl,Chile,Americas,2021,11,54
-lanacion.cl,Chile,Americas,2022,5,18
-lanacion.cl,Chile,Americas,2023,10,37
-lanacion.cl,Chile,Americas,2024,1,25
-lanacion.cl,Chile,Americas,2025,2,11
-lanacion.com.ar,Argentina,Americas,2021,20,48
-lanacion.com.ar,Argentina,Americas,2022,2,7
-lanacion.com.ar,Argentina,Americas,2023,31,141
-lanacion.com.ar,Argentina,Americas,2024,167,667
-lanacion.com.ar,Argentina,Americas,2025,142,477
-laprensa.hn,Honduras,Americas,2021,57,177
-laprensa.hn,Honduras,Americas,2022,35,87
-laprensa.hn,Honduras,Americas,2023,42,93
-laprensa.hn,Honduras,Americas,2024,22,84
-laprensa.hn,Honduras,Americas,2025,17,45
-lapresse.ca,Canada,Americas,2021,280,1206
-lapresse.ca,Canada,Americas,2022,334,1298
-lapresse.ca,Canada,Americas,2023,270,1025
-lapresse.ca,Canada,Americas,2024,274,1070
-lapresse.ca,Canada,Americas,2025,201,782
-larepublica.pe,Peru,Americas,2021,80,329
-larepublica.pe,Peru,Americas,2022,61,235
-larepublica.pe,Peru,Americas,2023,91,304
-larepublica.pe,Peru,Americas,2024,226,898
-larepublica.pe,Peru,Americas,2025,141,597
+lanacion.cl,Chile,Latin America,2021,11,54
+lanacion.cl,Chile,Latin America,2022,5,18
+lanacion.cl,Chile,Latin America,2023,10,37
+lanacion.cl,Chile,Latin America,2024,1,25
+lanacion.cl,Chile,Latin America,2025,2,11
+lanacion.com.ar,Argentina,Latin America,2021,20,48
+lanacion.com.ar,Argentina,Latin America,2022,2,7
+lanacion.com.ar,Argentina,Latin America,2023,31,141
+lanacion.com.ar,Argentina,Latin America,2024,167,667
+lanacion.com.ar,Argentina,Latin America,2025,142,477
+laprensa.hn,Honduras,Latin America,2021,57,177
+laprensa.hn,Honduras,Latin America,2022,35,87
+laprensa.hn,Honduras,Latin America,2023,42,93
+laprensa.hn,Honduras,Latin America,2024,22,84
+laprensa.hn,Honduras,Latin America,2025,17,45
+lapresse.ca,Canada,Northern America,2021,280,1206
+lapresse.ca,Canada,Northern America,2022,334,1298
+lapresse.ca,Canada,Northern America,2023,270,1025
+lapresse.ca,Canada,Northern America,2024,274,1070
+lapresse.ca,Canada,Northern America,2025,201,782
+larepublica.pe,Peru,Latin America,2021,80,329
+larepublica.pe,Peru,Latin America,2022,61,235
+larepublica.pe,Peru,Latin America,2023,91,304
+larepublica.pe,Peru,Latin America,2024,226,898
+larepublica.pe,Peru,Latin America,2025,141,597
 lastampa.it,Italy,Europe,2021,112,619
 lastampa.it,Italy,Europe,2022,71,460
 lastampa.it,Italy,Europe,2023,18,116
 lastampa.it,Italy,Europe,2024,62,379
 lastampa.it,Italy,Europe,2025,209,899
-latercera.com,Chile,Americas,2021,162,829
-latercera.com,Chile,Americas,2022,116,614
-latercera.com,Chile,Americas,2023,11,60
-latercera.com,Chile,Americas,2024,11,54
-latercera.com,Chile,Americas,2025,76,440
-latribuna.hn,Honduras,Americas,2021,128,371
-latribuna.hn,Honduras,Americas,2022,113,383
-latribuna.hn,Honduras,Americas,2023,179,536
-latribuna.hn,Honduras,Americas,2024,119,346
-latribuna.hn,Honduras,Americas,2025,58,198
+latercera.com,Chile,Latin America,2021,162,829
+latercera.com,Chile,Latin America,2022,116,614
+latercera.com,Chile,Latin America,2023,11,60
+latercera.com,Chile,Latin America,2024,11,54
+latercera.com,Chile,Latin America,2025,76,440
+latribuna.hn,Honduras,Latin America,2021,128,371
+latribuna.hn,Honduras,Latin America,2022,113,383
+latribuna.hn,Honduras,Latin America,2023,179,536
+latribuna.hn,Honduras,Latin America,2024,119,346
+latribuna.hn,Honduras,Latin America,2025,58,198
 lavieeco.com,Morocco,Africa,2021,3,41
 lavieeco.com,Morocco,Africa,2022,6,72
 lavieeco.com,Morocco,Africa,2023,17,159
@@ -691,11 +691,11 @@ lematin.ma,Morocco,Africa,2022,33,192
 lematin.ma,Morocco,Africa,2023,34,234
 lematin.ma,Morocco,Africa,2024,36,250
 lematin.ma,Morocco,Africa,2025,29,271
-lemauricien.com,Mauritius,Africa,2021,41,98
-lemauricien.com,Mauritius,Africa,2022,69,218
-lemauricien.com,Mauritius,Africa,2023,61,249
-lemauricien.com,Mauritius,Africa,2024,85,238
-lemauricien.com,Mauritius,Africa,2025,27,156
+lemauricien.com,Mauritius,SIDS,2021,41,98
+lemauricien.com,Mauritius,SIDS,2022,69,218
+lemauricien.com,Mauritius,SIDS,2023,61,249
+lemauricien.com,Mauritius,SIDS,2024,85,238
+lemauricien.com,Mauritius,SIDS,2025,27,156
 lemonde.fr,France,Europe,2021,160,1024
 lemonde.fr,France,Europe,2022,356,1923
 lemonde.fr,France,Europe,2023,311,2099
@@ -725,9 +725,9 @@ lesoleil.sn,Senegal,Africa,2024,3,10
 lesoleil.sn,Senegal,Africa,2025,13,50
 letemps.ch,Switzerland,Europe,2024,22,175
 letemps.ch,Switzerland,Europe,2025,67,304
-lexpress.mu,Mauritius,Africa,2023,0,1
-lexpress.mu,Mauritius,Africa,2024,0,2
-lexpress.mu,Mauritius,Africa,2025,2,13
+lexpress.mu,Mauritius,SIDS,2023,0,1
+lexpress.mu,Mauritius,SIDS,2024,0,2
+lexpress.mu,Mauritius,SIDS,2025,2,13
 liberation.fr,France,Europe,2021,39,410
 liberation.fr,France,Europe,2022,206,849
 liberation.fr,France,Europe,2023,282,1166
@@ -749,11 +749,11 @@ limerickleader.ie,Ireland,Europe,2022,28,220
 limerickleader.ie,Ireland,Europe,2023,17,173
 limerickleader.ie,Ireland,Europe,2024,17,148
 limerickleader.ie,Ireland,Europe,2025,16,111
-lostiempos.com,Bolivia,Americas,2021,47,173
-lostiempos.com,Bolivia,Americas,2022,42,125
-lostiempos.com,Bolivia,Americas,2023,75,237
-lostiempos.com,Bolivia,Americas,2024,57,144
-lostiempos.com,Bolivia,Americas,2025,19,59
+lostiempos.com,Bolivia,Latin America,2021,47,173
+lostiempos.com,Bolivia,Latin America,2022,42,125
+lostiempos.com,Bolivia,Latin America,2023,75,237
+lostiempos.com,Bolivia,Latin America,2024,57,144
+lostiempos.com,Bolivia,Latin America,2025,19,59
 magyarnemzet.hu,Hungary,Europe,2021,2,13
 magyarnemzet.hu,Hungary,Europe,2022,3,29
 magyarnemzet.hu,Hungary,Europe,2023,2,48
@@ -769,7 +769,7 @@ malaymail.com,Malaysia,Asia,2022,254,913
 malaymail.com,Malaysia,Asia,2023,280,1213
 malaymail.com,Malaysia,Asia,2024,272,903
 malaymail.com,Malaysia,Asia,2025,268,791
-maldivesindependent.com,Maldives,Asia,2025,4,12
+maldivesindependent.com,Maldives,SIDS,2025,4,12
 manoramaonline.com,India,Asia,2021,23,73
 manoramaonline.com,India,Asia,2022,3,22
 manoramaonline.com,India,Asia,2023,20,141
@@ -797,7 +797,7 @@ mgronline.com,Thailand,Asia,2022,46,277
 mgronline.com,Thailand,Asia,2023,65,276
 mgronline.com,Thailand,Asia,2024,65,324
 mgronline.com,Thailand,Asia,2025,45,195
-milenio.com,Mexico,Americas,2024,27,149
+milenio.com,Mexico,Latin America,2024,27,149
 milliyet.com.tr,Turkey,Asia,2021,350,1676
 milliyet.com.tr,Turkey,Asia,2022,214,987
 milliyet.com.tr,Turkey,Asia,2023,215,891
@@ -833,11 +833,11 @@ nation.co.ke,Kenya,Africa,2022,4,13
 nation.co.ke,Kenya,Africa,2023,6,21
 nation.co.ke,Kenya,Africa,2024,2,4
 nation.co.ke,Kenya,Africa,2025,0,3
-nationalpost.com,Canada,Americas,2021,156,1244
-nationalpost.com,Canada,Americas,2022,185,1258
-nationalpost.com,Canada,Americas,2023,209,1491
-nationalpost.com,Canada,Americas,2024,85,552
-nationalpost.com,Canada,Americas,2025,0,90
+nationalpost.com,Canada,Northern America,2021,156,1244
+nationalpost.com,Canada,Northern America,2022,185,1258
+nationalpost.com,Canada,Northern America,2023,209,1491
+nationalpost.com,Canada,Northern America,2024,85,552
+nationalpost.com,Canada,Northern America,2025,0,90
 nepszava.hu,Hungary,Europe,2021,11,82
 nepszava.hu,Hungary,Europe,2022,18,72
 nepszava.hu,Hungary,Europe,2023,12,66
@@ -874,16 +874,16 @@ nrc.nl,Netherlands,Europe,2022,117,695
 nrc.nl,Netherlands,Europe,2023,134,798
 nrc.nl,Netherlands,Europe,2024,114,633
 nrc.nl,Netherlands,Europe,2025,104,582
-nypost.com,United States,Americas,2021,160,593
-nypost.com,United States,Americas,2022,113,424
-nypost.com,United States,Americas,2023,128,409
-nypost.com,United States,Americas,2024,63,299
-nypost.com,United States,Americas,2025,77,309
-nytimes.com,United States,Americas,2021,963,2326
-nytimes.com,United States,Americas,2022,606,1803
-nytimes.com,United States,Americas,2023,560,1650
-nytimes.com,United States,Americas,2024,320,1148
-nytimes.com,United States,Americas,2025,254,755
+nypost.com,United States,Northern America,2021,160,593
+nypost.com,United States,Northern America,2022,113,424
+nypost.com,United States,Northern America,2023,128,409
+nypost.com,United States,Northern America,2024,63,299
+nypost.com,United States,Northern America,2025,77,309
+nytimes.com,United States,Northern America,2021,963,2326
+nytimes.com,United States,Northern America,2022,606,1803
+nytimes.com,United States,Northern America,2023,560,1650
+nytimes.com,United States,Northern America,2024,320,1148
+nytimes.com,United States,Northern America,2025,254,755
 nzz.ch,Switzerland,Europe,2024,3,22
 observer.ug,Uganda,Africa,2021,16,34
 observer.ug,Uganda,Africa,2022,17,38
@@ -895,16 +895,16 @@ okaz.com.sa,Saudi Arabia,Asia,2022,20,136
 okaz.com.sa,Saudi Arabia,Asia,2023,24,122
 okaz.com.sa,Saudi Arabia,Asia,2024,18,85
 okaz.com.sa,Saudi Arabia,Asia,2025,51,127
-opovo.com.br,Brazil,Americas,2021,30,113
-opovo.com.br,Brazil,Americas,2022,27,94
-opovo.com.br,Brazil,Americas,2023,22,102
-opovo.com.br,Brazil,Americas,2024,12,93
-opovo.com.br,Brazil,Americas,2025,28,148
-perfil.com,Argentina,Americas,2021,116,385
-perfil.com,Argentina,Americas,2022,96,342
-perfil.com,Argentina,Americas,2023,109,367
-perfil.com,Argentina,Americas,2024,74,214
-perfil.com,Argentina,Americas,2025,61,249
+opovo.com.br,Brazil,Latin America,2021,30,113
+opovo.com.br,Brazil,Latin America,2022,27,94
+opovo.com.br,Brazil,Latin America,2023,22,102
+opovo.com.br,Brazil,Latin America,2024,12,93
+opovo.com.br,Brazil,Latin America,2025,28,148
+perfil.com,Argentina,Latin America,2021,116,385
+perfil.com,Argentina,Latin America,2022,96,342
+perfil.com,Argentina,Latin America,2023,109,367
+perfil.com,Argentina,Latin America,2024,74,214
+perfil.com,Argentina,Latin America,2025,61,249
 philstar.com,Philippines,Asia,2021,180,588
 philstar.com,Philippines,Asia,2022,190,804
 philstar.com,Philippines,Asia,2023,42,262
@@ -918,26 +918,26 @@ pluska.sk,Slovakia,Europe,2025,0,4
 politiken.dk,Denmark,Europe,2022,0,1
 politiken.dk,Denmark,Europe,2024,0,2
 politiken.dk,Denmark,Europe,2025,0,1
-portafolio.co,Colombia,Americas,2021,43,336
-portafolio.co,Colombia,Americas,2022,44,454
-portafolio.co,Colombia,Americas,2023,71,528
-portafolio.co,Colombia,Americas,2024,80,677
-portafolio.co,Colombia,Americas,2025,58,370
-postcourier.com.pg,Papua New Guinea,Oceania,2022,1,1
-postcourier.com.pg,Papua New Guinea,Oceania,2023,19,95
-postcourier.com.pg,Papua New Guinea,Oceania,2024,63,428
-postcourier.com.pg,Papua New Guinea,Oceania,2025,20,217
+portafolio.co,Colombia,Latin America,2021,43,336
+portafolio.co,Colombia,Latin America,2022,44,454
+portafolio.co,Colombia,Latin America,2023,71,528
+portafolio.co,Colombia,Latin America,2024,80,677
+portafolio.co,Colombia,Latin America,2025,58,370
+postcourier.com.pg,Papua New Guinea,SIDS,2022,1,1
+postcourier.com.pg,Papua New Guinea,SIDS,2023,19,95
+postcourier.com.pg,Papua New Guinea,SIDS,2024,63,428
+postcourier.com.pg,Papua New Guinea,SIDS,2025,20,217
 prothomalo.com,Bangladesh,Asia,2021,61,291
 prothomalo.com,Bangladesh,Asia,2022,54,252
 prothomalo.com,Bangladesh,Asia,2023,38,184
 prothomalo.com,Bangladesh,Asia,2024,56,319
 prothomalo.com,Bangladesh,Asia,2025,53,288
 publico.pt,Portugal,Europe,2022,1,2
-publimetro.cl,Chile,Americas,2021,9,68
-publimetro.cl,Chile,Americas,2022,8,38
-publimetro.cl,Chile,Americas,2023,11,59
-publimetro.cl,Chile,Americas,2024,2,14
-publimetro.cl,Chile,Americas,2025,1,4
+publimetro.cl,Chile,Latin America,2021,9,68
+publimetro.cl,Chile,Latin America,2022,8,38
+publimetro.cl,Chile,Latin America,2023,11,59
+publimetro.cl,Chile,Latin America,2024,2,14
+publimetro.cl,Chile,Latin America,2025,1,4
 punchng.com,Nigeria,Africa,2021,104,318
 punchng.com,Nigeria,Africa,2022,112,357
 punchng.com,Nigeria,Africa,2023,153,513
@@ -978,9 +978,9 @@ se.pl,Poland,Europe,2022,1,10
 se.pl,Poland,Europe,2023,1,19
 se.pl,Poland,Europe,2024,2,21
 se.pl,Poland,Europe,2025,0,22
-seattletimes.com,United States,Americas,2023,41,163
-seattletimes.com,United States,Americas,2024,526,1651
-seattletimes.com,United States,Americas,2025,363,1191
+seattletimes.com,United States,Northern America,2023,41,163
+seattletimes.com,United States,Northern America,2024,526,1651
+seattletimes.com,United States,Northern America,2025,363,1191
 segabg.com,Bulgaria,Europe,2021,7,39
 segabg.com,Bulgaria,Europe,2022,5,35
 segabg.com,Bulgaria,Europe,2023,17,75
@@ -1009,11 +1009,11 @@ sozcu.com.tr,Turkey,Asia,2022,151,592
 sozcu.com.tr,Turkey,Asia,2023,181,676
 sozcu.com.tr,Turkey,Asia,2024,144,565
 sozcu.com.tr,Turkey,Asia,2025,190,798
-stabroeknews.com,Guyana,Americas,2021,3,28
-stabroeknews.com,Guyana,Americas,2022,1,23
-stabroeknews.com,Guyana,Americas,2023,3,20
-stabroeknews.com,Guyana,Americas,2024,6,12
-stabroeknews.com,Guyana,Americas,2025,2,9
+stabroeknews.com,Guyana,SIDS,2021,3,28
+stabroeknews.com,Guyana,SIDS,2022,1,23
+stabroeknews.com,Guyana,SIDS,2023,3,20
+stabroeknews.com,Guyana,SIDS,2024,6,12
+stabroeknews.com,Guyana,SIDS,2025,2,9
 standaard.be,Belgium,Europe,2021,29,195
 standaard.be,Belgium,Europe,2022,14,114
 standaard.be,Belgium,Europe,2023,14,155
@@ -1094,11 +1094,11 @@ theeastafrican.co.ke,Kenya,Africa,2022,63,134
 theeastafrican.co.ke,Kenya,Africa,2023,78,207
 theeastafrican.co.ke,Kenya,Africa,2024,44,115
 theeastafrican.co.ke,Kenya,Africa,2025,24,99
-theglobeandmail.com,Canada,Americas,2021,421,1835
-theglobeandmail.com,Canada,Americas,2022,376,1711
-theglobeandmail.com,Canada,Americas,2023,404,1976
-theglobeandmail.com,Canada,Americas,2024,307,1522
-theglobeandmail.com,Canada,Americas,2025,199,848
+theglobeandmail.com,Canada,Northern America,2021,421,1835
+theglobeandmail.com,Canada,Northern America,2022,376,1711
+theglobeandmail.com,Canada,Northern America,2023,404,1976
+theglobeandmail.com,Canada,Northern America,2024,307,1522
+theglobeandmail.com,Canada,Northern America,2025,199,848
 theguardian.com,United Kingdom,Europe,2021,1318,4685
 theguardian.com,United Kingdom,Europe,2022,1143,4351
 theguardian.com,United Kingdom,Europe,2023,1042,4187
@@ -1125,11 +1125,11 @@ thenews.com.pk,Pakistan,Asia,2023,471,1420
 thenews.com.pk,Pakistan,Asia,2024,507,1496
 thenews.com.pk,Pakistan,Asia,2025,415,1236
 thepostnpcameroon.com,Cameroon,Africa,2025,1,7
-thestar.com,Canada,Americas,2021,645,2386
-thestar.com,Canada,Americas,2022,546,1980
-thestar.com,Canada,Americas,2023,475,1750
-thestar.com,Canada,Americas,2024,670,1965
-thestar.com,Canada,Americas,2025,548,1908
+thestar.com,Canada,Northern America,2021,645,2386
+thestar.com,Canada,Northern America,2022,546,1980
+thestar.com,Canada,Northern America,2023,475,1750
+thestar.com,Canada,Northern America,2024,670,1965
+thestar.com,Canada,Northern America,2025,548,1908
 thestar.com.my,Malaysia,Asia,2021,9,151
 thestar.com.my,Malaysia,Asia,2022,8,56
 thestar.com.my,Malaysia,Asia,2023,3,13
@@ -1144,23 +1144,23 @@ thisdaylive.com,Nigeria,Africa,2022,136,487
 thisdaylive.com,Nigeria,Africa,2023,111,518
 thisdaylive.com,Nigeria,Africa,2024,112,558
 thisdaylive.com,Nigeria,Africa,2025,107,541
-tiempo.hn,Honduras,Americas,2021,34,77
-tiempo.hn,Honduras,Americas,2022,17,56
-tiempo.hn,Honduras,Americas,2023,55,115
-tiempo.hn,Honduras,Americas,2024,48,112
-tiempo.hn,Honduras,Americas,2025,22,77
+tiempo.hn,Honduras,Latin America,2021,34,77
+tiempo.hn,Honduras,Latin America,2022,17,56
+tiempo.hn,Honduras,Latin America,2023,55,115
+tiempo.hn,Honduras,Latin America,2024,48,112
+tiempo.hn,Honduras,Latin America,2025,22,77
 tienphong.vn,Vietnam,Asia,2021,4,16
 timeslive.co.za,South Africa,Africa,2021,44,239
 timeslive.co.za,South Africa,Africa,2022,39,174
 timeslive.co.za,South Africa,Africa,2023,27,153
 timeslive.co.za,South Africa,Africa,2024,47,239
 timeslive.co.za,South Africa,Africa,2025,56,232
-tnp.sg,Singapore,Asia,2021,0,1
-todayonline.com,Singapore,Asia,2021,17,118
-todayonline.com,Singapore,Asia,2022,27,164
-todayonline.com,Singapore,Asia,2023,29,115
-todayonline.com,Singapore,Asia,2024,30,102
-todayonline.com,Singapore,Asia,2025,7,43
+tnp.sg,Singapore,SIDS,2021,0,1
+todayonline.com,Singapore,SIDS,2021,17,118
+todayonline.com,Singapore,SIDS,2022,27,164
+todayonline.com,Singapore,SIDS,2023,29,115
+todayonline.com,Singapore,SIDS,2024,30,102
+todayonline.com,Singapore,SIDS,2025,7,43
 topick.hket.com,Hong Kong,Asia,2021,12,92
 topick.hket.com,Hong Kong,Asia,2022,17,95
 topick.hket.com,Hong Kong,Asia,2023,23,113
@@ -1185,13 +1185,13 @@ udn.com,Taiwan,Asia,2022,521,5793
 udn.com,Taiwan,Asia,2023,657,7482
 udn.com,Taiwan,Asia,2024,669,7762
 udn.com,Taiwan,Asia,2025,631,5625
-valor.com.br,Brazil,Americas,2024,15,122
-valor.com.br,Brazil,Americas,2025,1,28
-vancouversun.com,Canada,Americas,2021,23,240
-vancouversun.com,Canada,Americas,2022,69,310
-vancouversun.com,Canada,Americas,2023,53,376
-vancouversun.com,Canada,Americas,2024,37,218
-vancouversun.com,Canada,Americas,2025,14,92
+valor.com.br,Brazil,Latin America,2024,15,122
+valor.com.br,Brazil,Latin America,2025,1,28
+vancouversun.com,Canada,Northern America,2021,23,240
+vancouversun.com,Canada,Northern America,2022,69,310
+vancouversun.com,Canada,Northern America,2023,53,376
+vancouversun.com,Canada,Northern America,2024,37,218
+vancouversun.com,Canada,Northern America,2025,14,92
 vanguardngr.com,Nigeria,Africa,2021,47,122
 vanguardngr.com,Nigeria,Africa,2023,0,1
 vanguardngr.com,Nigeria,Africa,2024,98,237
@@ -1217,11 +1217,11 @@ volkskrant.nl,Netherlands,Europe,2022,143,585
 volkskrant.nl,Netherlands,Europe,2023,48,255
 volkskrant.nl,Netherlands,Europe,2024,57,267
 volkskrant.nl,Netherlands,Europe,2025,83,378
-washingtonpost.com,United States,Americas,2021,142,990
-washingtonpost.com,United States,Americas,2022,341,1482
-washingtonpost.com,United States,Americas,2023,330,1348
-washingtonpost.com,United States,Americas,2024,214,752
-washingtonpost.com,United States,Americas,2025,134,438
+washingtonpost.com,United States,Northern America,2021,142,990
+washingtonpost.com,United States,Northern America,2022,341,1482
+washingtonpost.com,United States,Northern America,2023,330,1348
+washingtonpost.com,United States,Northern America,2024,214,752
+washingtonpost.com,United States,Northern America,2025,134,438
 welt.de,Germany,Europe,2021,227,2215
 welt.de,Germany,Europe,2022,249,2007
 welt.de,Germany,Europe,2023,243,2874
@@ -1232,11 +1232,11 @@ wenweipo.com,Hong Kong,Asia,2022,53,274
 wenweipo.com,Hong Kong,Asia,2023,32,253
 wenweipo.com,Hong Kong,Asia,2024,45,384
 wenweipo.com,Hong Kong,Asia,2025,54,365
-wsj.com,United States,Americas,2021,163,1394
-wsj.com,United States,Americas,2022,56,856
-wsj.com,United States,Americas,2023,134,1513
-wsj.com,United States,Americas,2024,4,54
-wsj.com,United States,Americas,2025,1,32
+wsj.com,United States,Northern America,2021,163,1394
+wsj.com,United States,Northern America,2022,56,856
+wsj.com,United States,Northern America,2023,134,1513
+wsj.com,United States,Northern America,2024,4,54
+wsj.com,United States,Northern America,2025,1,32
 ycwb.com,China,Asia,2025,0,1
 ynet.co.il,Israel,Asia,2021,23,50
 ynet.co.il,Israel,Asia,2022,8,22
@@ -1247,11 +1247,11 @@ yomiuri.co.jp,Japan,Asia,2022,32,232
 yomiuri.co.jp,Japan,Asia,2023,25,237
 yomiuri.co.jp,Japan,Asia,2024,39,334
 yomiuri.co.jp,Japan,Asia,2025,53,364
-zaobao.com.sg,Singapore,Asia,2021,106,643
-zaobao.com.sg,Singapore,Asia,2022,93,559
-zaobao.com.sg,Singapore,Asia,2023,118,729
-zaobao.com.sg,Singapore,Asia,2024,152,678
-zaobao.com.sg,Singapore,Asia,2025,103,609
+zaobao.com.sg,Singapore,SIDS,2021,106,643
+zaobao.com.sg,Singapore,SIDS,2022,93,559
+zaobao.com.sg,Singapore,SIDS,2023,118,729
+zaobao.com.sg,Singapore,SIDS,2024,152,678
+zaobao.com.sg,Singapore,SIDS,2025,103,609
 zn.ua,Ukraine,Europe,2021,58,170
 zn.ua,Ukraine,Europe,2022,67,231
 zn.ua,Ukraine,Europe,2023,44,230
