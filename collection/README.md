@@ -6,7 +6,7 @@ Countries were selected using purposive sampling stratified by geographic region
 
 ### Country sample with stratification values
 
-Stratified base sample of 69 countries (filtered from [`data/country_sample_v2.xlsx`](../data/country_sample_v2.xlsx), _Country Sample_ tab, to those that made it into the final collection). The six SIDS — Fiji, Guyana, Jamaica, Maldives, Mauritius, Papua New Guinea — are appended on top of this list to reach the final 75. `In DNR 2025` indicates whether the country was part of the Reuters Institute Digital News Report 2025 base frame (✓) or was added by us (NEW).
+Stratified base sample of 69 countries. The six SIDS — Fiji, Guyana, Jamaica, Maldives, Mauritius, Papua New Guinea — are appended on top of this list to reach the final 75. `In DNR 2025` indicates whether the country was part of the Reuters Institute Digital News Report 2025 base frame (✓) or was added by us (NEW).
 
 | # | Country | Region | Income Group | Population (m) | In DNR 2025 |
 |---|---|---|---|---|---|
